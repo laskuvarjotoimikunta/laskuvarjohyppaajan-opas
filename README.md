@@ -1,4 +1,8 @@
 Laskuvarjohyppääjän opas
 =======
 
-Suomen Ilmailuliiton LaskuvarjotoimikuntaThis file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+## Suomen Ilmailuliiton Laskuvarjotoimikunta
+
+
+Lähetä palautetta: [www.laskuvarjotoimikunta.fi/lomakkeita/opaspalaute](http://www.laskuvarjotoimikunta.fi/lomakkeita/opaspalaute/)
