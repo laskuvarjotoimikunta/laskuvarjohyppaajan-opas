@@ -32,17 +32,15 @@
     * [Varjon avautuminen ja lentokuntoon saattaminen](hyppytapahtuma/varjon-avautuminen.md) 
     * [Ohjaaminen](hyppytapahtuma/ohjaaminen.md)
 
-* [Päävarjon vajaatoiminnot](paavarjon-vajaatoiminnot.md)
-* 
-4.1 Lentää, Täysin kehittynyt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
-ii
-SISÄLTÖ iii
-4.2 Lentää - Selvitä . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
-4.3 Ei lennä . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
-4.4 Varavarjon käyttö . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
-5 Mahdolliset vaaratilanteet 25
-5.1 Vaaratilanteet koneessa ja uloshypyssä . . . . . . . . . . . . . . . . . . . . . . . . 25
-5.2 Sotkeutuminen punoksiin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+* [Päävarjon vajaatoiminnot](paavarjon-vajaatoiminnot/index.md)
+    * [Lentää, Täysin kehittynyt](paavarjon-vajaatoiminnot/lentaa-kehittynyt.md)
+    * [Lentää - Selvitä](paavarjon-vajaatoiminnot/lentaa-selvita.md) 
+    * [Ei lennä](paavarjon-vajaatoiminnot/ei-lenna.md) 
+    * [Varavarjon käyttö](paavarjon-vajaatoiminnot/varavarjo.md) 
+
+* [Mahdolliset vaaratilanteet](vaaratilanteet/index.md)
+    * [Vaaratilanteet koneessa ja uloshypyssä](vaaratilanteet/kone-ja-uloshyppy.md)
+    * [Sotkeutuminen punoksiin](vaaratilanteet/sotkeutuminen.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
 5.3 Apuvarjon aiheuttamat vaaratilanteet . . . . . . . . . . . . . . . . . . . . . . . . . 26
 5.4 Vaaratilanteet varjon varassa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
 5.5 Laskeutuminen epätavallisiin paikkoihin . . . . . . . . . . . . . . . . . . . . . . . 27
