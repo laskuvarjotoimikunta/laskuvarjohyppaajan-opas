@@ -12,25 +12,28 @@
     * [Hyppysuoritukset, PL](alkeiskoulutus/hyppysuoritukset_PL.md) 
     * [Muut suoritukset](alkeiskoulutus/muut-suoritukset.md) 
     * [NOVA-suoritusten aikarajat](alkeiskoulutus/nova-suoritusten-aikarajat.md)
-    * [PL-suoritusten aikarajat] (alkeiskoulutus/pl-suoritusten-aikarajat.md)
+    * [PL-suoritusten aikarajat](alkeiskoulutus/pl-suoritusten-aikarajat.md)
 
 * [Laskuvarjokalusto ja hyppyvarusteet](laskuvarjokalusto/index.md)
-    * [Laskuvarjokokonaisuus](laskuvarjokalusto/laskuvarjokokonaisuus.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-2.2 Reppu-valjasyhdistelmä . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-2.3 Lisälaitteet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
-2.4 Muut hyppytoiminnassa käytettävät varusteet . . . . . . . . . . . . . . . . . . . 6
-2.5 Hyppyvarusteiden käsittely . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
-2.6 3X3 -tarkastus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
-3 Hyppytapahtuma 7
-3.1 Valmistautuminen hyppyyn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
-3.2 Uloshyppy Cessna 206, pakkolaukaisu . . . . . . . . . . . . . . . . . . . . . . . . 7
-3.3 Uloshyppy Streevakone, pakkolaukaisu . . . . . . . . . . . . . . . . . . . . . . . 8
-3.4 Uloshyppy NOVA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
-3.5 Vapaapudotuksen perusteet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
-3.6 Avaaminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
-3.7 Varjon avautuminen ja lentokuntoon saattaminen . . . . . . . . . . . . . . . . . . 13
-3.8 Ohjaaminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
-4 Päävarjon vajaatoiminnot 21
+    * [Laskuvarjokokonaisuus](laskuvarjokalusto/laskuvarjokokonaisuus.md)
+    * [Reppu-valjasyhdistelmä](laskuvarjokalusto/reppu-valjas-yhdistelma.md)
+    * [Lisälaitteet](laskuvarjokalusto/lisalaitteet.md) 
+    * [Muut hyppytoiminnassa käytettävät varusteet](laskuvarjokalusto/muut-varusteet.md) 
+    * [Hyppyvarusteiden käsittely](laskuvarjokalusto/hyppyvarusteiden-kasittely.md)
+    * [3X3 -tarkastus](laskuvarjokalusto/3X3-tarkastus.md) 
+    
+* [Hyppytapahtuma](hyppytapahtuma/index.md)
+    * [Valmistautuminen hyppyyn](hyppytapahtuma/valmistautuminen.md) 
+    * [Uloshyppy Cessna 206, pakkolaukaisu](hyppytapahtuma/uloshyppy-cessna-206.md)
+    * [Uloshyppy Streevakone, pakkolaukaisu](hyppytapahtuma/uloshyppy-streevakone.md)
+    * [Uloshyppy NOVA](hyppytapahtuma/uloshyppy-nova.md) 
+    * [Vapaapudotuksen perusteet](hyppytapahtuma/vapaapudotuksen-perusteet.md)
+    * [Avaaminen](hyppytapahtuma/avaaminen.md) 
+    * [Varjon avautuminen ja lentokuntoon saattaminen](hyppytapahtuma/varjon-avautuminen.md) 
+    * [Ohjaaminen](hyppytapahtuma/ohjaaminen.md)
+
+* [Päävarjon vajaatoiminnot](paavarjon-vajaatoiminnot.md)
+* 
 4.1 Lentää, Täysin kehittynyt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
 ii
 SISÄLTÖ iii
