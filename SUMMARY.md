@@ -20,7 +20,7 @@
     * [Lisälaitteet](laskuvarjokalusto/lisalaitteet.md) 
     * [Muut hyppytoiminnassa käytettävät varusteet](laskuvarjokalusto/muut-varusteet.md) 
     * [Hyppyvarusteiden käsittely](laskuvarjokalusto/hyppyvarusteiden-kasittely.md)
-    * [3X3 -tarkastus](laskuvarjokalusto/3X3-tarkastus.md) 
+    * [3X3-tarkastus](laskuvarjokalusto/3X3-tarkastus.md) 
     
 * [Hyppytapahtuma](hyppytapahtuma/index.md)
     * [Valmistautuminen hyppyyn](hyppytapahtuma/valmistautuminen.md) 
