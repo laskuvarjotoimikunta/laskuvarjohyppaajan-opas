@@ -65,9 +65,9 @@
 
 * [II Peruskoulutus](peruskoulutus/index.md)
     * [Hyppysuoritukset, NOVA](peruskoulutus/hyppysuoritukset-nova.md) 
-    * [Hyppysuoritukset, PL](peruskoulutus/hyppysuoritukset-PL.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
-8.3 Muut suoritukset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
-8.4 Suoritusten aikarajat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+    * [Hyppysuoritukset, PL](peruskoulutus/hyppysuoritukset-PL.md)
+    * [Muut suoritukset](peruskoulutus/muut-suoritukset.md) 
+    * [Suoritusten aikarajat](peruskoulutus/suoritusten-aikarajat.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
 9 Uloshyppytyylit 48
 9.1 Roikkumauloshyppy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
 9.2 Suora uloshyppy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
