@@ -1,23 +1,21 @@
 # Sisältö
 
-* [Tervetuloa taivaalle](tervetuloa-taivaalle.md)
-* [Suomen Ilmailuliitto] (tervetuloa-taivaalle/suomen-ilmailuliitto.md)
+* [Tervetuloa taivaalle](tervetuloa-taivaalle/index.md)
+    * [Suomen Ilmailuliitto](tervetuloa-taivaalle/suomen-ilmailuliitto.md)
+    * [Vakuutusturva](tervetuloa-taivaalle/vakuutusturva.md)
+    * [Terveydentilavaatimukset](tervetuloa-taivaalle/terveydentilavaatimukset.md) 
+    
+* [Laskuvarjohyppykoulutus](laskuvarjohyppykoulutus/index.md)
+    * [Alkeiskurssi – ensimmäinen askel](alkeiskurssi.md) 
+* [I Alkeiskoulutus](alkeiskoulutus/index.md)
+    * [Hyppysuoritukset, NOVA](alkeiskoulutus/hyppysuoritukset_NOVA.md)
+    * [Hyppysuoritukset, PL](alkeiskoulutus/hyppysuoritukset_PL.md) 
+    * [Muut suoritukset](alkeiskoulutus/muut-suoritukset.md) 
+    * [NOVA-suoritusten aikarajat](alkeiskoulutus/nova-suoritusten-aikarajat.md)
+    * [PL-suoritusten aikarajat] (alkeiskoulutus/pl-suoritusten-aikarajat.md)
 
-Tervetuloa Taivaalle x
-Suomen Ilmailuliitto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . x
-Vakuutusturva . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . xi
-Terveydentilavaatimukset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . xi
-Laskuvarjohyppykoulutus xii
-Alkeiskurssi - ensimmäinen askel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . xii
-I Alkeiskoulutus 1
-1 Yhteenveto: Alkeiskoulutus 2
-1.1 Hyppysuoritukset, NOVA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-1.2 Hyppysuoritukset, PL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-1.3 Muut suoritukset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-1.4 NOVA-suoritusten aikarajat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-1.5 PL-suoritusten aikarajat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-2 Laskuvarjokalusto ja hyppyvarusteet 3
-2.1 Laskuvarjokokonaisuus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+* [Laskuvarjokalusto ja hyppyvarusteet](laskuvarjokalusto/index.md)
+    * [Laskuvarjokokonaisuus](laskuvarjokalusto/laskuvarjokokonaisuus.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
 2.2 Reppu-valjasyhdistelmä . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
 2.3 Lisälaitteet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
 2.4 Muut hyppytoiminnassa käytettävät varusteet . . . . . . . . . . . . . . . . . . . 6
