@@ -40,30 +40,32 @@
 
 * [Mahdolliset vaaratilanteet](vaaratilanteet/index.md)
     * [Vaaratilanteet koneessa ja uloshypyssä](vaaratilanteet/kone-ja-uloshyppy.md)
-    * [Sotkeutuminen punoksiin](vaaratilanteet/sotkeutuminen.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
-5.3 Apuvarjon aiheuttamat vaaratilanteet . . . . . . . . . . . . . . . . . . . . . . . . . 26
-5.4 Vaaratilanteet varjon varassa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
-5.5 Laskeutuminen epätavallisiin paikkoihin . . . . . . . . . . . . . . . . . . . . . . . 27
-6 NOVA-Alkeiskoulutuksen suoritukset 29
-6.1 Vapaapudotus NOVA-hypyillä . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
-6.2 Taso 1 - Tottuminen vapaapudotukseen . . . . . . . . . . . . . . . . . . . . . . . . 30
-6.3 Taso 2 - Asennon hallinta . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
-6.4 Taso 3 - Stabiili vapaapudotus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
-6.5 Taso 4 - Käännökset 90° . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
-6.6 Taso 5 - Käännökset 360° . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
-6.7 Taso 6 - Irtiuloshyppy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
-6.8 Taso 7 - Puolisarja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
-6.9 15” - Lyhyt vapaa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
-7 PL-Alkeiskoulutuksen suoritukset 39
-7.1 Pakkolaukaisu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
-7.2 Harjoitusveto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
-7.3 Itseaukaisu 3” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
-7.4 Itseaukaisu 5” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
-7.5 10” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
-II Peruskoulutus 46
-8 Yhteenveto: Peruskoulutus 47
-8.1 Hyppysuoritukset, NOVA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
-8.2 Hyppysuoritukset, PL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+    * [Sotkeutuminen punoksiin](vaaratilanteet/sotkeutuminen.md) 
+    * [Apuvarjon aiheuttamat vaaratilanteet](vaaratilanteet/apuvarjo.md)
+    * [Vaaratilanteet varjon varassa](vaaratilanteet/varjon-varassa.md)
+    * [Laskeutuminen epätavallisiin paikkoihin](vaaratilanteet/laskeutuminen.md)
+
+* [NOVA-Alkeiskoulutuksen suoritukset](nova-alkeiskoulutus/index.md)
+    * [Vapaapudotus NOVA-hypyillä](nova-alkeiskoulutus/vapaapudotus.md)
+    * [Taso 1 - Tottuminen vapaapudotukseen](nova-alkeiskoulutus/taso-1.md)
+    * [Taso 2 - Asennon hallinta](nova-alkeiskoulutus/taso-2.md) 
+    * [Taso 3 - Stabiili vapaapudotus](nova-alkeiskoulutus/taso-3.md) 
+    * [Taso 4 - Käännökset 90°](nova-alkeiskoulutus/taso-4_kaannokset-90.md) 
+    * [Taso 5 - Käännökset 360°](nova-alkeiskoulutus/taso-5_kaannokset-360.md)
+    * [Taso 6 - Irtiuloshyppy](nova-alkeiskoulutus/taso-6.md) 
+    * [Taso 7 - Puolisarja](nova-alkeiskoulutus/taso-7.md) 
+    * [15” - Lyhyt vapaa](nova-alkeiskoulutus/lyhyt-vapaa.md) 
+
+* [PL-Alkeiskoulutuksen suoritukset](PL-alkeiskoulutus/index.md)
+    * [Pakkolaukaisu](PL-alkeiskoulutus/pakkolaukaisu.md)
+    * [Harjoitusveto](PL-alkeiskoulutus/harjoitusveto.md) 
+    * [Itseaukaisu 3”](PL-alkeiskoulutus/itseaukaisu-3-sek.md) 
+    * [Itseaukaisu 5”](PL-alkeiskoulutus/itseaukaisu-5-sek.md)
+    * [Itseaukaisu 10”](PL-alkeiskoulutus/itseaukaisu-10-sek.md)
+
+* [II Peruskoulutus](peruskoulutus/index.md)
+    * [Hyppysuoritukset, NOVA](peruskoulutus/hyppysuoritukset-nova.md) 
+    * [Hyppysuoritukset, PL](peruskoulutus/hyppysuoritukset-PL.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
 8.3 Muut suoritukset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
 8.4 Suoritusten aikarajat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
 9 Uloshyppytyylit 48
