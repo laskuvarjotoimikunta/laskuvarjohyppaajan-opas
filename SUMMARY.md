@@ -63,25 +63,26 @@
     * [Itseaukaisu 5”](PL-alkeiskoulutus/itseaukaisu-5-sek.md)
     * [Itseaukaisu 10”](PL-alkeiskoulutus/itseaukaisu-10-sek.md)
 
-* [II Peruskoulutus](peruskoulutus/index.md)
+* [II Peruskoulutus – yhteenveto](peruskoulutus/index.md)
     * [Hyppysuoritukset, NOVA](peruskoulutus/hyppysuoritukset-nova.md) 
     * [Hyppysuoritukset, PL](peruskoulutus/hyppysuoritukset-PL.md)
     * [Muut suoritukset](peruskoulutus/muut-suoritukset.md) 
-    * [Suoritusten aikarajat](peruskoulutus/suoritusten-aikarajat.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
-9 Uloshyppytyylit 48
-9.1 Roikkumauloshyppy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
-9.2 Suora uloshyppy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
-9.3 Sukellusuloshyppy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
-9.4 Ryhmäuloshyppy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
-9.5 Muut uloshypyt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
-9.6 Harjoitus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
-10 Perusliikkeet vapaassa 51
-10.1 Perusasento . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
-10.2 Käännös . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
-10.3 Selkälento . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
-iv SISÄLTÖ
-10.4 Takavoltti . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
-10.5 Tynnyri . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+    * [Suoritusten aikarajat](peruskoulutus/suoritusten-aikarajat.md) 
+
+* [Uloshyppytyylit](uloshyppytyylit/index.md)
+    * [Roikkumauloshyppy](uloshyppytyylit/roikkumauloshyppy.md) 
+    * [Suora uloshyppy](uloshyppytyylit/suora.md)
+    * [Sukellusuloshyppy](uloshyppytyylit/sukellus.md)
+    * [Ryhmäuloshyppy](uloshyppytyylit/ryhmä.md) 
+    * [Muut uloshypyt](uloshyppytyylit/muut.md) 
+    * [Harjoitus](uloshyppytyylit/harjoitus.md) 
+
+* [Perusliikkeet vapaassa](vapaapudotus/index.md)
+    * [Perusasento](vapaapudotus/perusasento.md) 
+    * [Käännös](vapaapudotus/kaannos.md) 
+    * [Selkälento](vapaapudotus/selkalento.md)
+    * [Takavoltti](vapaapudotus/takavoltti.md)
+    * [Tynnyri](vapaapudotus/tynnyri.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
 10.6 Liuku . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
 10.7 Vaaratilanteet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
 11 Sääoppi 55
