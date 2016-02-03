@@ -84,7 +84,7 @@
     * [Takavoltti](vapaapudotus/takavoltti.md)
     * [Tynnyri](vapaapudotus/tynnyri.md) 
     * [Liuku](vapaapudotus/liuku.md)
-    * [Vaaratilanteet](vapaapudotus/vaaratilanteet.md] 
+    * [Vaaratilanteet](vapaapudotus/vaaratilanteet.md) 
 
 * [Sääoppi](saaoppi/index.md) 
     * [Tuuli](saaoppi/tuuli.md) 
@@ -104,27 +104,30 @@
     * [Uloshyppyjärjestys](uloshyppypaikka/jarjestys.md) 
     * [Streamer](uloshyppypaikka/streamer.md) 
 
-* [Varusteiden tarkastus](varusteiden-tarkastus/index.md) 65
-13.1 Varusteiden valinta . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
-13.2 Maassa ennen koneen lastaamista . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
-13.3 Ennen uloshyppyä . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
-13.4 Harjoitus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
-14 NOVA-Peruskoulutuksen suoritukset 68
-14.1 8” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
-14.2 5” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
-15 PL-Peruskoulutuksen suoritukset 70
-15.1 15” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
-15.2 Suora uloshyppy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
-15.3 Sukellusuloshyppy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
-15.4 360° käännökset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
-15.5 Tynnyri ja takavoltti . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
-16 Peruskoulutuksen muut suoritukset 75
-16.1 Selkälento . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
-16.2 Liuku . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
-16.3 FS-liuku . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
-III Jatkokoulutus 78
-17 Yhteenveto: Jatkokoulutus 79
-17.1 Hyppysuoritukset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+* [Varusteiden tarkastus](varusteiden-tarkastus/index.md) 
+    * [Varusteiden valinta](varusteiden-tarkastus/valinta.md)
+    * [Maassa ennen koneen lastaamista](varusteiden-tarkastus/maassa.md) 
+    * [Ennen uloshyppyä](varusteiden-tarkastus/ennen-uloshyppya.md) 
+    * [Harjoitus](varusteiden-tarkastus/harjoitus.md) 
+
+* [NOVA-peruskoulutuksen suoritukset](nova-peruskoulutus/index.md) 
+    * [8”](nova-peruskoulutus/8-sekuntia.md)
+    * [5”](nova-peruskoulutus/5-sekuntia.md) 
+    
+* [PL-peruskoulutuksen suoritukset](pl-peruskoulutus/index.md) 
+    * [15”](pl-peruskoulutus/15-sekuntia.md)
+    * [Suora uloshyppy](pl-peruskoulutus/suora-uh.md) 
+    * [Sukellusuloshyppy](pl-peruskoulutus/sukellus.md) 
+    * [360° käännökset](pl-peruskoulutus/kaannos-360.md) 
+    * [Tynnyri ja takavoltti](pl-peruskoulutus/tynnyri-takavoltti.md) 
+
+* [Peruskoulutuksen muut suoritukset](peruskoulutus-muut/index.md) 
+    * [Selkälento](peruskoulutus-muut/selkalento.md)
+    * [Liuku](peruskoulutus-muut/liuku.md) 
+    * [FS-liuku](peruskoulutus-muut/fs-liuku.md) 
+
+* [III Jatkokoulutus](jatkokoulutus/index.md)
+    *  [Hyppysuoritukset](jatkokoulutus/hyppysuoritukset.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
 SISÄLTÖ v
 17.2 Muut suoritukset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
 17.3 Suoritusten aikarajat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
