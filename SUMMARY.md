@@ -82,26 +82,29 @@
     * [Käännös](vapaapudotus/kaannos.md) 
     * [Selkälento](vapaapudotus/selkalento.md)
     * [Takavoltti](vapaapudotus/takavoltti.md)
-    * [Tynnyri](vapaapudotus/tynnyri.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
-10.6 Liuku . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
-10.7 Vaaratilanteet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
-11 Sääoppi 55
-11.1 Tuuli . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
-11.2 Pilvet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
-11.3 Termiikki . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
-11.4 Turbulenssi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
-11.5 Lämpötila . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
-11.6 Käytännössä . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
-11.7 METAR-sanomat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
-11.8 GAFOR-sanomat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
-11.9 Harjoitus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
-12 Uloshyppypaikan määritys 61
-12.1 Ajautuminen tuulen mukana . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
-12.2 Linjan määritys . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
-12.3 Hyppääminen määritetyssä paikassa . . . . . . . . . . . . . . . . . . . . . . . . . . 63
-12.4 Uloshyppyjärjestys . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
-12.5 Streamer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
-13 Varusteiden tarkastus 65
+    * [Tynnyri](vapaapudotus/tynnyri.md) 
+    * [Liuku](vapaapudotus/liuku.md)
+    * [Vaaratilanteet](vapaapudotus/vaaratilanteet.md] 
+
+* [Sääoppi](saaoppi/index.md) 
+    * [Tuuli](saaoppi/tuuli.md) 
+    * [Pilvet](saaoppi/pilvet.md) 
+    * [Termiikki](saaoppi/termiikki.md) 
+    * [Turbulenssi](saaoppi/turbulenssi.md) 
+    * [Lämpötila](saaoppi/lampotila.md) 
+    * [Käytännössä](saaoppi/kaytannossa.md) 
+    * [METAR-sanomat](saaoppi/metar-sanomat.md)
+    * [GAFOR-sanomat](saaoppi/gafor-sanomat.md) 
+    * [Harjoitus](saaoppi/harjoitus.md) 
+
+* [Uloshyppypaikan määritys](uloshyppypaikka/index.md) 
+    * [Ajautuminen tuulen mukana](uloshyppypaikka/ajautuminen.md) 
+    * [Linjan määritys](uloshyppypaikka/linjan-maaritys.md) 
+    * [Hyppääminen määritetyssä paikassa](uloshyppypaikka/paikan-maaritys.md) 
+    * [Uloshyppyjärjestys](uloshyppypaikka/jarjestys.md) 
+    * [Streamer](uloshyppypaikka/streamer.md) 
+
+* [Varusteiden tarkastus](varusteiden-tarkastus/index.md) 65
 13.1 Varusteiden valinta . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
 13.2 Maassa ennen koneen lastaamista . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
 13.3 Ennen uloshyppyä . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
