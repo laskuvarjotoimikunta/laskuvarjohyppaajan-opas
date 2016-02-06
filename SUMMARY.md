@@ -138,18 +138,20 @@
     * [Liikkuminen vaakatasossa](FS/liikkuminen-vaakatasossa.md) 
     * [Liikkuminen alas- ja ylöspäin](FS/liikkuminen-pystytasossa.md) 
     * [Käännökset](FS/kaannokset.md) 
-    * [Liikkuminen sivuttain](FS/liikkuminen-sivuttain.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
-18.8 Otteiden ottaminen ja kuviossa lentäminen . . . . . . . . . . . . . . . . . . . . . 81
-18.9 Hyppyohjelma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
-19 Free-hyppääminen 85
-19.1 Sittis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
-19.2 Stand up . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
-19.3 Palloasento . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
-19.4 Turvallisuus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
-19.5 Hyppyohjelma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
-20 Kuvunkäsittely oppilaana 87
-20.1 Tarkkuushyppy oppilassuorituksena . . . . . . . . . . . . . . . . . . . . . . . . . 87
-20.2 Kuvunkäsittelyhypyt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+    * [Liikkuminen sivuttain](FS/liikkuminen-sivuttain.md) 
+    * [Otteiden ottaminen ja kuviossa lentäminen](FS/otteet.md) 
+    * [Hyppyohjelma](FS/hyppyohjelma.md) 
+
+* [Free-hyppääminen](free/index.md)
+    * [Sittis](free/sittis.md) 
+    * [Stand up](free/stand-up.md) 
+    * [Palloasento](free/palloasento.md) 
+    * [Turvallisuus](free/turvallisuus.md) 
+    * [Hyppyohjelma](free/hyppyohjelma.md)
+
+* [Kuvunkäsittely oppilaana](Kuvunkasittely/index.md)
+    * [Tarkkuushyppy oppilassuorituksena](kuvunkasittely/tarkkuus.md) 
+    * [Kuvunkäsittelyhypyt](kuvunkasittely/hypyt.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
 21 Omiin varusteisiin siirtyminen 91
 21.1 Laskuvarjoja koskevat kokemusrajat . . . . . . . . . . . . . . . . . . . . . . . . . 91
 21.2 Muut varusteet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
