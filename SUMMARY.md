@@ -198,12 +198,13 @@
 * [Riskitekijät, toiminta onnettomuustilanteessa ja ensiapu](riskitekijat/index.md) 
     * [Laskuvarjohyppäämiseen liittyvät riskitekijät](riskitekijat/toiminnassa.md)
     * [Toiminta onnettomuustilanteissa](riskitekijat/onnettomuudet.md) 
-    * [Ensiapu] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
-28.4 Vaaratilanneilmoitus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118
-28.5 Harjoitus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118
-29 Jatkokoulutuksen suoritukset 119
-29.1 Ryhmähyppy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
-29.2 Freehyppy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
+    * [Ensiapu](riskitekijat/ensiapu.md) 
+    * [Vaaratilanneilmoitus](riskitekijat/vaaratilanneilmoitus.md) 
+    * [Harjoitus](riskitekijat/harjoitus.md) 
+
+* [Jatkokoulutuksen suoritukset](jatkokoulutus/index.md) 
+    * [Ryhmähyppy](jatkokoulutus/ryhmahyppy.md) 
+    * [Freehyppy](jatkokoulutus/free.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
 29.3 Kuvunkäsittelyhyppy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 121
 29.4 Koehyppy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
 IV FS-opas 124
