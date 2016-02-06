@@ -127,18 +127,18 @@
     * [FS-liuku](peruskoulutus-muut/fs-liuku.md) 
 
 * [III Jatkokoulutus](jatkokoulutus/index.md)
-    *  [Hyppysuoritukset](jatkokoulutus/hyppysuoritukset.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
-SISÄLTÖ v
-17.2 Muut suoritukset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
-17.3 Suoritusten aikarajat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
-18 FS-kuviohyppääminen 80
-18.1 Turvallisuus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
-18.2 Katsekontakti . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
-18.3 Perusasento . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
-18.4 Liikkuminen vaakatasossa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
-18.5 Liikkuminen alas- ja ylöspäin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
-18.6 Käännökset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
-18.7 Liikkuminen sivuttain . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+    *  [Hyppysuoritukset](jatkokoulutus/hyppysuoritukset.md) 
+    *  [Muut suoritukset](jatkokoulutus/muut-suoritukset.md)
+    *  [Suoritusten aikarajat](jatkokoulutus/aikarajat.md) 
+
+* [FS-kuviohyppääminen](FS/index.md) 
+    * [Turvallisuus](FS/turvallisuus.md) 
+    * [Katsekontakti](FS/katsekontakti.md) 
+    * [Perusasento](FS/perusasento.md) 
+    * [Liikkuminen vaakatasossa](FS/liikkuminen-vaakatasossa.md) 
+    * [Liikkuminen alas- ja ylöspäin](FS/liikkuminen-pystytasossa.md) 
+    * [Käännökset](FS/kaannokset.md) 
+    * [Liikkuminen sivuttain](FS/liikkuminen-sivuttain.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
 18.8 Otteiden ottaminen ja kuviossa lentäminen . . . . . . . . . . . . . . . . . . . . . 81
 18.9 Hyppyohjelma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
 19 Free-hyppääminen 85
