@@ -162,31 +162,35 @@
     * [Asiakirjojen tarkastus](kaluston-tarkastus/asiakirjat.md) 
     * [Kuntotarkastus](kaluston-tarkastus/kunto.md) 
     * [Huolto](kaluston-tarkastus/huolto.md) 
-    * [Harjoitus](kaluston-tarkastus/harjoitus.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
-23 Pakkaustarkastus 98
-23.1 I tarkastusvaihe . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 98
-23.2 II tarkastusvaihe . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 99
-23.3 Harjoitus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 99
-24 Määräykset, lait ja ohjeet 100
-24.1 Lait ja asetukset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
-24.2 Ilmailumääräykset ja -tiedotukset . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
-24.3 SIL ry:n ohjeet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
-24.4 Muut . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
-25 Hyppytoiminnan järjestäminen 101
-25.1 Hyppylennon pokanvanhin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
-25.2 Hyppytoiminnan aloitus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
-vi SISÄLTÖ
-25.3 Toiminnan aikana . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
-25.4 Toiminnan lopetus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
-25.5 Harjoitus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103
-26 Erikoishypyt 104
-26.1 Yöhypyt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
-26.2 Vesihypyt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
-26.3 Näytöshypyt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
-26.4 Hyppytapahtumat (boogiet) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106
-26.5 Kilpailut . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107
-26.6 Eri hyppylajit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107
-27 Fysiologia 111
+    * [Harjoitus](kaluston-tarkastus/harjoitus.md) 
+    
+* [Pakkaustarkastus](pakkaustarkastus/index.md) 
+    * [I tarkastusvaihe](pakkaustarkastus/vaihe-1.md) 
+    * [II tarkastusvaihe](pakkaustarkastaus/vaihe-2.md)
+    * [Harjoitus](pakkaustarkastus/harjoitus.md) 
+    
+* [Määräykset, lait ja ohjeet](maaraykset/index.md) 
+    * [Lait ja asetukset](maaraykset/lait.md) 
+    * [Ilmailumääräykset ja -tiedotukset](maaraykset/ilmailu.md) 
+    * [SIL ry:n ohjeet](maaraykset/SIL.md) 
+    * [Muut](maaraykset/muut.md)
+    
+* [Hyppytoiminnan järjestäminen](hyppytoiminta/index.md) 
+    * [Hyppylennon pokanvanhin](hyppytoiminta/pokanvanhin.md) 
+    * [Hyppytoiminnan aloitus](hyppytoiminta/aloitus.md) 
+    * [Toiminnan aikana](hyppytoiminta/toiminnan-aikana.md) 
+    * [Toiminnan lopetus](hyppytoiminta/lopetus.md) 
+    * [Harjoitus](hyppytoiminta/harjoitus.md) 
+    
+* [Erikoishypyt](erikoishypyt/index.md) 
+    * [Yöhypyt](erikoishypyt/yohypyt.md) 
+    * [Vesihypyt](erikoishypyt/vesihypyt.md) 
+    * [Näytöshypyt](erikoishypyt/naytoshypyt.md)  
+    * [Hyppytapahtumat (boogiet)](erikoishypyt/boogiet.md) 
+    * [Kilpailut](erikoishypyt/kilpailut.md) 
+    * [Eri hyppylajit](erikoishypyt/hyppylajit.md) 
+    
+* [Fysiologia](fysiologia/index.md) 111
 27.1 Fyysiset seikat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
 27.2 Lääkkeet, alkoholi ja tupakka . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
 27.3 Olosuhteet ja voimat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
