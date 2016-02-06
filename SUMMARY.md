@@ -190,14 +190,15 @@
     * [Kilpailut](erikoishypyt/kilpailut.md) 
     * [Eri hyppylajit](erikoishypyt/hyppylajit.md) 
     
-* [Fysiologia](fysiologia/index.md) 111
-27.1 Fyysiset seikat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
-27.2 Lääkkeet, alkoholi ja tupakka . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
-27.3 Olosuhteet ja voimat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
-28 Riskitekijät, toiminta onnettomuustilanteessa ja ensiapu 114
-28.1 Laskuvarjohyppäämiseen liittyvät riskitekijät . . . . . . . . . . . . . . . . . . . . 114
-28.2 Toiminta onnettomuustilanteissa . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
-28.3 Ensiapu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+* [Fysiologia](fysiologia/index.md) 
+    * [Fyysiset seikat](fysiologia/fyysiset-seikat.md) 
+    * [Lääkkeet, alkoholi ja tupakka](fysiologia/laakkeet.md) 
+    * [Olosuhteet ja voimat](fysiologia/olosuhteet.md) 
+    
+* [Riskitekijät, toiminta onnettomuustilanteessa ja ensiapu](riskitekijat/index.md) 
+    * [Laskuvarjohyppäämiseen liittyvät riskitekijät](riskitekijat/toiminnassa.md)
+    * [Toiminta onnettomuustilanteissa](riskitekijat/onnettomuudet.md) 
+    * [Ensiapu] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
 28.4 Vaaratilanneilmoitus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118
 28.5 Harjoitus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118
 29 Jatkokoulutuksen suoritukset 119
