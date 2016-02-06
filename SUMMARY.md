@@ -151,16 +151,18 @@
 
 * [Kuvunkäsittely oppilaana](Kuvunkasittely/index.md)
     * [Tarkkuushyppy oppilassuorituksena](kuvunkasittely/tarkkuus.md) 
-    * [Kuvunkäsittelyhypyt](kuvunkasittely/hypyt.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
-21 Omiin varusteisiin siirtyminen 91
-21.1 Laskuvarjoja koskevat kokemusrajat . . . . . . . . . . . . . . . . . . . . . . . . . 91
-21.2 Muut varusteet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
-21.3 Harjoitus ja harjoitushypyt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
-22 Kaluston tarkastus ja huolto 95
-22.1 Asiakirjojen tarkastus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95
-22.2 Kuntotarkastus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96
-22.3 Huolto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96
-22.4 Harjoitus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
+    * [Kuvunkäsittelyhypyt](kuvunkasittely/hypyt.md)
+
+* [Omiin varusteisiin siirtyminen](omat-varusteet/index.md) 
+    * [Laskuvarjoja koskevat kokemusrajat](omat-varusteet/kokemusrajat.md) 
+    * [Muut varusteet](omat-varusteet/muut.md) 
+    * [Harjoitus ja harjoitushypyt](omat-varusteet/harjoitus.md) 
+
+* [Kaluston tarkastus ja huolto](kaluston-tarkastus/index.md) 
+    * [Asiakirjojen tarkastus](kaluston-tarkastus/asiakirjat.md) 
+    * [Kuntotarkastus](kaluston-tarkastus/kunto.md) 
+    * [Huolto](kaluston-tarkastus/huolto.md) 
+    * [Harjoitus](kaluston-tarkastus/harjoitus.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
 23 Pakkaustarkastus 98
 23.1 I tarkastusvaihe . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 98
 23.2 II tarkastusvaihe . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 99
