@@ -204,19 +204,21 @@
 
 * [Jatkokoulutuksen suoritukset](jatkokoulutus/index.md) 
     * [Ryhmähyppy](jatkokoulutus/ryhmahyppy.md) 
-    * [Freehyppy](jatkokoulutus/free.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
-29.3 Kuvunkäsittelyhyppy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 121
-29.4 Koehyppy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
-IV FS-opas 124
-30 Yleistä FS-hyppäämisestä 125
-30.1 Lyhyt historia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 125
-31 FS-hyppääjän varusteet 126
-31.1 Haalarit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 126
-31.2 Painot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 126
-31.3 Korkeusmittari . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 126
-31.4 Kypärä . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 126
-31.5 Rullalaudat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 126
-31.6 Muut varusteet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
+    * [Freehyppy](jatkokoulutus/free.md) 
+    * [Kuvunkäsittelyhyppy](jatkokoulutus/kuvunkasittely.md) 
+    * [Koehyppy](jatkokoulutus/koehyppy.md) 
+
+* [IV FS-opas](FS-opas/index.md) 
+    * [Yleistä FS-hyppäämisestä](FS-opas/yleista.md)
+    * [Lyhyt historia](FS-opas/historia.md) 
+    
+* [FS-hyppääjän varusteet](FS-varusteet/index.md) 
+    * [Haalarit](FS-varusteet/haalarit.md) 
+    * [Painot](FS-varusteet/painot.md) 
+    * [Korkeusmittari](FS-varusteet/mittari.md) 
+    * [Kypärä](FS-varusteet/kypara.md) 
+    * [Rullalaudat](FS-varusteet/rullalaudat.md) 
+    * [Muut varusteet](FS-varusteet/muut.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
 32 FS-hyppäämisen perusteet 128
 32.1 Katsekontakti . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
 32.2 Keskipiste . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
