@@ -218,16 +218,17 @@
     * [Korkeusmittari](FS-varusteet/mittari.md) 
     * [Kypärä](FS-varusteet/kypara.md) 
     * [Rullalaudat](FS-varusteet/rullalaudat.md) 
-    * [Muut varusteet](FS-varusteet/muut.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
-32 FS-hyppäämisen perusteet 128
-32.1 Katsekontakti . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
-32.2 Keskipiste . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
-32.3 Otteiden ottaminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
-32.4 Box . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
-32.5 Mantis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
-SISÄLTÖ vii
-32.6 Turvallisuus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 129
-33 Hypyn läpikäyminen maassa 130
+    * [Muut varusteet](FS-varusteet/muut.md) 
+
+* [FS-hyppäämisen perusteet](FS-perusteet/index.md) 
+    * [Katsekontakti](FS-perusteet/katse.md) 
+    * [Keskipiste](FS-perusteet/keskipiste.md) 
+    * [Otteiden ottaminen](FS-perusteet/otteet.md) 
+    * [Box](FS-perusteet/box.md) 
+    * [Mantis](FS-perusteet/mantis.md)
+    * [Turvallisuus](FS-perusteet.md) 
+
+* [Hypyn läpikäyminen maassa] 130
 33.1 Hypyn suunnittelu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
 33.2 Pystykuivat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
 33.3 Uloshyppyharjoittelu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
