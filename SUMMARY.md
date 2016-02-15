@@ -228,7 +228,7 @@
     * [Mantis](FS-perusteet/mantis)
     * [Turvallisuus](FS-perusteet) 
 
-* [Hypyn läpikäyminen maassa] 130
+* [Hypyn läpikäyminen maassa](hypyn-lapikaynti/index) 130
 33.1 Hypyn suunnittelu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
 33.2 Pystykuivat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
 33.3 Uloshyppyharjoittelu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
