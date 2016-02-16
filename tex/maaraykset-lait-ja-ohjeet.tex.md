@@ -21,9 +21,9 @@ koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä.
  Lait ja asetukset  {#maaraykset-lait-ja-ohjeet-lait-ja-asetukset}
 ===================
 
--   Ilmailulaki 22.12.2009/1194
+-   Ilmailulaki 864/2014
 
-<http://www.finlex.fi/fi/laki/alkup/2009/20091194>
+<http://www.finlex.fi/fi/laki/alkup/2014/20140864>
 
  Ilmailumääräykset ja -tiedotukset  {#maaraykset-lait-ja-ohjeet-ilmailumaaraykset-ja-tiedotukset}
 ===================================
