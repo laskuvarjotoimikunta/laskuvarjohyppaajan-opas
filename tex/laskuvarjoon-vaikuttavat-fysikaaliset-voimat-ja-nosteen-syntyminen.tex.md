@@ -4,7 +4,7 @@ sekä etenemisnopeuden. Hyppääjä voi tietyssä määrin hetkellisesti
 vaikuttaa varjoon vaikuttaviin voimiin ja ennen kaikkea niiden suuntaan,
 mutta fysiikan peruslakeja ei hyppääjä (valitettavasti) voi kumota.
 
-![](kuvat/Voimakuvio.jpeg)
+![](/kuvat/Voimakuvio.jpeg)
 
 Kuten aikaisemmin on todettu, laskuvarjoa jarruttava voima on
 **vastus**. Laskuvarjon **kokonaisvastus** (drag) koostuu
