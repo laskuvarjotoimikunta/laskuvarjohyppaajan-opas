@@ -203,8 +203,8 @@
 * [V Freefly-opas](freefly-opas/index)
 * [Freefly - lentoasennot](freefly-lentoasennot/index)
 * [Turvallisuus freehyppäämisessä](turvallisuus-free)
-* [Freefly kilpailulajina]
-* [VI Kuvunkäsittelyopas]
+* [Freefly kilpailulajina](freefly-kilpailulajina/index)
+* [VI Kuvunkäsittelyopas](kuvunkäsi
 * [Varjon ominaisuudet]
 * [Ilmakehän fysikaalisten ominaisuuksien vaikutukset laskuvarjon suorituskykyyn]
 * [Siipikuorma ja varjojen luokittelu]
