@@ -18,7 +18,7 @@
 * [NOVA-peruskoulutuksen suoritukset](nova-peruskoulutus/index.md)
 * [PL-peruskoulutuksen suoritukset](pl-peruskoulutus/index.md)
 * [Peruskoulutuksen muut suoritukset](peruskoulutus-muut/index.md)
-* [III Jatkokoulutus](jatkokoulutus/index)
+* [III Jatkokoulutus](jatkokoulutus/index.md)
 * [FS-kuviohyppääminen](FS/index)
    * [Turvallisuus](FS/turvallisuus)
    * [Katsekontakti](FS/katsekontakti)
