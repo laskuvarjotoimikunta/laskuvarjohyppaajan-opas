@@ -13,7 +13,7 @@
 * [Uloshyppytyylit](uloshyppytyylit/index.md)
 * [Perusliikkeet vapaassa](vapaapudotus/index)
 * [Sääoppi](saaoppi/index)
-* [Uloshyppypaikan määritys](uloshyppypaikka/index)
+* [Uloshyppypaikan määritys](uloshyppypaikka/index.md)
 * [Varusteiden tarkastus](varusteiden-tarkastus/index)
    * [Varusteiden valinta](varusteiden-tarkastus/valinta)
    * [Maassa ennen koneen lastaamista](varusteiden-tarkastus/maassa)
