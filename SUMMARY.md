@@ -2,10 +2,6 @@
 
 * [Introduction](README.md)
 * [Tervetuloa taivaalle](tervetuloa-taivaalle/index)
-   * [Suomen Ilmailuliitto](tervetuloa-taivaalle/suomen-ilmailuliitto)
-   * [Vakuutusturva](tervetuloa-taivaalle/vakuutusturva)
-   * [Terveydentilavaatimukset](tervetuloa-taivaalle/terveydentilavaatimukset)
-   * [Laskuvarjohyppykoulutus](laskuvarjohyppykoulutus/index.md)
 * [I Alkeiskoulutus](alkeiskoulutus/index)
    * [Hyppysuoritukset, NOVA](alkeiskoulutus/hyppysuoritukset_NOVA)
    * [Hyppysuoritukset, PL](alkeiskoulutus/hyppysuoritukset_PL)
