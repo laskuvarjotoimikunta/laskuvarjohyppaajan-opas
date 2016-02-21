@@ -60,43 +60,26 @@ Suomessa on sattunut vuodesta 1962 lähtien 25 kuolemaan johtanutta onnettomuutt
 
 Laskuvarjohyppääjä hyppää aina omalla vastuullaan. Kerholla on kolmannelle osapuolelle aiheutetun vahingon korvaava vastuuvakuutus, joka korvaa vain, jos kerho on syyllistynyt virheeseen. Jos oppilas toimii virheellisesti ja aiheuttaa vahinkoa itselleen tai jollekin muulle, hänen on itse vastattava vahingoista. Liittymällä Suomen Ilmailuliittoon saat vakuutuksen, joka sisältää kolmannen osapuolen vastuuvakuutuksen sekä tapaturmavakuutuksen.
 
-Normaalit vapaa-ajan tapaturmavakuutukset eivät yleensä korvaa laskuvarjohypyllä tapahtunutta
-vahinkoa, koska hyppääminen kuuluu
-vakuutusyhtiöiden vaaralliseksi luokittelemiin
-lajeihin. Mikäli vakuutuksen halutaan korvaavan
-myös laskuvarjohypyillä tapahtuneet onnettomuudet,
-on vakuutukseen otettava lisä-
-suoja. Lisävakuutuksen voi ottaa omalta vakuutusyhtiöltä
-tai hyödyntää Suomen Ilmailuliitto
-ry:n vakuutuksia koskevia etuja. Katso lisätietoja
-vakuutuksien ehdoista ja korvaussummista
-Hyvä hyppykurssilainen -esitteestä. Lisätietoja
-saa myös kouluttajilta ja Ilmailuliiton
-puhelinnumerosta (09) 350 9340. Suosittelemme
-laskuvarjotoiminnan kattavan vakuutuksen
-hankkimista.
-Terveydentilavaatimukset
-Hyppääminen on urheilua ja vaatii fyysistä ja
-henkistä kuntoa sekä normaalia terveyttä. Sairaudet,
-jotka aiheuttavat edes hetkellistä tajuttomuutta
-tai toimintakyvyn menetystä, tai
-vaativat jatkuvaa lääkitystä, estävät hyppää-
-misen. Kurssilla täytetään laskuvarjohyppää-
-jän terveydentilavakuutus. 60 vuotta täyttä-
-neeltä henkilöltä vaaditaan myös lääkärintodistus.
-Koulutusorganisaatio voi tarvittaessa vaatia
-jäseneltään lääkärintodistuksen osoituksena
-hyppäämiseen riittävästä terveydentilasta.
-xii LASKUVARJOHYPPYKOULUTUS
-Laskuvarjohyppykoulutus
-Alkeiskurssi - ensimmäinen askel
-Alkeiskurssi antaa valmiudet suorittaa turvallisesti
-ensimmäisen laskuvarjohypyn sekä pohjan
-perus- ja jatkokoulutukselle. Tiivis koulutusohjelma
-vaatii sinulta aktiivisuutta sekä opetettujen
-asioiden kertaamista. Kuuntele, kysy
-ja selvitä. Ensimmäisen hyppysi suoritat joko
-pakkolaukaisuhyppynä 1000 metristä tai novakoulutuksessa
+Normaalit vapaa-ajan tapaturmavakuutukset eivät yleensä korvaa laskuvarjohypyllä tapahtunutta vahinkoa, koska hyppääminen kuuluu vakuutusyhtiöiden vaaralliseksi luokittelemiin lajeihin. Mikäli vakuutuksen halutaan korvaavan
+myös laskuvarjohypyillä tapahtuneet onnettomuudet, on vakuutukseen otettava lisä-
+suoja. Lisävakuutuksen voi ottaa omalta vakuutusyhtiöltä tai hyödyntää Suomen Ilmailuliitto ry:n vakuutuksia koskevia etuja. Katso lisätietoja
+vakuutuksien ehdoista ja korvaussummista Hyvä hyppykurssilainen -esitteestä. Lisätietoja saa myös kouluttajilta ja Ilmailuliiton
+puhelinnumerosta (09) 350 9340. Suosittelemme laskuvarjotoiminnan kattavan vakuutuksen hankkimista.
+
+## Terveydentilavaatimukset
+Hyppääminen on urheilua ja vaatii fyysistä ja henkistä kuntoa sekä normaalia terveyttä. Sairaudet, jotka aiheuttavat edes hetkellistä tajuttomuutta
+tai toimintakyvyn menetystä, tai vaativat jatkuvaa lääkitystä, estävät hyppää-
+misen. 
+
+Kurssilla täytetään laskuvarjohyppääjän terveydentilavakuutus. 60 vuotta täyttäneeltä henkilöltä vaaditaan myös lääkärintodistus. Koulutusorganisaatio voi tarvittaessa vaatia jäseneltään lääkärintodistuksen osoituksena hyppäämiseen riittävästä terveydentilasta.
+
+# Laskuvarjohyppykoulutus
+
+## Alkeiskurssi – ensimmäinen askel
+Alkeiskurssi antaa valmiudet suorittaa turvallisesti ensimmäisen laskuvarjohypyn sekä pohjan perus- ja jatkokoulutukselle. Tiivis koulutusohjelma vaatii sinulta aktiivisuutta sekä opetettujen asioiden kertaamista. Kuuntele, kysy
+ja selvitä. 
+
+Ensimmäisen hyppysi suoritat joko pakkolaukaisuhyppynä 1000 metristä tai novakoulutuksessa
 itseaukaisuhyppynä 2700-4000
 metrin korkeudesta. Sitä ennen sinun tulee suorittaa
 kirjallinen koe sekä käytännön kokeet
