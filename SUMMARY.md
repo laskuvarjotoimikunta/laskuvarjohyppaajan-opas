@@ -20,7 +20,7 @@
 * [Peruskoulutuksen muut suoritukset](peruskoulutus-muut/index.md)
 * [III Jatkokoulutus](jatkokoulutus/index.md)
 * [FS-kuviohyppääminen](FS/index.md)
-* [Free-hyppääminen](free/index)
+* [Free-hyppääminen](free/index.md)
 * [Kuvunkäsittely oppilaana](Kuvunkasittely/index)
    * [Tarkkuushyppy oppilassuorituksena](kuvunkasittely/tarkkuus)
    * [Kuvunkäsittelyhypyt](kuvunkasittely/hypyt)
