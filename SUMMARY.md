@@ -6,7 +6,6 @@
    * [Vakuutusturva](tervetuloa-taivaalle/vakuutusturva)
    * [Terveydentilavaatimukset](tervetuloa-taivaalle/terveydentilavaatimukset)
 * [Laskuvarjohyppykoulutus](laskuvarjohyppykoulutus/index.md)
-   * [Alkeiskurssi – ensimmäinen askel](alkeiskurssi)
 * [I Alkeiskoulutus](alkeiskoulutus/index)
    * [Hyppysuoritukset, NOVA](alkeiskoulutus/hyppysuoritukset_NOVA)
    * [Hyppysuoritukset, PL](alkeiskoulutus/hyppysuoritukset_PL)
