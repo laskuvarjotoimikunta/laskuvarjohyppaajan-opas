@@ -192,32 +192,30 @@
    * [Mantis](FS-perusteet/mantis)
    * [Turvallisuus](FS-perusteet)
 * [Hypyn läpikäyminen maassa](hypyn-lapikaynti/index)
-* 33 Hypyn läpikäyminen maassa 130
-33.1 Hypyn suunnittelu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
-33.2 Pystykuivat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
-33.3 Uloshyppyharjoittelu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
-33.4 Lautakuivat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
-33.5 Jälkikuivat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131
-34 Vapaapudotusharjoittelu 132
-34.1 2-way -hyppääminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
-34.2 Purkaminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
-34.3 Liuku . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
-35 Mielikuva- eli mentaaliharjoittelu 133
-35.1 Hypyn hahmottaminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
-35.2 Unohtelu eli brainlocking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
-36 4-way joukkuehyppääminen 134
-36.1 Joukkueen kokoaminen ja tavoitteet . . . . . . . . . . . . . . . . . . . . . . . . . . 134
-36.2 Joukkueen jäsenet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 134
-36.3 Valmentaja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 135
-37 Tuoreen lisenssihyppääjän FS-ohjelma 136
-37.1 Tuoreen lisenssihyppääjän FS-ohjelma . . . . . . . . . . . . . . . . . . . . . . . . 136
-38 Suuret muodostelmat 138
-V Freefly-opas 139
-39 Johdanto freehyppäämiseen 140
-39.1 Freefly-hyppääminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
-40 Freefly - lentoasennot 141
-40.1 Kulma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 141
-40.2 Head-up / Sittis (sitfly) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142
+    *[Hypyn suunnittelu](hypyn-lapikaynti/suunnittelu)
+33.2 Pystykuivat 
+33.3 Uloshyppyharjoittelu
+33.4 Lautakuivat
+33.5 Jälkikuivat
+* [Vapaapudotusharjoittelu]
+34.1 2-way -hyppääminen
+34.2 Purkaminen
+34.3 Liuku
+* [Mielikuva- eli mentaaliharjoittelu]
+35.1 Hypyn hahmottaminen
+35.2 Unohtelu eli brainlocking
+36 4-way joukkuehyppääminen
+36.1 Joukkueen kokoaminen ja tavoitteet
+36.2 Joukkueen jäsenet 
+36.3 Valmentaja
+* [Tuoreen lisenssihyppääjän FS-ohjelma]
+* [Suuret muodostelmat]
+* [V Freefly-opas]
+39 Johdanto freehyppäämiseen
+39.1 Freefly-hyppääminen 
+* [Freefly - lentoasennot]
+40.1 Kulma 
+40.2 Head-up / Sittis (sitfly) 
 40.3 Pää alaspäin lentäminen
 * [Turvallisuus freehyppäämisessä]
 41.1 Varusteet 
