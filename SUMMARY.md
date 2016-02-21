@@ -194,9 +194,9 @@
 * [Hypyn läpikäyminen maassa](hypyn-lapikaynti/index)
     * [Hypyn suunnittelu](hypyn-lapikaynti/suunnittelu)
     * [Pystykuivat](hypyn-lapikaynti/kuivat)
-    * Uloshyppyharjoittelu
-33.4 Lautakuivat
-33.5 Jälkikuivat
+    * [Uloshyppyharjoittelu](hypyn-lapikaynti/uloshyppy)
+    * [Lautakuivat](hypyn-lapikaynti/lautakuivat)
+    * [Jälkikuivat](hypyn-lapikaynti/jalkikuivat)
 * [Vapaapudotusharjoittelu]
 34.1 2-way -hyppääminen
 34.2 Purkaminen
