@@ -12,7 +12,7 @@
 * [II Peruskoulutus – yhteenveto](peruskoulutus/index.md)
 * [Uloshyppytyylit](uloshyppytyylit/index.md)
 * [Perusliikkeet vapaassa](vapaapudotus/index)
-* [Sääoppi](saaoppi/index)
+* [Sääoppi](saaoppi/index.md)
    * [Tuuli](saaoppi/tuuli)
    * [Pilvet](saaoppi/pilvet)
    * [Termiikki](saaoppi/termiikki)
