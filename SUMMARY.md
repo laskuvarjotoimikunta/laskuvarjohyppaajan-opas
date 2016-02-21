@@ -29,7 +29,7 @@
 * [Hyppytoiminnan järjestäminen](hyppytoiminta/index.md)
 * [Erikoishypyt](erikoishypyt/index.md)
 * [Fysiologia](fysiologia/index.md)
-* [Riskitekijät, toiminta onnettomuustilanteessa ja ensiapu](riskitekijat/index)
+* [Riskitekijät, toiminta onnettomuustilanteessa ja ensiapu](riskitekijat/index.md)
 * [IV FS-opas](FS-opas/index)
    * [Yleistä FS-hyppäämisestä](FS-opas/yleista)
    * [Lyhyt historia](FS-opas/historia)
