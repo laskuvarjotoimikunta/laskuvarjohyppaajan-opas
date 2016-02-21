@@ -4,7 +4,7 @@
 * [Tervetuloa taivaalle](tervetuloa-taivaalle/index.md)
 * [I Alkeiskoulutus](alkeiskoulutus/index.md)
 * [Laskuvarjokalusto ja hyppyvarusteet](laskuvarjokalusto/index.md)
-* [Hyppytapahtuma](hyppytapahtuma/index)
+* [Hyppytapahtuma](hyppytapahtuma/index.md)
 * [Päävarjon vajaatoiminnot](paavarjon-vajaatoiminnot/index)
    * [Lentää, Täysin kehittynyt](paavarjon-vajaatoiminnot/lentaa-kehittynyt)
    * [Lentää - Selvitä](paavarjon-vajaatoiminnot/lentaa-selvita)
