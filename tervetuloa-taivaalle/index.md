@@ -33,27 +33,19 @@ Vuonna 1919 perustettu Suomen Ilmailuliitto ry (SIL) on eri harrasteilmailulajej
 Organisaatio, joka antaa koulusta, on sitoutunut noudattamaan Ilmailuliiton hyväksymiä ohjeita. Suomen Ilmailuliitossa laskuvarjourheilua koskevien
 asioiden asiantuntijaelin on luottamushenkilöistä koostuva Laskuvarjotoimikunta,
 
-Laskuvarjotoimikunta hoitaa
-kalustoon, kilpailuasioihin, hyppyturvallisuuteen
-ja -koulutukseen liittyviä asioita.
-Laskuvarjotoimikunta komiteoineen koostuu
-VAKUUTUSTURVA xi
-rivihyppääjistä, jotka haluavat edistää harrastusta
-ja sen tarpeita Suomessa. Käytännön
-toimintaa koordinoi liiton toimisto HelsinkiMalmin
-lentoasemalla.
-Ilmailu on ilmailuviranomaisen valvomaa toimintaa.
-Suomen Ilmailuliitto antaa jäsenilleen
-omia ohjeistuksia ja toimii etujärjestönä viranomaisiin
+Laskuvarjotoimikunta hoitaa kalustoon, kilpailuasioihin, hyppyturvallisuuteen
+ja -koulutukseen liittyviä asioita.Laskuvarjotoimikunta koostuu rivihyppääjistä, jotka haluavat edistää harrastusta ja sen tarpeita Suomessa. Käytännön
+toimintaa koordinoi liiton toimisto Helsinki-Malmin lentoasemalla.
+
+Ilmailu on ilmailuviranomaisen valvomaa toimintaa. Suomen Ilmailuliitto antaa jäsenilleen omia ohjeistuksia ja toimii etujärjestönä viranomaisiin
 päin muun muassa
-• Avustamalla asiantuntijana Trafia laskuvarjohyppytoiminnassa
-• Laatimalla laskuvarjourheilua koskevat koulutusohjelmat
-ja tiedottamalla niistä jäsenistölleen
-• Valvomalla jäsenorganisaatioiden koulutustoimintaa
-• Laatimalla laskuvarjohyppytoimintatilastoja
-• Kokoamalla ja analysoimalla onnettomuusja
-vaaratilanneselvityksiä
-• Myöntämällä SIL-laskuvarjohyppylisenssit
+
+* Avustamalla asiantuntijana Trafia laskuvarjohyppytoiminnassa
+* Laatimalla laskuvarjourheilua koskevat koulutusohjelmat ja tiedottamalla niistä jäsenistölleen
+* Valvomalla jäsenorganisaatioiden koulutustoimintaa
+* Laatimalla laskuvarjohyppytoimintatilastoja
+* Kokoamalla ja analysoimalla onnettomuus- ja vaaratilanneselvityksiä
+* Myöntämällä SIL-laskuvarjohyppylisenssit
 • Osallistumalla laskuvarjourheilua koskevien
 määräysten ja ohjeiden valmisteluun
 Ilmailu-lehteä Ilmailuliitto on julkaissut jo vuodesta
