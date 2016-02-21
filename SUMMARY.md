@@ -196,8 +196,8 @@
    * [Uloshyppyharjoittelu](hypyn-lapikaynti/uloshyppy)
    * [Lautakuivat](hypyn-lapikaynti/lautakuivat)
    * [Jälkikuivat](hypyn-lapikaynti/jalkikuivat)
-* [Vapaapudotusharjoittelu]
-* [Mielikuva- eli mentaaliharjoittelu]
+* [Vapaapudotusharjoittelu](vapaapudotusharjoittelu/index)
+* [Mielikuva- eli mentaaliharjoittelu](mentaaliharjoittelu/index)
 * [Tuoreen lisenssihyppääjän FS-ohjelma]
 * [Suuret muodostelmat]
 * [V Freefly-opas]
