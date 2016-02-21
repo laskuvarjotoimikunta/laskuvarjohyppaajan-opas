@@ -28,7 +28,7 @@
 * [Määräykset, lait ja ohjeet](maaraykset/index.md)
 * [Hyppytoiminnan järjestäminen](hyppytoiminta/index.md)
 * [Erikoishypyt](erikoishypyt/index.md)
-* [Fysiologia](fysiologia/index)
+* [Fysiologia](fysiologia/index.md)
 * [Riskitekijät, toiminta onnettomuustilanteessa ja ensiapu](riskitekijat/index)
    * [Laskuvarjohyppäämiseen liittyvät riskitekijät](riskitekijat/toiminnassa)
    * [Toiminta onnettomuustilanteissa](riskitekijat/onnettomuudet)
