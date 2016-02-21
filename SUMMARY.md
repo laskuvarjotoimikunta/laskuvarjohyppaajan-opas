@@ -32,7 +32,7 @@
 * [Riskitekijät, toiminta onnettomuustilanteessa ja ensiapu](riskitekijat/index.md)
 * [Jatkokoulutuksen suoritukset](jatkokoulutus_suoritukset/index.md)
 * [IV FS-opas](FS-opas/index.md)
-* [FS-hyppääjän varusteet](FS-varusteet/index)
+* [FS-hyppääjän varusteet](FS-varusteet/index.md)
 * [FS-hyppäämisen perusteet](FS-perusteet/index)
    * [Katsekontakti](FS-perusteet/katse)
    * [Keskipiste](FS-perusteet/keskipiste)
