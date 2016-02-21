@@ -19,7 +19,7 @@
 * [PL-peruskoulutuksen suoritukset](pl-peruskoulutus/index.md)
 * [Peruskoulutuksen muut suoritukset](peruskoulutus-muut/index.md)
 * [III Jatkokoulutus](jatkokoulutus/index.md)
-* [FS-kuviohyppääminen](FS/index)
+* [FS-kuviohyppääminen](FS/index.md)
 * [Free-hyppääminen](free/index)
    * [Sittis](free/sittis)
    * [Stand up](free/stand-up)
