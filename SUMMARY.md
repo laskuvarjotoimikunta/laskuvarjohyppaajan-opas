@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Tervetuloa taivaalle](tervetuloa-taivaalle/index.md)
-* [I Alkeiskoulutus](alkeiskoulutus/index)
+* [I Alkeiskoulutus](alkeiskoulutus/index.md)
    * [Hyppysuoritukset, NOVA](alkeiskoulutus/hyppysuoritukset_NOVA)
    * [Hyppysuoritukset, PL](alkeiskoulutus/hyppysuoritukset_PL)
    * [Muut suoritukset](alkeiskoulutus/muut-suoritukset)
