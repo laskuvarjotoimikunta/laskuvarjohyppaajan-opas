@@ -31,8 +31,6 @@
 * [Fysiologia](fysiologia/index.md)
 * [Riskitekijät, toiminta onnettomuustilanteessa ja ensiapu](riskitekijat/index.md)
 * [IV FS-opas](FS-opas/index)
-   * [Yleistä FS-hyppäämisestä](FS-opas/yleista)
-   * [Lyhyt historia](FS-opas/historia)
 * [FS-hyppääjän varusteet](FS-varusteet/index)
    * [Haalarit](FS-varusteet/haalarit)
    * [Painot](FS-varusteet/painot)
