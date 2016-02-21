@@ -25,7 +25,7 @@
 * [Omiin varusteisiin siirtyminen](omat-varusteet/index.md)
 * [Kaluston tarkastus ja huolto](kaluston-tarkastus/index.md)
 * [Pakkaustarkastus](pakkaustarkastus/index.md)
-* [Määräykset, lait ja ohjeet](maaraykset/index)
+* [Määräykset, lait ja ohjeet](maaraykset/index.md)
 * [Hyppytoiminnan järjestäminen](hyppytoiminta/index)
    * [Hyppylennon pokanvanhin](hyppytoiminta/pokanvanhin)
    * [Hyppytoiminnan aloitus](hyppytoiminta/aloitus)
