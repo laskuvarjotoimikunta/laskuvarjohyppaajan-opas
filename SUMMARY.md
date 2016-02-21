@@ -30,7 +30,7 @@
 * [Erikoishypyt](erikoishypyt/index.md)
 * [Fysiologia](fysiologia/index.md)
 * [Riskitekijät, toiminta onnettomuustilanteessa ja ensiapu](riskitekijat/index.md)
-* [IV FS-opas](FS-opas/index)
+* [IV FS-opas](FS-opas/index.md)
 * [FS-hyppääjän varusteet](FS-varusteet/index)
    * [Haalarit](FS-varusteet/haalarit)
    * [Painot](FS-varusteet/painot)
