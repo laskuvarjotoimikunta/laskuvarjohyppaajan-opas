@@ -10,7 +10,7 @@
 * [NOVA-Alkeiskoulutuksen suoritukset](nova-alkeiskoulutus/index.md)
 * [PL-Alkeiskoulutuksen suoritukset](PL-alkeiskoulutus/index.md)
 * [II Peruskoulutus – yhteenveto](peruskoulutus/index.md)
-* [Uloshyppytyylit](uloshyppytyylit/index)
+* [Uloshyppytyylit](uloshyppytyylit/index.md)
 * [Perusliikkeet vapaassa](vapaapudotus/index)
    * [Perusasento](vapaapudotus/perusasento)
    * [Käännös](vapaapudotus/kaannos)
