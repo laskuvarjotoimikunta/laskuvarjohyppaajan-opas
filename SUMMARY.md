@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Tervetuloa taivaalle](tervetuloa-taivaalle/index.md)
 * [I Alkeiskoulutus](alkeiskoulutus/index.md)
-* [Laskuvarjokalusto ja hyppyvarusteet](laskuvarjokalusto/index)
+* [Laskuvarjokalusto ja hyppyvarusteet](laskuvarjokalusto/index.md)
 * [Hyppytapahtuma](hyppytapahtuma/index)
    * [Valmistautuminen hyppyyn](hyppytapahtuma/valmistautuminen)
    * [Uloshyppy Cessna 206, pakkolaukaisu](hyppytapahtuma/uloshyppy-cessna-206)
