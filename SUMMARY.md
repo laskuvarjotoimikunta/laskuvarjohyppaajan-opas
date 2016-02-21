@@ -212,6 +212,6 @@
 * [Hyppytapahtuma kuvunkäsittelyhypyillä](kuvunkasittely/index)
 * [Laskeutumistekniikat](laskeutumistekniikat/index)
 * [Laskeutumisvirheet](laskeutumisvirheet/index)
-* [52 Kuvunkäsittelyharjoitukset]
-* [53 Kuvunkäsittely: Loppusana]
+* [Kuvunkäsittelyharjoitukset](kuvunkasittelyharjoitukset/index)
+
 
