@@ -15,7 +15,7 @@
 * [Sääoppi](saaoppi/index)
 * [Uloshyppypaikan määritys](uloshyppypaikka/index.md)
 * [Varusteiden tarkastus](varusteiden-tarkastus/index.md)
-* [NOVA-peruskoulutuksen suoritukset](nova-peruskoulutus/index)
+* [NOVA-peruskoulutuksen suoritukset](nova-peruskoulutus/index.md)
 * [PL-peruskoulutuksen suoritukset](pl-peruskoulutus/index)
    * [15”](pl-peruskoulutus/15-sekuntia)
    * [Suora uloshyppy](pl-peruskoulutus/suora-uh)
