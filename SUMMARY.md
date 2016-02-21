@@ -196,13 +196,13 @@
    * [Uloshyppyharjoittelu](hypyn-lapikaynti/uloshyppy)
    * [Lautakuivat](hypyn-lapikaynti/lautakuivat)
    * [Jälkikuivat](hypyn-lapikaynti/jalkikuivat)
-* [Vapaapudotusharjoittelu]
-* [Mielikuva- eli mentaaliharjoittelu]
-* [Tuoreen lisenssihyppääjän FS-ohjelma]
-* [Suuret muodostelmat]
-* [V Freefly-opas]
-* [Freefly - lentoasennot]
-* [Turvallisuus freehyppäämisessä]
+* [Vapaapudotusharjoittelu](vapaapudotusharjoittelu/index.md)
+* [Mielikuva- eli mentaaliharjoittelu](mentaaliharjoittelu/index)
+* [Tuoreen lisenssihyppääjän FS-ohjelma](FS-ohjelma/index)
+* [Suuret muodostelmat](suuret-muodostelmat/index)
+* [V Freefly-opas](freefly-opas/index)
+* [Freefly - lentoasennot](freefly-lentoasennot/index)
+* [Turvallisuus freehyppäämisessä](turvallisuus-free)
 * [Freefly kilpailulajina]
 * [VI Kuvunkäsittelyopas]
 * [Varjon ominaisuudet]
