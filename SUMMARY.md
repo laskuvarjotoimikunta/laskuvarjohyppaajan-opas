@@ -7,7 +7,7 @@
 * [Hyppytapahtuma](hyppytapahtuma/index.md)
 * [Päävarjon vajaatoiminnot](paavarjon-vajaatoiminnot/index.md)
 * [Mahdolliset vaaratilanteet](vaaratilanteet/index.md)
-* [NOVA-Alkeiskoulutuksen suoritukset](nova-alkeiskoulutus/index)
+* [NOVA-Alkeiskoulutuksen suoritukset](nova-alkeiskoulutus/index.md)
 * [PL-Alkeiskoulutuksen suoritukset](PL-alkeiskoulutus/index)
    * [Pakkolaukaisu](PL-alkeiskoulutus/pakkolaukaisu)
    * [Harjoitusveto](PL-alkeiskoulutus/harjoitusveto)
