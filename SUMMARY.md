@@ -27,7 +27,7 @@
 * [Pakkaustarkastus](pakkaustarkastus/index.md)
 * [Määräykset, lait ja ohjeet](maaraykset/index.md)
 * [Hyppytoiminnan järjestäminen](hyppytoiminta/index.md)
-* [Erikoishypyt](erikoishypyt/index)
+* [Erikoishypyt](erikoishypyt/index.md)
 * [Fysiologia](fysiologia/index)
    * [Fyysiset seikat](fysiologia/fyysiset-seikat)
    * [Lääkkeet, alkoholi ja tupakka](fysiologia/laakkeet)
