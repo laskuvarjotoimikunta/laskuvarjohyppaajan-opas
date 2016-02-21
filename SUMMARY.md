@@ -204,14 +204,14 @@
 * [Freefly - lentoasennot](freefly-lentoasennot/index)
 * [Turvallisuus freehyppäämisessä](turvallisuus-free)
 * [Freefly kilpailulajina](freefly-kilpailulajina/index)
-* [VI Kuvunkäsittelyopas](kuvunkäsi
-* [Varjon ominaisuudet]
-* [Ilmakehän fysikaalisten ominaisuuksien vaikutukset laskuvarjon suorituskykyyn]
-* [Siipikuorma ja varjojen luokittelu]
-* [Varjon valinta]
-* [Hyppytapahtuma kuvunkäsittelyhypyillä]
-* [Laskeutumistekniikat]
-* 51 Laskeutumisvirheet
+* [VI Kuvunkäsittelyopas](kuvunkasittelyopas/index)
+* [Varjon ominaisuudet](varjon-ominaisuudet/index)
+* [Ilmakehän fysikaalisten ominaisuuksien vaikutukset laskuvarjon suorituskykyyn](ilmakeha/index)
+* [Siipikuorma ja varjojen luokittelu](siipikuorma/index)
+* [Varjon valinta](varjon-valinta/index)
+* [Hyppytapahtuma kuvunkäsittelyhypyillä](kuvunkasittely/index)
+* [Laskeutumistekniikat](laskeutumistekniikat/index)
+* [Laskeutumisvirheet](laskeutumisvirheet/index)
 * [52 Kuvunkäsittelyharjoitukset]
 * [53 Kuvunkäsittely: Loppusana]
 
