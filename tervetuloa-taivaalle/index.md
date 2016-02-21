@@ -57,18 +57,10 @@ Vuosittain laskuvarjohyppäämisessä sattuu jonkin verran loukkaantumisia. Tyyp
 vamma on nilkan nyrjähtäminen tai murtuminen huonosti suoritetussa alastulossa. 
 
 Suomessa on sattunut vuodesta 1962 lähtien 25 kuolemaan johtanutta onnettomuutta    (2013). Kokonaishyppymäärä vuodesta 1962 vuoteen 2013 on noin 1 650 000 hyppyä. Vuosittain Suomessa hypätään n. 50 000 hyppyä.
-Laskuvarjohyppääjä hyppää aina omalla vastuullaan.
-Kerholla on kolmannelle osapuolelle
-aiheutetun vahingon korvaava vastuuvakuutus,
-joka korvaa vain, jos kerho on syyllistynyt
-virheeseen. Jos oppilas toimii virheellisesti ja aiheuttaa
-vahinkoa itselleen tai jollekin muulle,
-hänen on itse vastattava vahingoista. Liittymällä
-Suomen Ilmailuliittoon saat vakuutuksen, joka
-sisältää kolmannen osapuolen vastuuvakuutuksen
-sekä tapaturmavakuutuksen.
-Normaalit vapaa-ajan tapaturmavakuutukset
-eivät yleensä korvaa laskuvarjohypyllä tapahtunutta
+
+Laskuvarjohyppääjä hyppää aina omalla vastuullaan. Kerholla on kolmannelle osapuolelle aiheutetun vahingon korvaava vastuuvakuutus, joka korvaa vain, jos kerho on syyllistynyt virheeseen. Jos oppilas toimii virheellisesti ja aiheuttaa vahinkoa itselleen tai jollekin muulle, hänen on itse vastattava vahingoista. Liittymällä Suomen Ilmailuliittoon saat vakuutuksen, joka sisältää kolmannen osapuolen vastuuvakuutuksen sekä tapaturmavakuutuksen.
+
+Normaalit vapaa-ajan tapaturmavakuutukset eivät yleensä korvaa laskuvarjohypyllä tapahtunutta
 vahinkoa, koska hyppääminen kuuluu
 vakuutusyhtiöiden vaaralliseksi luokittelemiin
 lajeihin. Mikäli vakuutuksen halutaan korvaavan
