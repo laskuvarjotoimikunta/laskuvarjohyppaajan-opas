@@ -192,9 +192,9 @@
    * [Mantis](FS-perusteet/mantis)
    * [Turvallisuus](FS-perusteet)
 * [Hypyn läpikäyminen maassa](hypyn-lapikaynti/index)
-    *[Hypyn suunnittelu](hypyn-lapikaynti/suunnittelu)
-33.2 Pystykuivat 
-33.3 Uloshyppyharjoittelu
+    * [Hypyn suunnittelu](hypyn-lapikaynti/suunnittelu)
+    * [Pystykuivat](hypyn-lapikaynti/kuivat)
+    * Uloshyppyharjoittelu
 33.4 Lautakuivat
 33.5 Jälkikuivat
 * [Vapaapudotusharjoittelu]
