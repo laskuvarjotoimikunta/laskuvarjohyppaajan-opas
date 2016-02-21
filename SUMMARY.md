@@ -11,7 +11,7 @@
 * [PL-Alkeiskoulutuksen suoritukset](PL-alkeiskoulutus/index.md)
 * [II Peruskoulutus – yhteenveto](peruskoulutus/index.md)
 * [Uloshyppytyylit](uloshyppytyylit/index.md)
-* [Perusliikkeet vapaassa](vapaapudotus/index)
+* [Perusliikkeet vapaassa](vapaapudotus/index.md)
    * [Perusasento](vapaapudotus/perusasento)
    * [Käännös](vapaapudotus/kaannos)
    * [Selkälento](vapaapudotus/selkalento)
