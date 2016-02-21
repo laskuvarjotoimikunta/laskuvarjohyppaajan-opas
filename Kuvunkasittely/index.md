@@ -1,0 +1,2 @@
+# Kuvunkäsittely oppilaana
+
