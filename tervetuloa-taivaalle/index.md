@@ -46,15 +46,12 @@ päin muun muassa
 * Laatimalla laskuvarjohyppytoimintatilastoja
 * Kokoamalla ja analysoimalla onnettomuus- ja vaaratilanneselvityksiä
 * Myöntämällä SIL-laskuvarjohyppylisenssit
-• Osallistumalla laskuvarjourheilua koskevien
-määräysten ja ohjeiden valmisteluun
-Ilmailu-lehteä Ilmailuliitto on julkaissut jo vuodesta
-1938 alkaen. Lehti ilmestyy 10 kertaa vuodessa
-ja käsittelee Ilmailuliiton omien harrastealojen
-lisäksi liikenne- ja sotilasilmailua sekä
-lentoturvallisuuteen liittyviä aiheita.
-SIL:n kotisivuilta osoitteesta http://www.
-ilmailu.fi saat halutessasi lisätietoja.
+* Osallistumalla laskuvarjourheilua koskevien määräysten ja ohjeiden valmisteluun
+
+Ilmailu-lehteä Ilmailuliitto on julkaissut jo vuodesta 1938 alkaen. Lehti ilmestyy 10 kertaa vuodessa ja käsittelee Ilmailuliiton omien harrastealojen lisäksi liikenne- ja sotilasilmailua sekä lentoturvallisuuteen liittyviä aiheita.
+
+SIL:n kotisivuilta osoitteesta [www.ilmailu.fi](http://www.ilmailu.fi) saat halutessasi lisätietoja.
+
 Vakuutusturva
 Vuosittain laskuvarjohyppäämisessä sattuu
 jonkin verran loukkaantumisia. Tyypillinen
