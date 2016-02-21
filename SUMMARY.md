@@ -202,7 +202,7 @@
 * [Suuret muodostelmat](suuret-muodostelmat/index)
 * [V Freefly-opas](freefly-opas/index)
 * [Freefly - lentoasennot](freefly-lentoasennot/index)
-* [Turvallisuus freehyppäämisessä]
+* [Turvallisuus freehyppäämisessä](turvallisuus-free)
 * [Freefly kilpailulajina]
 * [VI Kuvunkäsittelyopas]
 * [Varjon ominaisuudet]
