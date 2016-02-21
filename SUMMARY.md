@@ -5,7 +5,7 @@
    * [Suomen Ilmailuliitto](tervetuloa-taivaalle/suomen-ilmailuliitto)
    * [Vakuutusturva](tervetuloa-taivaalle/vakuutusturva)
    * [Terveydentilavaatimukset](tervetuloa-taivaalle/terveydentilavaatimukset)
-* [Laskuvarjohyppykoulutus](laskuvarjohyppykoulutus/index)
+* [Laskuvarjohyppykoulutus](laskuvarjohyppykoulutus/index.md)
    * [Alkeiskurssi – ensimmäinen askel](alkeiskurssi)
 * [I Alkeiskoulutus](alkeiskoulutus/index)
    * [Hyppysuoritukset, NOVA](alkeiskoulutus/hyppysuoritukset_NOVA)
@@ -192,103 +192,27 @@
    * [Mantis](FS-perusteet/mantis)
    * [Turvallisuus](FS-perusteet)
 * [Hypyn läpikäyminen maassa](hypyn-lapikaynti/index)
-    * [Hypyn suunnittelu](hypyn-lapikaynti/suunnittelu)
-    * [Pystykuivat](hypyn-lapikaynti/kuivat)
-    * [Uloshyppyharjoittelu](hypyn-lapikaynti/uloshyppy)
-    * [Lautakuivat](hypyn-lapikaynti/lautakuivat)
-    * [Jälkikuivat](hypyn-lapikaynti/jalkikuivat)
-* [Vapaapudotusharjoittelu](vapaapudotusharjoittelu/index)
-    * [2-way-hyppääminen](vapaapudotusharjoittelu-2-way)
-34.2 Purkaminen
-34.3 Liuku
+   * [Hypyn suunnittelu](hypyn-lapikaynti/suunnittelu)
+   * [Pystykuivat](hypyn-lapikaynti/kuivat)
+   * [Uloshyppyharjoittelu](hypyn-lapikaynti/uloshyppy)
+   * [Lautakuivat](hypyn-lapikaynti/lautakuivat)
+   * [Jälkikuivat](hypyn-lapikaynti/jalkikuivat)
+* [Vapaapudotusharjoittelu]
 * [Mielikuva- eli mentaaliharjoittelu]
-35.1 Hypyn hahmottaminen
-35.2 Unohtelu eli brainlocking
-36 4-way joukkuehyppääminen
-36.1 Joukkueen kokoaminen ja tavoitteet
-36.2 Joukkueen jäsenet 
-36.3 Valmentaja
 * [Tuoreen lisenssihyppääjän FS-ohjelma]
 * [Suuret muodostelmat]
 * [V Freefly-opas]
-39 Johdanto freehyppäämiseen
-39.1 Freefly-hyppääminen 
 * [Freefly - lentoasennot]
-40.1 Kulma 
-40.2 Head-up / Sittis (sitfly) 
-40.3 Pää alaspäin lentäminen
 * [Turvallisuus freehyppäämisessä]
-41.1 Varusteet 
-41.2 Toiminta uloshypyssä 
-41.3 Toiminta vapaassa
-41.4 Törmääminen vapaassa
-41.5 Toiminta purkukorkeudessa ja varjon avaamisen jälkeen 
-41.6 Kulmahypyn suunnittelu 
-41.7 Turvallisuuteen liittyvä termejä
 * [Freefly kilpailulajina]
-42.1 Artistic freefly
-42.2 Vertical formation skydiving 
 * [VI Kuvunkäsittelyopas]
-43 Yleistä kuvunkäsittelystä
-* [Varjon ominaisuudet] 
-44.1 Sivusuhde ja tunnelimäärä 
-44.2 Elliptisyys 
-44.3 Kuvun siipiprofiili 
-44.4 Muut varjojen rakenteelliset ominaisuudet
-44.5 Muut laskuvarjon aerodynamiikkaan vaikuttavat tekijät 
-45 Laskuvarjoon vaikuttavat fysikaaliset voimat ja nosteen syntyminen 
-45.1 Laskuvarjon liitokulma ja siihen vaikuttavat tekijät 
-45.2 Varjon sakkaaminen 
-* [Ilmakehän fysikaalisten ominaisuuksien vaikutukset laskuvarjon suorituskykyyn] 
-46.1 Säätilan vaikutukset 
-46.2 Ilmanpaine 
-46.3 Ilman tiheys
-46.4 Ilman lämpötila 
-46.5 Ilman kosteus 
-46.6 Tiheyskorkeuden vaikutus varjon käyttäytymiseen
+* [Varjon ominaisuudet]
+* [Ilmakehän fysikaalisten ominaisuuksien vaikutukset laskuvarjon suorituskykyyn]
 * [Siipikuorma ja varjojen luokittelu]
 * [Varjon valinta]
-48.1 Lajien asettamat vaatimukset varjon valintaan
 * [Hyppytapahtuma kuvunkäsittelyhypyillä]
-49.1 Olosuhteet 
-49.2 Valmistautuminen
-49.3 Toiminta lentokoneessa ja uloshyppy 
-49.4 Vapaapudotus ja varjon avaus 
-49.5 Toiminta varjon varassa 
-49.6 Tarkkuusniksi 
-49.7 Laskeutuminen 
-49.8 Viimeiset metrit 
 * [Laskeutumistekniikat]
-50.1 Suora finaali ilman vauhdinottoa
-50.2 Suora vauhditus etummaisista kantohihnoista
-50.3 Vauhdin ottaminen etummaisista kantohihnoista kääntämällä
-50.4 Ohjauslenkeistä tehty käännös vauhdin saamiseksi
-50.5 Loppuvedon tekeminen takimmaisia kantohihnoja käyttäen
-50.6 Jarrulasku 
-50.7 Jarrukäännös 
-50.8 Sivu- ja myötätuulilaskut 
-50.9 Oikeaoppinen loppuveto
 * 51 Laskeutumisvirheet
-51.1 Vauhdin puute 
-51.2 Pumppaaminen 
-51.3 Löysä loppuveto
-51.4 Liian lyhyt loppuveto tai ei loppuvetoa
-51.5 Epätasainen loppuveto 
-51.6 Loppuveto liian aikaisin tai liian myöhään
-51.7 Liian pitkä tai voimakas loppuveto
-51.8 Ei ohjata loppuun asti 
-51.9 Suojautumisansa
-51.10 Tasapainoansa 
-51.11 Kädet nousevat ylös jalkojen koskettaessa maata 
-51.12 Kädet liikkuvat juostessa 
-51.13 Jalat nousevat ylös loppuvedossa
 * [52 Kuvunkäsittelyharjoitukset]
-52.1 Hyppy 1 
-52.2 Hyppy 2 
-52.3 Hyppy 3 
-52.4 Hyppy 4 
-52.5 Hyppy 5
-52.6 Laskeutumisen kuvaamisesta 
 * [53 Kuvunkäsittely: Loppusana]
-VIILiitteet
 
