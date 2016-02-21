@@ -14,7 +14,7 @@
 * [Perusliikkeet vapaassa](vapaapudotus/index)
 * [Sääoppi](saaoppi/index)
 * [Uloshyppypaikan määritys](uloshyppypaikka/index.md)
-* [Varusteiden tarkastus](varusteiden-tarkastus/index)
+* [Varusteiden tarkastus](varusteiden-tarkastus/index.md)
 * [NOVA-peruskoulutuksen suoritukset](nova-peruskoulutus/index)
    * [8”](nova-peruskoulutus/8-sekuntia)
    * [5”](nova-peruskoulutus/5-sekuntia)
