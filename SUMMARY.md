@@ -23,7 +23,7 @@
 * [Free-hyppääminen](free/index.md)
 * [Kuvunkäsittely oppilaana](Kuvunkasittely/index.md)
 * [Omiin varusteisiin siirtyminen](omat-varusteet/index.md)
-* [Kaluston tarkastus ja huolto](kaluston-tarkastus/index)
+* [Kaluston tarkastus ja huolto](kaluston-tarkastus/index.md)
 * [Pakkaustarkastus](pakkaustarkastus/index.md)
    * [I tarkastusvaihe](pakkaustarkastus/vaihe-1)
    * [II tarkastusvaihe](pakkaustarkastaus/vaihe-2)
