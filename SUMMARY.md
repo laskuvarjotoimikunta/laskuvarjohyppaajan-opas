@@ -8,7 +8,7 @@
 * [Päävarjon vajaatoiminnot](paavarjon-vajaatoiminnot/index.md)
 * [Mahdolliset vaaratilanteet](vaaratilanteet/index.md)
 * [NOVA-Alkeiskoulutuksen suoritukset](nova-alkeiskoulutus/index.md)
-* [PL-Alkeiskoulutuksen suoritukset](PL-alkeiskoulutus/index)
+* [PL-Alkeiskoulutuksen suoritukset](PL-alkeiskoulutus/index.md)
 * [II Peruskoulutus – yhteenveto](peruskoulutus/index.md)
 * [Uloshyppytyylit](uloshyppytyylit/index)
    * [Roikkumauloshyppy](uloshyppytyylit/roikkumauloshyppy)
