@@ -21,7 +21,7 @@
 * [III Jatkokoulutus](jatkokoulutus/index.md)
 * [FS-kuviohyppääminen](FS/index.md)
 * [Free-hyppääminen](free/index.md)
-* [Kuvunkäsittely oppilaana](Kuvunkasittely/index)
+* [Kuvunkäsittely oppilaana](Kuvunkasittely/index.md)
 * [Omiin varusteisiin siirtyminen](omat-varusteet/index)
    * [Laskuvarjoja koskevat kokemusrajat](omat-varusteet/kokemusrajat)
    * [Muut varusteet](omat-varusteet/muut)
