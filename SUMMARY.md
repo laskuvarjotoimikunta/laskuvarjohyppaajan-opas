@@ -249,37 +249,36 @@ VI Kuvunkäsittelyopas 157
 46.4 Ilman lämpötila . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
 46.5 Ilman kosteus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
 46.6 Tiheyskorkeuden vaikutus varjon käyttäytymiseen . . . . . . . . . . . . . . . . . 169
-47 Siipikuorma ja varjojen luokittelu 171
-48 Varjon valinta 174
-48.1 Lajien asettamat vaatimukset varjon valintaan . . . . . . . . . . . . . . . . . . . . 174
-49 Hyppytapahtuma kuvunkäsittelyhypyillä 177
-49.1 Olosuhteet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
-49.2 Valmistautuminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
-49.3 Toiminta lentokoneessa ja uloshyppy . . . . . . . . . . . . . . . . . . . . . . . . . 177
-49.4 Vapaapudotus ja varjon avaus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
-49.5 Toiminta varjon varassa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
-49.6 Tarkkuusniksi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
-49.7 Laskeutuminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
-49.8 Viimeiset metrit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
-50 Laskeutumistekniikat 179
-50.1 Suora finaali ilman vauhdinottoa . . . . . . . . . . . . . . . . . . . . . . . . . . . 179
-50.2 Suora vauhditus etummaisista kantohihnoista . . . . . . . . . . . . . . . . . . . . 179
-50.3 Vauhdin ottaminen etummaisista kantohihnoista kääntämällä . . . . . . . . . . 180
-50.4 Ohjauslenkeistä tehty käännös vauhdin saamiseksi . . . . . . . . . . . . . . . . . 181
-50.5 Loppuvedon tekeminen takimmaisia kantohihnoja käyttäen . . . . . . . . . . . . 181
-50.6 Jarrulasku . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 182
-50.7 Jarrukäännös . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 182
-50.8 Sivu- ja myötätuulilaskut . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 183
-SISÄLTÖ ix
-50.9 Oikeaoppinen loppuveto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 183
-51 Laskeutumisvirheet 184
-51.1 Vauhdin puute . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
-51.2 Pumppaaminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
-51.3 Löysä loppuveto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
-51.4 Liian lyhyt loppuveto tai ei loppuvetoa . . . . . . . . . . . . . . . . . . . . . . . . 184
-51.5 Epätasainen loppuveto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
-51.6 Loppuveto liian aikaisin tai liian myöhään . . . . . . . . . . . . . . . . . . . . . . 185
-51.7 Liian pitkä tai voimakas loppuveto . . . . . . . . . . . . . . . . . . . . . . . . . . 185
+* Siipikuorma ja varjojen luokittelu
+* 48 Varjon valinta
+48.1 Lajien asettamat vaatimukset varjon valintaan
+* [Hyppytapahtuma kuvunkäsittelyhypyillä]
+49.1 Olosuhteet 
+49.2 Valmistautuminen
+49.3 Toiminta lentokoneessa ja uloshyppy 
+49.4 Vapaapudotus ja varjon avaus 
+49.5 Toiminta varjon varassa 
+49.6 Tarkkuusniksi 
+49.7 Laskeutuminen 
+49.8 Viimeiset metrit 
+* [Laskeutumistekniikat]
+50.1 Suora finaali ilman vauhdinottoa
+50.2 Suora vauhditus etummaisista kantohihnoista
+50.3 Vauhdin ottaminen etummaisista kantohihnoista kääntämällä
+50.4 Ohjauslenkeistä tehty käännös vauhdin saamiseksi
+50.5 Loppuvedon tekeminen takimmaisia kantohihnoja käyttäen
+50.6 Jarrulasku 
+50.7 Jarrukäännös 
+50.8 Sivu- ja myötätuulilaskut 
+50.9 Oikeaoppinen loppuveto
+* 51 Laskeutumisvirheet
+51.1 Vauhdin puute 
+51.2 Pumppaaminen 
+51.3 Löysä loppuveto
+51.4 Liian lyhyt loppuveto tai ei loppuvetoa
+51.5 Epätasainen loppuveto 
+51.6 Loppuveto liian aikaisin tai liian myöhään
+51.7 Liian pitkä tai voimakas loppuveto
 51.8 Ei ohjata loppuun asti 
 51.9 Suojautumisansa
 51.10 Tasapainoansa 
