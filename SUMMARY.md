@@ -26,7 +26,7 @@
 * [Kaluston tarkastus ja huolto](kaluston-tarkastus/index.md)
 * [Pakkaustarkastus](pakkaustarkastus/index.md)
 * [Määräykset, lait ja ohjeet](maaraykset/index.md)
-* [Hyppytoiminnan järjestäminen](hyppytoiminta/index)
+* [Hyppytoiminnan järjestäminen](hyppytoiminta/index.md)
 * [Erikoishypyt](erikoishypyt/index)
    * [Yöhypyt](erikoishypyt/yohypyt)
    * [Vesihypyt](erikoishypyt/vesihypyt)
