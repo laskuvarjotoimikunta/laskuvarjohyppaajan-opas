@@ -5,7 +5,7 @@
 * [I Alkeiskoulutus](alkeiskoulutus/index.md)
 * [Laskuvarjokalusto ja hyppyvarusteet](laskuvarjokalusto/index.md)
 * [Hyppytapahtuma](hyppytapahtuma/index.md)
-* [Päävarjon vajaatoiminnot](paavarjon-vajaatoiminnot/index)
+* [Päävarjon vajaatoiminnot](paavarjon-vajaatoiminnot/index.md)
 * [Mahdolliset vaaratilanteet](vaaratilanteet/index)
    * [Vaaratilanteet koneessa ja uloshypyssä](vaaratilanteet/kone-ja-uloshyppy)
    * [Sotkeutuminen punoksiin](vaaratilanteet/sotkeutuminen)
