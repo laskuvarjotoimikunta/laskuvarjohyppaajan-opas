@@ -192,4 +192,107 @@
    * [Mantis](FS-perusteet/mantis)
    * [Turvallisuus](FS-perusteet)
 * [Hypyn läpikäyminen maassa](hypyn-lapikaynti/index)
+* 33 Hypyn läpikäyminen maassa 130
+33.1 Hypyn suunnittelu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+33.2 Pystykuivat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+33.3 Uloshyppyharjoittelu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+33.4 Lautakuivat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+33.5 Jälkikuivat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131
+34 Vapaapudotusharjoittelu 132
+34.1 2-way -hyppääminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+34.2 Purkaminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+34.3 Liuku . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+35 Mielikuva- eli mentaaliharjoittelu 133
+35.1 Hypyn hahmottaminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
+35.2 Unohtelu eli brainlocking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
+36 4-way joukkuehyppääminen 134
+36.1 Joukkueen kokoaminen ja tavoitteet . . . . . . . . . . . . . . . . . . . . . . . . . . 134
+36.2 Joukkueen jäsenet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 134
+36.3 Valmentaja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 135
+37 Tuoreen lisenssihyppääjän FS-ohjelma 136
+37.1 Tuoreen lisenssihyppääjän FS-ohjelma . . . . . . . . . . . . . . . . . . . . . . . . 136
+38 Suuret muodostelmat 138
+V Freefly-opas 139
+39 Johdanto freehyppäämiseen 140
+39.1 Freefly-hyppääminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+40 Freefly - lentoasennot 141
+40.1 Kulma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 141
+40.2 Head-up / Sittis (sitfly) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142
+40.3 Pää alaspäin lentäminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 145
+41 Turvallisuus freehyppäämisessä 149
+41.1 Varusteet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149
+41.2 Toiminta uloshypyssä . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+41.3 Toiminta vapaassa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+41.4 Törmääminen vapaassa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
+41.5 Toiminta purkukorkeudessa ja varjon avaamisen jälkeen . . . . . . . . . . . . . . 152
+41.6 Kulmahypyn suunnittelu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 153
+41.7 Turvallisuuteen liittyvä termejä . . . . . . . . . . . . . . . . . . . . . . . . . . . . 153
+42 Freefly kilpailulajina 156
+42.1 Artistic freefly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
+viii SISÄLTÖ
+42.2 Vertical formation skydiving . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
+VI Kuvunkäsittelyopas 157
+43 Yleistä kuvunkäsittelystä 158
+44 Varjon ominaisuudet 160
+44.1 Sivusuhde ja tunnelimäärä . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
+44.2 Elliptisyys . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 161
+44.3 Kuvun siipiprofiili . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+44.4 Muut varjojen rakenteelliset ominaisuudet . . . . . . . . . . . . . . . . . . . . . . 162
+44.5 Muut laskuvarjon aerodynamiikkaan vaikuttavat tekijät . . . . . . . . . . . . . . 163
+45 Laskuvarjoon vaikuttavat fysikaaliset voimat ja nosteen syntyminen 165
+45.1 Laskuvarjon liitokulma ja siihen vaikuttavat tekijät . . . . . . . . . . . . . . . . . 166
+45.2 Varjon sakkaaminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 166
+46 Ilmakehän fysikaalisten ominaisuuksien vaikutukset laskuvarjon suorituskykyyn 168
+46.1 Säätilan vaikutukset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 168
+46.2 Ilmanpaine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
+46.3 Ilman tiheys . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
+46.4 Ilman lämpötila . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
+46.5 Ilman kosteus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
+46.6 Tiheyskorkeuden vaikutus varjon käyttäytymiseen . . . . . . . . . . . . . . . . . 169
+47 Siipikuorma ja varjojen luokittelu 171
+48 Varjon valinta 174
+48.1 Lajien asettamat vaatimukset varjon valintaan . . . . . . . . . . . . . . . . . . . . 174
+49 Hyppytapahtuma kuvunkäsittelyhypyillä 177
+49.1 Olosuhteet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+49.2 Valmistautuminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+49.3 Toiminta lentokoneessa ja uloshyppy . . . . . . . . . . . . . . . . . . . . . . . . . 177
+49.4 Vapaapudotus ja varjon avaus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+49.5 Toiminta varjon varassa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+49.6 Tarkkuusniksi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+49.7 Laskeutuminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+49.8 Viimeiset metrit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+50 Laskeutumistekniikat 179
+50.1 Suora finaali ilman vauhdinottoa . . . . . . . . . . . . . . . . . . . . . . . . . . . 179
+50.2 Suora vauhditus etummaisista kantohihnoista . . . . . . . . . . . . . . . . . . . . 179
+50.3 Vauhdin ottaminen etummaisista kantohihnoista kääntämällä . . . . . . . . . . 180
+50.4 Ohjauslenkeistä tehty käännös vauhdin saamiseksi . . . . . . . . . . . . . . . . . 181
+50.5 Loppuvedon tekeminen takimmaisia kantohihnoja käyttäen . . . . . . . . . . . . 181
+50.6 Jarrulasku . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 182
+50.7 Jarrukäännös . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 182
+50.8 Sivu- ja myötätuulilaskut . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 183
+SISÄLTÖ ix
+50.9 Oikeaoppinen loppuveto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 183
+51 Laskeutumisvirheet 184
+51.1 Vauhdin puute . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+51.2 Pumppaaminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+51.3 Löysä loppuveto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+51.4 Liian lyhyt loppuveto tai ei loppuvetoa . . . . . . . . . . . . . . . . . . . . . . . . 184
+51.5 Epätasainen loppuveto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+51.6 Loppuveto liian aikaisin tai liian myöhään . . . . . . . . . . . . . . . . . . . . . . 185
+51.7 Liian pitkä tai voimakas loppuveto . . . . . . . . . . . . . . . . . . . . . . . . . . 185
+51.8 Ei ohjata loppuun asti 
+51.9 Suojautumisansa
+51.10 Tasapainoansa 
+51.11 Kädet nousevat ylös jalkojen koskettaessa maata 
+51.12 Kädet liikkuvat juostessa 
+51.13 Jalat nousevat ylös loppuvedossa
+* [52 Kuvunkäsittelyharjoitukset]
+52.1 Hyppy 1 
+52.2 Hyppy 2 
+52.3 Hyppy 3 
+52.4 Hyppy 4 
+52.5 Hyppy 5
+52.6 Laskeutumisen kuvaamisesta 
+* [53 Kuvunkäsittely: Loppusana]
+VIILiitteet
 
