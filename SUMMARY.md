@@ -33,7 +33,7 @@
 * [Jatkokoulutuksen suoritukset](jatkokoulutus_suoritukset/index.md)
 * [IV FS-opas](FS-opas/index.md)
 * [FS-hyppääjän varusteet](FS-varusteet/index.md)
-* [FS-hyppäämisen perusteet](FS-perusteet/index)
+* [FS-hyppäämisen perusteet](FS-perusteet/index.md)
 * [Hypyn läpikäyminen maassa](hypyn-lapikaynti/index)
    * [Hypyn suunnittelu](hypyn-lapikaynti/suunnittelu)
    * [Pystykuivat](hypyn-lapikaynti/kuivat)
