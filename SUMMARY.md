@@ -22,7 +22,7 @@
 * [FS-kuviohyppääminen](FS/index.md)
 * [Free-hyppääminen](free/index.md)
 * [Kuvunkäsittely oppilaana](Kuvunkasittely/index.md)
-* [Omiin varusteisiin siirtyminen](omat-varusteet/index)
+* [Omiin varusteisiin siirtyminen](omat-varusteet/index.md)
 * [Kaluston tarkastus ja huolto](kaluston-tarkastus/index)
    * [Asiakirjojen tarkastus](kaluston-tarkastus/asiakirjat)
    * [Kuntotarkastus](kaluston-tarkastus/kunto)
