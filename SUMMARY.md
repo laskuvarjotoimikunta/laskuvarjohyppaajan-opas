@@ -17,7 +17,7 @@
 * [Varusteiden tarkastus](varusteiden-tarkastus/index.md)
 * [NOVA-peruskoulutuksen suoritukset](nova-peruskoulutus/index.md)
 * [PL-peruskoulutuksen suoritukset](pl-peruskoulutus/index.md)
-* [Peruskoulutuksen muut suoritukset](peruskoulutus-muut/index)
+* [Peruskoulutuksen muut suoritukset](peruskoulutus-muut/index.md)
 * [III Jatkokoulutus](jatkokoulutus/index)
    * [Hyppysuoritukset](jatkokoulutus/hyppysuoritukset)
    * [Muut suoritukset](jatkokoulutus/muut-suoritukset)
