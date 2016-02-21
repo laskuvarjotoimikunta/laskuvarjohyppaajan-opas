@@ -16,7 +16,7 @@
 * [Uloshyppypaikan määritys](uloshyppypaikka/index.md)
 * [Varusteiden tarkastus](varusteiden-tarkastus/index.md)
 * [NOVA-peruskoulutuksen suoritukset](nova-peruskoulutus/index.md)
-* [PL-peruskoulutuksen suoritukset](pl-peruskoulutus/index)
+* [PL-peruskoulutuksen suoritukset](pl-peruskoulutus/index.md)
 * [Peruskoulutuksen muut suoritukset](peruskoulutus-muut/index)
    * [Selkälento](peruskoulutus-muut/selkalento)
    * [Liuku](peruskoulutus-muut/liuku)
