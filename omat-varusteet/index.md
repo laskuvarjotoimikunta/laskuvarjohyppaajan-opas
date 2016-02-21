@@ -1,0 +1,2 @@
+# Omiin varusteisiin siirtyminen
+
