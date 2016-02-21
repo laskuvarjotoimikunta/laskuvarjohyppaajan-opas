@@ -197,8 +197,8 @@
     * [Uloshyppyharjoittelu](hypyn-lapikaynti/uloshyppy)
     * [Lautakuivat](hypyn-lapikaynti/lautakuivat)
     * [Jälkikuivat](hypyn-lapikaynti/jalkikuivat)
-* [Vapaapudotusharjoittelu]
-34.1 2-way -hyppääminen
+* [Vapaapudotusharjoittelu](vapaapudotusharjoittelu/index)
+    * [2-way-hyppääminen](vapaapudotusharjoittelu-2-way)
 34.2 Purkaminen
 34.3 Liuku
 * [Mielikuva- eli mentaaliharjoittelu]
