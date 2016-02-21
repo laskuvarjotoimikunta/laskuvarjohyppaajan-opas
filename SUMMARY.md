@@ -218,39 +218,38 @@ V Freefly-opas 139
 40 Freefly - lentoasennot 141
 40.1 Kulma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 141
 40.2 Head-up / Sittis (sitfly) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142
-40.3 Pää alaspäin lentäminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 145
-41 Turvallisuus freehyppäämisessä 149
-41.1 Varusteet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149
-41.2 Toiminta uloshypyssä . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
-41.3 Toiminta vapaassa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
-41.4 Törmääminen vapaassa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
-41.5 Toiminta purkukorkeudessa ja varjon avaamisen jälkeen . . . . . . . . . . . . . . 152
-41.6 Kulmahypyn suunnittelu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 153
-41.7 Turvallisuuteen liittyvä termejä . . . . . . . . . . . . . . . . . . . . . . . . . . . . 153
-42 Freefly kilpailulajina 156
-42.1 Artistic freefly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
-viii SISÄLTÖ
-42.2 Vertical formation skydiving . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
-VI Kuvunkäsittelyopas 157
-43 Yleistä kuvunkäsittelystä 158
-44 Varjon ominaisuudet 160
-44.1 Sivusuhde ja tunnelimäärä . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
-44.2 Elliptisyys . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 161
-44.3 Kuvun siipiprofiili . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
-44.4 Muut varjojen rakenteelliset ominaisuudet . . . . . . . . . . . . . . . . . . . . . . 162
-44.5 Muut laskuvarjon aerodynamiikkaan vaikuttavat tekijät . . . . . . . . . . . . . . 163
-45 Laskuvarjoon vaikuttavat fysikaaliset voimat ja nosteen syntyminen 165
-45.1 Laskuvarjon liitokulma ja siihen vaikuttavat tekijät . . . . . . . . . . . . . . . . . 166
-45.2 Varjon sakkaaminen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 166
-46 Ilmakehän fysikaalisten ominaisuuksien vaikutukset laskuvarjon suorituskykyyn 168
-46.1 Säätilan vaikutukset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 168
-46.2 Ilmanpaine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
-46.3 Ilman tiheys . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
-46.4 Ilman lämpötila . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
-46.5 Ilman kosteus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
-46.6 Tiheyskorkeuden vaikutus varjon käyttäytymiseen . . . . . . . . . . . . . . . . . 169
-* Siipikuorma ja varjojen luokittelu
-* 48 Varjon valinta
+40.3 Pää alaspäin lentäminen
+* [Turvallisuus freehyppäämisessä]
+41.1 Varusteet 
+41.2 Toiminta uloshypyssä 
+41.3 Toiminta vapaassa
+41.4 Törmääminen vapaassa
+41.5 Toiminta purkukorkeudessa ja varjon avaamisen jälkeen 
+41.6 Kulmahypyn suunnittelu 
+41.7 Turvallisuuteen liittyvä termejä
+* [Freefly kilpailulajina]
+42.1 Artistic freefly
+42.2 Vertical formation skydiving 
+* [VI Kuvunkäsittelyopas]
+43 Yleistä kuvunkäsittelystä
+* [Varjon ominaisuudet] 
+44.1 Sivusuhde ja tunnelimäärä 
+44.2 Elliptisyys 
+44.3 Kuvun siipiprofiili 
+44.4 Muut varjojen rakenteelliset ominaisuudet
+44.5 Muut laskuvarjon aerodynamiikkaan vaikuttavat tekijät 
+45 Laskuvarjoon vaikuttavat fysikaaliset voimat ja nosteen syntyminen 
+45.1 Laskuvarjon liitokulma ja siihen vaikuttavat tekijät 
+45.2 Varjon sakkaaminen 
+* [Ilmakehän fysikaalisten ominaisuuksien vaikutukset laskuvarjon suorituskykyyn] 
+46.1 Säätilan vaikutukset 
+46.2 Ilmanpaine 
+46.3 Ilman tiheys
+46.4 Ilman lämpötila 
+46.5 Ilman kosteus 
+46.6 Tiheyskorkeuden vaikutus varjon käyttäytymiseen
+* [Siipikuorma ja varjojen luokittelu]
+* [Varjon valinta]
 48.1 Lajien asettamat vaatimukset varjon valintaan
 * [Hyppytapahtuma kuvunkäsittelyhypyillä]
 49.1 Olosuhteet 
