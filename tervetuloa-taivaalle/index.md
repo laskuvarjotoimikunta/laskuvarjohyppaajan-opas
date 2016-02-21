@@ -52,16 +52,11 @@ Ilmailu-lehteä Ilmailuliitto on julkaissut jo vuodesta 1938 alkaen. Lehti ilmes
 
 SIL:n kotisivuilta osoitteesta [www.ilmailu.fi](http://www.ilmailu.fi) saat halutessasi lisätietoja.
 
-Vakuutusturva
-Vuosittain laskuvarjohyppäämisessä sattuu
-jonkin verran loukkaantumisia. Tyypillinen
-vamma on nilkan nyrjähtäminen tai murtuminen
-huonosti suoritetussa alastulossa. Suomessa
-kuolemaan johtaneita onnettomuuksia on
-vuodesta 1962 lähtien sattunut 25 (2013). Kokonaishyppymäärä
-vuodesta 1962 vuoteen 2013
-on noin 1 650 000 hyppyä. Vuosittain Suomessa
-hypätään n. 50 000 hyppyä.
+## Vakuutusturva
+Vuosittain laskuvarjohyppäämisessä sattuu jonkin verran loukkaantumisia. Tyypillinen
+vamma on nilkan nyrjähtäminen tai murtuminen huonosti suoritetussa alastulossa. 
+
+Suomessa on sattunut vuodesta 1962 lähtien 25 kuolemaan johtanutta onnettomuutta    (2013). Kokonaishyppymäärä vuodesta 1962 vuoteen 2013 on noin 1 650 000 hyppyä. Vuosittain Suomessa hypätään n. 50 000 hyppyä.
 Laskuvarjohyppääjä hyppää aina omalla vastuullaan.
 Kerholla on kolmannelle osapuolelle
 aiheutetun vahingon korvaava vastuuvakuutus,
