@@ -22,8 +22,6 @@
 * [FS-kuviohyppääminen](FS/index.md)
 * [Free-hyppääminen](free/index.md)
 * [Kuvunkäsittely oppilaana](Kuvunkasittely/index)
-   * [Tarkkuushyppy oppilassuorituksena](kuvunkasittely/tarkkuus)
-   * [Kuvunkäsittelyhypyt](kuvunkasittely/hypyt)
 * [Omiin varusteisiin siirtyminen](omat-varusteet/index)
    * [Laskuvarjoja koskevat kokemusrajat](omat-varusteet/kokemusrajat)
    * [Muut varusteet](omat-varusteet/muut)
