@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Tervetuloa taivaalle](tervetuloa-taivaalle/index)
+* [Tervetuloa taivaalle](tervetuloa-taivaalle/index.md)
 * [I Alkeiskoulutus](alkeiskoulutus/index)
    * [Hyppysuoritukset, NOVA](alkeiskoulutus/hyppysuoritukset_NOVA)
    * [Hyppysuoritukset, PL](alkeiskoulutus/hyppysuoritukset_PL)
