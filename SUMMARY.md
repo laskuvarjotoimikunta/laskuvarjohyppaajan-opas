@@ -55,7 +55,7 @@
    * [Itseaukaisu 3”](PL-alkeiskoulutus/itseaukaisu-3-sek)
    * [Itseaukaisu 5”](PL-alkeiskoulutus/itseaukaisu-5-sek)
    * [Itseaukaisu 10”](PL-alkeiskoulutus/itseaukaisu-10-sek)
-* [II Peruskoulutus – yhteenveto](peruskoulutus/index)
+* [II Peruskoulutus – yhteenveto](peruskoulutus/index.md)
 * [Uloshyppytyylit](uloshyppytyylit/index)
    * [Roikkumauloshyppy](uloshyppytyylit/roikkumauloshyppy)
    * [Suora uloshyppy](uloshyppytyylit/suora)
@@ -209,5 +209,4 @@
 * [Laskeutumistekniikat](laskeutumistekniikat/index)
 * [Laskeutumisvirheet](laskeutumisvirheet/index)
 * [Kuvunkäsittelyharjoitukset](kuvunkasittelyharjoitukset/index)
-
 
