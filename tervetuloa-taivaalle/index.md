@@ -24,28 +24,16 @@ Toivomme, että kysyt heti, jos jotain jää epäselväksi; kaikki pitää ymmä
 ole. Laskuvarjohyppäämisessä on myös paljon slangisanoja, joiden käyttöön kouluttajat
 joskus sortuvat. Kysy, jos jää epäselvyyksiä!
 
-Olet voinut jo pitkään haaveilla laskuvarjohyppäämisestä
-tai saada idean vasta vähän aikaa
-sitten. Olet joka tapauksessa juuri päättänyt
-aloittaa harrastuksen, joka toivottavasti
-tuo mukanaan monia antoisia hetkiä taivaalla
-ja maassa. Kokeiletpa lajia vain parilla hypyllä
-tai jäät seuraamme vuosiksi, takaamme sinulle, että ensimmäinen hyppy on kokemus, jota et unohda koskaan.
+Olet voinut jo pitkään haaveilla laskuvarjohyppäämisestä tai saada idean vasta vähän aikaa sitten. Olet joka tapauksessa juuri päättänyt aloittaa harrastuksen, joka toivottavasti tuo mukanaan monia antoisia hetkiä taivaalla ja maassa. Kokeiletpa lajia vain parilla hypyllä tai jäät seuraamme vuosiksi, takaamme sinulle, että ensimmäinen hyppy on kokemus, jota et unohda koskaan.
+
 ## Suomen Ilmailuliitto
-Vuonna 1919 perustettu Suomen Ilmailuliitto ry
-(SIL) on eri harrasteilmailulajeja edustavien ilmailukerhojen
-keskusjärjestö. Ilmailuliitossa on
-yli 200 (2014) jäsenkerhoa, joista pääasiassa laskuvarjohyppäämistä
-harrastavia kerhoja on 15.
-Organisaatio, joka antaa koulusta, on sitoutunut
-noudattamaan Ilmailuliiton hyväksymiä
-ohjeita.
-Suomen Ilmailuliitossa laskuvarjourheilua koskevien
-asioiden asiantuntijaelin on luottamushenkilöistä
-koostuva Laskuvarjotoimikunta,
-jonka alaisuudessa toimii Kalustokomitea,
-Kilpailukomitea sekä Koulutus- ja turvallisuuskomitea.
-Nämä hoitavat nimiensä mukaisesti
+
+Vuonna 1919 perustettu Suomen Ilmailuliitto ry (SIL) on eri harrasteilmailulajeja edustavien ilmailukerhojen keskusjärjestö. Ilmailuliitossa on yli 200 (2014) jäsenkerhoa, joista pääasiassa laskuvarjohyppäämistä harrastavia kerhoja on 15.
+
+Organisaatio, joka antaa koulusta, on sitoutunut noudattamaan Ilmailuliiton hyväksymiä ohjeita. Suomen Ilmailuliitossa laskuvarjourheilua koskevien
+asioiden asiantuntijaelin on luottamushenkilöistä koostuva Laskuvarjotoimikunta,
+
+Laskuvarjotoimikunta hoitaa
 kalustoon, kilpailuasioihin, hyppyturvallisuuteen
 ja -koulutukseen liittyviä asioita.
 Laskuvarjotoimikunta komiteoineen koostuu
