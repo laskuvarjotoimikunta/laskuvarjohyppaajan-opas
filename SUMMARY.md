@@ -6,7 +6,7 @@
 * [Laskuvarjokalusto ja hyppyvarusteet](laskuvarjokalusto/index.md)
 * [Hyppytapahtuma](hyppytapahtuma/index.md)
 * [Päävarjon vajaatoiminnot](paavarjon-vajaatoiminnot/index.md)
-* [Mahdolliset vaaratilanteet](vaaratilanteet/index)
+* [Mahdolliset vaaratilanteet](vaaratilanteet/index.md)
 * [NOVA-Alkeiskoulutuksen suoritukset](nova-alkeiskoulutus/index)
    * [Vapaapudotus NOVA-hypyillä](nova-alkeiskoulutus/vapaapudotus)
    * [Taso 1 - Tottuminen vapaapudotukseen](nova-alkeiskoulutus/taso-1)
