@@ -34,7 +34,7 @@
 * [IV FS-opas](FS-opas/index.md)
 * [FS-hyppääjän varusteet](FS-varusteet/index.md)
 * [FS-hyppäämisen perusteet](FS-perusteet/index.md)
-* [Hypyn läpikäyminen maassa](hypyn-lapikaynti/index)
+* [Hypyn läpikäyminen maassa](hypyn-lapikaynti/index.md)
 * [Vapaapudotusharjoittelu](vapaapudotusharjoittelu/index.md)
 * [Mielikuva- eli mentaaliharjoittelu](mentaaliharjoittelu/index)
 * [Tuoreen lisenssihyppääjän FS-ohjelma](FS-ohjelma/index)
