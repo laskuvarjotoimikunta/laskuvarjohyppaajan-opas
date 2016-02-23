@@ -47,54 +47,30 @@ Oppilaan ollessa kyseessä vain hyppymestarilla on oikeus säätää automaattil
 * Kova kypärä, jossa kiinnityshihna on kypärän ulkopuolella.
 * Radiovastaanotin on oltava ainakin kolmella ensimmäisellä hypyllä.
 * Suojalasit suojaavat silmiä viimalta ja roskilta.
-* Haalari, jossa ei saa olla tarttuvia taskuja tai ulokkeita, jotka voivat takertua johonkin tai joista hyppääjä voi vahingossa ottaa kiinni
-kahvoista kiinni ottaessaan. Haalarin alle
-puetaan säähän sopiva vaatetus, joka ei haittaa
-liikkumista.
-• Sormikkaat ovat pakolliset oppilailla. Niiden
-on oltava lämpimät, mutta ei liian paksut eikä
-liukkaat.
-• Kengät, joiden on oltava hyppytoimintaan
-soveltuvat (ei koukkuja tms.).
-• Korkeusmittari, joka nollataan maassa. Mittari
-kiinnitetään rintahihnaan tai käteen.
-• Koukkupuukkoa käytetään takertumien selvittämiseen
-sotkeutumis- tai törmäämistilanteissa.
-• Pelastusliivi puetaan koulutuspäällikön harkinnan
-mukaan, jos hyppypaikalla on ilmeinen
-hukkumisvaara.
-Hypyn aikana mukana ei saa olla mitään tarpeetonta
-(esimerkiksi avaimet, kynä tai matkapuhelin).
-Lisäksi aina hyppäämään tultaessa on
+* Haalari, jossa ei saa olla tarttuvia taskuja tai ulokkeita, jotka voivat takertua johonkin tai joista hyppääjä voi vahingossa ottaa kiinni kahvoista kiinni ottaessaan. Haalarin alle puetaan säähän sopiva vaatetus, joka ei haittaa liikkumista.
+* Sormikkaat ovat pakolliset oppilailla. Niiden on oltava lämpimät, mutta ei liian paksut eikä liukkaat.
+* Kengät, joiden on oltava hyppytoimintaan soveltuvat (ei koukkuja tms.).
+* Korkeusmittari, joka nollataan maassa. Mittari kiinnitetään rintahihnaan tai käteen.
+* Koukkupuukkoa käytetään takertumien selvittämiseen sotkeutumis- tai törmäämistilanteissa.
+* Pelastusliivi puetaan koulutuspäällikön harkinnan mukaan, jos hyppypaikalla on ilmeinen hukkumisvaara. Hypyn aikana mukana ei saa olla mitään tarpeetonta (esimerkiksi avaimet, kynä tai matkapuhelin). Lisäksi aina hyppäämään tultaessa on
 oltava mukana hyppypäiväkirja.
-2.5 Hyppyvarusteiden käsittely
-Suojaa varjoa auringonvalolta, kosteudelta ja likaantumiselta.
-Nosta valjaita olkahihnoista ja
-varo tarttumasta aukaisukahvoihin sekä vaijereiden
-suojaputkiin. Varjoa ei tule heitellä, laahata
-eikä sen päällä tule istua. Älä tupakoi, kun
-olet pukenut valjaat päälle.
-Oppilaan päävarjon pakkaamista saa valvoa
-henkilö, jolla on itsenäisen hyppääjän kelpoisuus.
-Oppilaan käytössä olevan päävarjon pakkauksista
-ja pakkaustarkistuksista pidetään kirjaa.
-Varavarjon saa pakata vain siihen koulutuksen
-saanut henkilö. Varusteet palautetaan aina
-hypyn jälkeen omille paikoilleen.
-2.6 3X3 -tarkastus
-Peruskoulutusvaiheessa oppilaalle opetetaan
-varusteiden perusteellinen tarkastus, mutta itseaukaisuvaiheessa
-varjon perustarkastus voidaan
-tiivistää 3X3 -tarkastukseen (kolme kolmea
--tarkastus):
-1) Tarkastetaan, että solkia on kiinni kolme:
-• Vasemman jalkahihnan solki
-• Oikean jalkahihnan solki
-• Rintahihnan solki
-2) Tarkastetaan, että kahvoja on kolme ja ne
-ovat kiinni:
-• Päävarjon avauskahva
-• Päävarjon irtipäästöpampula
-• Varavarjon avauskahva
-3) Tarkastetaan, että kolmirengaslukot ovat
-kiinni ja oikein.
+
+## Hyppyvarusteiden käsittely
+Suojaa varjoa auringonvalolta, kosteudelta ja likaantumiselta. Nosta valjaita olkahihnoista ja varo tarttumasta aukaisukahvoihin sekä vaijereiden suojaputkiin. Varjoa ei tule heitellä, laahata eikä sen päällä tule istua. Älä tupakoi, kun olet pukenut valjaat päälle.
+
+Oppilaan päävarjon pakkaamista saa valvoa henkilö, jolla on itsenäisen hyppääjän kelpoisuus. Oppilaan käytössä olevan päävarjon pakkauksista ja pakkaustarkistuksista pidetään kirjaa. Varavarjon saa pakata vain siihen koulutuksen
+saanut henkilö. 
+
+Varusteet palautetaan aina hypyn jälkeen omille paikoilleen.
+
+## 3X3 -tarkastus
+Peruskoulutusvaiheessa oppilaalle opetetaan varusteiden perusteellinen tarkastus, mutta itseaukaisuvaiheessa varjon perustarkastus voidaan tiivistää 3X3 -tarkastukseen (kolme kolmea -tarkastus):
+1. Tarkastetaan, että solkia on kiinni kolme:
+    * Vasemman jalkahihnan solki
+    * Oikean jalkahihnan solki
+    * Rintahihnan solki
+2. Tarkastetaan, että kahvoja on kolme ja ne ovat kiinni:
+    * Päävarjon avauskahva
+    * Päävarjon irtipäästöpampula
+    * Varavarjon avauskahva
+3. Tarkastetaan, että kolmirengaslukot ovat kiinni ja oikein.
