@@ -5,6 +5,7 @@ Laskuvarjokokonaisuuteen kuuluu reppuvaljasyhdistelmä sekä kaksi varjoa: pää
 
 Varjojen liitosuhde on noin 3:1, eli liitäessään kolme metriä eteenpäin ne vajoavat metrin.
 
+![](/kuvat/Reppu-valjas-etu.png)
 Wings-reppuvaljasyhdistelmä hyppääjän päällä
 
 ### Päävarjo
