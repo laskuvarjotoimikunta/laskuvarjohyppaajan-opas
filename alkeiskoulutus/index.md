@@ -1,4 +1,4 @@
-# I Alkeiskoulutus
+# Alkeiskoulutus
 
 Alkeisoppilaan kelpoisuus on voimassa vuoden myöntämispäivämäärästä. Jos kelpoisuus
 vanhenee, oppilaan tulee uusia teoriakoe ja käytännön näytteet ennen hyppäämistä. 
