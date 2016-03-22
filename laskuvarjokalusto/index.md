@@ -14,7 +14,7 @@ Päävarjo, joka koostuu kuvusta, punoksista ja sliderista, on kantohihnojen vä
 ### Varavarjo
 Varavarjo on rakenteeltaan ja toiminnaltaan samanlainen kuin päävarjo. Varavarjoa käytettäessä laskeutumispaikka saattaa olla muualla kuin laskeutumisalueella. Tämän vuoksi alastuloasennon on oltava hyvä ja tarvittaessa on tehtävä maahantulokierähdys.
 
-## Reppu-valjasyhdistelmä testi
+## Reppu-valjasyhdistelmä
 
 Kuva 2.3. 1. Valjaan pystyhihnojen säätösoljet 2. Päävarjon irtipäästöpampula 3. Varavarjon avauskahva
 4. Rintahihna 5. Varavarjon pakkolaukaisuhihna RSL 6. Koukkupuukko (sijainti voi vaihdella) 7. Kolmirengasolkalukot 8. FXC-automaattilaukaisimen säätöyksikkö (mikäli käytössä joku muu, merkitse säätöyksikön paikka kuvaan) 9. Reisihihnat
