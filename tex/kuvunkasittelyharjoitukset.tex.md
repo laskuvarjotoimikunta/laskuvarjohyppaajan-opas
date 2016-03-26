@@ -114,7 +114,7 @@ Kuvatessasi laskeutuvaa hyppääjää, sijoita hyppääjä kuvaruutuun niin,
 että hän peittää pystysuunnassa kaksi kolmasosaa ja että hyppääjän
 edessä sekä alla on tyhjää tilaa.
 
-![image](Laskeutumisen-kuvaus.png){width="70.00000%"}
+![image](/kuvat/Laskeutumisen-kuvaus.png){width="70.00000%"}
 
 Pyri pitämään maa näkyvissä vertailukohteena loppuvedon
 aloittamiskorkeuden arviointia varten. Vältä kaukaa kuvaamista ja zoomin

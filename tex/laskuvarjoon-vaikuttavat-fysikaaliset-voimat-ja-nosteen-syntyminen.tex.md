@@ -61,13 +61,13 @@ asetuskulma suurenee ja takimmaisista pienenee. Asetuskulma asettaa
 siipiprofiilin jänteen tiettyyn kulmaan ilmavirran (relative wind)
 kanssa, ja tätä kulmaa kutsutaan **kohtauskulmaksi** (angle of attack).
 
-![image](Laskuvarjon_kulmat.png){width="99.00000%"}
+![image](/kuvat/Laskuvarjon_kulmat.png){width="99.00000%"}
 
 Kohtauskulma on kuvun jänteen ja siihen osuvan ilmavirran välinen kulma.
 Laskuvarjon kohtauskulmaa voidaan muuttaa joko jarruttamalla varjoa tai
 siirtämällä painopisteen sijaintia kuvun alapuolella.
 
-\[\]![image](Kohtauskulma.png){width="90.00000%"}
+![image](/kuvat/Kohtauskulma.png){width="90.00000%"}
 
 Kohtauskulmaa voi muuttaa myös nopeilla ohjausliikkeillä, joko jarruja
 tai kantohihnoja käyttäen. Nopea ohjausliike aiheuttaa varjon

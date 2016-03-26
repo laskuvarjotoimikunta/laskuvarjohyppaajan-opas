@@ -133,7 +133,7 @@ käännöksen, menee huomattavasti aikaa ja korkeutta ennen kuin saat
 varjon taas täysin takaisin hallintaasi. Yli 180 asteen käännökset ovat
 äärimmäisen vaarallisia.
 
-![image](Lentoradat.jpeg){width="99.00000%"}
+![image](/kuvat//kuvat/Lentoradat.jpeg){width="99.00000%"}
 
 1.  Suora lähestyminen ja normaali loppuveto. Turvallisin
     tapa laskeutua.
@@ -306,7 +306,7 @@ ominaisuuksista. Tällöin hyppääjän paino siirtyy kuvun alla eteenpäin,
 varjon liikesuunta muuttuu ja se alkaa lentää vaakalentoa. Korkeus
 pidetään vetoa lisäämällä, jolloin myös vauhti hidastuu.
 
-![image](Oikeaoppinenloppuveto.png){width="90.00000%"}
+![image](/kuvat/Oikeaoppinenloppuveto.png){width="90.00000%"}
 
 Oikein suoritetussa fleerissä ohjauslenkit ovat vaakalennon aikana noin
 puolijarrutustilassa ja siten hyppääjällä on ohjauksen suhteen

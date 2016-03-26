@@ -20,7 +20,7 @@ Joukkueen suurin voimavara on hyvä yhteishenki. Yhteisten tavoitteiden
 asettaminen ja niihin määrätietoisesti pyrkiminen luovat perustan koko
 joukkueen kehittymiselle.
 
-![image](Neliway-ilmassa.jpeg){width="70.00000%"}
+![image](/kuvat/Neliway-ilmassa.jpeg){width="70.00000%"}
 
  Joukkueen jäsenet  {#4-way-joukkuehyppaaminen-joukkueen-jasenet}
 ===================
@@ -35,7 +35,7 @@ pidempänä matkana fluttereille.
 
 Tarkemmat tehtävät määräytyvät uloshyppypaikkojen mukaan:
 
-![image](4-way-paikat.png){width="95.00000%"}
+![image](/kuvat/4-way-paikat.png){width="95.00000%"}
 
 Kuvassa lentokoneen lentosuunta on merkitty nuolella. Uloshyppy toimii
 samalla tavoin riippumatta siitä, kummalla puolella lentokonetta ovi on.

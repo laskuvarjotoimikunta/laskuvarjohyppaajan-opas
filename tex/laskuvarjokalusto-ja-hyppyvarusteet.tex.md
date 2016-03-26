@@ -1,14 +1,14 @@
  Laskuvarjokokonaisuus  {#laskuvarjokalusto-ja-hyppyvarusteet-laskuvarjokokonaisuus}
 =======================
 
-\[\]![image](Paavarjon-osat.jpg){width="70.00000%"}
+![image](/kuvat/Paavarjon-osat.jpg){width="70.00000%"}
 
 Laskuvarjokokonaisuuteen kuuluu reppu-valjasyhdistelmä sekä kaksi
 varjoa: pää- ja varavarjo. Molemmat näistä ovat liitovarjoja, jotka ovat
 muodoltaan siiven kaltaisia. Niiden liitosuhde on noin 3:1, eli
 liitäessään kolme metriä eteenpäin varjo vajoaa metrin.
 
-![image](Reppu-valjas-etu.png){width="70.00000%"}
+![image](/kuvat/Reppu-valjas-etu.png){width="70.00000%"}
 
  Päävarjo  {#laskuvarjokalusto-ja-hyppyvarusteet-paavarjo}
 ----------
@@ -31,11 +31,11 @@ tarvittaessa on tehtävä maahantulokierähdys.
  Reppu-valjasyhdistelmä  {#laskuvarjokalusto-ja-hyppyvarusteet-reppu-valjasyhdistelma}
 ========================
 
-![image](Reppuvaljasyhdistelma.png){width="60.00000%"}
+![image](/kuvat/Reppuvaljasyhdistelma.png){width="60.00000%"}
 
-![image](Reppu-nova.pdf){width="60.00000%"}
+![image](/kuvat/Reppu-nova.pdf){width="60.00000%"}
 
-![image](Reppu-pl.pdf){width="60.00000%"}
+![image](/kuvat/Reppu-pl.pdf){width="60.00000%"}
 
  Lisälaitteet  {#laskuvarjokalusto-ja-hyppyvarusteet-lisalaitteet}
 ==============
@@ -58,9 +58,9 @@ pakkolaukaisuhihnasta ja avaa varavarjon. Varavarjon pakkolaukaisuhihna
 on kuitenkin vain apuväline. Hyppääjän on aina avattava varavarjo
 vetämällä varavarjon kahvasta!
 
-![image](Kolmirengaslukko.jpg){width="70.00000%"}
+![image](/kuvat/Kolmirengaslukko.jpg){width="70.00000%"}
 
-![image](Kolmirengaslukko-auki.jpeg){width="70.00000%"}
+![image](/kuvat/Kolmirengaslukko-auki.jpeg){width="70.00000%"}
 
 Toinen lisälaite varavarjon aukaisuun on automaattilaukaisin (Automatic
 Activation Device, AAD). Käytössä on kahta eri tyyppiä: mekaaninen (FXC)
@@ -79,7 +79,7 @@ FXC:n JUMP/OFF-nuppi käännetään OFF-asentoon:
 -   Laskeuduttaessa veteen
     (\[mahdolliset-vaaratilanteet-laskeutuminen-veteen\] s.)
 
-![image](AAD-Cypres.jpg){width="70.00000%"}
+![image](/kuvat/AAD-Cypres.jpg){width="70.00000%"}
 
  Muut hyppytoiminnassa käytettävät varusteet  {#laskuvarjokalusto-ja-hyppyvarusteet-muut-hyppytoiminnassa-kaytettavat-varusteet}
 =============================================

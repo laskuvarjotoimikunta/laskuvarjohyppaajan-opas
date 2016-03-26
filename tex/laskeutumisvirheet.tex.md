@@ -55,9 +55,9 @@ suojautumisansa, jolloin kädellä vaistomaisesti suojataan liikesuunnan
 sivuttaismuutosta. Yleensä oikeakätinen vetää oikealla kädellä enemmän
 ja päinvastoin.
 
-![image](Loppuveto_epatasainen.jpeg){width="99.00000%"}
+![image](/kuvat/Loppuveto_epatasainen.jpeg){width="99.00000%"}
 
-![image](Loppuveto_ylhaalla.jpeg){width="99.00000%"}
+![image](/kuvat/Loppuveto_ylhaalla.jpeg){width="99.00000%"}
 
  Loppuveto liian aikaisin tai liian myöhään  {#laskeutumisvirheet-loppuveto-liian-aikaisin-tai-liian-myohaan}
 ============================================
@@ -72,7 +72,7 @@ syvälle voi sakata varjon. Silloin on vaarana putoaminen maahan
 selälleen. Jos teet loppuvedon liian aikaisin, pidä kädet samalla
 tasolla ja varaudu kierähtämään.
 
-\[\]![image](Loppuveto-matala-pondi.pdf){width="90.00000%"}
+![image](/kuvat/Loppuveto-matala-pondi.pdf){width="90.00000%"}
 
 Liian myöhään tehty loppuveto ei ehdi kääntää varjon liikesuuntaa
 vaakalentoon, ja seurauksena on kova lasku.
@@ -86,7 +86,7 @@ alhaalla ja hyppääjän painopisteen siirtyminen eteenpäin aiheuttaa
 vaistomaisen refleksin suojata kaatumista käsillä. Pelivara on käytetty
 loppuun ja varjo sakkaa taakse.
 
-![image](Loppuveto-sakkaus.jpeg){width="99.00000%"}
+![image](/kuvat/Loppuveto-sakkaus.jpeg){width="99.00000%"}
 
  Ei ohjata loppuun asti  {#laskeutumisvirheet-ei-ohjata-loppuun-asti}
 ========================
@@ -100,7 +100,7 @@ pysähdyttyä kokonaan.
  Suojautumisansa  {#laskeutumisvirheet-suojautumisansa}
 =================
 
-\[\]![image](Loppuveto-suojautumisansa.pdf){width="90.00000%"}
+![image](/kuvat/Loppuveto-suojautumisansa.pdf){width="90.00000%"}
 
 Suojautumisansassa hyppääjä suojaa vaistomaisesti kaatumista käsillään
 tai jaloillaan. Kun ohjauslenkit ovat käsissä ja painopiste siirtyy,
@@ -118,7 +118,7 @@ seuraa suojautumisansa. Tämä korostuu esimerkiksi skysurf-laudalla
 hypätessä, jolloin alavartaloa ei voi käyttää tasapainon pitämiseen.
 Tasapainoansa on ihmisen luontainen refleksi.
 
-![image](Tasapainoansa.jpeg){width="70.00000%"}
+![image](/kuvat/Tasapainoansa.jpeg){width="70.00000%"}
 
  Kädet nousevat ylös jalkojen koskettaessa maata  {#laskeutumisvirheet-kadet-nousevat-ylos-jalkojen-koskettaessa-maata}
 =================================================
@@ -138,7 +138,7 @@ pysyvät mahdollisimman liikkumatta. Käsien heiluttaminen juoksun
 tahdissa vaikuttaa suoraan varjon lentämiseen ja seurauksena voi olla
 varjon kaatuminen sivulle.
 
-![image](Laskeutuminen_kadet_liikkuvat.jpeg){width="70.00000%"}
+![image](/kuvat/Laskeutuminen_kadet_liikkuvat.jpeg){width="70.00000%"}
 
  Jalat nousevat ylös loppuvedossa  {#laskeutumisvirheet-jalat-nousevat-ylos-loppuvedossa}
 ==================================
@@ -148,4 +148,4 @@ vetävät loppuvedon. Seurauksena on laskeutuminen istualleen. Keskity
 kuvun ohjaamiseen nostamatta jalkoja. Kovassa laskussa takamukselle
 selkäranka voi saada vaurioita.
 
-![image](Laskeutuminen_jalat_ylos.jpeg){width="70.00000%"}
+![image](/kuvat/Laskeutuminen_jalat_ylos.jpeg){width="70.00000%"}

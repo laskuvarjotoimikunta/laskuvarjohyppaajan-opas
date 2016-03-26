@@ -53,7 +53,7 @@ pienetkin liikkeet ovat tehokkaita. Käsillä työskennellään boxiin
 verrattuna luonnollisemmassa asennossa, kun kädet ovat ylävartalon
 edessä.
 
-![image](Mantis.png){width="95.00000%"}
+![image](/kuvat/Mantis.png){width="95.00000%"}
 
  Mantiksen harjoittelu  {#fs-hyppaamisen-perusteet-mantiksen-harjoittelu}
 -----------------------
@@ -67,7 +67,7 @@ ovat kaikki 2-way hypyt. Sidebody-hypyt ovat erityisen hyviä
 harjoituksia, koska oikea asento tulee luonnostaan, kun pyritään
 katsomaan toisen hyppääjän selän yli.
 
-![image](Sidebody-harjoittelu.png){width="95.00000%"}
+![image](/kuvat/Sidebody-harjoittelu.png){width="95.00000%"}
 
  Turvallisuus  {#fs-hyppaamisen-perusteet-turvallisuus}
 ==============

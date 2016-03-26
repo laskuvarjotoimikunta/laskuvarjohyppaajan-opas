@@ -103,7 +103,7 @@ Uloshyppypaikka valitaan ajautuman verran tuulen yläpuolelta
 laskeutumisalueeseen nähden. Lentäjälle ja muille hyppääjille näytetään
 paikka koneessa olevalta kartalta tai kerrotaan paikka sanallisesti.
 
-![image](Paikanmaaritys.jpeg){width="99.00000%"}
+![image](/kuvat/Paikanmaaritys.jpeg){width="99.00000%"}
 
  Linjan määritys  {#uloshyppypaikan-maaritys-linjan-maaritys}
 =================

@@ -117,7 +117,7 @@ alastulossa ja valmistaudu kovaan alastuloon.
 
 **Älä päästä päävarjoa irti!**
 
-![image](2-kupua-biplane.jpeg){width="95.00000%"}
+![image](/kuvat/2-kupua-biplane.jpeg){width="95.00000%"}
 
 ###  Varjot vierekkäin (side-by-side)  {#mahdolliset-vaaratilanteet-varjot-vierekkain-side-by-side}
 
@@ -127,7 +127,7 @@ ohjausliikkeillä takimmaisista kantohihnoista. Älä avaa puolijarruja.
 
 **Älä päästä päävarjoa irti!**
 
-![image](2-kupua-sidebyside.jpeg){width="95.00000%"}
+![image](/kuvat/2-kupua-sidebyside.jpeg){width="95.00000%"}
 
 ###  Varjot sivuilla, vajoavat nopeasti (downplane)  {#mahdolliset-vaaratilanteet-varjot-sivuilla-vajoavat-nopeasti-downplane}
 
@@ -136,7 +136,7 @@ vierekkäin -muodostelmaan.
 
 **Päästä päävarjo irti!**
 
-![image](2-kupua-downplane.jpeg){width="95.00000%"}
+![image](/kuvat/2-kupua-downplane.jpeg){width="95.00000%"}
 
  Törmääminen varjon varassa  {#mahdolliset-vaaratilanteet-tormaaminen-varjon-varassa}
 ----------------------------

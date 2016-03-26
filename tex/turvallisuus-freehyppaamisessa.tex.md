@@ -135,7 +135,7 @@ huomioon, ettei uloshypyssä otettava ote tai raajan liike pääse repimään
 vahingossa esimerkiksi varavarjon kahvaa irti kiinnityksestään tai
 hyppykaverisi apuvarjoa ulos taskusta.
 
-\[\]![image](Killzone.pdf){width="80.00000%"}
+![image](/kuvat/Killzone.pdf){width="80.00000%"}
 
  Toiminta vapaassa  {#turvallisuus-freehyppaamisessa-toiminta-vapaassa}
 ===================
@@ -269,11 +269,11 @@ varjon varassa. Tällä toimenpiteellä saatat ehkäistä päällekkäisiä
 avauksia ja törmäyksiä vapaassa olevien ja varjon varassa olevien
 hyppääjien välillä.
 
-\[\]![image](Liukumislinja-viimeisena-sivutuuli.jpeg){width="80.00000%"}
+![image](/kuvat/Liukumislinja-viimeisena-sivutuuli.jpeg){width="80.00000%"}
 
-\[\]![image](Liukumislinja-ensimmaisena.jpeg){width="80.00000%"}
+![image](/kuvat/Liukumislinja-ensimmaisena.jpeg){width="80.00000%"}
 
-\[\]![image](Liukumislinja-viimeisena-vastatuuli.jpeg){width="80.00000%"}
+![image](/kuvat/Liukumislinja-viimeisena-vastatuuli.jpeg){width="80.00000%"}
 
  Kulmahypyn suunnittelu  {#turvallisuus-freehyppaamisessa-kulmahypyn-suunnittelu}
 ========================
@@ -347,7 +347,7 @@ nopeutta kuin muu ryhmä. Lisäksi sittiksessä ympäristön havainnointi on
 helpompaa kuin palloasennossa. Palloasentoa onkin syytä käyttää
 opetellessa sittistä.
 
-![image](FFRecoveryPosition.jpg){width="90.00000%"}
+![image](/kuvat/FFRecoveryPosition.jpg){width="90.00000%"}
 
  Tahaton liikkuminen vapaassa  {#turvallisuus-freehyppaamisessa-tahaton-liikkuminen-vapaassa}
 ------------------------------

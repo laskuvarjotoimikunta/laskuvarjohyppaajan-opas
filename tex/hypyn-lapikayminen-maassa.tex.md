@@ -12,7 +12,7 @@ perusasioiden hallintaan ja monimutkaiselta näyttävästä FS-hypystä
 pystyy löytämään jo oppilasaikana opetetut perusliikkeet. Oikotietä
 onneen ei ole eikä vauhti korjaa virheitä.
 
-![image](Neliway-maassa.jpeg){width="95.00000%"}
+![image](/kuvat/Neliway-maassa.jpeg){width="95.00000%"}
 
  Pystykuivat  {#hypyn-lapikayminen-maassa-pystykuivat}
 =============

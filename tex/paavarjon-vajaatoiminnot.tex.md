@@ -22,7 +22,7 @@ Tee varavarjotoimenpiteet!
  Lentää, Täysin kehittynyt  {#paavarjon-vajaatoiminnot-lentaa-taysin-kehittynyt}
 ===========================
 
-![image](Vajaatoiminnot-Lentaa-Taysin-kehittynyt.png){width="95.00000%"}
+![image](/kuvat/Vajaatoiminnot-Lentaa-Taysin-kehittynyt.png){width="95.00000%"}
 
 -   Kupu on säännöllisen muotoinen
 
@@ -35,7 +35,7 @@ Tee varavarjotoimenpiteet!
 
 ### Slider ylhäällä {#paavarjon-vajaatoiminnot-slider-ylhaalla}
 
-![image](Vajaatoiminnot-Lentaa-Slider-ylhaalla.png){width="95.00000%"}
+![image](/kuvat/Vajaatoiminnot-Lentaa-Slider-ylhaalla.png){width="95.00000%"}
 
 -   Pumppaa slider alas
 
@@ -43,7 +43,7 @@ Tee varavarjotoimenpiteet!
 
 ### Slider ylhäällä ja kierrettä {#paavarjon-vajaatoiminnot-slider-ylhaalla-ja-kierretta}
 
-![image](Vajaatoiminnot-Lentaa-Slider-ylhaalla-ja-Kierteita.png){width="95.00000%"}
+![image](/kuvat/Vajaatoiminnot-Lentaa-Slider-ylhaalla-ja-Kierteita.png){width="95.00000%"}
 
 -   Levitä kantohihnoja, potki kierre auki ja pumppaa slider alas
 
@@ -51,7 +51,7 @@ Tee varavarjotoimenpiteet!
 
 ### Reunatunnelit tukossa ja slider ylhäällä {#paavarjon-vajaatoiminnot-reunatunnelit-tukossa-ja-slider-ylhaalla}
 
-![image](Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla.png){width="95.00000%"}
+![image](/kuvat/Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla.png){width="95.00000%"}
 
 -   Pumppaa slider alas ja tunnelit auki
 
@@ -59,7 +59,7 @@ Tee varavarjotoimenpiteet!
 
 ### Reunatunneli tukossa, slider ylhäällä ja kierrettä punoksissa {#paavarjon-vajaatoiminnot-reunatunneli-tukossa-slider-ylhaalla-ja-kierretta-punoksissa}
 
-![image](Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla-ja-kierteita.png){width="95.00000%"}
+![image](/kuvat/Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla-ja-kierteita.png){width="95.00000%"}
 
 -   Levitä kantohihnoja, potki kierre auki, pumppaa slider alas ja
     tunneli auki
@@ -68,7 +68,7 @@ Tee varavarjotoimenpiteet!
 
 ### Avautumassa oleva varjo {#paavarjon-vajaatoiminnot-avautumassa-oleva-varjo}
 
-![image](Vajaatoiminnot-lentaa-avautumassa.png){width="95.00000%"}
+![image](/kuvat/Vajaatoiminnot-lentaa-avautumassa.png){width="95.00000%"}
 
 -   Pumppaa kupu tarvittaessa auki
 
@@ -79,11 +79,11 @@ Tee varavarjotoimenpiteet!
 
 ### Line over {#paavarjon-vajaatoiminnot-line-over}
 
-![image](Vajaatoiminnot-line-over.png){width="95.00000%"}
+![image](/kuvat/Vajaatoiminnot-line-over.png){width="95.00000%"}
 
 -   Tee varavarjotoimenpiteet.
 
-\[\]![image](VV-toimenpiteet.pdf){width="80.00000%"}
+![image](/kuvat/VV-toimenpiteet.pdf){width="80.00000%"}
 
  Varavarjon käyttö  {#paavarjon-vajaatoiminnot-varavarjon-kaytto}
 ===================
@@ -134,4 +134,4 @@ Tärkeät korkeudet:
 
 9.  Pidä vv-kahva kädessä tai päästä irti (kerhokohtainen)
 
-\[\]![image](VVkaavio.pdf){width="99.00000%"}
+![image](/kuvat/VVkaavio.pdf){width="99.00000%"}

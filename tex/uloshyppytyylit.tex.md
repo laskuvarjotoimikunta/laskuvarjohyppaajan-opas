@@ -49,7 +49,7 @@ uloshypystä maahantuloon asti.
  Suora uloshyppy  {#uloshyppytyylit-suora-uloshyppy}
 =================
 
-![image](UH-suora.png){width="70.00000%"}
+![image](/kuvat/UH-suora.png){width="70.00000%"}
 
  Streevakone  {#uloshyppytyylit-streevakone}
 -------------
@@ -101,7 +101,7 @@ uloshypystä maahantuloon asti.
  Sukellusuloshyppy  {#uloshyppytyylit-sukellusuloshyppy}
 ===================
 
-![image](UH-sukellus.png){width="70.00000%"}
+![image](/kuvat/UH-sukellus.png){width="70.00000%"}
 
  Streevakone  {#uloshyppytyylit-streevakone}
 -------------
@@ -162,7 +162,7 @@ vapaapudotussekunteja.
 
 Streevalla tai pyörällä istuminen on ehdottomasti **kielletty**.
 
-![image](UH-FS.jpeg){width="95.00000%"}
+![image](/kuvat/UH-FS.jpeg){width="95.00000%"}
 
  Muut uloshypyt  {#uloshyppytyylit-muut-uloshypyt}
 ================

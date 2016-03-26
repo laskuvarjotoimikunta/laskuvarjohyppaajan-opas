@@ -66,7 +66,7 @@ ovat seuraavia:
 -   lisävarusteet (tukahdutettava slider ja tukahtuva apuvarjo) vaativat
     huolellisuutta pakkaamisessa ja lentämisessä.
 
-\[\]![image](MARD.jpg){width="70.00000%"}
+![image](/kuvat/MARD.jpg){width="70.00000%"}
 
  Muut varusteet  {#omiin-varusteisiin-siirtyminen-muut-varusteet}
 ================

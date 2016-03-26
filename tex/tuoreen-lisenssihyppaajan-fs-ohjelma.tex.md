@@ -33,26 +33,26 @@ Harjoitellaan 2- tai 3-wayna esim. speedstarina:
 
 -   Star - Arrowhead - Star
 
-![image](2-way-star.pdf){width="70.00000%"}
+![image](/kuvat/2-way-star.pdf){width="70.00000%"}
 
-![image](2-way-open-accordion.pdf){width="70.00000%"}
+![image](/kuvat/2-way-open-accordion.pdf){width="70.00000%"}
 
-![image](2-way-accordion.pdf){width="45.00000%"}
+![image](/kuvat/2-way-accordion.pdf){width="45.00000%"}
 
-![image](Sidebody.pdf){width="55.00000%"}
+![image](/kuvat/Sidebody.pdf){width="55.00000%"}
 
-![image](Caterpillar.pdf){width="60.00000%"}
+![image](/kuvat/Caterpillar.pdf){width="60.00000%"}
 
-![image](2-way-stairstep.pdf){width="45.00000%"}
+![image](/kuvat/2-way-stairstep.pdf){width="45.00000%"}
 
-![image](3-way-star.pdf){width="65.00000%"}
+![image](/kuvat/3-way-star.pdf){width="65.00000%"}
 
-![image](3-way-sidebody.pdf){width="55.00000%"}
+![image](/kuvat/3-way-sidebody.pdf){width="55.00000%"}
 
-![image](3-way-open-accordion.pdf){width="55.00000%"}
+![image](/kuvat/3-way-open-accordion.pdf){width="55.00000%"}
 
-![image](3-way-accordion.pdf){width="55.00000%"}
+![image](/kuvat/3-way-accordion.pdf){width="55.00000%"}
 
-![image](3-way-donut.pdf){width="55.00000%"}
+![image](/kuvat/3-way-donut.pdf){width="55.00000%"}
 
-![image](3-way-arrowhead.pdf){width="50.00000%"}
+![image](/kuvat/3-way-arrowhead.pdf){width="50.00000%"}

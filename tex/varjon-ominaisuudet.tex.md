@@ -31,7 +31,7 @@ keskimääräiseen jänteeseen. Elliptisillä kuvuilla, joilla siis jänne ei
 ole vakio, sivusuhde lasketaan kärkivälin neliön ja kuvun pinta-alan
 suhteena (Span² / area).
 
-\[\]![image](Sivusuhde.jpeg){width="90.00000%"}
+![image](/kuvat/Sivusuhde.jpeg){width="90.00000%"}
 
 Seuraavalla sivulla olevassa kuvassa on erimuotoisia kupuja, jotka ovat
 samankokoisia, mutta joiden sivusuhteet ovat erilaiset. Vasemmalla
@@ -182,7 +182,7 @@ monimutkaisen rakenteen takia sekä suurempi pakkaustilavuus.
 Ristituettuja tri-cell-varjoja ovat esimerkiksi PD Velocity, Icarus
 Extreme VX/FX sekä Precision Aerodynamics Xaos 21/27.
 
-![image](Tunneli-perinteinen-xbrace.jpeg){width="70.00000%"}
+![image](/kuvat/Tunneli-perinteinen-xbrace.jpeg){width="70.00000%"}
 
 Ilmalukoilla (airlocks) pyritään myös vaikuttamaan kuvun tukevuuteen.
 Ilmalukot ovat kuvun etureunassa tunneliaukkojen suulla oleva kankainen

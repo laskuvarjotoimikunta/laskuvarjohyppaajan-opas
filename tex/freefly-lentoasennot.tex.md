@@ -48,7 +48,7 @@ pysyy stabiilina eikä nyöki. Alussa asentoa on helpoin ohjata
 käsivarsilla ja kämmenillä. Kun taitosi kasvavat, ohjailu sujuu
 tehokkaimmin muuttamalla vartalon asentoa hartialinjasta jalkoihin.
 
-![image](Liukuasento.jpeg){width="95.00000%"}
+![image](/kuvat/Liukuasento.jpeg){width="95.00000%"}
 
 Jokaiselle hyppääjälle sopivin liukuasento löytyy kokeilemalla. Asento
 vaihtelee muun muassa ruumiinrakenteesta johtuen. Myös tavat säädellä
@@ -93,7 +93,7 @@ putoamisvauhtia. Yleinen ongelma on se, että selällään liukuja yrittää
 katsoa perässä tulevia, jolloin pää nousee ylemmäs ja lantio tipahtaa
 alemmas.
 
-![image](Liukuasento-selallaan.jpeg){width="90.00000%"}
+![image](/kuvat/Liukuasento-selallaan.jpeg){width="90.00000%"}
 
  Head-up / Sittis (sitfly)  {#freefly-lentoasennot-head-up-sittis-sitfly}
 ===========================
@@ -136,7 +136,7 @@ liikkumiseen. Jalat ovat polvien kohdalta 90 asteen kulmassa, eli sääret
 ovat poissa reisien alta ja jalkapohjat ovat ilmavirtaa vasten. Tässä
 asennossa putoat paikallaan.
 
-![image](Sittis.jpeg){width="95.00000%"}
+![image](/kuvat/Sittis.jpeg){width="95.00000%"}
 
 Voit harjoitella sittisasentoa istumalla tuolilla hajareisin. Pidä selkä
 suorana ja käsivarret sivuille ojennettuina. Tarkista 90 asteen kulmat.
@@ -161,7 +161,7 @@ eteenpäin, ja sen hallittu pysäyttäminen vaatii vastaliikkeen. Asento on
 myös hyvin epävakaa, joten harjoittele sitä aluksi hyvällä etäisyydellä
 muista hyppääjistä.
 
-![image](Sittis-sivulta.jpeg){width="70.00000%"}
+![image](/kuvat/Sittis-sivulta.jpeg){width="70.00000%"}
 
 Painamalla lantiota taaksepäin ja ylävartaloa eteenpäin liikut
 taaksepäin. Taaksepäin liikkuessa korostuu jalkojen hartioita leveämpi
@@ -170,7 +170,7 @@ ylävartaloon tehostaen taaksepäin menevää liikettä. Mikäli reitesi ovat
 liian lähellä toisiaan, muodostuu jaloista ja rintakehästä sinua
 ylöspäin nostava kuppi, jolloin liikut sekä taaksepäin että ylöspäin.
 
-![image](Sittis-taaksepain.jpeg){width="70.00000%"}
+![image](/kuvat/Sittis-taaksepain.jpeg){width="70.00000%"}
 
  Liikkuminen ylös- ja alaspäin sittiksessä  {#freefly-lentoasennot-liikkuminen-ylos-ja-alaspain-sittiksessa}
 -------------------------------------------
@@ -285,7 +285,7 @@ seisomaan päällesi etuvoltin kautta). Kun olet päälläsi:
 -   Muista hengittää! Jos sinusta tuntuu, että mikään ei onnistu, vedä
     syvään henkeä, rentoudu ja yritä uudelleen.
 
-![image](Headdown-straddle.jpeg){width="95.00000%"}
+![image](/kuvat/Headdown-straddle.jpeg){width="95.00000%"}
 
 Hetukka-asentoon pääseminen suoraan uloshypystä on helpointa, jos
 kiipeät ovella ulos niin, että selkäsi tai rintakehäsi on valmiiksi
@@ -330,7 +330,7 @@ Lennettäessä pää alaspäin Daffy on hyvin monikäyttöinen lentoasento.
 Daffyssä voit helposti säädellä nopeutta, paikkaa ja sekä lentää otetta.
 Pidä katse horisontissa, muista hengittää ja olla rento.
 
-![image](Daffy.jpeg){width="95.00000%"}
+![image](/kuvat/Daffy.jpeg){width="95.00000%"}
 
  Shelf  {#freefly-lentoasennot-shelf}
 -------
@@ -403,7 +403,7 @@ hidastavat näin putoamisvauhtia. Daffyssa kädet jäävät vielä rennoksi
 otteita varten, mutta niitä voi myös levittää hidastumisen
 tehostamiseksi.
 
-![image](Daffy-sivulta.jpeg){width="95.00000%"}
+![image](/kuvat/Daffy-sivulta.jpeg){width="95.00000%"}
 
 Kun pyrit pitämään pään samalla tasolla muiden hyppääjien kanssa, alat
 vähitellen oppia luontaisesti korjaamaan putoamisnopeuttasi verrattuna
@@ -434,7 +434,7 @@ kiintopistettä tai kanssahyppääjää, koska jalkakäännös kääntyy nopeamm
 kuin hartioilla tehty käännös. Ota lopuksi kiintopisteen tai
 kanssahyppääjän kohdalla normaali rento lentoasento.
 
-\[\]![image](Headdown-ryhma.jpeg){width="95.00000%"}
+![image](/kuvat/Headdown-ryhma.jpeg){width="95.00000%"}
 
  Otteet  {#freefly-lentoasennot-otteet}
 --------
