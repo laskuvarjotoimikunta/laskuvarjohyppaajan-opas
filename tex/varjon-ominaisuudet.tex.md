@@ -12,7 +12,7 @@ saat sen käyttäytymään niin kuin haluat sen käyttäytyvän. Muista, että
 mitään varjoa ei ole pakko kuormata raskaasti, jotta sen saisi
 laskeutumaan ja lentämään kunnolla.
 
- Sivusuhde ja tunnelimäärä  {#varjon-ominaisuudet-sivusuhde-ja-tunnelimaara}
+ Sivusuhde ja tunnelimäärä  
 ===========================
 
 Yksi kuvun rakenteen perusasioista on sen tunneleiden määrä. Useimmat
@@ -31,7 +31,7 @@ keskimääräiseen jänteeseen. Elliptisillä kuvuilla, joilla siis jänne ei
 ole vakio, sivusuhde lasketaan kärkivälin neliön ja kuvun pinta-alan
 suhteena (Span² / area).
 
-![image](/kuvat/Sivusuhde.jpeg){width="90.00000%"}
+![image](/kuvat/Sivusuhde.jpeg)
 
 Seuraavalla sivulla olevassa kuvassa on erimuotoisia kupuja, jotka ovat
 samankokoisia, mutta joiden sivusuhteet ovat erilaiset. Vasemmalla
@@ -81,7 +81,7 @@ nopeuksilla. Tästä johtuen esimerkiksi tarkkuusvarjot ovat 7-tunnelisia.
 7-tunnelinen varjo on myös vakaampi turbulenteissa olosuhteissa, koska
 paineistus reunatunneleissa on parempi.
 
- Elliptisyys  {#varjon-ominaisuudet-elliptisyys}
+ Elliptisyys  
 =============
 
 Elliptisellä varjolla tarkoitetaan sellaista varjoa, jossa kaikki
@@ -127,7 +127,7 @@ ovat keskitunneleita lyhyempiä, pysyvät ne myös paremmin
 paineistettuina. Elliptiset varjot reagoivat yleensä ohjausliikkeisiin
 helpommin ja ovat herkempiä ohjattavia kuin ei-elliptiset.
 
- Kuvun siipiprofiili  {#varjon-ominaisuudet-kuvun-siipiprofiili}
+ Kuvun siipiprofiili  
 =====================
 
 Kuvun profiililla (tai siipiprofiililla) tarkoitetaan kuvun
@@ -151,7 +151,7 @@ varjoilla ei usein voida (ei kannata) lentää suurilla (&gt;1,5)
 siipikuormilla, kun taas nykyaikaisille varjoille kyseiset kuormat ovat
 arkipäivää.
 
- Muut varjojen rakenteelliset ominaisuudet  {#varjon-ominaisuudet-muut-varjojen-rakenteelliset-ominaisuudet}
+ Muut varjojen rakenteelliset ominaisuudet  
 ===========================================
 
 Nykyaikaisissa laskuvarjoissa on myös eräitä niiden suorituskykyyn ja
@@ -182,7 +182,7 @@ monimutkaisen rakenteen takia sekä suurempi pakkaustilavuus.
 Ristituettuja tri-cell-varjoja ovat esimerkiksi PD Velocity, Icarus
 Extreme VX/FX sekä Precision Aerodynamics Xaos 21/27.
 
-![image](/kuvat/Tunneli-perinteinen-xbrace.jpeg){width="70.00000%"}
+![image](/kuvat/Tunneli-perinteinen-xbrace.jpeg)
 
 Ilmalukoilla (airlocks) pyritään myös vaikuttamaan kuvun tukevuuteen.
 Ilmalukot ovat kuvun etureunassa tunneliaukkojen suulla oleva kankainen
@@ -195,7 +195,7 @@ loppuvaiheessa. Huonona puolena ovat suuremmat valmistuskustannukset ja
 suurempi pakkaustilavuus. Ilmalukollisia kupuja valmistaa lähinnä
 USA:lainen Big Air Sportz (Lotus, Samurai, Sensei).
 
- Muut laskuvarjon aerodynamiikkaan vaikuttavat tekijät  {#varjon-ominaisuudet-muut-laskuvarjon-aerodynamiikkaan-vaikuttavat-tekijat}
+ Muut laskuvarjon aerodynamiikkaan vaikuttavat tekijät  
 =======================================================
 
 Edellisessä kappaleessa käsiteltiin muutamia kupujen rakenteellisia

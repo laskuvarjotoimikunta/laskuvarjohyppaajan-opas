@@ -1,4 +1,4 @@
- Hyppysuoritukset, NOVA  {#yhteenveto-peruskoulutus-hyppysuoritukset-nova}
+ Hyppysuoritukset, NOVA  
 ========================
 
 -   8” lyhyt vapaa (\[nova-peruskoulutuksen-suoritukset-8\] s.)
@@ -12,7 +12,7 @@
 
 -   FS-liuku (\[peruskoulutuksen-muut-suoritukset-fs-liuku\] s.)
 
- Hyppysuoritukset, PL  {#yhteenveto-peruskoulutus-hyppysuoritukset-pl}
+ Hyppysuoritukset, PL  
 ======================
 
 -   15” (\[pl-peruskoulutuksen-suoritukset-15\] s.)
@@ -35,7 +35,7 @@
 
 -   FS-liuku (\[peruskoulutuksen-muut-suoritukset-fs-liuku\] s.)
 
- Muut suoritukset  {#yhteenveto-peruskoulutus-muut-suoritukset}
+ Muut suoritukset  
 ==================
 
 -   5 paikanmääritystä, laskeutuminen kouluttajan osoittamalle alueelle
@@ -47,7 +47,7 @@
     *Jatkokoulutuksen suoritukset*
     (\[jatkokoulutuksen-suoritukset\] s.).
 
- Suoritusten aikarajat  {#yhteenveto-peruskoulutus-suoritusten-aikarajat}
+ Suoritusten aikarajat  
 =======================
 
 Jos peruskoulutuksen aikana oppilaalle tulee 30 vrk tai sitä pidempi

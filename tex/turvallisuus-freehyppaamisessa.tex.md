@@ -9,10 +9,10 @@ Törmäämiset vapaassa suurella nopeudella saattavat vahingoittaa sinua
 tai toista hyppääjää vakavasti. Tässä luvussa käsitellään muun muassa
 edellä mainittuja turvallisuuteen liittyviä asioita.
 
- Varusteet  {#turvallisuus-freehyppaamisessa-varusteet}
+ Varusteet  
 ===========
 
- Reppu-valjasyhdistelmä  {#turvallisuus-freehyppaamisessa-reppu-valjasyhdistelma}
+ Reppu-valjasyhdistelmä  
 ------------------------
 
 Huolehdi, että laskuvarjosi on hyvässä kunnossa. Laskuvarjokokonaisuuden
@@ -76,7 +76,7 @@ Freefly-hypyllä ei suositella käytettäväksi reppu-valjas-yhdistelmää:
 
 Oppilaskalustoa saa käyttää vain kouluttajan luvalla.
 
- Muut varusteet  {#turvallisuus-freehyppaamisessa-muut-varusteet}
+ Muut varusteet  
 ----------------
 
 Freefly-hypyllä muiden varusteiden osalta on huomioitava seuraavia
@@ -110,7 +110,7 @@ asioita, jotka ovat joko pakollisia tai suositeltavia:
 -   Koukkupuukon on oltava helposti saatavilla (kuten
     muissakin hyppylajeissa).
 
- Toiminta uloshypyssä  {#turvallisuus-freehyppaamisessa-toiminta-uloshypyssa}
+ Toiminta uloshypyssä  
 ======================
 
 Suositeltava minimi uloshyppykorkeus freefly-hypyllä on yli 3000 m.
@@ -135,9 +135,9 @@ huomioon, ettei uloshypyssä otettava ote tai raajan liike pääse repimään
 vahingossa esimerkiksi varavarjon kahvaa irti kiinnityksestään tai
 hyppykaverisi apuvarjoa ulos taskusta.
 
-![image](/kuvat/Killzone.pdf){width="80.00000%"}
+![image](/kuvat/Killzone.pdf)
 
- Toiminta vapaassa  {#turvallisuus-freehyppaamisessa-toiminta-vapaassa}
+ Toiminta vapaassa  
 ===================
 
 Freefly-hypyllä on huomioitava, että putoamisvauhti on huomattavasti
@@ -190,7 +190,7 @@ selvästi erilleen aikaisemmin hypänneiden hyppääjien hyppylinjasta. Älä
 koskaan suuntaa liukua suoraan hyppylinjan päälle tai aikaisemmin
 hypänneiden hyppääjien yläpuolelle!
 
- Törmääminen vapaassa  {#turvallisuus-freehyppaamisessa-tormaaminen-vapaassa}
+ Törmääminen vapaassa  
 ======================
 
 Vältä kovavauhtista törmäämistä kaikin mahdollisin keinoin. Voit välttää
@@ -203,7 +203,7 @@ Tarkista törmäyksen jälkeen itsesi, varusteesi ja kaverisi. Mikäli
 loukkasit itsesi tai varusteissasi ilmenee poikkeavaa, pura hyppy ja
 keskity avaamiseen.
 
- Toiminta purkukorkeudessa ja varjon avaamisen jälkeen  {#turvallisuus-freehyppaamisessa-toiminta-purkukorkeudessa-ja-varjon-avaamisen-jalkeen}
+ Toiminta purkukorkeudessa ja varjon avaamisen jälkeen  
 =======================================================
 
 Purkumerkki ja -korkeus on sovittava maassa ennen freefly-ryhmähyppyä.
@@ -269,13 +269,13 @@ varjon varassa. Tällä toimenpiteellä saatat ehkäistä päällekkäisiä
 avauksia ja törmäyksiä vapaassa olevien ja varjon varassa olevien
 hyppääjien välillä.
 
-![image](/kuvat/Liukumislinja-viimeisena-sivutuuli.jpeg){width="80.00000%"}
+![image](/kuvat/Liukumislinja-viimeisena-sivutuuli.jpeg)
 
-![image](/kuvat/Liukumislinja-ensimmaisena.jpeg){width="80.00000%"}
+![image](/kuvat/Liukumislinja-ensimmaisena.jpeg)
 
-![image](/kuvat/Liukumislinja-viimeisena-vastatuuli.jpeg){width="80.00000%"}
+![image](/kuvat/Liukumislinja-viimeisena-vastatuuli.jpeg)
 
- Kulmahypyn suunnittelu  {#turvallisuus-freehyppaamisessa-kulmahypyn-suunnittelu}
+ Kulmahypyn suunnittelu  
 ========================
 
 Kun aloitat kulmahypyn suunnittelun, sinulla tulee olla ajantasaiset
@@ -311,10 +311,10 @@ reilusti jälkeen muista, lähde ajoissa pois ja ota välimatkaa muihin
 liukumatta kuitenkaan takaisin hyppylinjan päälle. Tämä sovitaan jo
 maassa ennen hypylle lähtöä.
 
- Turvallisuuteen liittyvä termejä  {#turvallisuus-freehyppaamisessa-turvallisuuteen-liittyva-termeja}
+ Turvallisuuteen liittyvä termejä  
 ==================================
 
- Korkkaus  {#turvallisuus-freehyppaamisessa-korkkaus}
+ Korkkaus  
 ----------
 
 Jos pitelet korkkia veden alla ja päästät siitä irti, korkki singahtaa
@@ -328,7 +328,7 @@ yllättäen hypyn aikana, hän voi osua yläpuolellaan oleviin hyppääjiin
 niin suurella vauhdilla, että siitä voi seurata vakava loukkaantuminen
 tai jopa kuolema.
 
- Palloasento  {#turvallisuus-freehyppaamisessa-palloasento}
+ Palloasento  
 -------------
 
 Korkkaamisen mahdollisuuden vuoksi on tärkeää harjoitella säilyttämään
@@ -347,9 +347,9 @@ nopeutta kuin muu ryhmä. Lisäksi sittiksessä ympäristön havainnointi on
 helpompaa kuin palloasennossa. Palloasentoa onkin syytä käyttää
 opetellessa sittistä.
 
-![image](/kuvat/FFRecoveryPosition.jpg){width="90.00000%"}
+![image](/kuvat/FFRecoveryPosition.jpg)
 
- Tahaton liikkuminen vapaassa  {#turvallisuus-freehyppaamisessa-tahaton-liikkuminen-vapaassa}
+ Tahaton liikkuminen vapaassa  
 ------------------------------
 
 Kun aloitat harjoittelun, liikut tietämättäsi varsin paljon. (Zooming)
@@ -360,7 +360,7 @@ paikallaan. Hän näkee, liikutko tahattomasti eteen- tai taaksepäin vai
 pysytkö paikallasi. Voit tehdä samanlaisen harjoituksen myös
 hyppykaverin kanssa, mikäli hän pysyy paikallaan sittiksessä.
 
- Kiertäminen  {#turvallisuus-freehyppaamisessa-kiertaminen}
+ Kiertäminen  
 -------------
 
 Kiertäminen (Orbiting) syntyy, kun kaksi hyppääjää lentää toisiaan

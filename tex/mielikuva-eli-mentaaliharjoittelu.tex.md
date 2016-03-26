@@ -1,4 +1,4 @@
- Hypyn hahmottaminen  {#mielikuva-eli-mentaaliharjoittelu-hypyn-hahmottaminen}
+ Hypyn hahmottaminen  
 =====================
 
 Koska laskuvarjohyppäämistä on vaikea harjoitella maassa ja
@@ -24,7 +24,7 @@ mielessä, lähinnä muistutukseksi - ei niinkään enää oppimismielessä.
 Hyppyä ei kuitenkaan kannata stressata liikaa, jotta ei aiheuta
 itselleen ylivirittynyttä oloa.
 
- Unohtelu eli brainlocking  {#mielikuva-eli-mentaaliharjoittelu-unohtelu-eli-brainlocking}
+ Unohtelu eli brainlocking  
 ===========================
 
 Hyppäämisessä puhutaan usein brainlockeista, joilla tarkoitetaan hypyn

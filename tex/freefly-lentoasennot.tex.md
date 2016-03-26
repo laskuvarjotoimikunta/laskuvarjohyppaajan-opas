@@ -3,7 +3,7 @@ saaduista perusteista. Ennen A-lisenssin saamista olet jo harjoitellut
 liukua ja sittisasentoa. Tässä luvussa kerrotaan syvällisemmin näistä
 lentoasennoista sekä hetukka- ja kulmalentämisestä.
 
- Kulma  {#freefly-lentoasennot-kulma}
+ Kulma  
 =======
 
 Liukuminen on kaikkien hyppääjien tuntema ja käyttämä tekniikka, mutta
@@ -26,7 +26,7 @@ Kulmaa voidaan lentää pää edellä mahallaan, pää edellä selällään, jal
 edellä mahallaan, jalat edellä selällään tai kyljellään. Kulmalentäminen
 hallitusti on aluksi vaikeaa.
 
- Maha maata kohti  {#freefly-lentoasennot-maha-maata-kohti}
+ Maha maata kohti  
 ------------------
 
 Hyvään kulma-asentoon pääset seuraavasti:
@@ -48,7 +48,7 @@ pysyy stabiilina eikä nyöki. Alussa asentoa on helpoin ohjata
 käsivarsilla ja kämmenillä. Kun taitosi kasvavat, ohjailu sujuu
 tehokkaimmin muuttamalla vartalon asentoa hartialinjasta jalkoihin.
 
-![image](/kuvat/Liukuasento.jpeg){width="95.00000%"}
+![image](/kuvat/Liukuasento.jpeg)
 
 Jokaiselle hyppääjälle sopivin liukuasento löytyy kokeilemalla. Asento
 vaihtelee muun muassa ruumiinrakenteesta johtuen. Myös tavat säädellä
@@ -70,7 +70,7 @@ seuraavassa on muutamia vinkkejä, joita voit kokeilla.
     pudota polvia. Vaakavauhtia lisäät kaventamalla asentoasi ja
     keskittymällä purevaan liukuasentoon.
 
- Selkä maata kohti  {#freefly-lentoasennot-selka-maata-kohti}
+ Selkä maata kohti  
 -------------------
 
 Selkäliuku vaatii hyvää vartalonhallinta ja vaatii myös taitoa lentää
@@ -93,9 +93,9 @@ putoamisvauhtia. Yleinen ongelma on se, että selällään liukuja yrittää
 katsoa perässä tulevia, jolloin pää nousee ylemmäs ja lantio tipahtaa
 alemmas.
 
-![image](/kuvat/Liukuasento-selallaan.jpeg){width="90.00000%"}
+![image](/kuvat/Liukuasento-selallaan.jpeg)
 
- Head-up / Sittis (sitfly)  {#freefly-lentoasennot-head-up-sittis-sitfly}
+ Head-up / Sittis (sitfly)  
 ===========================
 
 Freefly-hyppäämisen harjoittelu tulee aloittaa sittiksestä. Vasta kun
@@ -105,7 +105,7 @@ putoamisvauhti on vastaava kuin hetukkaa lennettäessä, mutta asento on
 helpompi hallita eikä siinä tapahdu niin paljon tahatonta liikkumista
 kuin päällään lennettäessä.
 
- Sittikseen pääseminen  {#freefly-lentoasennot-sittikseen-paaseminen}
+ Sittikseen pääseminen  
 -----------------------
 
 Uloshyppy suoraan sittikseen tapahtuu helpoiten selkä ilmavirtaan eli
@@ -122,7 +122,7 @@ Mahaltaan boxista voit nousta sittikseen vetämällä polvet rintaan,
 levittäen kädet symmetrisesti sivuille ja nojaamalla taaksepäin. Paina
 jalkapohjia ilmavirtaa vasten ja nosta asento istuvaksi.
 
- Sittiksen perusasento  {#freefly-lentoasennot-sittiksen-perusasento}
+ Sittiksen perusasento  
 -----------------------
 
 Sittiksen perusasennossa ylävartalosi on pystysuorassa ja katseesi
@@ -136,7 +136,7 @@ liikkumiseen. Jalat ovat polvien kohdalta 90 asteen kulmassa, eli sääret
 ovat poissa reisien alta ja jalkapohjat ovat ilmavirtaa vasten. Tässä
 asennossa putoat paikallaan.
 
-![image](/kuvat/Sittis.jpeg){width="95.00000%"}
+![image](/kuvat/Sittis.jpeg)
 
 Voit harjoitella sittisasentoa istumalla tuolilla hajareisin. Pidä selkä
 suorana ja käsivarret sivuille ojennettuina. Tarkista 90 asteen kulmat.
@@ -150,7 +150,7 @@ asentoon. Hypyn aikana sinun tulee tuntea ilmavirta jalkapohjissasi
 samaan tapaan kuin tunnet oman painosi jalkapohjissa seinää vasten
 istuessasi.
 
- Liikkuminen eteen-ja taaksepäin sittiksessä  {#freefly-lentoasennot-liikkuminen-eteen-ja-taaksepain-sittiksessa}
+ Liikkuminen eteen-ja taaksepäin sittiksessä  
 ---------------------------------------------
 
 Sittiksessä liikkuminen tapahtuu lantion avulla. Kun työnnät lantiota
@@ -161,7 +161,7 @@ eteenpäin, ja sen hallittu pysäyttäminen vaatii vastaliikkeen. Asento on
 myös hyvin epävakaa, joten harjoittele sitä aluksi hyvällä etäisyydellä
 muista hyppääjistä.
 
-![image](/kuvat/Sittis-sivulta.jpeg){width="70.00000%"}
+![image](/kuvat/Sittis-sivulta.jpeg)
 
 Painamalla lantiota taaksepäin ja ylävartaloa eteenpäin liikut
 taaksepäin. Taaksepäin liikkuessa korostuu jalkojen hartioita leveämpi
@@ -170,9 +170,9 @@ ylävartaloon tehostaen taaksepäin menevää liikettä. Mikäli reitesi ovat
 liian lähellä toisiaan, muodostuu jaloista ja rintakehästä sinua
 ylöspäin nostava kuppi, jolloin liikut sekä taaksepäin että ylöspäin.
 
-![image](/kuvat/Sittis-taaksepain.jpeg){width="70.00000%"}
+![image](/kuvat/Sittis-taaksepain.jpeg)
 
- Liikkuminen ylös- ja alaspäin sittiksessä  {#freefly-lentoasennot-liikkuminen-ylos-ja-alaspain-sittiksessa}
+ Liikkuminen ylös- ja alaspäin sittiksessä  
 -------------------------------------------
 
 Liikkuaksesi alaspäin eli nopeammin, laske reisiäsi lantioon nähden
@@ -189,7 +189,7 @@ menevän jääkiekon. Voit hidastaa vauhtia myös selkästabiililla, jolloin
 vauhti hidastuu huomattavasti, mutta pidä huoli, ettet korkkaa ja osu
 muihin hyppääjiin.
 
- Mikä voi mennä vikaan sittiksessä?  {#freefly-lentoasennot-mika-voi-menna-vikaan-sittiksessa}
+ Mikä voi mennä vikaan sittiksessä?  
 ------------------------------------
 
 Jos päädyt selällesi,
@@ -223,7 +223,7 @@ Jos pyörit holtittomasti:
 Jos joudut yllä mainitun kaltaiseen epästabiiliin tilaan, mene
 palloasentoon ja yritä uudelleen.
 
- Käännökset sittiksessä  {#freefly-lentoasennot-kaannokset-sittiksessa}
+ Käännökset sittiksessä  
 ------------------------
 
 Sittiksestä voit tehdä käännöksen seuraavalla tavalla. Ota kiintopiste
@@ -241,7 +241,7 @@ lavat. Näin tehtäessä käännös on voimakas ja asento epävakaampi.
 Harjoittelun alkuvaiheessa opettele käännös pelkästään käsiä käyttämällä
 niin kuin yllä on kuvailtu.
 
- Pää alaspäin lentäminen  {#freefly-lentoasennot-paa-alaspain-lentaminen}
+ Pää alaspäin lentäminen  
 =========================
 
 Pää alaspäin (head down, hetukka) lentämisessä on monia tyylejä ja
@@ -254,7 +254,7 @@ sinun on pystyttävä stabiloimaan lentoasentosi nopeasti sittikseen,
 jotta et korkkaa ja siten aiheuta muille tai itsellesi vaaraa ja
 loukkaantumisia.
 
- Head down asennon harjoittelu  {#freefly-lentoasennot-head-down-asennon-harjoittelu}
+ Head down asennon harjoittelu  
 -------------------------------
 
 Hetukan perusasento on straddle-asento. Suomeksi straddle tarkoittaa
@@ -285,7 +285,7 @@ seisomaan päällesi etuvoltin kautta). Kun olet päälläsi:
 -   Muista hengittää! Jos sinusta tuntuu, että mikään ei onnistu, vedä
     syvään henkeä, rentoudu ja yritä uudelleen.
 
-![image](/kuvat/Headdown-straddle.jpeg){width="95.00000%"}
+![image](/kuvat/Headdown-straddle.jpeg)
 
 Hetukka-asentoon pääseminen suoraan uloshypystä on helpointa, jos
 kiipeät ovella ulos niin, että selkäsi tai rintakehäsi on valmiiksi
@@ -311,7 +311,7 @@ uudelleen päällesi. Näin vauhtisi pysyy kohtuullisena ja voit
 kontrolloida tahatonta liikkumista. Kun harjoittelet hetukka-asentoa,
 tee se aina poikkilinjaan!
 
- Daffy  {#freefly-lentoasennot-daffy}
+ Daffy  
 -------
 
 Lennettäessä pää alaspäin daffy-asento on hyvin monikäyttöinen
@@ -330,9 +330,9 @@ Lennettäessä pää alaspäin Daffy on hyvin monikäyttöinen lentoasento.
 Daffyssä voit helposti säädellä nopeutta, paikkaa ja sekä lentää otetta.
 Pidä katse horisontissa, muista hengittää ja olla rento.
 
-![image](/kuvat/Daffy.jpeg){width="95.00000%"}
+![image](/kuvat/Daffy.jpeg)
 
- Shelf  {#freefly-lentoasennot-shelf}
+ Shelf  
 -------
 
 Shelf-asento on alunperin tuulitunnelissa kehitetty. Siinä jalat vievät
@@ -346,7 +346,7 @@ yhtä ainoaa oikeaa asentoa. Kuitenkin head downia opetellessa kannattaa
 ensin opetella yksi jalkojen asento ja liikkuminen siinä ja sen jälkeen
 lähteä opettelemaan jalkojen asennon muuttamista.
 
- Liikkuminen eteen- ja taaksepäin  {#freefly-lentoasennot-liikkuminen-eteen-ja-taaksepain}
+ Liikkuminen eteen- ja taaksepäin  
 ----------------------------------
 
 Horisontaalinen liikkuminen vapaapudotuksessa on periaatteeltaan aina
@@ -380,7 +380,7 @@ hyppääjiin. Jotta putoat yhtä nopeasti kuin he, joudut kaventamaan joko
 jalkojesi tai käsiesi asentoa (eli pienentämään ilmavirrassa olevaa
 pinta-alaa).
 
- Liikkuminen ylös- ja alaspäin  {#freefly-lentoasennot-liikkuminen-ylos-ja-alaspain}
+ Liikkuminen ylös- ja alaspäin  
 -------------------------------
 
 Vertikaalista liikkumista tarvitset esimerkiksi päästäksesi
@@ -403,13 +403,13 @@ hidastavat näin putoamisvauhtia. Daffyssa kädet jäävät vielä rennoksi
 otteita varten, mutta niitä voi myös levittää hidastumisen
 tehostamiseksi.
 
-![image](/kuvat/Daffy-sivulta.jpeg){width="95.00000%"}
+![image](/kuvat/Daffy-sivulta.jpeg)
 
 Kun pyrit pitämään pään samalla tasolla muiden hyppääjien kanssa, alat
 vähitellen oppia luontaisesti korjaamaan putoamisnopeuttasi verrattuna
 muihin hyppääjiin sitä juurikaan miettimättä.
 
- Käännökset head downissa  {#freefly-lentoasennot-kaannokset-head-downissa}
+ Käännökset head downissa  
 --------------------------
 
 360 asteen käännöksen voi tehdä hetukassa esimerkiksi hartioilla tai
@@ -434,9 +434,9 @@ kiintopistettä tai kanssahyppääjää, koska jalkakäännös kääntyy nopeamm
 kuin hartioilla tehty käännös. Ota lopuksi kiintopisteen tai
 kanssahyppääjän kohdalla normaali rento lentoasento.
 
-![image](/kuvat/Headdown-ryhma.jpeg){width="95.00000%"}
+![image](/kuvat/Headdown-ryhma.jpeg)
 
- Otteet  {#freefly-lentoasennot-otteet}
+ Otteet  
 --------
 
 Otteiden ottaminen hetukassa ei ole aina itsetarkoitus. Tärkeämpää ja

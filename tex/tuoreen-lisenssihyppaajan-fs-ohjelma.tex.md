@@ -1,4 +1,4 @@
- Tuoreen lisenssihyppääjän FS-ohjelma  {#tuoreen-lisenssihyppaajan-fs-ohjelma-tuoreen-lisenssihyppaajan-fs-ohjelma}
+ Tuoreen lisenssihyppääjän FS-ohjelma  
 ======================================
 
 Harjoitellaan 2- tai 3-wayna esim. speedstarina:
@@ -11,7 +11,7 @@ Harjoitellaan 2- tai 3-wayna esim. speedstarina:
 
 -   Otteiden ottamista
 
-###  2-way harjoitushyppyjä  {#tuoreen-lisenssihyppaajan-fs-ohjelma-2-way-harjoitushyppyja}
+###  2-way harjoitushyppyjä  
 
 -   Star- ja sidebody-uloshyppyjä
 
@@ -25,7 +25,7 @@ Harjoitellaan 2- tai 3-wayna esim. speedstarina:
 
 -   Tehdään vuorotellen: Open accordion - Stairstep
 
-###  3-way-harjoitushyppyjä  {#tuoreen-lisenssihyppaajan-fs-ohjelma-3-way-harjoitushyppyja}
+###  3-way-harjoitushyppyjä  
 
 -   Star - Open accordion - Star (vaihdetaan avohaitarissa paikkoja)
 
@@ -33,26 +33,26 @@ Harjoitellaan 2- tai 3-wayna esim. speedstarina:
 
 -   Star - Arrowhead - Star
 
-![image](/kuvat/2-way-star.pdf){width="70.00000%"}
+![image](/kuvat/2-way-star.pdf)
 
-![image](/kuvat/2-way-open-accordion.pdf){width="70.00000%"}
+![image](/kuvat/2-way-open-accordion.pdf)
 
-![image](/kuvat/2-way-accordion.pdf){width="45.00000%"}
+![image](/kuvat/2-way-accordion.pdf)
 
-![image](/kuvat/Sidebody.pdf){width="55.00000%"}
+![image](/kuvat/Sidebody.pdf)
 
-![image](/kuvat/Caterpillar.pdf){width="60.00000%"}
+![image](/kuvat/Caterpillar.pdf)
 
-![image](/kuvat/2-way-stairstep.pdf){width="45.00000%"}
+![image](/kuvat/2-way-stairstep.pdf)
 
-![image](/kuvat/3-way-star.pdf){width="65.00000%"}
+![image](/kuvat/3-way-star.pdf)
 
-![image](/kuvat/3-way-sidebody.pdf){width="55.00000%"}
+![image](/kuvat/3-way-sidebody.pdf)
 
-![image](/kuvat/3-way-open-accordion.pdf){width="55.00000%"}
+![image](/kuvat/3-way-open-accordion.pdf)
 
-![image](/kuvat/3-way-accordion.pdf){width="55.00000%"}
+![image](/kuvat/3-way-accordion.pdf)
 
-![image](/kuvat/3-way-donut.pdf){width="55.00000%"}
+![image](/kuvat/3-way-donut.pdf)
 
-![image](/kuvat/3-way-arrowhead.pdf){width="50.00000%"}
+![image](/kuvat/3-way-arrowhead.pdf)

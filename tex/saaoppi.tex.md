@@ -8,7 +8,7 @@ kannata laskeutua pyörteiden takia. Sään tutkiminen ja oppiminen jatkuu
 koko koulutusajan. Tavoitteena on paikallisten olosuhteiden tunteminen
 niin, että hyppääjällä on edellytykset hyppypäätöksen tekoon.
 
-Tuuli {#saaoppi-tuuli}
+Tuuli 
 =====
 
 Tuulet rajoittavat hyppäämistä, sillä tuulen voimistuessa voimistuvat
@@ -37,7 +37,7 @@ tuuli voi muuttua kesällä aamupäivällä ja illansuussa täysin
 päinvastaiseksi (merituuli-ilmiö). Tyynellä hypättäessä loppujarrutuksen
 oikea ajoittaminen voi olla vaikeaa.
 
-Tuulirajat {#saaoppi-tuulirajat}
+Tuulirajat 
 ----------
 
 Maatuulen nopeuden asettamat rajoitukset laskuvarjohypyille ovat
@@ -59,7 +59,7 @@ seuraavat:
 -   Pallovarjoa pää- tai varavarjona käytettäessä maatuulen nopeus ei
     saa ylittää 8 m/s.
 
-Pilvet {#saaoppi-pilvet}
+Pilvet 
 ======
 
 Laskuvarjohyppäämistä ei saa suorittaa pilvessä tai pilven läpi.
@@ -90,7 +90,7 @@ Jos joudut avaamaan varjon pilvessä:
 -   Huuda ja kuuntele, jos epäilet, ettet ole ainoa pilvessä
     varjon avannut.
 
-Termiikki {#saaoppi-termiikki}
+Termiikki 
 =========
 
 Termiikki eli nouseva ilmavirtaus muodostuu auringon lämmittämän paikan
@@ -106,7 +106,7 @@ maalialueen hiekka, kiitotiet ja kynnetyt pellot. Virtaukset tuntuvat
 varjossa epämiellyttävänä tärinänä, heilumisena ja kääntymisenä. Lisäksi
 varjo voi tukahtua, nousta, vajota tai jopa sakata.
 
-Turbulenssi {#saaoppi-turbulenssi}
+Turbulenssi 
 ===========
 
 Turbulenssi muodostuu tuulen ja esteen yhteisvaikutuksesta ja sitä
@@ -129,7 +129,7 @@ pyörteen vaikutuksesta. Pyörteitä voi välttää laskeutumalla tarpeeksi
 kauas reunaesteistä ja esimerkiksi hiekan reunasta, jossa virtausten
 suunnat muuttuvat.
 
-Lämpötila {#saaoppi-lampotila}
+Lämpötila 
 =========
 
 Ilman lämpötila laskee ylöspäin mennessä n. 6,5 °C / 1000 m. Arvo on
@@ -142,7 +142,7 @@ hyppykorkeudella olla jo pakkasta. Jos maassa on +10 °C, lämpötila on
 kahden kilometrin korkeudessa tyypillisesti noin –3 °C. On huomioitava,
 että kolmen kilometrin korkeudessa on usein pakkasta.
 
-Käytännössä {#saaoppi-kaytannossa}
+Käytännössä 
 ===========
 
 Parhaat hyppykelit Suomessa ovat alku- ja loppukesällä sekä aamulla ja
@@ -164,7 +164,7 @@ Lentosääsanomia saadaan mm. seuraavasti:
 -   Sääsanomat YLE Teksti-TV s. 428 ja 429 (myös
     <http://www.yle.fi/tekstitv/html/P428_01.html> )
 
- METAR-sanomat  {#saaoppi-metar-sanomat}
+ METAR-sanomat  
 ===============
 
 METAR-sanoma on ilmaliikenteen käyttöön tarkoitettu sääsanoma, joka
@@ -278,7 +278,7 @@ voimassa samanaikaisesti:
 
 -   Ei esiinny merkittäviä sääilmiöitä kuten ukkosta, sadetta tai sumua.
 
- GAFOR-sanomat  {#saaoppi-gafor-sanomat}
+ GAFOR-sanomat  
 ===============
 
 Suomi on GAFOR-alue-ennusteiden osalta jaettu kolmeen osaan.
@@ -388,7 +388,7 @@ GAFOR-sanoman parilla viimeisellä rivillä kerrotaan esimerkiksi
 jäätämisestä ja yläkerrosten turbulenssista, sekä esitetään lyhyt koodi
 lentosääluokista.
 
-Harjoitus {#saaoppi-harjoitus}
+Harjoitus 
 =========
 
 1.  Tutustutaan internetin ilmailusääsivuihin:

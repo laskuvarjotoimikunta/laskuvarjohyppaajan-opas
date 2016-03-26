@@ -1,4 +1,4 @@
- 2-way -hyppääminen  {#vapaapudotusharjoittelu-2-way-hyppaaminen}
+ 2-way -hyppääminen  
 ====================
 
 Yhdistelemällä erilaisia 2-way kuvia voi suunnitella hyvin monipuolisia
@@ -17,7 +17,7 @@ hyvät perustaidot, jotka pätevät kaikkeen FS-hyppäämiseen. Luvusta
 *Tuoreen lisenssihyppääjän FS-ohjelma*
 (\[tuoreen-lisenssihyppaajan-fs-ohjelma\] s.) löydät lisää harjoituksia.
 
- Purkaminen  {#vapaapudotusharjoittelu-purkaminen}
+ Purkaminen  
 ============
 
 Purkukorkeus sovitaan aina ennen hyppyä, ja sen tulee olla riittävä
@@ -33,7 +33,7 @@ sovitussa korkeudessa näytetään purkumerkki. Purkumerkki näytetään
 heilauttamalla kädet ristiin. Äänikorkeusmittariin voi asentaa
 hälytyksen muistuttamaan purkukorkeudesta.
 
- Liuku  {#vapaapudotusharjoittelu-liuku}
+ Liuku  
 =======
 
 Purkumerkin jälkeen käännytään poispäin muista hyppääjistä ja liu’utaan

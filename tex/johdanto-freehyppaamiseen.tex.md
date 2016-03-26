@@ -1,4 +1,4 @@
- Freefly-hyppääminen  {#johdanto-freehyppaamiseen-freefly-hyppaaminen}
+ Freefly-hyppääminen  
 =====================
 
 Lajina freefly, vapaasti käännettynä vapaa lentäminen, antaa

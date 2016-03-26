@@ -10,7 +10,7 @@ niistä vanhempi. Vertical formation skydiving (VFS) on lajina uudempi,
 ja kuuluu itse asiassa lajina kuviohyppäämiseen. Tässä luvussa
 esitellään lyhyesti nämä molemmat lajit.
 
- Artistic freefly  {#freefly-kilpailulajina-artistic-freefly}
+ Artistic freefly  
 ==================
 
 Freefly-joukkueessa on kolme jäsentä, joista kaksi on artisteja ja
@@ -37,7 +37,7 @@ puhtaasti ja siirtymät liikesarjojen välillä arvioidaan myös,
 tarkoituksena että hypystä muodostuisi kokonaisuus, johon pakolliset
 liikkeet sijoittuvat.
 
- Vertical formation skydiving  {#freefly-kilpailulajina-vertical-formation-skydiving}
+ Vertical formation skydiving  
 ==============================
 
 VFS-joukkueessa on viisi jäsentä, joista yksi toimii kuvaajana.

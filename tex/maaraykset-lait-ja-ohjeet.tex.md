@@ -18,14 +18,14 @@ koskevilta osin ennen A-lisenssin hakemista. Ainakin seuraavat ajan
 tasalla olevat asiakirjat on oltava luettavissa kerholla koko
 koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä.
 
- Lait ja asetukset  {#maaraykset-lait-ja-ohjeet-lait-ja-asetukset}
+ Lait ja asetukset  
 ===================
 
 -   Ilmailulaki 864/2014
 
 <http://www.finlex.fi/fi/laki/alkup/2014/20140864>
 
- Ilmailumääräykset ja -tiedotukset  {#maaraykset-lait-ja-ohjeet-ilmailumaaraykset-ja-tiedotukset}
+ Ilmailumääräykset ja -tiedotukset  
 ===================================
 
 -   GEN T1-1, 6.2.2009, Ilmailuhallinnon ilmailumääräys- ja
@@ -37,7 +37,7 @@ koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä.
 
 <http://www.trafi.fi/ilmailu/saadokset/ilmailumaarayskokoelma>
 
- SIL ry:n ohjeet  {#maaraykset-lait-ja-ohjeet-sil-ry-n-ohjeet}
+ SIL ry:n ohjeet  
 =================
 
 -   Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset,
@@ -45,7 +45,7 @@ koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä.
 
 <http://laskuvarjotoimikunta.fi/materiaalipankki/koulutus-ja-turvallisuus/lisenssihyppaajan-dokumentteja>
 
- Muut  {#maaraykset-lait-ja-ohjeet-muut}
+ Muut  
 ======
 
 -   Turvallisuus- ja kalustotiedotteet.

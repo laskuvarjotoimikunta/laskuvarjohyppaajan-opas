@@ -40,7 +40,7 @@ taivaalla ja maassa. Kokeiletpa lajia vain parilla hypyllä tai jäät
 seuraamme vuosiksi, takaamme sinulle, että ensimmäinen hyppy on kokemus,
 jota et unohda koskaan.
 
- Suomen Ilmailuliitto  {#tervetuloa-taivaalle-suomen-ilmailuliitto}
+ Suomen Ilmailuliitto  
 ======================
 
 Vuonna 1919 perustettu Suomen Ilmailuliitto ry (SIL) on eri
@@ -89,7 +89,7 @@ lentoturvallisuuteen liittyviä aiheita.
 SIL:n kotisivuilta osoitteesta <http://www.ilmailu.fi> saat halutessasi
 lisätietoja.
 
- Vakuutusturva  {#tervetuloa-taivaalle-vakuutusturva}
+ Vakuutusturva  
 ===============
 
 Vuosittain laskuvarjohyppäämisessä sattuu jonkin verran loukkaantumisia.
@@ -118,7 +118,7 @@ korvaussummista Hyvä hyppykurssilainen -esitteestä. Lisätietoja saa myös
 kouluttajilta ja Ilmailuliiton puhelinnumerosta (09) 350 9340.
 Suosittelemme laskuvarjotoiminnan kattavan vakuutuksen hankkimista.
 
- Terveydentilavaatimukset  {#tervetuloa-taivaalle-terveydentilavaatimukset}
+ Terveydentilavaatimukset  
 ==========================
 
 Hyppääminen on urheilua ja vaatii fyysistä ja henkistä kuntoa sekä

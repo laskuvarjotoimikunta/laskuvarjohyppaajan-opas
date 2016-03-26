@@ -9,7 +9,7 @@ keskusteltava kouluttajien kanssa omassa kerhossa vallitsevista
 käytännöistä ja selvitettävä ne myös mentäessä vierailemaan toiseen
 kerhoon.
 
- Hyppylennon pokanvanhin  {#hyppytoiminnan-jarjestaminen-hyppylennon-pokanvanhin}
+ Hyppylennon pokanvanhin  
 =========================
 
 Jokaisella hyppylennolla tulee olla vähintään A-lisenssin omaava
@@ -35,7 +35,7 @@ pokansa osalta, ja hänen tehtävänsä ovat vähintään
 -   poikkeus- tai vaaratilanteessa yhteydenpito lentäjän kanssa ja
     ohjeiden anto hyppääjille.
 
- Hyppytoiminnan aloitus  {#hyppytoiminnan-jarjestaminen-hyppytoiminnan-aloitus}
+ Hyppytoiminnan aloitus  
 ========================
 
 Lennonjohdolle/aluelennonjohdolle tehdään ilmoitus/varaus
@@ -92,7 +92,7 @@ erityisesti kerholla hyppääviä vierailijoita.
 On muistettava myös määrittää uloshyppypaikka ja antaa ohjeet
 hyppääjille ja lentäjälle (jolle myös mielellään kirjallisena).
 
- Toiminnan aikana  {#hyppytoiminnan-jarjestaminen-toiminnan-aikana}
+ Toiminnan aikana  
 ==================
 
 Kentällä ollaan harvoin yksin, joten yhteistyö muiden kentällä toimivien
@@ -125,7 +125,7 @@ tarvittavat pelastustoimenpiteet, tehdä lennonjohtoon ilmoitus
 esimerkiksi varavarjon käytöstä tai muusta vastaavasta sovitusta asiasta
 sekä huolehtia, että lentäjä ehtii pitämään asianmukaiset tauot.
 
- Toiminnan lopetus  {#hyppytoiminnan-jarjestaminen-toiminnan-lopetus}
+ Toiminnan lopetus  
 ===================
 
 Hyppytoiminnan loputtua on tehtävä asianmukaiset ilmoitukset, jotta
@@ -133,7 +133,7 @@ lennonjohto ja/tai muut kentän käyttäjät saavat siitä tiedon. Lentokone
 on pysäköitävä ja suojattava. Kaikki käytössä ollut kalusto siirretään
 takaisin säilytyspaikoilleen.
 
- Harjoitus  {#hyppytoiminnan-jarjestaminen-harjoitus}
+ Harjoitus  
 ===========
 
 1.  Kirjoitetaan muistiin lennonjohdon ja muiden tarvittavien

@@ -5,7 +5,7 @@ oppia turvallisen ryhmähyppäämisen perusteet. Voit myös kokeilla
 erilaisia hyppylajeja, kuten freehypyt. Varjon varassa keskityt
 kuvunkäsittelyyn ja tarkkuuslaskeutumisiin.
 
- Hyppysuoritukset  {#yhteenveto-jatkokoulutus-hyppysuoritukset}
+ Hyppysuoritukset  
 ==================
 
 Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
@@ -30,7 +30,7 @@ Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
 
 -   Koehyppy (\[jatkokoulutuksen-suoritukset-koehyppy\] s.)
 
- Muut suoritukset  {#yhteenveto-jatkokoulutus-muut-suoritukset}
+ Muut suoritukset  
 ==================
 
 -   5 tarkkuuslaskeutumista hyppysuoritusten yhteydessä, laskeutuminen
@@ -45,7 +45,7 @@ Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
     luettu ja harjoiteltu sekä laskuvarjohyppäämistä koskevat lait,
     määräykset ja ohjeet (\[maaraykset-lait-ja-ohjeet\] s.).
 
- Suoritusten aikarajat  {#yhteenveto-jatkokoulutus-suoritusten-aikarajat}
+ Suoritusten aikarajat  
 =======================
 
 Jos jatkokoulutuksen aikana oppilaalle tulee 30 vrk tai sitä pidempi

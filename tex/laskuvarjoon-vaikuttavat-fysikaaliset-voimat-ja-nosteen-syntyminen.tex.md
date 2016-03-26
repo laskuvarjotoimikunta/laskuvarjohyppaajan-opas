@@ -48,7 +48,7 @@ käyttää isompaa siipikuormaa. Kuitenkin kaikella tällä nopeuden
 lisäämisellä on haittapuolensa, joita käsitellään myöhemmin puhuttaessa
 varjon lentämisestä ja eri siipikuormista.
 
- Laskuvarjon liitokulma ja siihen vaikuttavat tekijät  {#laskuvarjoon-vaikuttavat-fysikaaliset-voimat-ja-nosteen-syntyminen-laskuvarjon-liitokulma-ja-siihen-vaikuttavat-tekijat}
+ Laskuvarjon liitokulma ja siihen vaikuttavat tekijät  
 ======================================================
 
 Laskuvarjon punokset pitenevät punosryhmittäin (A B C- ja D-punokset)
@@ -61,13 +61,13 @@ asetuskulma suurenee ja takimmaisista pienenee. Asetuskulma asettaa
 siipiprofiilin jänteen tiettyyn kulmaan ilmavirran (relative wind)
 kanssa, ja tätä kulmaa kutsutaan **kohtauskulmaksi** (angle of attack).
 
-![image](/kuvat/Laskuvarjon_kulmat.png){width="99.00000%"}
+![image](/kuvat/Laskuvarjon_kulmat.png)
 
 Kohtauskulma on kuvun jänteen ja siihen osuvan ilmavirran välinen kulma.
 Laskuvarjon kohtauskulmaa voidaan muuttaa joko jarruttamalla varjoa tai
 siirtämällä painopisteen sijaintia kuvun alapuolella.
 
-![image](/kuvat/Kohtauskulma.png){width="90.00000%"}
+![image](/kuvat/Kohtauskulma.png)
 
 Kohtauskulmaa voi muuttaa myös nopeilla ohjausliikkeillä, joko jarruja
 tai kantohihnoja käyttäen. Nopea ohjausliike aiheuttaa varjon
@@ -90,7 +90,7 @@ välillä. Tarkkoja liitokulmia ei ole valmistajilta saatavissa
 mittaamisvaikeuksien ja asiaan vaikuttavien muuttujien suuren määrän
 vuoksi.
 
- Varjon sakkaaminen  {#laskuvarjoon-vaikuttavat-fysikaaliset-voimat-ja-nosteen-syntyminen-varjon-sakkaaminen}
+ Varjon sakkaaminen  
 ====================
 
 Yleinen käsitys on, että laskuvarjo sakkaa vain, kun jarrutusta lisätään

@@ -1,4 +1,4 @@
- Haalarit  {#fs-hyppaajan-varusteet-haalarit}
+ Haalarit  
 ==========
 
 FS-hyppäämisessä haalareilla voidaan vaikuttaa putoamisnopeuteen,
@@ -15,7 +15,7 @@ hyvä olla gripit sekä jalan ulko- että sisäsivuilla. Bootillisilla
 haalareilla saadaan jalkoihin enemmän pinta-alaa ja siten tehokkuutta
 liikkeisiin sekä kantavuutta liukuun.
 
- Painot  {#fs-hyppaajan-varusteet-painot}
+ Painot  
 ========
 
 Haalareiden lisäksi putoamisvauhdin eroja voidaan tasata painoilla.
@@ -33,7 +33,7 @@ Painojen tarve täytyy huomioida kuvunvalinnassa. Esimerkiksi 6 kg
 painoja 50 kg painavalla hyppääjällä lisää exit-painoa noin 10 %
 kasvattaen huomattavasti siipikuormaa.
 
- Korkeusmittari  {#fs-hyppaajan-varusteet-korkeusmittari}
+ Korkeusmittari  
 ================
 
 Rintahihnaan sijoitettu mittari mahdollistaa korkeuden tarkkailun toisen
@@ -45,7 +45,7 @@ asettaa hälytysäänen useampiin korkeuksiin, ainakin purku- ja
 avauskorkeuteen. Äänikorkeusmittari on vain muistuttava apuväline.
 Korkeuden tarkkailua mittarista ei saa unohtaa!
 
- Kypärä  {#fs-hyppaajan-varusteet-kypara}
+ Kypärä  
 ========
 
 FS-hypyillä tulee toisinaan hyppääjien välille korkeuseroja ja
@@ -54,7 +54,7 @@ ja rajut liikkeet altistavat pään iskuille. Tästä syystä FS-hypyillä
 onkin aina syytä käyttää kovaa kypärää – mieluiten integraalikypärää,
 joka suojaa myös kasvoja.
 
- Rullalaudat  {#fs-hyppaajan-varusteet-rullalaudat}
+ Rullalaudat  
 =============
 
 Lautakuivien mielekkyyttä lisäävät hyvin rullaavat ja mukavat laudat.
@@ -63,7 +63,7 @@ että ne ovat riittävän isot ja kestävät. Pienillä renkailla varustetun
 laudan liikuttaminen on raskaampaa. Lautaa voi myös pehmustaa esim.
 retkipatjan tyyppisellä materiaalilla.
 
- Muut varusteet  {#fs-hyppaajan-varusteet-muut-varusteet}
+ Muut varusteet  
 ================
 
 Sormikkaita kannattaa käyttää jokaisella hypyllä. Sormikkaat, joissa on

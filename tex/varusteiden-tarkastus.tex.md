@@ -22,7 +22,7 @@ aina. Koneessa on syytä tarkkailla myös muiden hyppääjien
 hyppyvarusteita. Ajoissa havaittu epäkohta voi estää vaaratilanteen
 syntymisen. Varusteet tarkistetaan kolme kertaa ennen uloshyppyä.
 
- Varusteiden valinta  {#varusteiden-tarkastus-varusteiden-valinta}
+ Varusteiden valinta  
 =====================
 
 Varusteet jokainen hyppääjä valitsee itse painonsa, kokemuksensa sekä
@@ -63,7 +63,7 @@ itseaukaisukahva ei ole muuttuneista valjassäädöistä johtuen totutulla
 paikalla tai hyppylasit jäävät löysälle ja tippuvat. Huolellinen
 ensimmäinen tarkastusvaihe nopeuttaa muita vaiheita.
 
- Maassa ennen koneen lastaamista  {#varusteiden-tarkastus-maassa-ennen-koneen-lastaamista}
+ Maassa ennen koneen lastaamista  
 =================================
 
 Varusteiden toinen tarkastusvaihe suoritetaan, kun varusteet on puettu
@@ -93,7 +93,7 @@ varusteet päälle puettuna on liikuttu varomattomasti. Kypärä, suojalasit
 tai sormikkaat unohtuvat helposti, ellei niitä varata ja pueta päälle
 ennen tätä tarkastusvaihetta.
 
- Ennen uloshyppyä  {#varusteiden-tarkastus-ennen-uloshyppya}
+ Ennen uloshyppyä  
 ==================
 
 Tarkastus ennen uloshyppyä aloittaa varsinaisen hyppysuorituksen.
@@ -134,7 +134,7 @@ tulevat silloin koneella alas. Varusteiden itsenäinen tarkastus
 vaaditaan jokaisella hypyllä tämän koulutuksen jälkeen. Kouluttaja
 vastaa edelleen oppilaasta koko jatkokoulutuksen ajan.
 
-Harjoitus {#varusteiden-tarkastus-harjoitus}
+Harjoitus 
 =========
 
 1.  Suoritetaan tarkastukset opetuksen yhteydessä.

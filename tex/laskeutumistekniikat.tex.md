@@ -27,7 +27,7 @@ Muistuta itseäsi, että voit tehdä vauhdikkaan laskun myös jollakin
 tulevalla hypyllä, kun olosuhteet ovat paremmat. Se onnistuu kuitenkin
 vain selviämällä hengissä tästä hypystä.
 
- Suora finaali ilman vauhdinottoa  {#laskeutumistekniikat-suora-finaali-ilman-vauhdinottoa}
+ Suora finaali ilman vauhdinottoa  
 ==================================
 
 Suora finaali ilman vauhdinottoa on perustapa laskeutua. Tässä
@@ -50,7 +50,7 @@ matalalla. Kannattaa myös harjoitella loivia kaarroksia fleerin aikana,
 jotta osaat väistää mahdollisia esteitä. Tätä harjoittelua varten saatat
 myös tarvita hieman lisävauhtia.
 
- Suora vauhditus etummaisista kantohihnoista  {#laskeutumistekniikat-suora-vauhditus-etummaisista-kantohihnoista}
+ Suora vauhditus etummaisista kantohihnoista  
 =============================================
 
 Ennen kuin harjoittelet etummaisista kantohihnoista vauhditettuja
@@ -83,7 +83,7 @@ loiventuessa. Jos päästät kantohihnat korkeudella, josta sinun on
 välittömästi aloitettava loppuvedon tekeminen, olet päästänyt irti liian
 matalalla.
 
- Vauhdin ottaminen etummaisista kantohihnoista kääntämällä  {#laskeutumistekniikat-vauhdin-ottaminen-etummaisista-kantohihnoista-kaantamalla}
+ Vauhdin ottaminen etummaisista kantohihnoista kääntämällä  
 ===========================================================
 
 Lisävauhdin hakeminen käännöksellä on aina vaarallista, koska varjon
@@ -133,7 +133,7 @@ käännöksen, menee huomattavasti aikaa ja korkeutta ennen kuin saat
 varjon taas täysin takaisin hallintaasi. Yli 180 asteen käännökset ovat
 äärimmäisen vaarallisia.
 
-![image](/kuvat//kuvat/Lentoradat.jpeg){width="99.00000%"}
+![image](/kuvat//kuvat/Lentoradat.jpeg)
 
 1.  Suora lähestyminen ja normaali loppuveto. Turvallisin
     tapa laskeutua.
@@ -160,7 +160,7 @@ molemmista kantohihnoista vetämällä ja sen jälkeen molemmista
 kantohihnoista kääntämällä tai käyttämällä valjaskäännöksiä. Opettele
 korkealla, kuinka varjosi reagoi eri tapoihin.
 
- Ohjauslenkeistä tehty käännös vauhdin saamiseksi  {#laskeutumistekniikat-ohjauslenkeista-tehty-kaannos-vauhdin-saamiseksi}
+ Ohjauslenkeistä tehty käännös vauhdin saamiseksi  
 ==================================================
 
 **Älä tee tätä.** Ohjauslenkeistä matalalla tehdyt käännökset ovat
@@ -173,7 +173,7 @@ ollen oikaisu voi olla täysin mahdotonta ennen törmäystä. Kaikilla
 kuvuilla saa paremmin ja turvallisemmin pitkiä fleerejä etummaisilla
 kantohinnoilla suoritetuilla vauhdinotoilla.
 
- Loppuvedon tekeminen takimmaisia kantohihnoja käyttäen  {#laskeutumistekniikat-loppuvedon-tekeminen-takimmaisia-kantohihnoja-kayttaen}
+ Loppuvedon tekeminen takimmaisia kantohihnoja käyttäen  
 ========================================================
 
 Loppuvedon, tai osan siitä, voi tehdä myös takimmaisia kantohihnoja
@@ -204,7 +204,7 @@ kohtalokasta. Tekniikka kannattaa harjoitella jo luokan 4 varjoilla,
 eikä vasta erittäin suurella siipikuormalla lentäen. Älä siis yritä tätä
 ilman satojen nopeiden laskeutumisten tuomaa kokemusta.
 
- Jarrulasku  {#laskeutumistekniikat-jarrulasku}
+ Jarrulasku  
 ============
 
 On tilanteita, joissa on välttämätöntä suorittaa loppuveto osittaisesta
@@ -230,7 +230,7 @@ varsin harvoin, eikä niitä korkealla siipikuormalla ole kovinkaan
 helppoa tehdä. Pakkotilanteen tullessa on hyvä tietää, että
 jarrulaskeutuminen varmasti onnistuu.
 
- Jarrukäännös  {#laskeutumistekniikat-jarrukaannos}
+ Jarrukäännös  
 ==============
 
 Jos joudut laskeutumisessasi turvautumaan jarrukäännökseen, on yleensä
@@ -256,7 +256,7 @@ korkeutta menetät 90° tai 180° jarrutetussa käännöksessä niin, että
 lopussa olet täysjarrutustilassa. Näin tiedät, miltä korkeudelta saatat
 pakollisessa väistössä onnistua pienimmin mahdollisin vaurioin.
 
- Sivu- ja myötätuulilaskut  {#laskeutumistekniikat-sivu-ja-myotatuulilaskut}
+ Sivu- ja myötätuulilaskut  
 ===========================
 
 Joissain tilanteissa voit joutua laskeutumaan sivu- tai myötätuuleen.
@@ -295,7 +295,7 @@ puoleista ohjauslenkkiä; epäsymmetrisyyden määrä riippuu tietenkin
 varjosta, tuulen nopeudesta, jne. Vasta lopuksi voi vetää toisenkin
 lenkin pohjaan, jos siihen on tarvetta.
 
- Oikeaoppinen loppuveto  {#laskeutumistekniikat-oikeaoppinen-loppuveto}
+ Oikeaoppinen loppuveto  
 ========================
 
 Loppuvedon tarkoitus on muuttaa alaspäin suuntautuvan vauhdin ja
@@ -306,7 +306,7 @@ ominaisuuksista. Tällöin hyppääjän paino siirtyy kuvun alla eteenpäin,
 varjon liikesuunta muuttuu ja se alkaa lentää vaakalentoa. Korkeus
 pidetään vetoa lisäämällä, jolloin myös vauhti hidastuu.
 
-![image](/kuvat/Oikeaoppinenloppuveto.png){width="90.00000%"}
+![image](/kuvat/Oikeaoppinenloppuveto.png)
 
 Oikein suoritetussa fleerissä ohjauslenkit ovat vaakalennon aikana noin
 puolijarrutustilassa ja siten hyppääjällä on ohjauksen suhteen

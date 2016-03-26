@@ -14,10 +14,10 @@ uloshyppypaikkaa määriteltäessä. Tavoitteena on hallita kaikki
 uloshyppytyylit rutiinitasolla ja muistaa koko hyppysuoritus heti
 uloshypystä maahantuloon asti.
 
- Roikkumauloshyppy  {#uloshyppytyylit-roikkumauloshyppy}
+ Roikkumauloshyppy  
 ===================
 
- Streevakone  {#uloshyppytyylit-streevakone}
+ Streevakone  
 -------------
 
 1.  Kiivetään streevakoneen ulkopuolelle (varoen repun
@@ -34,7 +34,7 @@ uloshypystä maahantuloon asti.
 5.  Sitä mukaan kun asento kääntyy vaakatasoon (tyypillisesti noin 5
     sekunnin jälkeen) otetaan perusasento.
 
- Ongelmat  {#uloshyppytyylit-ongelmat}
+ Ongelmat  
 ----------
 
 -   Koukussa olevat jalat aiheuttavat takavoltin.
@@ -46,12 +46,12 @@ uloshypystä maahantuloon asti.
 
 -   Käsillä ponnistaminen kaataa asennon selälleen.
 
- Suora uloshyppy  {#uloshyppytyylit-suora-uloshyppy}
+ Suora uloshyppy  
 =================
 
-![image](/kuvat/UH-suora.png){width="70.00000%"}
+![image](/kuvat/UH-suora.png)
 
- Streevakone  {#uloshyppytyylit-streevakone}
+ Streevakone  
 -------------
 
 1.  Vasen jalka astimelle (pyörälle).
@@ -71,7 +71,7 @@ uloshypystä maahantuloon asti.
 7.  Sitä mukaan kun asento kääntyy vaakatasoon (tyypillisesti noin 5
     sekunnin jälkeen) otetaan perusasento.
 
- Muut koneet  {#uloshyppytyylit-muut-koneet}
+ Muut koneet  
 -------------
 
 1.  Siirrytään oviaukolle (varoen repun osumista koneeseen) kyykkyyn
@@ -86,7 +86,7 @@ uloshypystä maahantuloon asti.
 4.  Sitä mukaan kun asento kääntyy vaakatasoon (tyypillisesti noin 5
     sekunnin jälkeen) otetaan perusasento.
 
- Ongelmat  {#uloshyppytyylit-ongelmat}
+ Ongelmat  
 ----------
 
 1.  Eteen jätetyt kädet aiheuttavat voltin.
@@ -98,12 +98,12 @@ uloshypystä maahantuloon asti.
 4.  Streeva-koneessa heikko ponnistus voi johtaa
     osumiseen pyörätelineeseen.
 
- Sukellusuloshyppy  {#uloshyppytyylit-sukellusuloshyppy}
+ Sukellusuloshyppy  
 ===================
 
-![image](/kuvat/UH-sukellus.png){width="70.00000%"}
+![image](/kuvat/UH-sukellus.png)
 
- Streevakone  {#uloshyppytyylit-streevakone}
+ Streevakone  
 -------------
 
 1.  Oikea jalka astimelle, varpaat peräsimen suuntaan.
@@ -122,7 +122,7 @@ uloshypystä maahantuloon asti.
 7.  Sitä mukaan kun asento kääntyy vaakatasoon (tyypillisesti noin 5
     sekunnin jälkeen) otetaan perusasento.
 
- Muut koneet  {#uloshyppytyylit-muut-koneet}
+ Muut koneet  
 -------------
 
 1.  Siirrytään oviaukolle (varoen repun osumista koneeseen) kyykkyyn
@@ -135,7 +135,7 @@ uloshypystä maahantuloon asti.
 4.  Sitä mukaan kun asento kääntyy vaakatasoon (tyypillisesti noin 5
     sekunnin jälkeen) otetaan perusasento.
 
- Ongelmat  {#uloshyppytyylit-ongelmat}
+ Ongelmat  
 ----------
 
 1.  Ponnistus sivulle aiheuttaa kaatumisen kyljelleen.
@@ -145,7 +145,7 @@ uloshypystä maahantuloon asti.
 3.  Epäsymmetrinen raajojen asento aiheuttaa kääntymistä, voltin
     tai syöksyn.
 
- Ryhmäuloshyppy  {#uloshyppytyylit-ryhmauloshyppy}
+ Ryhmäuloshyppy  
 ================
 
 Uloshypyn toteutus riippuu hyppääjien määrästä ja hyppykoneesta, mutta
@@ -162,9 +162,9 @@ vapaapudotussekunteja.
 
 Streevalla tai pyörällä istuminen on ehdottomasti **kielletty**.
 
-![image](/kuvat/UH-FS.jpeg){width="95.00000%"}
+![image](/kuvat/UH-FS.jpeg)
 
- Muut uloshypyt  {#uloshyppytyylit-muut-uloshypyt}
+ Muut uloshypyt  
 ================
 
 Hyppääminen muista ilma-aluksista kuten helikoptereista,
@@ -172,7 +172,7 @@ kuumailmapalloista jne. vaatii aina ennakkoharjoittelua. Perustapana on
 seisaalta pudottautuminen suoraan alaspäin ilmavirran suuntaan suoralla
 tai sukellus uloshypyllä.
 
- Harjoitus  {#uloshyppytyylit-harjoitus}
+ Harjoitus  
 ===========
 
 1.  Katsotaan eri uloshyppyjä Oppilaan Opas-videolta kouluttajan kanssa.

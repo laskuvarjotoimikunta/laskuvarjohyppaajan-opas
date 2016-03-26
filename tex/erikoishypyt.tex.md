@@ -7,7 +7,7 @@ valmistautumisen. SIL:n ohjeet asettavat osalle erikoishypyistä kokemus-
 ja välinerajoituksia. Oman perushyppytaidon täytyy olla riittävällä
 tasolla, jotta vaativat haasteet eivät muodostu riskitekijäksi.
 
- Yöhypyt  {#erikoishypyt-yohypyt}
+ Yöhypyt  
 =========
 
 Sen lisäksi mitä laskuvarjohyppytoiminnalta vaaditaan, ovat SIL ry:n
@@ -81,7 +81,7 @@ kyseessä on FS-hyppy, purkukorkeuden on oltava riittävän korkea. Liu’un
 lisäksi on syytä käyttää avausporrastuksia. Varjon varassa lennetään
 rauhallisesti.
 
- Vesihypyt  {#erikoishypyt-vesihypyt}
+ Vesihypyt  
 ===========
 
 Hyppääjältä edellytetään vesihypyllä vähintään B-lisenssiä. Jos hypyt
@@ -126,7 +126,7 @@ ennen uutta pakkausta. Kaikki metalliosat ja hihnat kuivataan
 mahdollisimmat hyvin esimerkiksi pyyhkeellä. Myös vesipelastusvälineet
 on huollettava ja palautettava omille paikoilleen.
 
- Näytöshypyt  {#erikoishypyt-naytoshypyt}
+ Näytöshypyt  
 =============
 
 Näytöshypyt ovat julkisille paikoille hypättyjä hyppyjä - yleensä suuren
@@ -145,7 +145,7 @@ Kokeneetkin ja yleensä arviointikykyiset hyppääjät voivat tehdä
 virheitä, kun suorituspaineet kasvavat liikaa. Näytöshyppypaikkaan on
 tutustuttava aina etukäteen.
 
- Hyppytapahtumat (boogiet)  {#erikoishypyt-hyppytapahtumat-boogiet}
+ Hyppytapahtumat (boogiet)  
 ===========================
 
 Laskuvarjohyppääjien kokoontumisia kutsutaan boogieiksi. Osa
@@ -219,7 +219,7 @@ Luuppien kunto ja tiukkuus sekä apuvarjon taskun tiukkuus tarkistetaan.
 Boogieissa voi olla mahdotonta korjata puutteita tai se voi olla
 kallista.
 
- Kilpailut  {#erikoishypyt-kilpailut}
+ Kilpailut  
 ===========
 
 Laskuvarjourheilussa järjestetään kilpailuja monella eri tasolla (SM,
@@ -270,13 +270,13 @@ Kilpailukutsujen mukana tulee yleensä suomenkielinen tiivistelmä
 säännöistä, mutta viime kädessä Sporting Code -säännöstö on se, joka
 määrää FAI:n alaisissa kilpailuissa.
 
- Eri hyppylajit {#erikoishypyt-eri-hyppylajit}
+ Eri hyppylajit 
 ===============
 
 Seuraavassa esitellään lyhyesti eri hyppylajeja. Lisätietoja lajeihin
 löytyy lajikohtaisista jatkokoulutusoppaista.
 
- Speed skydiving  {#erikoishypyt-speed-skydiving}
+ Speed skydiving  
 -----------------
 
 Speed skydiving on uusimpia kilpailulajeja. Nimi voidaan kääntää vaikka
@@ -290,7 +290,7 @@ Lajin on tehnyt mahdolliseksi mikroprosessoripohjaisten korkeusmittarien
 käyttöönotto laskuvarjourheilussa. Niiden avulla pystytään mittaamaan
 ihmisen putoamisnopeus riittävän luotettavasti kilpailemista varten.
 
- Canopy piloting  {#erikoishypyt-canopy-piloting}
+ Canopy piloting  
 -----------------
 
 Canopy piloting (CP) eli kotoisammin swooppaaminen on yksi
@@ -307,7 +307,7 @@ Swooppaaminen on varsin vaativa laskuvarjourheilun laji. Canopy
 pilotingissa suoritukset tapahtuvat aivan katsojien silmien edessä,
 joten yleisön on helppo seurata lajin tapahtumia.
 
- Freefly  {#erikoishypyt-freefly}
+ Freefly  
 ---------
 
 Freeflyssä on tavoitteena lentää mahdollisimman monipuolisesti, kaikissa
@@ -318,7 +318,7 @@ tasossa, freeflyssa lennetään kolmiulotteisesti. Nimensä mukaisesti kyse
 on vapaasta lentämisestä, joten vain mielikuvitus on rajana hyppyjä
 suunniteltaessa.
 
- Freestyle  {#erikoishypyt-freestyle}
+ Freestyle  
 -----------
 
 Freestyle on vapaapudotuslaji, jossa tehdään erilaisista
@@ -338,7 +338,7 @@ hyppääjä kuvaa kahden muun suorituksia osallistuen samalla myös itse
 suorituksiin. Hypyllä hyppääjät ottavat erilaisia otteita toisistaan ja
 lentelevät erilaisia kuvioita toisiinsa nähden.
 
- Kupukuviohyppääminen  {#erikoishypyt-kupukuviohyppaaminen}
+ Kupukuviohyppääminen  
 ----------------------
 
 Kupukuviohyppäämisessä (Canopy Formation, CF, entinen CRW) hyppääjät
@@ -357,7 +357,7 @@ hyppääjä kiertää alimmaksi. Kupukuvioissa kilpaillaan sekä 2- että
 4-miehisin joukkuein. Hypyt arvostellaan hyppyjoukkueeseen kuuluvan
 kuvaajan nauhoituksen perusteella.
 
- Kuvaaminen  {#erikoishypyt-kuvaaminen}
+ Kuvaaminen  
 ------------
 
 Vaikka kilpailuissa kuvaajat ovatkin kuvio freestyle freeflying- ja
@@ -391,7 +391,7 @@ kuvaajien kanssa välineistä ja kuvaamiseen liittyvistä asioista.
 Äänikorkeusmittarin käyttäminen kuvaushypyillä on erittäin
 suositeltavaa.
 
- Kuviohyppääminen  {#erikoishypyt-kuviohyppaaminen}
+ Kuviohyppääminen  
 ------------------
 
 Kuviohypyissä (Formation Skydiving, FS) hyppääjät tekevät kuvioita
@@ -406,7 +406,7 @@ suoritus tuomarien arvostelua varten. Lisäksi esimerkiksi eri
 hyppytapahtumissa hypätään isoja kuvia, joissa mukana saattaa olla 10–50
 hyppääjää.
 
- Liitohyppääminen  {#erikoishypyt-liitohyppaaminen}
+ Liitohyppääminen  
 ------------------
 
 Liitohyppäämiseen käytetään liitopukua, jonka avulla hyppääjät pystyvät
@@ -422,7 +422,7 @@ vapaapudotuksen aikana. Liitohyppäämisen aloittaminen Suomessa vaatii
 vähintään C-lisenssin sekä lajioppaassa määritellyt vähimmäistaidot ja
 -kokemuksen.
 
- Taitohyppy  {#erikoishypyt-taitohyppy}
+ Taitohyppy  
 ------------
 
 Taitohypyssä pyritään tekemään mahdollisimman nopeasti sarja, joka
@@ -436,7 +436,7 @@ yleensä pää alaspäin tapahtuvan pystysyöksyn eli tikkauksen avulla.
 Jotkut taitohyppäävät käyttävät jopa nopeuslaskupukujen tapaisia
 kumipukuja maksiminopeuden hakemiseen.
 
- Tarkkuushyppy  {#erikoishypyt-tarkkuushyppy}
+ Tarkkuushyppy  
 ---------------
 
 Tarkkuushyppy on taitohypyn ohella vanhimpia laskuvarjourheilun muotoja.

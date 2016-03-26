@@ -5,10 +5,10 @@ jäsenestä, kuvaajasta sekä varamiehestä. Kilpailuissa 4-way hypätään
 3000 metristä ja työskentelyaika on 35 sekuntia. Kilpailuhypyt arvotaan
 IPC:n julkaisemasta Dive poolista.
 
- Lyhyt historia  {#yleista-fs-hyppaamisesta-lyhyt-historia}
+ Lyhyt historia  
 ================
 
-###  1970-luku  {#yleista-fs-hyppaamisesta-1970-luku}
+###  1970-luku  
 
 -   RW-hyppääminen alkaa (Relative Work)
 
@@ -18,7 +18,7 @@ IPC:n julkaisemasta Dive poolista.
 
 -   1975 ensimmäiset MM-kilpailut Länsi-Saksassa
 
-###  1980-luku  {#yleista-fs-hyppaamisesta-1980-luku}
+###  1980-luku  
 
 -   1984 Mike Zahar kehitti 4- ja 8-way blokit ja randomit kilpailuihin
 
@@ -27,7 +27,7 @@ IPC:n julkaisemasta Dive poolista.
 
 -   1986 ensimmäinen virallinen 100-way, Muskogee USA
 
-###  1990-luku  {#yleista-fs-hyppaamisesta-1990-luku}
+###  1990-luku  
 
 -   1991 Relative Workistä tulee Formation Skydiving
 
@@ -39,7 +39,7 @@ IPC:n julkaisemasta Dive poolista.
 
 -   1999 Suomen naisten ennätys 30-way
 
-###  2000-luku  {#yleista-fs-hyppaamisesta-2000-luku}
+###  2000-luku  
 
 -   2002 ranskalainen Maubeuge teki maailman ennätyksen 42 pistettä
     kilpailuhypyllä

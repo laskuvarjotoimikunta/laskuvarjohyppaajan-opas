@@ -2,7 +2,7 @@ Hyppytapahtumaan kuuluu oleellisena osana varjon varassa lentäminen ja
 laskeutuminen. Seuraavassa on esimerkkejä siitä, mitä pitää huomioida
 hypyllä erityisesti kuvunkäsittelyn kannalta.
 
- Olosuhteet  {#hyppytapahtuma-kuvunkasittelyhypyilla-olosuhteet}
+ Olosuhteet  
 ============
 
 Tarkista aina ennen hyppyä vallitsevat sääolosuhteet. Huomioi tuulen
@@ -12,7 +12,7 @@ hyppypaikalla paikalliset erityisolosuhteet ja laskeutumiseen
 vaikuttavat esteet, kuten rakennukset ja sähkölinjat. Älä lähde
 hyppäämään näytöshypylle tarkastamatta laskeutumisaluetta.
 
- Valmistautuminen  {#hyppytapahtuma-kuvunkasittelyhypyilla-valmistautuminen}
+ Valmistautuminen  
 ==================
 
 Älä koskaan kiirehdi hyppytoiminnassa, koska silloin unohtuu ja saattaa
@@ -27,7 +27,7 @@ tapahtumat varjon varassa. Pukiessasi varjoa tarkasta, että jalkahihnat
 tulevat yhtä kireälle, jotta asentosi valjaissa on symmetrinen eikä
 käännä varjoa avauksessa tai varjolla lentämisen aikana.
 
- Toiminta lentokoneessa ja uloshyppy  {#hyppytapahtuma-kuvunkasittelyhypyilla-toiminta-lentokoneessa-ja-uloshyppy}
+ Toiminta lentokoneessa ja uloshyppy  
 =====================================
 
 Harjoittele nousun aikana ja mielikuvaharjoittelua tehdessäsi myös
@@ -37,7 +37,7 @@ oikea uloshyppypaikka vaikka hyppäisitkin muiden perään. Älä hyppää, jos
 et varmasti tiedä sijaintiasi ja ole varma pääsystäsi
 laskeutumisalueelle. Ota tarvittaessa uusi hyppylinja.
 
- Vapaapudotus ja varjon avaus  {#hyppytapahtuma-kuvunkasittelyhypyilla-vapaapudotus-ja-varjon-avaus}
+ Vapaapudotus ja varjon avaus  
 ==============================
 
 Tarkista vapaapudotuksen aikana sijaintisi laskeutumisalueeseen nähden.
@@ -56,7 +56,7 @@ avauduttua tarkasta ilmatila ja väistä tarvittaessa oikealle
 takakantohihnoista vetämällä. Tämän jälkeen tukahduta slider ja avaa
 puolijarrut.
 
- Toiminta varjon varassa  {#hyppytapahtuma-kuvunkasittelyhypyilla-toiminta-varjon-varassa}
+ Toiminta varjon varassa  
 =========================
 
 Varjon täytyy olla täysin laskeutumiskuntoinen 600 metrin korkeudessa.
@@ -69,7 +69,7 @@ suuri ja hidas varjo ja olet matalalla, mieti missä haluat nopeitten
 varjojen ohittavan sinut. Tämän tulisi tapahtua mieluummin
 myötätuuliosalla kuin finaalissa.
 
- Tarkkuusniksi  {#hyppytapahtuma-kuvunkasittelyhypyilla-tarkkuusniksi}
+ Tarkkuusniksi  
 ===============
 
 **Tarkkuusniksi** on yksinkertainen tapa selvittää, pääsetkö varjollasi
@@ -107,7 +107,7 @@ helpottaa käsien lepuuttamista. Muista, että varjon pitää olla
 lentokuntoinen 600 metrin korkeudessa ja että myös puolijarrujen täytyy
 olla viimeistään tuolloin avattuina!
 
- Laskeutuminen  {#hyppytapahtuma-kuvunkasittelyhypyilla-laskeutuminen}
+ Laskeutuminen  
 ===============
 
 Tee päätös laskeutumispaikasta viimeistään 300 metrin korkeudessa ja
@@ -120,7 +120,7 @@ jaloin kuin nousta ambulanssin kyytiin pakkausalueen reunalta. Jos
 tarkoituksenasi on tehdä vauhdikas laskeutuminen, niin tee se kaukana
 muista ja tarpeeksi korkealla tuntien varjosi ominaisuudet.
 
- Viimeiset metrit  {#hyppytapahtuma-kuvunkasittelyhypyilla-viimeiset-metrit}
+ Viimeiset metrit  
 ==================
 
 Älä muuta laskeutumissuunnitelmaasi viime hetkellä, sillä siitä johtuu

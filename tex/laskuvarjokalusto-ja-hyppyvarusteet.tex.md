@@ -1,16 +1,16 @@
- Laskuvarjokokonaisuus  {#laskuvarjokalusto-ja-hyppyvarusteet-laskuvarjokokonaisuus}
+ Laskuvarjokokonaisuus  
 =======================
 
-![image](/kuvat/Paavarjon-osat.jpg){width="70.00000%"}
+![image](/kuvat/Paavarjon-osat.jpg)
 
 Laskuvarjokokonaisuuteen kuuluu reppu-valjasyhdistelmä sekä kaksi
 varjoa: pää- ja varavarjo. Molemmat näistä ovat liitovarjoja, jotka ovat
 muodoltaan siiven kaltaisia. Niiden liitosuhde on noin 3:1, eli
 liitäessään kolme metriä eteenpäin varjo vajoaa metrin.
 
-![image](/kuvat/Reppu-valjas-etu.png){width="70.00000%"}
+![image](/kuvat/Reppu-valjas-etu.png)
 
- Päävarjo  {#laskuvarjokalusto-ja-hyppyvarusteet-paavarjo}
+ Päävarjo  
 ----------
 
 Päävarjo, joka koostuu kuvusta, punoksista ja sliderista, on
@@ -20,7 +20,7 @@ Eripituisilla kantopunoksilla kuvun kohtauskulma pidetään sellaisena,
 että etureuna on takareunaa hieman alempana. Liitovarjo muodostaa
 nostovoimaa samalla tavalla kuin lentokoneen siipi.
 
- Varavarjo  {#laskuvarjokalusto-ja-hyppyvarusteet-varavarjo}
+ Varavarjo  
 -----------
 
 Varavarjo on rakenteeltaan ja toiminnaltaan samanlainen kuin päävarjo.
@@ -28,16 +28,16 @@ Varavarjoa käytettäessä laskeutumispaikka saattaa olla muualla kuin
 laskeutumisalueella. Tämän vuoksi alastuloasennon on oltava hyvä ja
 tarvittaessa on tehtävä maahantulokierähdys.
 
- Reppu-valjasyhdistelmä  {#laskuvarjokalusto-ja-hyppyvarusteet-reppu-valjasyhdistelma}
+ Reppu-valjasyhdistelmä  
 ========================
 
-![image](/kuvat/Reppuvaljasyhdistelma.png){width="60.00000%"}
+![image](/kuvat/Reppuvaljasyhdistelma.png)
 
-![image](/kuvat/Reppu-nova.pdf){width="60.00000%"}
+![image](/kuvat/Reppu-nova.pdf)
 
-![image](/kuvat/Reppu-pl.pdf){width="60.00000%"}
+![image](/kuvat/Reppu-pl.pdf)
 
- Lisälaitteet  {#laskuvarjokalusto-ja-hyppyvarusteet-lisalaitteet}
+ Lisälaitteet  
 ==============
 
 Pää- ja varavarjon lisäksi valjaissa on laitteita lisäämässä hyppääjän
@@ -58,9 +58,9 @@ pakkolaukaisuhihnasta ja avaa varavarjon. Varavarjon pakkolaukaisuhihna
 on kuitenkin vain apuväline. Hyppääjän on aina avattava varavarjo
 vetämällä varavarjon kahvasta!
 
-![image](/kuvat/Kolmirengaslukko.jpg){width="70.00000%"}
+![image](/kuvat/Kolmirengaslukko.jpg)
 
-![image](/kuvat/Kolmirengaslukko-auki.jpeg){width="70.00000%"}
+![image](/kuvat/Kolmirengaslukko-auki.jpeg)
 
 Toinen lisälaite varavarjon aukaisuun on automaattilaukaisin (Automatic
 Activation Device, AAD). Käytössä on kahta eri tyyppiä: mekaaninen (FXC)
@@ -79,9 +79,9 @@ FXC:n JUMP/OFF-nuppi käännetään OFF-asentoon:
 -   Laskeuduttaessa veteen
     (\[mahdolliset-vaaratilanteet-laskeutuminen-veteen\] s.)
 
-![image](/kuvat/AAD-Cypres.jpg){width="70.00000%"}
+![image](/kuvat/AAD-Cypres.jpg)
 
- Muut hyppytoiminnassa käytettävät varusteet  {#laskuvarjokalusto-ja-hyppyvarusteet-muut-hyppytoiminnassa-kaytettavat-varusteet}
+ Muut hyppytoiminnassa käytettävät varusteet  
 =============================================
 
 -   Kova kypärä, jossa kiinnityshihna on kypärän ulkopuolella.
@@ -114,7 +114,7 @@ Hypyn aikana mukana ei saa olla mitään tarpeetonta (esimerkiksi avaimet,
 kynä tai matkapuhelin). Lisäksi aina hyppäämään tultaessa on oltava
 mukana hyppypäiväkirja.
 
- Hyppyvarusteiden käsittely  {#laskuvarjokalusto-ja-hyppyvarusteet-hyppyvarusteiden-kasittely}
+ Hyppyvarusteiden käsittely  
 ============================
 
 Suojaa varjoa auringonvalolta, kosteudelta ja likaantumiselta. Nosta
@@ -128,7 +128,7 @@ pakkaustarkistuksista pidetään kirjaa. Varavarjon saa pakata vain siihen
 koulutuksen saanut henkilö. Varusteet palautetaan aina hypyn jälkeen
 omille paikoilleen.
 
- 3X3 -tarkastus  {#laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus}
+ 3X3 -tarkastus  
 ================
 
 Peruskoulutusvaiheessa oppilaalle opetetaan varusteiden perusteellinen

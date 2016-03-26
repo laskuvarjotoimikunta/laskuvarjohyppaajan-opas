@@ -4,7 +4,7 @@ näytteet ennen hyppäämistä. Oppilaan on saavutettava jokaisella
 hyppysuorituksella välttämättömät oppimistavoitteet hyväksytysti, jotta
 suoritus voidaan hyväksyä.
 
- Hyppysuoritukset, NOVA  {#yhteenveto-alkeiskoulutus-hyppysuoritukset-nova}
+ Hyppysuoritukset, NOVA  
 ========================
 
 -   Taso 1
@@ -30,7 +30,7 @@ suoritus voidaan hyväksyä.
 -   15” lyhyt vapaa
     (\[nova-alkeiskoulutuksen-suoritukset-15-lyhyt-vapaa\] s.)
 
- Hyppysuoritukset, PL  {#yhteenveto-alkeiskoulutus-hyppysuoritukset-pl}
+ Hyppysuoritukset, PL  
 ======================
 
 -   3 pakkolaukaisua
@@ -47,7 +47,7 @@ suoritus voidaan hyväksyä.
 
 -   10” itseaukaisu (\[pl-alkeiskoulutuksen-suoritukset-10\] s.)
 
- Muut suoritukset  {#yhteenveto-alkeiskoulutus-muut-suoritukset}
+ Muut suoritukset  
 ==================
 
 -   Peruskoulutuksen teoriakoe. Opiskeltava alue on luvusta *Yhteenveto:
@@ -55,7 +55,7 @@ suoritus voidaan hyväksyä.
     *Peruskoulutuksen muut suoritukset*
     (\[peruskoulutuksen-muut-suoritukset\] s.).
 
- NOVA-suoritusten aikarajat  {#yhteenveto-alkeiskoulutus-nova-suoritusten-aikarajat}
+ NOVA-suoritusten aikarajat  
 ============================
 
 -   Jos tasokoulutuksen aikana oppilaalle tulee 30 vrk tai sitä pitempi
@@ -66,7 +66,7 @@ suoritus voidaan hyväksyä.
     **neljäntoista** vuorokauden sisällä viimeisestä tasohypystä, muuten
     hän joutuu uusimaan tason 7.
 
- PL-suoritusten aikarajat  {#yhteenveto-alkeiskoulutus-pl-suoritusten-aikarajat}
+ PL-suoritusten aikarajat  
 ==========================
 
 -   Jos alkeiskoulutuksen aikana oppilaalle tulee 30 vrk tai sitä

@@ -1,4 +1,4 @@
- Hypyn suunnittelu  {#hypyn-lapikayminen-maassa-hypyn-suunnittelu}
+ Hypyn suunnittelu  
 ===================
 
 Hyppy kannattaa suunnitella ja valita huolella etukäteen ja
@@ -12,9 +12,9 @@ perusasioiden hallintaan ja monimutkaiselta näyttävästä FS-hypystä
 pystyy löytämään jo oppilasaikana opetetut perusliikkeet. Oikotietä
 onneen ei ole eikä vauhti korjaa virheitä.
 
-![image](/kuvat/Neliway-maassa.jpeg){width="95.00000%"}
+![image](/kuvat/Neliway-maassa.jpeg)
 
- Pystykuivat  {#hypyn-lapikayminen-maassa-pystykuivat}
+ Pystykuivat  
 =============
 
 Pystykuivien aikana pyritään oppimaan hypyn kulku eli otteet ja
@@ -23,7 +23,7 @@ otteiden ja oman paikan muistamista. Pystykuivia toistetaan riittävän
 kauan, jotta kaikki muistavat hypyn kulun. Pystykuivat ovat helppo,
 nopea ja fyysisesti kevyt tapa harjoitella hyppyä.
 
- Uloshyppyharjoittelu  {#hypyn-lapikayminen-maassa-uloshyppyharjoittelu}
+ Uloshyppyharjoittelu  
 ======================
 
 Uloshypyn toteutus riippuu hyppääjien määrästä ja hyppykoneesta, mutta
@@ -44,7 +44,7 @@ tai konemallilla, jonka oviaukon tulisi vastata todellista ovea
 mahdollisimman hyvin. Uloshyppyharjoitteluun maassa kannattaa panostaa,
 koska uloshypyn voi suorittaa vain kerran yhdellä hypyllä.
 
- Lautakuivat  {#hypyn-lapikayminen-maassa-lautakuivat}
+ Lautakuivat  
 =============
 
 Lautakuivien tarkoitus on hypyn tarkempi harjoittelu maassa.
@@ -63,7 +63,7 @@ ilmassa. Ennen koneeseen menoa kannattaa hyppy vielä kerrata
 pystykuivien avulla ja kiinnittää huomiota lautakuivilla läpi käytyihin
 asioihin.
 
- Jälkikuivat  {#hypyn-lapikayminen-maassa-jalkikuivat}
+ Jälkikuivat  
 =============
 
 Jälkikuivissa käydään hyppysuoritus läpi suhteutettuna asetettuihin

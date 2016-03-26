@@ -7,7 +7,7 @@ hypyn tavoite on saavutettu. Kaikki hypyt harjoitellaan maassa sekä
 pystyssä että laudoilla, jotta vapaapudotusaika tulisi käytettyä
 mahdollisimman tehokkaasti.
 
- Turvallisuus  {#fs-kuviohyppaaminen-turvallisuus}
+ Turvallisuus  
 ==============
 
 FS-hyppäämisessä on monia huomioon otettavia turvallisuusasioita, koska
@@ -40,7 +40,7 @@ avautumisen jälkeen). Kun taivaalla on paljon ihmisiä samaan aikaan, on
 ohjauksen selkeys tärkeää; nopeat, yllättävät liikkeet saattavat haitata
 muiden lentämistä.
 
- Katsekontakti  {#fs-kuviohyppaaminen-katsekontakti}
+ Katsekontakti  
 ===============
 
 FS-hyppäämisen tärkein perusasia on katse. Katse on ainoa keino
@@ -51,26 +51,26 @@ muodostelman keskipisteessä. Yleisin syy tasoeroihin ja vaakaetäisyyden
 syntymiseen on katsekontaktin puuttuminen, koska vartalo pyrkii
 liikkumaan katseen suuntaan.
 
- Perusasento  {#fs-kuviohyppaaminen-perusasento}
+ Perusasento  
 =============
 
 Kaikki liikkeet aloitetaan perusasennosta, *boxista*.
 (\[perusliikkeet-vapaassa-perusasento\] s.)
 
- Liikkuminen vaakatasossa  {#fs-kuviohyppaaminen-liikkuminen-vaakatasossa}
+ Liikkuminen vaakatasossa  
 ==========================
 
 Liikkuminen eteenpäin tapahtuu ojentamalla jalkoja suoremmiksi. Liikettä
 voi tehostaa siirtämällä samanaikaisesti käsiä kyynärpäistä taaksepäin.
 
-![image](/kuvat/Asento-liikeeteen.png){width="70.00000%"}
+![image](/kuvat/Asento-liikeeteen.png)
 
 Liikkuminen taaksepäin tapahtuu työntämällä käsiä eteenpäin ja
 koukistamalla samanaikaisesti polvia.
 
-![image](/kuvat/Asento-liiketaakse.png){width="70.00000%"}
+![image](/kuvat/Asento-liiketaakse.png)
 
- Liikkuminen alas- ja ylöspäin  {#fs-kuviohyppaaminen-liikkuminen-alas-ja-ylospain}
+ Liikkuminen alas- ja ylöspäin  
 ===============================
 
 Alas- ja ylöspäin liikkumista käytetään hyppykaverin kanssa samalla
@@ -79,11 +79,11 @@ Pystysuoraan liikkumiseen käytetään taivutuksen lisäämistä (alaspäin
 suuntautuva liike) tai negatiivista taivutusta (ylöspäin suuntautuva
 liike, kupitus).
 
-![image](/kuvat/Asento-liikeylos.png){width="70.00000%"}
+![image](/kuvat/Asento-liikeylos.png)
 
-![image](/kuvat/Asento-liikealas.png){width="70.00000%"}
+![image](/kuvat/Asento-liikealas.png)
 
- Käännökset  {#fs-kuviohyppaaminen-kaannokset}
+ Käännökset  
 ============
 
 Paikallaan pysyvä käännös perustuu käsien ja jalkojen samanaikaisiin
@@ -95,14 +95,14 @@ perusasentoon. Käyttämällä enemmän käsiä kuin jalkoja saadaan aikaiseksi
 käännös polvien ympäri. Käyttämällä enemmän jalkoja kuin käsiä saadaan
 aikaan käännös ylävartalon ympäri.
 
- Liikkuminen sivuttain  {#fs-kuviohyppaaminen-liikkuminen-sivuttain}
+ Liikkuminen sivuttain  
 =======================
 
 Sivuttaisliikkeen aikaansaamiseksi kallistetaan vartaloa liikkeen
 suuntaan. Liikkeen pysäyttäminen vaatii vastaliikkeen eli kallistuksen
 toiseen suuntaan ennen perusasennon palauttamista.
 
- Otteiden ottaminen ja kuviossa lentäminen  {#fs-kuviohyppaaminen-otteiden-ottaminen-ja-kuviossa-lentaminen}
+ Otteiden ottaminen ja kuviossa lentäminen  
 ===========================================
 
 Otteita otettaessa on aina oltava samalla tasolla sen kanssa, josta
@@ -113,14 +113,14 @@ purkua, josta jatketaan seuraavaan muodostelmaan. Otteessa ei roikuta,
 vaan lennetään aktiivisesti omaa paikkaa ja ollaan valmiina siirtymään
 seuraavaan muodostelmaan.
 
- Hyppyohjelma  {#fs-kuviohyppaaminen-hyppyohjelma}
+ Hyppyohjelma  
 ==============
 
 FS-harjoitusohjelma sisältää yhdeksän hyppyä ja niihin liittyvät
 tekniikat. Kouluttaja valitsee ohjelman hypyistä kyseiseen
 koulutusvaiheeseen sopivimman.
 
- Hyppy 1: Liikkuminen eteenpäin  {#fs-kuviohyppaaminen-hyppy-1-liikkuminen-eteenpain}
+ Hyppy 1: Liikkuminen eteenpäin  
 --------------------------------
 
 Uloshypyn jälkeen rentoudutaan, otetaan perusasento ja käännytään paria
@@ -129,9 +129,9 @@ sekä tarkastetaan korkeus. Lennetään kuviossa oikein. Kun pari antaa
 merkin, päästetään otteet. Pari odottaa 2 sekuntia ja liikkuu muutaman
 metrin taaksepäin. Toistetaan liike eteenpäin.
 
-![image](/kuvat/FS-1.png){width="70.00000%"}
+![image](/kuvat/FS-1.png)
 
- Hyppy 2: Liikkuminen eteen- ja taaksepäin  {#fs-kuviohyppaaminen-hyppy-2-liikkuminen-eteen-ja-taaksepain}
+ Hyppy 2: Liikkuminen eteen- ja taaksepäin  
 -------------------------------------------
 
 Uloshypyn jälkeen rentoudutaan, otetaan perusasento ja käännytään paria
@@ -140,9 +140,9 @@ Lennetään kuviossa oikein. Tarkastetaan korkeus ja päästetään otteet kun
 vetoa ei ole. Odotetaan 2 sekuntia ja liikutaan muutama metri
 taaksepäin. Toistetaan eteen – taakse -liikettä.
 
-![image](/kuvat/FS-2.png){width="70.00000%"}
+![image](/kuvat/FS-2.png)
 
- Hyppy 3: Liikkuminen ylös- ja alaspäin  {#fs-kuviohyppaaminen-hyppy-3-liikkuminen-ylos-ja-alaspain}
+ Hyppy 3: Liikkuminen ylös- ja alaspäin  
 ----------------------------------------
 
 Lennetään parin luo ja otetaan otteet. Tarkastetaan korkeus ja lennetään
@@ -155,9 +155,9 @@ etäisyyden hypyn aikana muutamassa metrissä, jotta voidaan kupitettaessa
 kääntää päätä alaspäin ja silti pitää katsekontakti pariin. Pidetään
 asento koko ajan symmetrisenä. Toistetaan liikettä.
 
-![image](/kuvat/FS-3.png){width="70.00000%"}
+![image](/kuvat/FS-3.png)
 
- Hyppy 4: Pystysuora liikkuminen yhdistettynä eteenpäin liikkeeseen  {#fs-kuviohyppaaminen-hyppy-4-pystysuora-liikkuminen-yhdistettyna-eteenpain-liikkeeseen}
+ Hyppy 4: Pystysuora liikkuminen yhdistettynä eteenpäin liikkeeseen  
 --------------------------------------------------------------------
 
 Lennetään parin luo ja otetaan otteet. Pari peruuttaa pari metriä ja
@@ -170,9 +170,9 @@ liikkumaan pystysuoraan samalle tasolle parin kanssa ja vasta sitten
 eteenpäin otetta varten. Pidetään katsekontakti pariin koko ajan.
 Toistetaan liikettä.
 
-![image](/kuvat/FS-4.png){width="70.00000%"}
+![image](/kuvat/FS-4.png)
 
- Hyppy 5: 90° käännös  {#fs-kuviohyppaaminen-hyppy-5-90deg-kaannos}
+ Hyppy 5: 90° käännös  
 ----------------------
 
 Käännöksissä paria pidetään kiintopisteenä. Käännökset tehdään
@@ -188,9 +188,9 @@ ensin oikea liike ja vasta sitten otetaan otteet. Kun otetaan ote,
 varmistetaan, että se on kevyt ja että lennetään paikalla eikä otteessa
 roikuta. Toistetaan liikettä.
 
-![image](/kuvat/FS-5.png){width="70.00000%"}
+![image](/kuvat/FS-5.png)
 
- Hyppy 6: 180° käännös  {#fs-kuviohyppaaminen-hyppy-6-180deg-kaannos}
+ Hyppy 6: 180° käännös  
 -----------------------
 
 Lennetään parin luo ja otetaan otteet. Käännytään 90° oikealle ja
@@ -203,9 +203,9 @@ mennä yli halutun astemäärän. Jos ajaudutaan sivuttain poispäin parista,
 niin käännytään välittömästi paria kohti ja jatketaan käännöksiä toiseen
 suuntaan. Toistetaan liikettä.
 
-![image](/kuvat/FS-6.png){width="70.00000%"}
+![image](/kuvat/FS-6.png)
 
- Hyppy 7: 360° käännös  {#fs-kuviohyppaaminen-hyppy-7-360deg-kaannos}
+ Hyppy 7: 360° käännös  
 -----------------------
 
 Lennetään parin luo ja otetaan otteet. Parin annettua merkin käännytään
@@ -217,9 +217,9 @@ lennetään vierekkäin samalla tasolla. Muistetaan, että liike tulee
 hidastaa hyvissä ajoin, jottei kääntyminen mene yli halutun astemäärän.
 Toistetaan liikettä.
 
-![image](/kuvat/FS-7.png){width="70.00000%"}
+![image](/kuvat/FS-7.png)
 
- Hyppy 8: Liikkuminen sivuttain  {#fs-kuviohyppaaminen-hyppy-8-liikkuminen-sivuttain}
+ Hyppy 8: Liikkuminen sivuttain  
 --------------------------------
 
 Liike tehdään parin edessä aloittaen tähdestä ja liikkuen siitä
@@ -229,9 +229,9 @@ oikealle vartalonmitan verran, pysäytetään ja otetaan ote. Liikutaan
 vasemmalle kahden vartalonmitan verran, pysäytetään ja otetaan ote.
 Toistetaan liikettä.
 
-![image](/kuvat/FS-8.png){width="70.00000%"}
+![image](/kuvat/FS-8.png)
 
- Hyppy 9: Lähestyminen sivuttain  {#fs-kuviohyppaaminen-hyppy-9-lahestyminen-sivuttain}
+ Hyppy 9: Lähestyminen sivuttain  
 ---------------------------------
 
 Liike tehdään parin edessä aloittaen tähdestä ja tehden 90° käännös
@@ -242,4 +242,4 @@ sivuttain parin luo. Pari antaa merkin ja irrottaa otteet. Muistetaan
 käyttää koko vartaloa sivuttain liikkeessä. Pyritään tekemään käännökset
 aina rauhallisesti, jotta ei käännytä yli. Toistetaan liikettä.
 
-![image](/kuvat/FS-9.png){width="70.00000%"}
+![image](/kuvat/FS-9.png)

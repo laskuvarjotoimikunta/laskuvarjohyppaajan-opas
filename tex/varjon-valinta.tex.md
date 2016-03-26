@@ -47,7 +47,7 @@ vauhtia. Tällöin valmiiksi kerätyt taidot auttavat uuden varjon
 lentämisen opettelussa, eikä niitä tarvitse opetella alusta alkaen
 nopeammalla varjolla.
 
- Lajien asettamat vaatimukset varjon valintaan  {#varjon-valinta-lajien-asettamat-vaatimukset-varjon-valintaan}
+ Lajien asettamat vaatimukset varjon valintaan  
 ===============================================
 
 Eri hyppylajit vaativat myös varjoilta erilaisia ominaisuuksia, vaikka

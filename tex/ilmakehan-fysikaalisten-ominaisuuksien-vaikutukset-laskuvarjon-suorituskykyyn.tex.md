@@ -5,7 +5,7 @@ ominaisuudet vaihtelevat olosuhteista riippuen, vaihtelee varjon
 suorituskyky erilaisissa ympäristöissä. Nämä muuttujat voi karkeasti
 jakaa kahteen ryhmään: säätila ja ilman fysikaaliset ominaisuudet.
 
- Säätilan vaikutukset  {#ilmakehan-fysikaalisten-ominaisuuksien-vaikutukset-laskuvarjon-suorituskykyyn-saatilan-vaikutukset}
+ Säätilan vaikutukset  
 ======================
 
 Tuulen vaikutuksesta varjolla lentämiseen ja uloshyppypaikan
@@ -60,7 +60,7 @@ nostaakin kuvun sisäistä painetta, saattaa vauhdinottohetkellä kupuun
 kohdistuva ilmavirta turbulenssin vuoksi tulla väärästä suunnasta ja
 varjo voi tukahtua matalalla.
 
- Ilmanpaine  {#ilmakehan-fysikaalisten-ominaisuuksien-vaikutukset-laskuvarjon-suorituskykyyn-ilmanpaine}
+ Ilmanpaine  
 ============
 
 Merenpinnan tasolla ilmanpaine on keskimäärin 1013 mbar. Ylöspäin
@@ -73,7 +73,7 @@ korkeusmittarissa eri päivien välillä tapahtuvina muutoksina. Mitä
 korkeampi ilmanpaine on, sitä tiheämpää ilma on ja sitä paremmin se
 kantaa.
 
- Ilman tiheys  {#ilmakehan-fysikaalisten-ominaisuuksien-vaikutukset-laskuvarjon-suorituskykyyn-ilman-tiheys}
+ Ilman tiheys  
 ==============
 
 Ilman tiheys, tai siitä laskettava tiheyskorkeus, on käyttökelpoisin
@@ -85,7 +85,7 @@ lisääntyessä niin, että 600 metrissä se on noin 94 %, 4000 metrissä 66 %
 ja 6000 metrissä noin 58 % verrattuna ilman tiheyteen meren pinnan
 tasolla. Mitä harvempaa ilma on, sitä huonommin se kantaa.
 
- Ilman lämpötila  {#ilmakehan-fysikaalisten-ominaisuuksien-vaikutukset-laskuvarjon-suorituskykyyn-ilman-lampotila}
+ Ilman lämpötila  
 =================
 
 Lämpenevä ilma pyrkii laajenemaan, jolloin ilmanpaine nousee. Lämpenevän
@@ -93,14 +93,14 @@ ilman päästessä vapaasti laajenemaan sen tiheys samalla laskee. Kylmä
 ilma on siis tiheämpää kuin lämmin, ja se kantaa paremmin. Ilman
 lämmetessä se pyrkii nousemaan, mikä ilmenee termiikkeinä ja pyörteinä.
 
- Ilman kosteus  {#ilmakehan-fysikaalisten-ominaisuuksien-vaikutukset-laskuvarjon-suorituskykyyn-ilman-kosteus}
+ Ilman kosteus  
 ===============
 
 Koska höyrystynyt vesi on kevyempää kuin kuiva ilma, pienenee ilman
 tiheys kosteuden lisääntyessä. Kuiva ilma on tiheämpää kuin kostea, ja
 se kantaa paremmin.
 
- Tiheyskorkeuden vaikutus varjon käyttäytymiseen  {#ilmakehan-fysikaalisten-ominaisuuksien-vaikutukset-laskuvarjon-suorituskykyyn-tiheyskorkeuden-vaikutus-varjon-kayttaytymiseen}
+ Tiheyskorkeuden vaikutus varjon käyttäytymiseen  
 =================================================
 
 Mitä pienempi tiheyskorkeus on (eli mitä suurempi on ilman tiheys), sitä

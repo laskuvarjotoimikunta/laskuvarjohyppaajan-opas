@@ -1,4 +1,4 @@
- Katsekontakti  {#fs-hyppaamisen-perusteet-katsekontakti}
+ Katsekontakti  
 ===============
 
 FS-hyppäämisen tärkein perusasia on katse. Katse on ainoa keino
@@ -9,7 +9,7 @@ muodostelman keskipisteessä. Yleisin syy tasoeroihin ja vaakaetäisyyden
 syntymiseen on katsekontaktin puuttuminen, koska vartalo pyrkii
 liikkumaan katseen suuntaan.
 
- Keskipiste  {#fs-hyppaamisen-perusteet-keskipiste}
+ Keskipiste  
 ============
 
 Hyppääjän keskipiste sijaitsee navan kohdalla, mutta käännöksen
@@ -19,7 +19,7 @@ muodostelmat rakennetaan. Esimerkiksi kahden hengen tähdessä keskipiste
 sijaitsee käsiotteiden keskellä. Sekvenssissä muodostelmat rakennetaan
 niin, että keskipiste pysyy jotakuinkin samassa kohtaa läpi sekvenssin.
 
- Otteiden ottaminen  {#fs-hyppaamisen-perusteet-otteiden-ottaminen}
+ Otteiden ottaminen  
 ====================
 
 Otteita otettaessa on hyppääjien oltava samalla tasolla. Otteet otetaan
@@ -30,14 +30,14 @@ siirrytään seuraavaan muodostelmaan. Otteessa ei roikuta, vaan lennetään
 aktiivisesti omaa paikkaa ja ollaan valmiina siirtymään seuraavaan
 muodostelmaan.
 
- Box  {#fs-hyppaamisen-perusteet-box}
+ Box  
 =====
 
 Vapaapudotuksen perusasento ja siinä liikkuminen löytyvät
 Laskuvarjohyppääjän oppaasta. (\[perusliikkeet-vapaassa-perusasento\]
 s.) (\[fs-kuviohyppaaminen\] s.)
 
- Mantis  {#fs-hyppaamisen-perusteet-mantis}
+ Mantis  
 ========
 
 Mantis on vapaapudotusasento, joka nykyisin on FS-hyppäämisen
@@ -53,9 +53,9 @@ pienetkin liikkeet ovat tehokkaita. Käsillä työskennellään boxiin
 verrattuna luonnollisemmassa asennossa, kun kädet ovat ylävartalon
 edessä.
 
-![image](/kuvat/Mantis.png){width="95.00000%"}
+![image](/kuvat/Mantis.png)
 
- Mantiksen harjoittelu  {#fs-hyppaamisen-perusteet-mantiksen-harjoittelu}
+ Mantiksen harjoittelu  
 -----------------------
 
 Hyvä keino harjoitella mantista on esimerkiksi televisiota katsellessa
@@ -67,9 +67,9 @@ ovat kaikki 2-way hypyt. Sidebody-hypyt ovat erityisen hyviä
 harjoituksia, koska oikea asento tulee luonnostaan, kun pyritään
 katsomaan toisen hyppääjän selän yli.
 
-![image](/kuvat/Sidebody-harjoittelu.png){width="95.00000%"}
+![image](/kuvat/Sidebody-harjoittelu.png)
 
- Turvallisuus  {#fs-hyppaamisen-perusteet-turvallisuus}
+ Turvallisuus  
 ==============
 
 Joitakin turvallisuusasioita tarkistettavaksi ja huomioitavaksi:

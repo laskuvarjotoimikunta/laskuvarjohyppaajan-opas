@@ -1,4 +1,4 @@
- Joukkueen kokoaminen ja tavoitteet  {#4-way-joukkuehyppaaminen-joukkueen-kokoaminen-ja-tavoitteet}
+ Joukkueen kokoaminen ja tavoitteet  
 ====================================
 
 Joukkueen kokoamisessa huomioon otettavia asioita ovat jäsenten kokemus,
@@ -20,9 +20,9 @@ Joukkueen suurin voimavara on hyvä yhteishenki. Yhteisten tavoitteiden
 asettaminen ja niihin määrätietoisesti pyrkiminen luovat perustan koko
 joukkueen kehittymiselle.
 
-![image](/kuvat/Neliway-ilmassa.jpeg){width="70.00000%"}
+![image](/kuvat/Neliway-ilmassa.jpeg)
 
- Joukkueen jäsenet  {#4-way-joukkuehyppaaminen-joukkueen-jasenet}
+ Joukkueen jäsenet  
 ===================
 
 Jokaisella joukkueen jäsenellä on oma paikka sekä tehtävä. Karkeasti
@@ -35,7 +35,7 @@ pidempänä matkana fluttereille.
 
 Tarkemmat tehtävät määräytyvät uloshyppypaikkojen mukaan:
 
-![image](/kuvat/4-way-paikat.png){width="95.00000%"}
+![image](/kuvat/4-way-paikat.png)
 
 Kuvassa lentokoneen lentosuunta on merkitty nuolella. Uloshyppy toimii
 samalla tavoin riippumatta siitä, kummalla puolella lentokonetta ovi on.
@@ -87,7 +87,7 @@ sisämies *takapuljan.* Suurin osa blokkien siirtymistä vaatii
 työskentelyä puljittain. Muutamissa blokeissa välisuorituksen tekevät
 yksittäinen hyppääjä ja kolmen pulja.
 
- Valmentaja  {#4-way-joukkuehyppaaminen-valmentaja}
+ Valmentaja  
 ============
 
 Joukkueen kannattaa jo kokoamisvaiheessa hankkia valmentaja. Varsinkin

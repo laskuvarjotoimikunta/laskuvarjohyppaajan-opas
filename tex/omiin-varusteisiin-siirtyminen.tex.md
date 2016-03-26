@@ -24,7 +24,7 @@ ominaisuudet erilaisissa tilanteissa. Siksi onkin tärkeää tutustua tämän
 oppaan osaan Kuvunkäsittelyopas, kun siirrytään oppilaskalustosta
 nopeampiin varjoihin.
 
- Laskuvarjoja koskevat kokemusrajat  {#omiin-varusteisiin-siirtyminen-laskuvarjoja-koskevat-kokemusrajat}
+ Laskuvarjoja koskevat kokemusrajat  
 ====================================
 
 Jatkokoulutuksessa oleva oppilas voi saada koulutuspäälliköltä tai
@@ -66,9 +66,9 @@ ovat seuraavia:
 -   lisävarusteet (tukahdutettava slider ja tukahtuva apuvarjo) vaativat
     huolellisuutta pakkaamisessa ja lentämisessä.
 
-![image](/kuvat/MARD.jpg){width="70.00000%"}
+![image](/kuvat/MARD.jpg)
 
- Muut varusteet  {#omiin-varusteisiin-siirtyminen-muut-varusteet}
+ Muut varusteet  
 ================
 
 AAD (Automatic Activation Device) eli varavarjon automaattilaukaisin on
@@ -180,7 +180,7 @@ muutamia ominaispiirteitä:
 
 -   Spaceball: Spaceballin kanssa hyppääminen on Suomessa kiellettyä.
 
- Harjoitus ja harjoitushypyt  {#omiin-varusteisiin-siirtyminen-harjoitus-ja-harjoitushypyt}
+ Harjoitus ja harjoitushypyt  
 =============================
 
 1.  Tutustutaan Laskuvarjohyppääjän oppaan Kuvunkäsittelyoppaaseen ja

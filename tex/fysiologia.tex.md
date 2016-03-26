@@ -15,7 +15,7 @@ jos tauti, sairaus tai vamma ei harrastusta häiritse tai se on
 tilapäistä. Raskauden, loukkaantumisten ja sairauksien jälkeen on
 käytettävä myös tervettä järkeä hyppytoiminnan jälleen aloittamisessa.
 
- Fyysiset seikat  {#fysiologia-fyysiset-seikat}
+ Fyysiset seikat  
 =================
 
 Korvat ja nenän sivuontelot ovat kaikessa ilmailussa eniten ongelmia
@@ -81,7 +81,7 @@ Laitesukelluksen jälkeen on noudatettava annettuja varoaikoja ennen
 hyppäämisen aloittamista. Verenluovutuksen jälkeen ei hyppäämistä
 suositella viikkoon.
 
- Lääkkeet, alkoholi ja tupakka  {#fysiologia-laakkeet-alkoholi-ja-tupakka}
+ Lääkkeet, alkoholi ja tupakka  
 ===============================
 
 Säännöllinen lääkkeiden käyttö, vaikka kyse ei olisikaan
@@ -127,7 +127,7 @@ laskuvarjohyppääjien virallista kilpailutoimintaa. On kuitenkin syytä
 muistaa, että vaikka lääke olisi sallittu urheilussa, niin se ei ole
 välttämättä sallittu ilmailussa.
 
- Olosuhteet ja voimat  {#fysiologia-olosuhteet-ja-voimat}
+ Olosuhteet ja voimat  
 ======================
 
 Valvominen vaatii veronsa jo normaaliolosuhteissa, saatikka hypätessä.

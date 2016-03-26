@@ -1,7 +1,7 @@
- Vaaratilanteet koneessa ja uloshypyssä  {#mahdolliset-vaaratilanteet-vaaratilanteet-koneessa-ja-uloshypyssa}
+ Vaaratilanteet koneessa ja uloshypyssä  
 ========================================
 
- Repun aukeaminen koneessa  {#mahdolliset-vaaratilanteet-repun-aukeaminen-koneessa}
+ Repun aukeaminen koneessa  
 ---------------------------
 
 Repun (pää- tai varavarjon) tahaton aukeaminen johtuu yleensä hyppääjän
@@ -20,7 +20,7 @@ Jos reppusi aukeaa ovella ja varjo karkaa ovesta ulos, hyppää ulos
 asennosta välittämättä. Tällaisessa tapauksessa hyppymestari auttaa
 sinut ripeästi ulos. Nopealla toiminnalla tilanne voidaan pelastaa.
 
- Hätähyppy  {#mahdolliset-vaaratilanteet-hatahyppy}
+ Hätähyppy  
 -----------
 
 Jos lentäjän täytyy keventää konetta tai kone on ohjauskyvytön,
@@ -30,7 +30,7 @@ välittömästi. Hätähyppyä jatketaan, kunnes kaikki ovat hypänneet tai
 hyppymestari komentaa SEIS, PAKKOLASKU! Tällöin loput koneessa olevat
 valmistautuvat pakkolaskuun.
 
- Pakkolasku  {#mahdolliset-vaaratilanteet-pakkolasku}
+ Pakkolasku  
 ------------
 
 Hyppytoiminnassa lennetään yleensä niin lähellä kenttää, että hyppykone
@@ -45,7 +45,7 @@ ja pakkolaskussa on muistettava, että lentäjä on koneen päällikkö mutta
 hyppääjien johtaja on hyppymestari. Oppilaille ohjeet tulevat **aina**
 hyppymestarilta. Tärkeintä on toimia rauhallisesti käskyjen mukaan.
 
- Koneeseen kiinni jääminen  {#mahdolliset-vaaratilanteet-koneeseen-kiinni-jaaminen}
+ Koneeseen kiinni jääminen  
 ---------------------------
 
 Jos jäät roikkumaan koneeseen päävarjostasi, huomaat sen siitä, että
@@ -55,7 +55,7 @@ Varmistu, että olet hinauksessa vain olkalukkojen välityksellä jonka
 jälkeen tee varavarjotoimenpiteet.
 (\[paavarjon-vajaatoiminnot-varavarjon-kaytto\] s.)
 
- Sotkeutuminen punoksiin  {#mahdolliset-vaaratilanteet-sotkeutuminen-punoksiin}
+ Sotkeutuminen punoksiin  
 =========================
 
 Jos uloshyppysi tai avausasentosi on huono, on mahdollista, että
@@ -66,7 +66,7 @@ koukkupuukkoa. Tee kuitenkin varavarjotoimenpiteet
 metrin korkeudessa. Punoksiin sotkeutumisen voi välttää keskittymällä
 hyvään asentoon ulos hypätessä ja varjoa avatessa.
 
- Apuvarjon aiheuttamat vaaratilanteet  {#mahdolliset-vaaratilanteet-apuvarjon-aiheuttamat-vaaratilanteet}
+ Apuvarjon aiheuttamat vaaratilanteet  
 ======================================
 
 Huono avausasento voi johtaa siihen, että apuvarjon yhdyspunos kietoutuu
@@ -96,10 +96,10 @@ Kiinni tarttunutta osaa voidaan yrittää irrottaa, jos varmuudella
 nähdään ongelman aiheuttaja. Jos irrotus ei onnistu yhdellä yrityksellä
 tai et näe ongelman aiheuttajaa, tee varavarjotoimenpiteet heti.
 
- Vaaratilanteet varjon varassa  {#mahdolliset-vaaratilanteet-vaaratilanteet-varjon-varassa}
+ Vaaratilanteet varjon varassa  
 ===============================
 
- Kaksi varjoa auki  {#mahdolliset-vaaratilanteet-kaksi-varjoa-auki}
+ Kaksi varjoa auki  
 -------------------
 
 Yleisimmät syyt oppilailla kahden varjon varaan joutumisessa ovat matala
@@ -109,7 +109,7 @@ varjon tilanteissa ei lennetä laskeutumiskuviota. Mikäli toisen varjon
 puolijarrut ovat auki, pidä varjojen nopeus samana sopivilla
 jarruasetuksilla.
 
-###  Varjot peräkkäin (biplane)  {#mahdolliset-vaaratilanteet-varjot-perakkain-biplane}
+###  Varjot peräkkäin (biplane)  
 
 Ohjaa varovasti etummaista varjoa vain välttämättömillä ohjausliikkeillä
 takimmaisista kantohihnoista. Älä avaa puolijarruja. Älä jarruta
@@ -117,9 +117,9 @@ alastulossa ja valmistaudu kovaan alastuloon.
 
 **Älä päästä päävarjoa irti!**
 
-![image](/kuvat/2-kupua-biplane.jpeg){width="95.00000%"}
+![image](/kuvat/2-kupua-biplane.jpeg)
 
-###  Varjot vierekkäin (side-by-side)  {#mahdolliset-vaaratilanteet-varjot-vierekkain-side-by-side}
+###  Varjot vierekkäin (side-by-side)  
 
 Ohjaa varovasti hallitsevaa varjoa vain välttämättömillä
 ohjausliikkeillä takimmaisista kantohihnoista. Älä avaa puolijarruja.
@@ -127,18 +127,18 @@ ohjausliikkeillä takimmaisista kantohihnoista. Älä avaa puolijarruja.
 
 **Älä päästä päävarjoa irti!**
 
-![image](/kuvat/2-kupua-sidebyside.jpeg){width="95.00000%"}
+![image](/kuvat/2-kupua-sidebyside.jpeg)
 
-###  Varjot sivuilla, vajoavat nopeasti (downplane)  {#mahdolliset-vaaratilanteet-varjot-sivuilla-vajoavat-nopeasti-downplane}
+###  Varjot sivuilla, vajoavat nopeasti (downplane)  
 
 Tämä lentotila on harvinainen. Varjot voivat siirtyä itsestään varjot
 vierekkäin -muodostelmaan.
 
 **Päästä päävarjo irti!**
 
-![image](/kuvat/2-kupua-downplane.jpeg){width="95.00000%"}
+![image](/kuvat/2-kupua-downplane.jpeg)
 
- Törmääminen varjon varassa  {#mahdolliset-vaaratilanteet-tormaaminen-varjon-varassa}
+ Törmääminen varjon varassa  
 ----------------------------
 
 Törmäys on mahdollinen aina, kun ilmassa on useita hyppääjiä. Heti, kun
@@ -171,7 +171,7 @@ m), voi kaksikin ihmistä laskeutua yhdellä varjolla.
 
 Huomioi kaikissa toimenpiteissäsi ajan ja korkeuden menetys.
 
- Laskeutuminen epätavallisiin paikkoihin  {#mahdolliset-vaaratilanteet-laskeutuminen-epatavallisiin-paikkoihin}
+ Laskeutuminen epätavallisiin paikkoihin  
 =========================================
 
 Laskeutumisen muihin paikkoihin kuin maalialueelle voi yleensä välttää
@@ -194,7 +194,7 @@ lähtiessäsi esimerkiksi se, missä suunnassa aurinko on, kun olet
 kääntynyt vastatuuleen. Liput, viirit ja savut ovat myös hyviä tuulen
 suunnan osoittimia.
 
- Laskeutuminen veteen  {#mahdolliset-vaaratilanteet-laskeutuminen-veteen}
+ Laskeutuminen veteen  
 ----------------------
 
 Laskeudu mieluummin metsään kuin veteen. Joutuessasi laskeutumaan veteen
@@ -217,7 +217,7 @@ Vedessä:
 
 -   Avaa hihnat ja ui eroon varjosta.
 
- Laskeutuminen puuhun/metsään  {#mahdolliset-vaaratilanteet-laskeutuminen-puuhun-metsaan}
+ Laskeutuminen puuhun/metsään  
 ------------------------------
 
 Puuhun tai metsään laskeutuessasi toimi seuraavasti:
@@ -237,7 +237,7 @@ Suuri vaakanopeus aiheuttaa enemmän kolhuja kuin suuri vajoamisnopeus.
 Loppuvedon tekeminen puiden latvoihin on turvallisempaa kuin puita päin
 lentäminen.
 
- Laskeutuminen sähkölinjoihin  {#mahdolliset-vaaratilanteet-laskeutuminen-sahkolinjoihin}
+ Laskeutuminen sähkölinjoihin  
 ------------------------------
 
 Jos joudut laskeutumaan sähkölinjoihin, niin
@@ -254,7 +254,7 @@ Jos joudut laskeutumaan sähkölinjoihin, niin
 
 -   Odota apua.
 
- Laskeutuminen katolle  {#mahdolliset-vaaratilanteet-laskeutuminen-katolle}
+ Laskeutuminen katolle  
 -----------------------
 
 Mikäli joudut laskeutumaan katolle, toimi seuraavasti:
@@ -270,7 +270,7 @@ Mikäli joudut laskeutumaan katolle, toimi seuraavasti:
 
 -   Odota apua.
 
- Kiinteään esteeseen törmääminen  {#mahdolliset-vaaratilanteet-kiinteaan-esteeseen-tormaaminen}
+ Kiinteään esteeseen törmääminen  
 ---------------------------------
 
 Näitä ovat esimerkiksi seinät, autot, pylväät ja aidat. Jos osut

@@ -23,7 +23,7 @@ laskeutumisalueelle. Ajautuman arvioinnin tärkeys korostuu, jos
 laskeutumisalue on pieni, ilmassa on paljon muuta liikennettä tai tuuli
 on kova.
 
- Ajautuminen tuulen mukana  {#uloshyppypaikan-maaritys-ajautuminen-tuulen-mukana}
+ Ajautuminen tuulen mukana  
 ===========================
 
 Vapaapudotuksen ja varjon ohjailun aikana tapahtuvan ajautumisen
@@ -60,7 +60,7 @@ vapaapudotuksessa erilaisissa tuulissa.
   30               2800                     800
   35               3200                     900
 
- Ajautuminen varjon varassa  {#uloshyppypaikan-maaritys-ajautuminen-varjon-varassa}
+ Ajautuminen varjon varassa  
 ----------------------------
 
 Varjon varassa tapahtuvan ajautumisen laskemiseksi tarvitaan sekä
@@ -80,7 +80,7 @@ Esimerkki ajautuman laskemisesta:
 Ajautumaksi varjon varassa saadaan 700 metriä. Avauspaikka on siis 0,7
 kilometrin etäisyydellä laskeutumisalueelta suuntaan 240 astetta.
 
- Ajautuminen vapaapudotuksessa  {#uloshyppypaikan-maaritys-ajautuminen-vapaapudotuksessa}
+ Ajautuminen vapaapudotuksessa  
 -------------------------------
 
 Vapaapudotuksessa tapahtuvan ajautumisen laskemiseen käytetään
@@ -103,9 +103,9 @@ Uloshyppypaikka valitaan ajautuman verran tuulen yläpuolelta
 laskeutumisalueeseen nähden. Lentäjälle ja muille hyppääjille näytetään
 paikka koneessa olevalta kartalta tai kerrotaan paikka sanallisesti.
 
-![image](/kuvat/Paikanmaaritys.jpeg){width="99.00000%"}
+![image](/kuvat/Paikanmaaritys.jpeg)
 
- Linjan määritys  {#uloshyppypaikan-maaritys-linjan-maaritys}
+ Linjan määritys  
 =================
 
 Jos lentokoneessa on useampia hyppääjiä/ryhmiä, määritetään hyppylinja
@@ -143,14 +143,14 @@ hypätään, sitä suurempi on riski, että epätarkka tuuliennuste,
 sääolosuhteiden muutos, matala avaus tai varavarjon käyttö johtaa
 hyppääjän laskeutumiseen laskeutumisalueen ulkopuolelle.
 
-Hyppääminen määritetyssä paikassa {#uloshyppypaikan-maaritys-hyppaaminen-maaritetyssa-paikassa}
+Hyppääminen määritetyssä paikassa 
 =================================
 
 Lentäjälle annetaan ohjeet suunnitellusta paikasta ja lentosuunnasta
 ennen koneeseen nousua. Kun kone on saavuttanut hyppykorkeuden, lentäjä
 ohjaa sovitulle linjalle. Hyppylinja alkaa jo ennen laskeutumisaluetta.
 
-### Ohjeet lentäjälle {#uloshyppypaikan-maaritys-ohjeet-lentajalle}
+### Ohjeet lentäjälle 
 
 Hyppyoven avaamiseen tarvitaan yleensä lupa lentäjältä. Hän antaa
 avausluvan saatuaan luvan lennonjohdolta tai ilmoitettuaan pudotuksesta
@@ -162,12 +162,12 @@ huomioitava oma paikka ja näkyvyys, sillä lentäjän voi olla vaikea nähdä
 hyppääjiä. Turhia korjauksia on vältettävä ja koneen on annettava
 asettua suoraan ennen seuraavaa tarkastusta.
 
-### Heitto eteenpäin {#uloshyppypaikan-maaritys-heitto-eteenpain}
+### Heitto eteenpäin 
 
 Kone heittää hyppääjää lentosuuntaan. Normaalitilanteessa heitto on alle
 200 metriä. Erityisen nopeasta koneesta se voi olla suurempi.
 
-### Paikan katsominen {#uloshyppypaikan-maaritys-paikan-katsominen}
+### Paikan katsominen 
 
 Paikkaa katsottaessa pää työnnetään ulos koneesta ja katsotaan suoraan
 alaspäin.
@@ -188,7 +188,7 @@ Lisäksi hyppääjä voi tehdä seuraavia virheitä:
 
 -   Katsominen eteenpäin ennakoi uloshyppyä liikaa.
 
-### Ennen uloshyppyä ja uloshyppy {#uloshyppypaikan-maaritys-ennen-uloshyppya-ja-uloshyppy}
+### Ennen uloshyppyä ja uloshyppy 
 
 Ennen uloshyppypäätöstä hyppääjän on varmistuttava myös ilmatilan
 vapaudesta. Alla olevia koneita ja hyppääjiä on väistettävä, ja
@@ -211,7 +211,7 @@ ilmailijoiden turvallisuuden.
 
 Varusteet on aina tarkastettava ennen uloshyppyä.
 
- Uloshyppyjärjestys  {#uloshyppypaikan-maaritys-uloshyppyjarjestys}
+ Uloshyppyjärjestys  
 ====================
 
 Ennen koneeseen nousemista tulee pokalle määrittää uloshyppyjärjestys ja
@@ -251,7 +251,7 @@ liitopukuhyppääjiä. Pokan suunnittelussa onkin huomioitava esimerkiksi
 kupumuodostelma- ja liitopukuhyppääjät siten, etteivät he aiheuta vaaraa
 muille.
 
- Streamer  {#uloshyppypaikan-maaritys-streamer}
+ Streamer  
 ==========
 
 Ajautuminen varjon varassa voidaan myös arvioida käyttämällä
@@ -273,7 +273,7 @@ seuraamisen aikana heittäjää ei saa häiritä. Kellotus on tehtävä, ellei
 streamer ole vakiokokoinen. Streamerin kadotessa heitetään uusi tai
 kysytään maahenkilöltä havainto sen putoamispaikasta.
 
- Harjoitus  {#uloshyppypaikan-maaritys-harjoitus}
+ Harjoitus  
 -----------
 
 1.  Harjoitellaan uloshyppypaikan määrittämistä

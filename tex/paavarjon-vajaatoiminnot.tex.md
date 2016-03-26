@@ -19,10 +19,10 @@ suorittaa varavarjotoimenpiteet.
 **Jos et osaa päättää, lentääkö päävarjo vai ei, se EI LENNÄ!** =&gt;
 Tee varavarjotoimenpiteet!
 
- Lentää, Täysin kehittynyt  {#paavarjon-vajaatoiminnot-lentaa-taysin-kehittynyt}
+ Lentää, Täysin kehittynyt  
 ===========================
 
-![image](/kuvat/Vajaatoiminnot-Lentaa-Taysin-kehittynyt.png){width="95.00000%"}
+![image](/kuvat/Vajaatoiminnot-Lentaa-Taysin-kehittynyt.png)
 
 -   Kupu on säännöllisen muotoinen
 
@@ -30,62 +30,62 @@ Tee varavarjotoimenpiteet!
 
 -   Slider on suorakaiteen muotoinen ja alhaalla.
 
- Lentää - Selvitä  {#paavarjon-vajaatoiminnot-lentaa-selvita}
+ Lentää - Selvitä  
 ==================
 
-### Slider ylhäällä {#paavarjon-vajaatoiminnot-slider-ylhaalla}
+### Slider ylhäällä 
 
-![image](/kuvat/Vajaatoiminnot-Lentaa-Slider-ylhaalla.png){width="95.00000%"}
+![image](/kuvat/Vajaatoiminnot-Lentaa-Slider-ylhaalla.png)
 
 -   Pumppaa slider alas
 
 -   Tarkkaile korkeutta.
 
-### Slider ylhäällä ja kierrettä {#paavarjon-vajaatoiminnot-slider-ylhaalla-ja-kierretta}
+### Slider ylhäällä ja kierrettä 
 
-![image](/kuvat/Vajaatoiminnot-Lentaa-Slider-ylhaalla-ja-Kierteita.png){width="95.00000%"}
+![image](/kuvat/Vajaatoiminnot-Lentaa-Slider-ylhaalla-ja-Kierteita.png)
 
 -   Levitä kantohihnoja, potki kierre auki ja pumppaa slider alas
 
 -   Tarkkaile korkeutta.
 
-### Reunatunnelit tukossa ja slider ylhäällä {#paavarjon-vajaatoiminnot-reunatunnelit-tukossa-ja-slider-ylhaalla}
+### Reunatunnelit tukossa ja slider ylhäällä 
 
-![image](/kuvat/Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla.png){width="95.00000%"}
+![image](/kuvat/Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla.png)
 
 -   Pumppaa slider alas ja tunnelit auki
 
 -   Tarkkaile korkeutta.
 
-### Reunatunneli tukossa, slider ylhäällä ja kierrettä punoksissa {#paavarjon-vajaatoiminnot-reunatunneli-tukossa-slider-ylhaalla-ja-kierretta-punoksissa}
+### Reunatunneli tukossa, slider ylhäällä ja kierrettä punoksissa 
 
-![image](/kuvat/Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla-ja-kierteita.png){width="95.00000%"}
+![image](/kuvat/Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla-ja-kierteita.png)
 
 -   Levitä kantohihnoja, potki kierre auki, pumppaa slider alas ja
     tunneli auki
 
 -   Tarkkaile korkeutta.
 
-### Avautumassa oleva varjo {#paavarjon-vajaatoiminnot-avautumassa-oleva-varjo}
+### Avautumassa oleva varjo 
 
-![image](/kuvat/Vajaatoiminnot-lentaa-avautumassa.png){width="95.00000%"}
+![image](/kuvat/Vajaatoiminnot-lentaa-avautumassa.png)
 
 -   Pumppaa kupu tarvittaessa auki
 
 -   Tarkkaile korkeutta.
 
- Ei lennä  {#paavarjon-vajaatoiminnot-ei-lenna}
+ Ei lennä  
 ==========
 
-### Line over {#paavarjon-vajaatoiminnot-line-over}
+### Line over 
 
-![image](/kuvat/Vajaatoiminnot-line-over.png){width="95.00000%"}
+![image](/kuvat/Vajaatoiminnot-line-over.png)
 
 -   Tee varavarjotoimenpiteet.
 
-![image](/kuvat/VV-toimenpiteet.pdf){width="80.00000%"}
+![image](/kuvat/VV-toimenpiteet.pdf)
 
- Varavarjon käyttö  {#paavarjon-vajaatoiminnot-varavarjon-kaytto}
+ Varavarjon käyttö  
 ===================
 
 Tärkeät korkeudet:
@@ -112,7 +112,7 @@ Tärkeät korkeudet:
         päävarjosi ei lennä, avaa suoraan varavarjo tekemättä päävarjon
         irtipäästöä (kohdat 6-9 alla).
 
-###  Varavarjotoimenpiteet  {#paavarjon-vajaatoiminnot-varavarjotoimenpiteet}
+###  Varavarjotoimenpiteet  
 
 1.  Pidä taivutus.
 
@@ -134,4 +134,4 @@ Tärkeät korkeudet:
 
 9.  Pidä vv-kahva kädessä tai päästä irti (kerhokohtainen)
 
-![image](/kuvat/VVkaavio.pdf){width="99.00000%"}
+![image](/kuvat/VVkaavio.pdf)

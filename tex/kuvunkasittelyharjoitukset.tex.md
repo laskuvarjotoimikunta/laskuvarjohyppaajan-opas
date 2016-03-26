@@ -8,7 +8,7 @@ laskeutumisesta.
 **Huom!** Varjon pitää aina olla lentokuntoinen viimeistään 600 metrin
 korkeudessa. Myös puolijarrujen täytyy olla tuolloin avattuina!
 
- Hyppy 1  {#kuvunkasittelyharjoitukset-hyppy-1}
+ Hyppy 1  
 =========
 
 Tarkoituksena on oppia tuntemaan oman varjon ominaisuudet ja oppia
@@ -23,7 +23,7 @@ alastulokuvioon huomioiden porrastukset. Huomioi mahdollisen kuvaajan
 sijainti äläkä lennä suoraan kohti. Tee oikeaoppinen loppuveto täydestä
 liidosta.
 
- Hyppy 2  {#kuvunkasittelyharjoitukset-hyppy-2}
+ Hyppy 2  
 =========
 
 Hyppykorkeus vähintään 2000 m, 8-10 sekunnin vapaa. Avaa puolijarrut.
@@ -43,7 +43,7 @@ Seuraa korkeuden menetystä käännösten aikana.
 Valmistaudu alastulokuvioon huomioiden porrastukset ja kuvaaja. Tee
 oikeaoppinen loppuveto täydestä liidosta.
 
- Hyppy 3  {#kuvunkasittelyharjoitukset-hyppy-3}
+ Hyppy 3  
 =========
 
 Exit ja vapaa sama kuin edellisissä hypyissä. Harjoittele loppuvetoa
@@ -52,7 +52,7 @@ myös loppuvetoa takimmaisista kantohihnoista. Valmistaudu
 alastulokuvioon huomioiden porrastukset ja kuvaaja. Finaali ja loppuveto
 puolijarruilta.
 
- Hyppy 4  {#kuvunkasittelyharjoitukset-hyppy-4}
+ Hyppy 4  
 =========
 
 Tarkoitus on oppia tarkkuusniksi ja oman varjon optimaalinen jarrujen
@@ -73,7 +73,7 @@ suhteen.
 Valmistaudu alastulokuvioon huomioiden porrastukset ja kuvaaja. Finaali
 ja loppuveto puolijarruilla.
 
- Hyppy 5  {#kuvunkasittelyharjoitukset-hyppy-5}
+ Hyppy 5  
 =========
 
 Vaihtoehtoina esimerkiksi:
@@ -88,7 +88,7 @@ Vaihtoehtoina esimerkiksi:
     vauhdinotto etukantohihnoista ja siitä loppuveto. Testaa myös
     korkealla 90° käännöstä loppuvedon aikana.
 
- Laskeutumisen kuvaamisesta  {#kuvunkasittelyharjoitukset-laskeutumisen-kuvaamisesta}
+ Laskeutumisen kuvaamisesta  
 ============================
 
 Kuvaaminen kuuluu olennaisena osana hyppyjen arviointiin. Virheet
@@ -114,7 +114,7 @@ Kuvatessasi laskeutuvaa hyppääjää, sijoita hyppääjä kuvaruutuun niin,
 että hän peittää pystysuunnassa kaksi kolmasosaa ja että hyppääjän
 edessä sekä alla on tyhjää tilaa.
 
-![image](/kuvat/Laskeutumisen-kuvaus.png){width="70.00000%"}
+![image](/kuvat/Laskeutumisen-kuvaus.png)
 
 Pyri pitämään maa näkyvissä vertailukohteena loppuvedon
 aloittamiskorkeuden arviointia varten. Vältä kaukaa kuvaamista ja zoomin
