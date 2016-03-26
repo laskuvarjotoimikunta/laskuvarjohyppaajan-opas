@@ -1,7 +1,7 @@
 # Tervetuloa taivaalle
 
 
-Laskuvarjohyppääminen harrastuksena ei ole sitä hurjapäistä touhua, jollaiseksi se yleisesti saatetaan käsittää. Toki laskuvarjourheilussa
+Teen tähän testimuutoksen. Laskuvarjohyppääminen harrastuksena ei ole sitä hurjapäistä touhua, jollaiseksi se yleisesti saatetaan käsittää. Toki laskuvarjourheilussa
 on omat riskinsä kuten kaikissa vauhtilajeissa, mutta laskuvarjohyppääminen on paljon
 turvallisempaa kuin yleensä luullaan. 
 
