@@ -51,7 +51,7 @@
 * [Siipikuorma ja varjojen luokittelu](siipikuorma/index.md)
 * [Varjon valinta](varjon-valinta/index.md)
 * [Hyppytapahtuma kuvunkäsittelyhypyillä](kuvunkasittely/index.md)
-* [Laskeutumistekniikat](laskeutumistekniikat/index)
+* [Laskeutumistekniikat](laskeutumistekniikat/index.md)
 * [Laskeutumisvirheet](laskeutumisvirheet/index)
 * [Kuvunkäsittelyharjoitukset](kuvunkasittelyharjoitukset/index)
 
