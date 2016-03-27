@@ -46,6 +46,7 @@
 * [Freefly kilpailulajina](freefly-kilpailulajina/index.md)
 * [VI Kuvunkäsittelyopas](kuvunkasittelyopas/index.md)
 * [Varjon ominaisuudet](varjon-ominaisuudet/index.md)
+* [Laskuvarjoon vaikuttavat fysikaaliset voimat ja nosteen syntyminen](varjoon-vaikuttavat-voimat/index)
 * [Ilmakehän fysikaalisten ominaisuuksien vaikutukset laskuvarjon suorituskykyyn](ilmakeha/index)
 * [Siipikuorma ja varjojen luokittelu](siipikuorma/index)
 * [Varjon valinta](varjon-valinta/index)
