@@ -36,7 +36,7 @@
 * [FS-hyppäämisen perusteet](FS-perusteet/index.md)
 * [Hypyn läpikäyminen maassa](hypyn-lapikaynti/index.md)
 * [Vapaapudotusharjoittelu](vapaapudotusharjoittelu/index.md)
-* [Mielikuva- eli mentaaliharjoittelu](mentaaliharjoittelu/index)
+* [Mielikuva- eli mentaaliharjoittelu](mentaaliharjoittelu/index.md)
 * [Tuoreen lisenssihyppääjän FS-ohjelma](FS-ohjelma/index)
 * [Suuret muodostelmat](suuret-muodostelmat/index)
 * [V Freefly-opas](freefly-opas/index)
