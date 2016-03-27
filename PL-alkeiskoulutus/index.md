@@ -242,7 +242,7 @@ harjoitusvetokahva pois ja tehdään varavarjotoimenpiteet.
 
 2.  Annetaan näyte hyppymestarille.
 
-<span>2</span>
+to do (mitä nämä ovat useammassa kohtaa?): <span>2</span>
 
  Itseaukaisu 3”  
 ----------------
