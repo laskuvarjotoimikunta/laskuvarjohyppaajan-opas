@@ -38,7 +38,7 @@
 * [Vapaapudotusharjoittelu](vapaapudotusharjoittelu/index.md)
 * [Mielikuva- eli mentaaliharjoittelu](mentaaliharjoittelu/index.md)
 * [4-way joukkuehyppääminen](4-way-fs/index.md)
-* [Tuoreen lisenssihyppääjän FS-ohjelma](FS-ohjelma/index)
+* [Tuoreen lisenssihyppääjän FS-ohjelma](FS-ohjelma/index.md)
 * [Suuret muodostelmat](suuret-muodostelmat/index)
 * [V Freefly-opas](freefly-opas/index)
 * [Freefly - lentoasennot](freefly-lentoasennot/index)
