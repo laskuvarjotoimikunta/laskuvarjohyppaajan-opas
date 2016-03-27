@@ -40,7 +40,7 @@
 * [4-way joukkuehyppääminen](4-way-fs/index.md)
 * [Tuoreen lisenssihyppääjän FS-ohjelma](FS-ohjelma/index.md)
 * [Suuret muodostelmat](suuret-muodostelmat/index.md)
-* [V Freefly-opas](freefly-opas/index)
+* [V Freefly-opas](freefly-opas/index.md)
 * [Freefly - lentoasennot](freefly-lentoasennot/index)
 * [Turvallisuus freehyppäämisessä](turvallisuus-free)
 * [Freefly kilpailulajina](freefly-kilpailulajina/index)
