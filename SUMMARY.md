@@ -41,7 +41,7 @@
 * [Tuoreen lisenssihyppääjän FS-ohjelma](FS-ohjelma/index.md)
 * [Suuret muodostelmat](suuret-muodostelmat/index.md)
 * [V Freefly-opas](freefly-opas/index.md)
-* [Freefly - lentoasennot](freefly-lentoasennot/index)
+* [Freefly - lentoasennot](freefly-lentoasennot/index.md)
 * [Turvallisuus freehyppäämisessä](turvallisuus-free)
 * [Freefly kilpailulajina](freefly-kilpailulajina/index)
 * [VI Kuvunkäsittelyopas](kuvunkasittelyopas/index)
