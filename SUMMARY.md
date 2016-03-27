@@ -42,7 +42,7 @@
 * [Suuret muodostelmat](suuret-muodostelmat/index.md)
 * [V Freefly-opas](freefly-opas/index.md)
 * [Freefly - lentoasennot](freefly-lentoasennot/index.md)
-* [Turvallisuus freehyppäämisessä](turvallisuus-free)
+* [Turvallisuus freehyppäämisessä](turvallisuus-free.md)
 * [Freefly kilpailulajina](freefly-kilpailulajina/index)
 * [VI Kuvunkäsittelyopas](kuvunkasittelyopas/index)
 * [Varjon ominaisuudet](varjon-ominaisuudet/index)
