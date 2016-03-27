@@ -1,7 +1,6 @@
 # Tuoreen lisenssihyppääjän FS-ohjelma
 
- Tuoreen lisenssihyppääjän FS-ohjelma  
-======================================
+## Tuoreen lisenssihyppääjän FS-ohjelma  
 
 Harjoitellaan 2- tai 3-wayna esim. speedstarina:
 
@@ -35,7 +34,7 @@ Harjoitellaan 2- tai 3-wayna esim. speedstarina:
 
 -   Star - Arrowhead - Star
 
-![image](/kuvat/2-way-star.pdf)
+to do (kuvat eivät toimi): ![image](/kuvat/2-way-star.pdf)
 
 ![image](/kuvat/2-way-open-accordion.pdf)
 
