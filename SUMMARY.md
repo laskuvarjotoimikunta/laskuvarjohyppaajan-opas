@@ -44,7 +44,7 @@
 * [Freefly - lentoasennot](freefly-lentoasennot/index.md)
 * [Turvallisuus freehyppäämisessä](turvallisuus-free.md)
 * [Freefly kilpailulajina](freefly-kilpailulajina/index.md)
-* [VI Kuvunkäsittelyopas](kuvunkasittelyopas/index)
+* [VI Kuvunkäsittelyopas](kuvunkasittelyopas/index.md)
 * [Varjon ominaisuudet](varjon-ominaisuudet/index)
 * [Ilmakehän fysikaalisten ominaisuuksien vaikutukset laskuvarjon suorituskykyyn](ilmakeha/index)
 * [Siipikuorma ja varjojen luokittelu](siipikuorma/index)
