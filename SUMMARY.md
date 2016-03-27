@@ -48,7 +48,7 @@
 * [Varjon ominaisuudet](varjon-ominaisuudet/index.md)
 * [Laskuvarjoon vaikuttavat fysikaaliset voimat ja nosteen syntyminen](varjoon-vaikuttavat-voimat/index.md)
 * [Ilmakehän fysikaalisten ominaisuuksien vaikutukset laskuvarjon suorituskykyyn](ilmakeha/index.md)
-* [Siipikuorma ja varjojen luokittelu](siipikuorma/index)
+* [Siipikuorma ja varjojen luokittelu](siipikuorma/index.md)
 * [Varjon valinta](varjon-valinta/index)
 * [Hyppytapahtuma kuvunkäsittelyhypyillä](kuvunkasittely/index)
 * [Laskeutumistekniikat](laskeutumistekniikat/index)
