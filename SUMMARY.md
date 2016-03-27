@@ -50,7 +50,7 @@
 * [Ilmakehän fysikaalisten ominaisuuksien vaikutukset laskuvarjon suorituskykyyn](ilmakeha/index.md)
 * [Siipikuorma ja varjojen luokittelu](siipikuorma/index.md)
 * [Varjon valinta](varjon-valinta/index.md)
-* [Hyppytapahtuma kuvunkäsittelyhypyillä](kuvunkasittely/index)
+* [Hyppytapahtuma kuvunkäsittelyhypyillä](kuvunkasittely/index.md)
 * [Laskeutumistekniikat](laskeutumistekniikat/index)
 * [Laskeutumisvirheet](laskeutumisvirheet/index)
 * [Kuvunkäsittelyharjoitukset](kuvunkasittelyharjoitukset/index)
