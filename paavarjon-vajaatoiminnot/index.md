@@ -88,7 +88,7 @@ Tee varavarjotoimenpiteet!
 
 -   Tee varavarjotoimenpiteet.
 
-![image](/kuvat/VV-toimenpiteet.pdf)
+to do: ![image](/kuvat/VV-toimenpiteet.pdf)
 
  Varavarjon käyttö  
 -------------------
@@ -139,4 +139,4 @@ Tärkeät korkeudet:
 
 9.  Pidä vv-kahva kädessä tai päästä irti (kerhokohtainen)
 
-![image](/kuvat/VVkaavio.pdf)
+to do: ![image](/kuvat/VVkaavio.pdf)
