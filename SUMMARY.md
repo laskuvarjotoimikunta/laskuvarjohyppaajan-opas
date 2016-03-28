@@ -53,5 +53,5 @@
 * [Hyppytapahtuma kuvunkäsittelyhypyillä](kuvunkasittely/index.md)
 * [Laskeutumistekniikat](laskeutumistekniikat/index.md)
 * [Laskeutumisvirheet](laskeutumisvirheet/index.md)
-* [Kuvunkäsittelyharjoitukset](kuvunkasittelyharjoitukset/index)
+* [Kuvunkäsittelyharjoitukset](kuvunkasittelyharjoitukset/index.md)
 
