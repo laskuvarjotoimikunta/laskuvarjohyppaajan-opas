@@ -55,5 +55,5 @@
 * [Laskeutumisvirheet](laskeutumisvirheet/index.md)
 * [Kuvunkäsittelyharjoitukset](kuvunkasittelyharjoitukset/index.md)
 * [Kuvunkäsittely: Loppusanat](loppusanat/index.md)
-* [Liitteet](liitteet/index)
+* [Liitteet](liitteet/index.md)
 
