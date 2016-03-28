@@ -52,6 +52,6 @@
 * [Varjon valinta](varjon-valinta/index.md)
 * [Hyppytapahtuma kuvunkäsittelyhypyillä](kuvunkasittely/index.md)
 * [Laskeutumistekniikat](laskeutumistekniikat/index.md)
-* [Laskeutumisvirheet](laskeutumisvirheet/index)
+* [Laskeutumisvirheet](laskeutumisvirheet/index.md)
 * [Kuvunkäsittelyharjoitukset](kuvunkasittelyharjoitukset/index)
 
