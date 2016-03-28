@@ -54,6 +54,6 @@
 * [Laskeutumistekniikat](laskeutumistekniikat/index.md)
 * [Laskeutumisvirheet](laskeutumisvirheet/index.md)
 * [Kuvunkäsittelyharjoitukset](kuvunkasittelyharjoitukset/index.md)
-* [Kuvunkäsittely: Loppusanat](loppusanat/index)
+* [Kuvunkäsittely: Loppusanat](loppusanat/index.md)
 * [Liitteet](liitteet/index)
 
