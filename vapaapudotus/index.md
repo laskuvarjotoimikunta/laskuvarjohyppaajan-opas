@@ -26,6 +26,13 @@ TODO:FIX NUMBERING
 4. Taivutetaan ja käännetään asento käyttämällä kättä vartalossa, jolloin palataan perusasentoon kyljen kautta.
 Palautusta voidaan auttaa ottamalla ensin delta-asento ja vasta kääntymisen jälkeen perusasento.
 ## Takavoltti
+Kädet pidetään perusasennossa suorina, hieman sivuille käännettyinä. Jalat laitetaan yhteen ja koukkuun vartalon alle. Painetaan käsillä alaspäin ilmavirtaa vasten. Pysäytys tapahtuu palauttamalla  perusasento. Jalkojen nopea ja yhtaikainen tuonti vartalon alle takaa voltin onnistumisen. Käsillä autetaan ympäri menoa ja estetään asennon kallistuminen sivulle.
+Takavoltti tehdään seuraavasti:
+1. Vedetään jalat nopeasti yhteen koukkuun.
+2. Painetaan käsillä alaspäin ilmavirtaa vasten.
+3. Pään ollessa alaspäin palautetaan perusasento.
+![image](/kuvat/Selkastabiili.png)
+TODO:Takavoltin suoritus, kuva pdf muodossa joten ei toimi tässä
 ## Tynnyri
 ## Liuku
 ## Vaaratilanteet
