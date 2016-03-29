@@ -1,7 +1,6 @@
 Laskuvarjokalusto ja hyppyvarusteet
 ===================================
 
-<span>2</span>
 
  Laskuvarjokokonaisuus  
 -----------------------
