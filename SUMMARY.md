@@ -1,6 +1,6 @@
 # Summary
 
-* [Tervetuloa taivaalle](tervetuloa-taivaalle/index.md)
+* [Tervetuloa taivaalle](README.md)
 * [I Alkeiskoulutus](alkeiskoulutus/index.md)
   * [Laskuvarjokalusto ja hyppyvarusteet](laskuvarjokalusto/index.md)
   * [Hyppytapahtuma](hyppytapahtuma/index.md)
