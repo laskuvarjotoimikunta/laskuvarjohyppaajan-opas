@@ -1,16 +1,16 @@
 a.plugin-anchor {
-    color: inherit !important;
+    color: blue !important;
     display: none;
-    margin-left: -40px;
-    padding-left: 40px;
+    margin-left: 10px;
+    padding-left: 10px;
     cursor: pointer;
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
     bottom: 0;
 }
 
 a.plugin-anchor span {
-    margin-left: -40px;
-    font-size: 10px;
+    margin-left: -20px;
+    font-size: 6px;
 }
