@@ -2,5 +2,11 @@
     "plugins": [
         "editlink"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "editlink": {
+            "base": "https://github.com/laskuvarjotoimikunta/laskuvarjohyppaajan-opas/edit/master/content",
+            "label": "Ehdota muokkausta",
+            "multilingual": "false"
+        }
+    }
 }
