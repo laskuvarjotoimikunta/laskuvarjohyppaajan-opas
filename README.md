@@ -52,7 +52,7 @@ Ilmailu-lehteä Ilmailuliitto on julkaissut jo vuodesta 1938 alkaen. Lehti ilmes
 
 SIL:n kotisivuilta osoitteesta [www.ilmailu.fi](http://www.ilmailu.fi) saat halutessasi lisätietoja.
 
-## Vakuutusturva
+## <a name="vakuutusturva"></a>Vakuutusturva
 Vuosittain laskuvarjohyppäämisessä sattuu jonkin verran loukkaantumisia. Tyypillinen
 vamma on nilkan nyrjähtäminen tai murtuminen huonosti suoritetussa alastulossa. 
 
