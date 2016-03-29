@@ -1,7 +1,8 @@
 {
     "plugins": [
         "editlink",
-        "-anchors"
+        "-anchors",
+        "anchors-wrapper"
     ],
     "pluginsConfig": {
         "editlink": {
