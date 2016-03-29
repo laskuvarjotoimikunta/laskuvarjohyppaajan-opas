@@ -1,3 +1,4 @@
+
 # Perusliikkeet vapaassa
 Vapaapudotuksessa tehtävien liikkeiden edellytyksenä on stabiilin asennon hallitseminen ja ajan- ja korkeudentajun säilyminen koko ajan. Vapaapudotuksessa ongelmat kertaantuvat väkisin tai väärin korjaamalla. Rento asento yhdessä taivutuksen kanssa minimoi ongelmat. Jos ongelma ei poistu  korjaamalla, **avataan varjo välittömästi!**
 ## Perusasento
@@ -58,7 +59,6 @@ Lattakierre:
 * Pysäytetään rentouttamalla asentoa ja hartialinjan vastaliikkeellä.
 * Jos vastaliike ei auta ja liike ei ole hallinnassa, ota perusasento, taivuta ja avaa varjo heti.
 Harjoitukset
-1. Katsotaan eri uloshyppyjä Oppilaan Opas -videolta kouluttajan kanssa.  Harjoitellaan kouluttajan mallien mukaan maassa liike kerrallaan.
-
-3.  Liikkeiden (delta, liuku ja FS-liuku) harjoittelu laudalla
-    tai vapaapudotusvaljaissa.
+1. Katsotaan eri uloshyppyjä Oppilaan Opas -videolta kouluttajan kanssa.
+2. Harjoitellaan kouluttajan mallien mukaan maassa liike kerrallaan.
+3. Liikkeiden (delta, liuku ja FS-liuku) harjoittelu laudalla tai vapaapudotusvaljaissa.
