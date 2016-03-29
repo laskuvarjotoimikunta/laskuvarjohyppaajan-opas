@@ -55,5 +55,13 @@ uloshyppypaikkaa määriteltäessä. Tavoitteena on hallita kaikki uloshypystä 
 2.  Rintamasuunnan ollessa muutoin kuin ilmavirtaan, asento kaatuu.
 3.  Epäsymmetrinen raajojen asento aiheuttaa kääntymistä, voltin tai syöksyn.
 ## Ryhmäuloshyppy
+Uloshypyn toteutus riippuu hyppääjien määrästä ja hyppykoneesta, mutta onnistuakseen uloshypyn täytyy aina olla yhdenaikainen ja hyppääjien lähtöasennon ilmavirran mukainen. Yhdenaikaisuus saadaan uloshyppylaskennalla, jonka yksi hyppääjistä aloittaa (ready) ja johon muut tulevat mukaan (set, go). Oikea lähtöasento, eli vatsan kääntäminen kohti ilmavirtaa, mahdollistaa hyvän lentoasennon heti uloshypystä lähtien. Jos sekä lähtöasento että yhdenaikaisuus epäonnistuvat, ei uloshyppy onnistu. Uloshyppyä tulee harjoitella yhtä paljon kuin itse vapaapudotusta, koska rauhallinen onnistunut hyppy alkaa hyvästä uloshypystä, kun taas epäonnistunut uloshyppy tuhlaa paljon vapaapudotussekunteja.
+Streevalla tai pyörällä istuminen on ehdottomasti **kielletty**.
+![image](/kuvat/UH-FS.jpeg)
 ## Muut uloshypyt
+Hyppääminen muista ilma-aluksista kuten helikoptereista, kuumailmapalloista jne. vaatii aina ennakkoharjoittelua. Perustapana on seisaalta pudottautuminen suoraan alaspäin ilmavirran suuntaan suoralla tai sukellus uloshypyllä.
 ## Harjoitus
+1.  Katsotaan eri uloshyppyjä Oppilaan Opas-videolta kouluttajan kanssa.
+2.  Mietitään kouluttajan kanssa miten hyppääjä/hyppääjät hyödyntävät suhteellista ilmavirtaa kussakin uloshyppytyylissä.
+3.  Harjoitellaan omalla hyppykoneella/konemallilla kouluttajan mallisuoritusten mukaan eri uloshyppyjä.
+4.  Omatoiminen harjoittelu koneella/konemallilla ja näyte hyppymestarille suorasta ja sukellusuloshypystä.
