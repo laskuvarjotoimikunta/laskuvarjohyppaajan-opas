@@ -10,7 +10,7 @@
    * [PL-Alkeiskoulutuksen suoritukset](PL-alkeiskoulutus/index.md)
 * [II Peruskoulutus – yhteenveto](peruskoulutus/index.md)
    * [Uloshyppytyylit](uloshyppytyylit/index.md)
-   * [Perusliikkeet vapaassa](vapaapudotus/index1.md)
+   * [Perusliikkeet vapaassa](vapaapudotus/index.md)
    * [Sääoppi](saaoppi/index)
    * [Uloshyppypaikan määritys](uloshyppypaikka/index.md)
    * [Varusteiden tarkastus](varusteiden-tarkastus/index.md)
