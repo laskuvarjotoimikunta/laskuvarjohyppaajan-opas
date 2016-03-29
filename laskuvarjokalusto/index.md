@@ -5,7 +5,7 @@ Laskuvarjokalusto ja hyppyvarusteet
  Laskuvarjokokonaisuus  
 -----------------------
 
-![image](/kuvat/Paavarjon-osat.jpg)
+![Päävarjon osat](/kuvat/Paavarjon-osat.jpg)
 
 Laskuvarjokokonaisuuteen kuuluu reppu-valjasyhdistelmä sekä kaksi
 varjoa: pää- ja varavarjo. Molemmat näistä ovat liitovarjoja, jotka ovat
