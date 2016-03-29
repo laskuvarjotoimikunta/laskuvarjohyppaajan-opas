@@ -33,7 +33,7 @@ tarvittaessa on tehtävä maahantulokierähdys.
  Reppu-valjasyhdistelmä  
 ------------------------
 
-![image](/kuvat/Reppuvaljasyhdistelma.png)
+![](/kuvat/Reppuvaljasyhdistelma.png)
 
 ![image](/kuvat/Reppu-nova.pdf)
 
