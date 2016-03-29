@@ -4,7 +4,7 @@
     ],
     "pluginsConfig": {
         "editlink": {
-            "base": "https://github.com/laskuvarjotoimikunta/laskuvarjohyppaajan-opas/edit/master/content",
+            "base": "https://github.com/laskuvarjotoimikunta/laskuvarjohyppaajan-opas/edit/master",
             "label": "Ehdota muokkausta"
         }
     }
