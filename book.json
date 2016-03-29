@@ -8,6 +8,9 @@
         "editlink": {
             "base": "https://github.com/laskuvarjotoimikunta/laskuvarjohyppaajan-opas/edit/master",
             "label": "Ehdota muokkausta"
-        }
+        },
+        "image-captions": {
+          "caption": "Kuva: _CAPTION_"
+      }
     }
 }
