@@ -18,50 +18,24 @@ uloshyppypaikkaa määriteltäessä. Tavoitteena on hallita kaikki uloshypystä 
 
 ![image](/kuvat/UH-suora.png)
 
-###  Streevakone  
-
+### Streevakone
 1.  Vasen jalka astimelle (pyörälle).
-
 2.  Kädet oviaukon reunalle.
-
-3.  Kohottaudutaan koneen (varoen repun osumista koneeseen)
-    ulkopuolelle.
-
+3.  Kohottaudutaan koneen (varoen repun osumista koneeseen) ulkopuolelle.
 4.  Käännetään rinta koneen etenemissuuntaan.
-
 5.  Ponnistetaan ilmavirran suuntaan taaksepäin.
-
-6.  Taivutus, pää taakse, jalat lähes suorina ja kädet
-    taakse delta-asentoon.
-
-7.  Sitä mukaan kun asento kääntyy vaakatasoon (tyypillisesti noin 5
-    sekunnin jälkeen) otetaan perusasento.
-
-###  Muut koneet  
-
-1.  Siirrytään oviaukolle (varoen repun osumista koneeseen) kyykkyyn
-    tai seisaalleen.
-
-2.  Ponnistetaan ilmavirran suuntaan eteenpäin, rinta
-    koneen etenemissuuntaan.
-
-3.  Taivutus, pää taakse, jalat lähes suorina ja kädet
-    taakse delta-asentoon.
-
-4.  Sitä mukaan kun asento kääntyy vaakatasoon (tyypillisesti noin 5
-    sekunnin jälkeen) otetaan perusasento.
-
-###  Ongelmat  
-
+6.  Taivutus, pää taakse, jalat lähes suorina ja kädet taakse delta-asentoon.
+7.  Sitä mukaan kun asento kääntyy vaakatasoon (tyypillisesti noin 5 sekunnin jälkeen) otetaan perusasento.
+### Muut koneet  
+1.  Siirrytään oviaukolle (varoen repun osumista koneeseen) kyykkyyn tai seisaalleen.
+2.  Ponnistetaan ilmavirran suuntaan eteenpäin, rinta koneen etenemissuuntaan.
+3.  Taivutus, pää taakse, jalat lähes suorina ja kädet taakse delta-asentoon.
+4.  Sitä mukaan kun asento kääntyy vaakatasoon (tyypillisesti noin 5 sekunnin jälkeen) otetaan perusasento.
+###  Ongelmat
 1.  Eteen jätetyt kädet aiheuttavat voltin.
-
 2.  Ponnistus sivulle aiheuttaa kaatumisen kyljelle.
-
 3.  Löysä uloshyppyasento aiheuttaa kaatumisen selälleen.
-
-4.  Streeva-koneessa heikko ponnistus voi johtaa
-    osumiseen pyörätelineeseen.
-
+4.  Streeva-koneessa heikko ponnistus voi johtaa osumiseen pyörätelineeseen.
 ## Sukellusuloshyppy
 ## Ryhmäuloshyppy
 ## Muut uloshypyt
