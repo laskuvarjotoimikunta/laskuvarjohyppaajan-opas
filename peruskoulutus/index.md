@@ -1,15 +1,14 @@
 # II Peruskoulutus – yhteenveto
-TODO:IMAGE CAPTIONS
+
 ## Hyppysuoritukset, NOVA
-TODO:REFS
 
 * 8” lyhyt vapaa
 * Kaksi 5” lyhyttä vapaata
 * Selkälento
 * Liuku
 * FS-liuku
+
 ## Hyppysuoritukset, PL
-TODO:REFS
 
 * 15”
 * Suora uloshyppy
@@ -19,10 +18,13 @@ TODO:REFS
 * Selkälento
 * Liuku
 * FS-liuku
+
 ## Muut suoritukset
+
 * 5 paikanmääritystä, laskeutuminen kouluttajan osoittamalle alueelle
 * Varusteiden tarkastusnäyte
-* Jatkokoulutuksen teoriakoe. Opiskeltava alue on luvusta TODO:REFS
+* Jatkokoulutuksen teoriakoe. Opiskeltava alue on luvusta
+
 ## Suoritusten aikarajat
-Jos peruskoulutuksen aikana oppilaalle tulee 30 vrk tai sitä pidempi hyppytauko, hänen on hypättävä totutteluhyppynä 15” (tai lyhyempi vapaa,
-jos kouluttaja näkee tarpeelliseksi) ennen seuraavaa ohjelman mukaista hyppyä. Hyppymestari voi määrätä muitakin suorituksia.
+
+Jos peruskoulutuksen aikana oppilaalle tulee 30 vrk tai sitä pidempi hyppytauko, hänen on hypättävä totutteluhyppynä 15” (tai lyhyempi vapaa, jos kouluttaja näkee tarpeelliseksi) ennen seuraavaa ohjelman mukaista hyppyä. Hyppymestari voi määrätä muitakin suorituksia.
