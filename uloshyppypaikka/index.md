@@ -20,10 +20,17 @@ GPS-laite. Tuulitietojen perusteella voidaan laskea ajautuman matka ja suunta ta
 
 Seuraavaan taulukkoon on laskettu yllä olevilla oletuksilla (lähimpään sataan metriin pyöristettyjä) ajautumia varjon varassa ja vapaapudotuksessa erilaisissa tuulissa.
 
-TODO: TABLE Ajautuminen vapaassa
+| tuuli (kt) | varjon varassa (m) | vapaassa (m) | 
+| -- | -- | -- |
+| 5 | 500 | 100 |
+| 10 | 900 | 300 |
+| 15 | 1400 | 400 |
+| 20 | 1900 | 500 |
+| 25 | 2300 | 600 |
+| 30 | 2800 | 800 |
+| 35 | 3200 | 900 |
 
 ### Ajautuminen varjon varassa
-
 Varjon varassa tapahtuvan ajautumisen laskemiseksi tarvitaan sekä avauskorkeuden että maatuulen tuulitiedot: nopeus ja suunta. Maatuuli voidaan myös jättää huomiotta ja käyttää vain tuulen nopeutta ja suuntaa esimerkiksi korkeuksissa 1000 ft ja 2000 ft. Tuulen suunnasta ja nopeudesta eri pinnoilla voidaan ottaa keskiarvot.
 
 Esimerkki ajautuman laskemisesta:
@@ -32,23 +39,22 @@ Esimerkki ajautuman laskemisesta:
 | -- | -- | -- |
 | 2000 | 250 | 10 |
 | Pinta | 230 | 5 |
-| Keskiarvo | 240 | 7,5 |
+| *Keskiarvo* | *240* | *7,5* |
 
 Ajautumaksi varjon varassa saadaan 700 metriä. Avauspaikka on siis 0,7 kilometrin etäisyydellä laskeutumisalueelta suuntaan 240 astetta.
 
 ### Ajautuminen vapaapudotuksessa
-
 Vapaapudotuksessa tapahtuvan ajautumisen laskemiseen käytetään tuulitietoja avauskorkeuden ja uloshyppykorkeuden välillä.
 
 Esimerkki vapaapudotuksen ajautuman laskemiseen.
 
-Korkeus (ft) | Suunta | Nopeus (kt) |
+| Korkeus (ft) | Suunta | Nopeus (kt) |
 | -- | -- | -- |
-12000 | 290 | 20 |
-9000 | 270 | 15 |
-6000 | 260 | 15 |
-3000 | 250 | 10 |
-Keskiarvo | 270 | 15 |
+| 12000 | 290 | 20 |
+| 9000 | 270 | 15 |
+| 6000 | 260 | 15 |
+| 3000 | 250 | 10 |
+| *Keskiarvo* | *270* | *15* |
 
 Ajautumaksi vapaassa saadaan 400 metriä. Uloshyppypaikka sijaitsee siis 0,4 kilometriä avauspaikasta suuntaan 270.
 
@@ -67,7 +73,7 @@ Pienillä hyppykoneilla linja ajetaan yleensä vastatuuleen laskeutumisalueen yl
 
 Linjan pituudelle ei ole yhtä oikeaa lukua, mutta sitä voidaan arvioida esim. seuraavasti.
 
-*Laskuvarjon liitosuhde on välillä 3:1 ja 2:1. Jos hyppääjän varjo on auki 800 metrin korkeudessa ja hyppääjä aloittaa laskeutumiskuvion 300 metrin korkeudessa, hyppääjä voi lentää varjolla arviolta (500 m \* 2,5) n. 1300 metrin matkan.**
+*Laskuvarjon liitosuhde on välillä 3:1 ja 2:1. Jos hyppääjän varjo on auki 800 metrin korkeudessa ja hyppääjä aloittaa laskeutumiskuvion 300 metrin korkeudessa, hyppääjä voi lentää varjolla arviolta (500 m \* 2,5) n. 1300 metrin matkan.
 
 Tämän varsin konservatiivisen esimerkin mukaan linjan ensimmäinen ryhmä voisi siis poistua koneesta 1300 metriä ennen määritettyä UH-paikkaa ja viimeinen ryhmä 1300 metriä määritetyn pisteen jälkeen. Todellisuudessa linjan pituus voi vaihdella linjan suunnan, laskeutumisalueen, avauskorkeuksien jne. mukaan. Mitä kauempana oikeasta UH-paikasta hypätään, sitä suurempi on riski, että epätarkka tuuliennuste, sääolosuhteiden muutos, matala avaus tai varavarjon käyttö johtaa hyppääjän laskeutumiseen laskeutumisalueen ulkopuolelle.
 
@@ -98,7 +104,6 @@ Lisäksi hyppääjä voi tehdä seuraavia virheitä:
 * Katsominen eteenpäin ennakoi uloshyppyä liikaa.
 
 #### Ennen uloshyppyä ja uloshyppy 
-
 Ennen uloshyppypäätöstä hyppääjän on varmistuttava myös ilmatilan vapaudesta. Alla olevia koneita ja hyppääjiä on väistettävä, ja risteävät lentolinjat on myös huomioitava. On huomioitava myös
 ryhmäuloshypyn vaatima aika, ja varmistettava, että hyppyovi pysyy auki koko uloshypyn ajan ja että ovella ei ole mitään takertumisen mahdollistavia esteitä, esimerkiksi turvavöitä.
 
