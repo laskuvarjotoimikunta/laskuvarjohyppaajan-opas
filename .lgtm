@@ -1,1 +1,1 @@
-pattern = "(?i):OK:|:\\+1:|LGTM"
+pattern = "(?i)OK|:\\+1:|LGTM"
