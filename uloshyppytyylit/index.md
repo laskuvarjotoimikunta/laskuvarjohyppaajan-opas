@@ -19,7 +19,7 @@ uloshyppypaikkaa määriteltäessä. Tavoitteena on hallita kaikki uloshypystä 
 * Käsillä ponnistaminen kaataa asennon selälleen.
 
 ## Suora uloshyppy
-![image](/kuvat/UH-suora.png)
+![Suora uloshyppy](/kuvat/UH-suora.png)
 ### Streevakone
 1.  Vasen jalka astimelle (pyörälle).
 2.  Kädet oviaukon reunalle.
