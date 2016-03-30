@@ -1,7 +1,4 @@
-Päävarjon vajaatoiminnot 
-========================
-
-<span>2</span>
+## Päävarjon vajaatoiminnot 
 
 Varjo ei välttämättä ole aina avautumisen jälkeen täysin kehittynyt vaan
 vaatii kierteiden poiston ja/tai pumppausta

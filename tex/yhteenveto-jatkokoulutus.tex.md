@@ -7,8 +7,7 @@ oppia turvallisen ryhmähyppäämisen perusteet. Voit myös kokeilla
 erilaisia hyppylajeja, kuten freehypyt. Varjon varassa keskityt
 kuvunkäsittelyyn ja tarkkuuslaskeutumisiin.
 
- ## Hyppysuoritukset  
-
+## Hyppysuoritukset  
 
 Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
 
@@ -30,8 +29,7 @@ Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
 
 -   Koehyppy 
 
- ## Muut suoritukset  
-
+## Muut suoritukset  
 
 -   5 tarkkuuslaskeutumista hyppysuoritusten yhteydessä, laskeutuminen
     25 metrin säteelle kouluttajan osoittamasta paikasta.
@@ -45,8 +43,7 @@ Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
     luettu ja harjoiteltu sekä laskuvarjohyppäämistä koskevat lait,
     määräykset ja ohjeet.
 
-## Suoritusten aikarajat  
-
+## Suoritusten aikarajat
 
 Jos jatkokoulutuksen aikana oppilaalle tulee 30 vrk tai sitä pidempi
 hyppytauko, hänen on hypättävä totutteluhyppynä 15” ennen seuraavaa

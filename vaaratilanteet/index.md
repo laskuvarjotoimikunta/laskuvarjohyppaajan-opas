@@ -45,7 +45,7 @@ ja pakkolaskussa on muistettava, että lentäjä on koneen päällikkö mutta
 hyppääjien johtaja on hyppymestari. Oppilaille ohjeet tulevat **aina**
 hyppymestarilta. Tärkeintä on toimia rauhallisesti käskyjen mukaan.
 
- Koneeseen kiinni jääminen  
+ Koneeseen kiinni jääminen
 ---------------------------
 
 Jos jäät roikkumaan koneeseen päävarjostasi, huomaat sen siitä, että
@@ -53,7 +53,6 @@ roikut olkalukoista päävarjon kantohihnojen välityksellä. Yritä ottaa
 taivutettu asento jotta et pyöri ja voit varmistaa mistä olet kiinni.
 Varmistu, että olet hinauksessa vain olkalukkojen välityksellä jonka
 jälkeen tee varavarjotoimenpiteet.
-(\[paavarjon-vajaatoiminnot-varavarjon-kaytto\] s.)
 
  Sotkeutuminen punoksiin  
 =========================
