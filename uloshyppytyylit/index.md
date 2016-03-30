@@ -20,6 +20,7 @@ uloshyppypaikkaa määriteltäessä. Tavoitteena on hallita kaikki uloshypystä 
 
 ## Suora uloshyppy
 ![Suora uloshyppy](/kuvat/UH-suora.png)
+
 ### Streevakone
 1.  Vasen jalka astimelle (pyörälle).
 2.  Kädet oviaukon reunalle.
@@ -42,7 +43,7 @@ uloshyppypaikkaa määriteltäessä. Tavoitteena on hallita kaikki uloshypystä 
 4.  Streeva-koneessa heikko ponnistus voi johtaa osumiseen pyörätelineeseen.
 
 ## Sukellusuloshyppy
-![image](/kuvat/UH-sukellus.png)
+![Sukellusuloshyppy](/kuvat/UH-sukellus.png)
 
 ### Streevakone  
 1.  Oikea jalka astimelle, varpaat peräsimen suuntaan.
@@ -68,7 +69,7 @@ uloshyppypaikkaa määriteltäessä. Tavoitteena on hallita kaikki uloshypystä 
 Uloshypyn toteutus riippuu hyppääjien määrästä ja hyppykoneesta, mutta onnistuakseen uloshypyn täytyy aina olla yhdenaikainen ja hyppääjien lähtöasennon ilmavirran mukainen. Yhdenaikaisuus saadaan uloshyppylaskennalla, jonka yksi hyppääjistä aloittaa (ready) ja johon muut tulevat mukaan (set, go). Oikea lähtöasento, eli vatsan kääntäminen kohti ilmavirtaa, mahdollistaa hyvän lentoasennon heti uloshypystä lähtien. Jos sekä lähtöasento että yhdenaikaisuus epäonnistuvat, ei uloshyppy onnistu. Uloshyppyä tulee harjoitella yhtä paljon kuin itse vapaapudotusta, koska rauhallinen onnistunut hyppy alkaa hyvästä uloshypystä, kun taas epäonnistunut uloshyppy tuhlaa paljon vapaapudotussekunteja.
 Streevalla tai pyörällä istuminen on ehdottomasti **kielletty**.
 
-![image](/kuvat/UH-FS.jpeg)
+![FS-uloshyppy](/kuvat/UH-FS.jpeg)
 
 ## Muut uloshypyt
 Hyppääminen muista ilma-aluksista kuten helikoptereista, kuumailmapalloista jne. vaatii aina ennakkoharjoittelua. Perustapana on seisaalta pudottautuminen suoraan alaspäin ilmavirran suuntaan suoralla tai sukellus uloshypyllä.
