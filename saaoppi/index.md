@@ -190,12 +190,5 @@ GAFOR = alue-ennuste.
 ```
 
 2. Etsitään maastokartalta kenttäalueen ympäriltä pyörteitä ja nostavia ilmavirtauksia aiheuttavia kohteita.
-
-
-
-
-
-3.  Tutustutaan kentän nyrkkisääntöihin tuulen ja pilvien lukemiseksi
-    ilman mittareita.
-
-4.  Selvitetään laskuvarjohyppääjien tuulirajat.
+3. Tutustutaan kentän nyrkkisääntöihin tuulen ja pilvien lukemiseksi ilman mittareita.
+4. Selvitetään laskuvarjohyppääjien tuulirajat.
