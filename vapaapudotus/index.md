@@ -84,8 +84,7 @@ Lattakierre:
 * On holtitonta pyörimistä vaakatasossa
 * Aiheutuu epäsymmetrisestä ja jäykästä asennosta tai hallitsemattomasta käännöksestä
 * Aiheuttaa asento- ja ajantajun menettämisen
-* Pysäytetään rentouttamalla asentoa ja hartialinjan vastaliikkeellä.
-* Jos vastaliike ei auta ja liike ei ole hallinnassa, ota perusasento, taivuta ja avaa varjo heti.
+* Pysäytetään rentouttamalla asentoa ja hartialinjan vastaliikkeellä. Jos vastaliike ei auta ja liike ei ole hallinnassa, ota perusasento, taivuta ja avaa varjo heti.
 
 Harjoitukset
 
