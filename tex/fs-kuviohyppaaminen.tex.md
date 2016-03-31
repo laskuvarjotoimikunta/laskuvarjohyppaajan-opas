@@ -1,3 +1,5 @@
+# FS-kuviohyppääminen
+
 Jatkokoulutuksen FS-harjoitusohjelma (Formation Skydiving, kuviohyppy)
 sisältää 9 hyppyä ja niihin liittyvät tekniikat. Koulutusohjelman mukaan
 oppilaan tulee hypätä vähintään 5 ryhmähyppyä. Enemmänkin on mahdollista
@@ -7,8 +9,8 @@ hypyn tavoite on saavutettu. Kaikki hypyt harjoitellaan maassa sekä
 pystyssä että laudoilla, jotta vapaapudotusaika tulisi käytettyä
 mahdollisimman tehokkaasti.
 
- Turvallisuus  
-==============
+## Turvallisuus  
+
 
 FS-hyppäämisessä on monia huomioon otettavia turvallisuusasioita, koska
 mukana on useita hyppääjiä lähellä toisiaan. Koneessa hyppykaverin
@@ -40,8 +42,8 @@ avautumisen jälkeen). Kun taivaalla on paljon ihmisiä samaan aikaan, on
 ohjauksen selkeys tärkeää; nopeat, yllättävät liikkeet saattavat haitata
 muiden lentämistä.
 
- Katsekontakti  
-===============
+## Katsekontakti  
+
 
 FS-hyppäämisen tärkein perusasia on katse. Katse on ainoa keino
 kommunikoida ilmassa.
@@ -51,14 +53,14 @@ muodostelman keskipisteessä. Yleisin syy tasoeroihin ja vaakaetäisyyden
 syntymiseen on katsekontaktin puuttuminen, koska vartalo pyrkii
 liikkumaan katseen suuntaan.
 
- Perusasento  
-=============
+ ## Perusasento  
+
 
 Kaikki liikkeet aloitetaan perusasennosta, *boxista*.
-(\[perusliikkeet-vapaassa-perusasento\] s.)
 
- Liikkuminen vaakatasossa  
-==========================
+
+## Liikkuminen vaakatasossa  
+
 
 Liikkuminen eteenpäin tapahtuu ojentamalla jalkoja suoremmiksi. Liikettä
 voi tehostaa siirtämällä samanaikaisesti käsiä kyynärpäistä taaksepäin.
@@ -70,8 +72,8 @@ koukistamalla samanaikaisesti polvia.
 
 ![image](/kuvat/Asento-liiketaakse.png)
 
- Liikkuminen alas- ja ylöspäin  
-===============================
+## Liikkuminen alas- ja ylöspäin  
+
 
 Alas- ja ylöspäin liikkumista käytetään hyppykaverin kanssa samalla
 tasolla pysymiseen. Katsekontakti pariin täytyy säilyttää koko ajan.
@@ -83,8 +85,8 @@ liike, kupitus).
 
 ![image](/kuvat/Asento-liikealas.png)
 
- Käännökset  
-============
+## Käännökset  
+
 
 Paikallaan pysyvä käännös perustuu käsien ja jalkojen samanaikaisiin
 liikkeisiin; keskivartalo pysyy suorassa linjassa koko käännöksen ajan.
@@ -95,15 +97,15 @@ perusasentoon. Käyttämällä enemmän käsiä kuin jalkoja saadaan aikaiseksi
 käännös polvien ympäri. Käyttämällä enemmän jalkoja kuin käsiä saadaan
 aikaan käännös ylävartalon ympäri.
 
- Liikkuminen sivuttain  
-=======================
+## Liikkuminen sivuttain 
+
 
 Sivuttaisliikkeen aikaansaamiseksi kallistetaan vartaloa liikkeen
 suuntaan. Liikkeen pysäyttäminen vaatii vastaliikkeen eli kallistuksen
 toiseen suuntaan ennen perusasennon palauttamista.
 
- Otteiden ottaminen ja kuviossa lentäminen  
-===========================================
+## Otteiden ottaminen ja kuviossa lentäminen  
+
 
 Otteita otettaessa on aina oltava samalla tasolla sen kanssa, josta
 otteita otetaan. Otteet otetaan joko ranteista tai gripeistä. Otteen on
@@ -113,15 +115,15 @@ purkua, josta jatketaan seuraavaan muodostelmaan. Otteessa ei roikuta,
 vaan lennetään aktiivisesti omaa paikkaa ja ollaan valmiina siirtymään
 seuraavaan muodostelmaan.
 
- Hyppyohjelma  
-==============
+## Hyppyohjelma  
+
 
 FS-harjoitusohjelma sisältää yhdeksän hyppyä ja niihin liittyvät
 tekniikat. Kouluttaja valitsee ohjelman hypyistä kyseiseen
 koulutusvaiheeseen sopivimman.
 
- Hyppy 1: Liikkuminen eteenpäin  
---------------------------------
+ ### Hyppy 1: Liikkuminen eteenpäin  
+
 
 Uloshypyn jälkeen rentoudutaan, otetaan perusasento ja käännytään paria
 kohti. Lennetään eteenpäin parin luo, otetaan ranneotteet ja perusasento
@@ -131,8 +133,8 @@ metrin taaksepäin. Toistetaan liike eteenpäin.
 
 ![image](/kuvat/FS-1.png)
 
- Hyppy 2: Liikkuminen eteen- ja taaksepäin  
--------------------------------------------
+### Hyppy 2: Liikkuminen eteen- ja taaksepäin  
+
 
 Uloshypyn jälkeen rentoudutaan, otetaan perusasento ja käännytään paria
 kohti. Lennetään parin luo ja otetaan ranneotteet ja perusasento.
@@ -142,8 +144,8 @@ taaksepäin. Toistetaan eteen – taakse -liikettä.
 
 ![image](/kuvat/FS-2.png)
 
- Hyppy 3: Liikkuminen ylös- ja alaspäin  
-----------------------------------------
+### Hyppy 3: Liikkuminen ylös- ja alaspäin  
+
 
 Lennetään parin luo ja otetaan otteet. Tarkastetaan korkeus ja lennetään
 kuviossa oikein. Pari antaa merkin otteiden irrottamiseksi, kupittaa ja
@@ -157,8 +159,8 @@ asento koko ajan symmetrisenä. Toistetaan liikettä.
 
 ![image](/kuvat/FS-3.png)
 
- Hyppy 4: Pystysuora liikkuminen yhdistettynä eteenpäin liikkeeseen  
---------------------------------------------------------------------
+ ### Hyppy 4: Pystysuora liikkuminen yhdistettynä eteenpäin liikkeeseen  
+
 
 Lennetään parin luo ja otetaan otteet. Pari peruuttaa pari metriä ja
 kupittaa ylöspäin metrin. Kupitetaan, lennetään eteenpäin parin luo ja
@@ -172,8 +174,8 @@ Toistetaan liikettä.
 
 ![image](/kuvat/FS-4.png)
 
- Hyppy 5: 90° käännös  
-----------------------
+ ### Hyppy 5: 90° käännös  
+
 
 Käännöksissä paria pidetään kiintopisteenä. Käännökset tehdään
 puolitähdestä avohaitariin ja siitä takaisin puolitähteen. Lennetään
@@ -190,8 +192,8 @@ roikuta. Toistetaan liikettä.
 
 ![image](/kuvat/FS-5.png)
 
- Hyppy 6: 180° käännös  
------------------------
+### Hyppy 6: 180° käännös  
+
 
 Lennetään parin luo ja otetaan otteet. Käännytään 90° oikealle ja
 pysähdytään ilman otteita olevaan sidebody-muodostelmaan. Pidetään
@@ -205,8 +207,8 @@ suuntaan. Toistetaan liikettä.
 
 ![image](/kuvat/FS-6.png)
 
- Hyppy 7: 360° käännös  
------------------------
+### Hyppy 7: 360° käännös  
+
 
 Lennetään parin luo ja otetaan otteet. Parin annettua merkin käännytään
 360° oikealle. Käytetään jalkoja käännökseen. Muistetaan perusasennon
@@ -219,8 +221,8 @@ Toistetaan liikettä.
 
 ![image](/kuvat/FS-7.png)
 
- Hyppy 8: Liikkuminen sivuttain  
---------------------------------
+ ### Hyppy 8: Liikkuminen sivuttain  
+
 
 Liike tehdään parin edessä aloittaen tähdestä ja liikkuen siitä
 sivuttain avohaitariin, jonka jälkeen toisen puolen avohaitariin ja taas
@@ -231,8 +233,8 @@ Toistetaan liikettä.
 
 ![image](/kuvat/FS-8.png)
 
- Hyppy 9: Lähestyminen sivuttain  
----------------------------------
+### Hyppy 9: Lähestyminen sivuttain  
+
 
 Liike tehdään parin edessä aloittaen tähdestä ja tehden 90° käännös
 oikealle ja sen jälkeen liikkuen sivulle paria kohden, jotta hän saa
