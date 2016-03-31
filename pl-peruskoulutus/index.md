@@ -135,7 +135,7 @@ Koneesta sukelletaan ulos ja pidetään suunta.
 
         Tee sukellus-uloshyppy
         Pidä asentosi symmetrisenä, jalat koukussa
-        Asennon käännyttyä vaakatasoon (tyypillisesti noin 5    sekunnin jälkeen) ota perusasento
+        Asennon käännyttyä vaakatasoon (tyypillisesti noin 5 sekunnin jälkeen) ota perusasento
         Tarkkaile korkeutta
 
 **1200 metriä**
@@ -168,9 +168,9 @@ Pidä taivutus koko käännöksen ajan. Tarkkaile korkeutta.
 
 **TAIVUTA**
 
-        Tee uloshyppy koneesta    
-        Asennon käännyttyä vaakatasoon (tyypillisesti noin 5 sekunnin jälkeen) ota perusasento
-        Ota kiintopiste maasta/horisontista ja tee 360° käännös sovittuun suuntaan
+        Tee uloshyppy koneesta.  
+        Asennon käännyttyä vaakatasoon (tyypillisesti noin 5 sekunnin jälkeen) ota perusasento.
+        Ota kiintopiste maasta/horisontista ja tee 360° käännös sovittuun suuntaan.
         Tarkkaile korkeutta, toista harjoitus jos korkeutta on riittävästi.
 
 **1600 metriä**
