@@ -8,7 +8,7 @@
    * [Mahdolliset vaaratilanteet](vaaratilanteet/index.md)
    * [NOVA-Alkeiskoulutuksen suoritukset](nova-alkeiskoulutus/index.md)
    * [PL-Alkeiskoulutuksen suoritukset](PL-alkeiskoulutus/index.md)
-* [II Peruskoulutus – yhteenveto](peruskoulutus/index.md)
+* [II Peruskoulutus](peruskoulutus/index.md)
    * [Uloshyppytyylit](uloshyppytyylit/index.md)
    * [Perusliikkeet vapaassa](vapaapudotus/index.md)
    * [Sääoppi](saaoppi/index.md)
