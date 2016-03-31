@@ -180,7 +180,7 @@ suunta vaihtelee välillä 300-320 astetta, ja voimakkuus välillä 15-20 solmua
 
 5000 FT 330 / 25 KT tarkoittaa, että 1500 metrin korkeudessa tuulee suunnasta 330 astetta 25 solmun voimakkuudella (12,5 metriä sekunnissa).
 
-SFC 2000 ft- ja 5000 ft-tuulitiedoilla voi yleensä riittävällä tarkkuudella määritellä jopa 4000 m:n UH-paikan. Erityisesti 5000 ft:n tuulitietoja voidaan käyttää ajautuman laskemiseen korkeusvälillä noin
+SFC-, 2000 ft- ja 5000 ft-tuulitiedoilla voi yleensä riittävällä tarkkuudella määritellä jopa 4000 m:n UH-paikan. Erityisesti 5000 ft:n tuulitietoja voidaan käyttää ajautuman laskemiseen korkeusvälillä noin
 1000-4000 m, sillä noilla korkeuksilla ei juurikaan ole tuuliolosuhteisiin vaikuttavia häiriötekijöitä.
 
 Satunnaisesti GAFORin tuulitiedoissa mukana oleva BECMG-lyhenne (Becoming, tulossa) kellonaika- ja tuulitietoineen tarkoittaa, että sanoman voimassaoloaikana on odotettavissa merkittäviä tuulen suunnan
@@ -193,11 +193,10 @@ GAFOR-sanoman parilla viimeisellä rivillä kerrotaan esimerkiksi jäätämisest
 ### Harjoitus
 
 1. Tutustutaan internetin ilmailusääsivuihin:
-```
-METAR = vallitseva sää lentopaikalla
-TAF = sääennuste lentopaikalla
-GAFOR = alue-ennuste.
-```
+
+        METAR = vallitseva sää lentopaikalla
+        TAF = sääennuste lentopaikalla
+        GAFOR = alue-ennuste.
 
 2. Etsitään maastokartalta kenttäalueen ympäriltä pyörteitä ja nostavia ilmavirtauksia aiheuttavia kohteita.
 3. Tutustutaan kentän nyrkkisääntöihin tuulen ja pilvien lukemiseksi ilman mittareita.
