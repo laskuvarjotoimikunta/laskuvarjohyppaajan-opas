@@ -1,8 +1,11 @@
 # Peruskoulutuksen muut suoritukset
+
 ## Selkälento
+
 Selkälennossa rintahihnassa oleva korkeusmittari ei välttämättä näytä oikein.
 
 ### Oppilaan toiminta
+
 Harjoittele suorituksen vaiheet:
 
 1. Käännetään asento kyljelleen käyttämällä kättä vartalossa
@@ -11,15 +14,18 @@ Harjoittele suorituksen vaiheet:
 4. Käännetään asento perusasentoon taivuttamalla
 
 ### Oppimistavoitteet
+
 1. Pääsy perusasennosta selkälentoon
 2. Asennon hallinta selällään (pieni kääntyminen ok, lattakierre ei)
 
 ### Hyppylennolla
+
 1. Kertaa suoritus mielessäsi
 2. Keskity suoritukseesi
 3. 3X3 -tarkastus ennen hyppyä
 
 ### Hypyn kulku
+
 **TAIVUTA**
 
         Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä taivutus.
@@ -38,6 +44,7 @@ Harjoittele suorituksen vaiheet:
         Aloita avaustoimenpiteet.
 
 ## Liuku
+
 Liu’un tavoitteena on liikkua vaakatasossa mahdollisimman kauaksi muihin hyppääjiin nähden samalla, kun pudotaan alaspäin. Liuku ei ole siis syöksyä tai tikkaamista. Putoamisnopeus voi kasvaa liu’un aikana.
 Korkeuden tarkkailu on tärkeää, sillä liu’un pysäytys vaatii myös aikansa. Varjon avaamista suoraan liu’usta ei suositella. Hyvä liuku on ensiarvoisen tärkeä taito laskuvarjohyppääjällä, sillä ainoastaan
 hyvällä liu’ulla pystyy varmistamaan riittävän välimatkan muihin hyppääjiin purun jälkeen.
@@ -53,14 +60,17 @@ Liuku tehdään seuraavasti:
 7. Palautetaan perusasento rauhallisesti ottamalla ensin taivutus ja sen jälkeen kädet ja jalat perusasentoon
 
 ### Oppilaan toiminta
+
 * Ota selvää hyppylinjan suunnasta, jotta osaat valita oikean liukusuunnan (poispäin linjasta).
 
 ### Oppimistavoitteet
+
 1. Liu’u sovittuun suuntaan ja pysy suunnassa
 2. Liuku liikkuu eteenpäin
 3. Liuku ei nyöki
 
 ### Hyppylennolla
+
 * Kertaa suoritus mielessäsi
 * Keskity suoritukseesi
 * 3X3 -tarkastus ennen hyppyä
@@ -85,6 +95,7 @@ Liuku tehdään seuraavasti:
         Aloita avaustoimenpiteet.
 
 ## FS-liuku
+
 FS-liuku on liikesarja, joka suoritetaan jokaisen FS-hypyn lopuksi. Liikesarjassa annettavilla merkeillä viestitään kanssahyppääjille niitä toimenpiteitä, mitä on aikomus seuraavaksi tehdä.
 
 ### Oppilaan toiminta
@@ -98,12 +109,14 @@ FS-liuku sisältää seuraavan liikesarjan:
 5. Avausmerkki
 6. Harjoitusveto
 
-### Oppimistavoittee
+### Oppimistavoitteet
+
 1. Tee kaikki FS-liukuun liittyvät merkit ja tarkastukset
 2. Tee liuku, joka liikkuu eteenpäin
 3. Käännös on 180° ja liuku pysyy suunnassa
 
 ### Hyppylennolla
+
 * Kertaa suoritus mielessäsi
 * Keskity suoritukseesi
 * 3X3 -tarkastus ennen hyppyä
