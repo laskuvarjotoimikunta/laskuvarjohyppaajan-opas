@@ -1,4 +1,5 @@
 # Uloshyppypaikan määritys
+
 Uloshyppypaikka määritetään laskemalla yhteen ajautuma varjon varassa sekä ajautuma vapaapudotuksessa. Näiden avulla saadaan selville sijainti ylätuulen puolella. Tämän paikan päällä lentokoneesta poistuva hyppääjä pääsee kaikkein varmimmin laskeutumisalueelle. Uloshyppypaikka ja hyppylinja määritetään aina toiminnan alkaessa. Jos epäillään olosuhteiden muuttuneen, on uloshyppypaikka määritettävä uudelleen.
 
 Peruskoulutukseen kuuluu vähintään viisi itsenäistä uloshyppypaikan määritystä. Laskeutumisen on tapahduttava kouluttajan määräämälle alueelle.
@@ -9,6 +10,7 @@ tarkkuus vaihtelee. Arvioitua UH-paikkaa onkin syytä korjata jos hypättäessä
 Myös maassaolijat voivat tehdä näköhavaintoja esimerkiksi koneen sortamisesta hyppylinjalla. Näiden havaintojen avulla he voivat päättää oman uloshyppypaikkansa. Lisäksi kannattaa tarkkailla, missä hyppääjien varjot aukeavat maatuuleen nähden ja pääsevätkö hyppääjät helposti laskeutumisalueelle. Ajautuman arvioinnin tärkeys korostuu, jos laskeutumisalue on pieni, ilmassa on paljon muuta liikennettä tai tuuli on kova.
 
 ## Ajautuminen tuulen mukana
+
 Vapaapudotuksen ja varjon ohjailun aikana tapahtuvan ajautumisen laskeminen on mahdollista, jos tunnetaan tuulet eri kerroksissa maanpinnan ja hyppykorkeuden välillä (ajautuma = tuulen nopeus m/s \*
 pudottu aika s). Ylätuulet voidaan selvittää kysymällä tuulitiedot lentosääasemalta tai katsomalla ennusteista. Lisäksi tuulitietoja eri korkeuksista voidaan saada lentäjältä, mikäli lentokoneessa on
 GPS-laite. Tuulitietojen perusteella voidaan laskea ajautuman matka ja suunta tai arvioida ne riittävällä tarkkuudella. Tuulitietojen lisäksi on arvioitava eri ilmakerroksissa vietetty aika:
@@ -31,6 +33,7 @@ Seuraavaan taulukkoon on laskettu yllä olevilla oletuksilla (lähimpään sataa
 | 35 | 3200 | 900 |
 
 ### Ajautuminen varjon varassa
+
 Varjon varassa tapahtuvan ajautumisen laskemiseksi tarvitaan sekä avauskorkeuden että maatuulen tuulitiedot: nopeus ja suunta. Maatuuli voidaan myös jättää huomiotta ja käyttää vain tuulen nopeutta ja suuntaa esimerkiksi korkeuksissa 1000 ft ja 2000 ft. Tuulen suunnasta ja nopeudesta eri pinnoilla voidaan ottaa keskiarvot.
 
 Esimerkki ajautuman laskemisesta:
@@ -44,6 +47,7 @@ Esimerkki ajautuman laskemisesta:
 Ajautumaksi varjon varassa saadaan 700 metriä. Avauspaikka on siis 0,7 kilometrin etäisyydellä laskeutumisalueelta suuntaan 240 astetta.
 
 ### Ajautuminen vapaapudotuksessa
+
 Vapaapudotuksessa tapahtuvan ajautumisen laskemiseen käytetään tuulitietoja avauskorkeuden ja uloshyppykorkeuden välillä.
 
 Esimerkki vapaapudotuksen ajautuman laskemiseen.
@@ -63,6 +67,7 @@ Uloshyppypaikka valitaan ajautuman verran tuulen yläpuolelta laskeutumisalueese
 ![Uloshyppypaikan määrittäminen korkeammalta hypättäessä](/kuvat/Paikanmaaritys.jpeg)
  
 ## Linjan määritys
+
 Jos lentokoneessa on useampia hyppääjiä/ryhmiä, määritetään hyppylinja huomioiden, että:
 
 * Linja kulkee lasketun UH-paikan läpi.
@@ -78,16 +83,20 @@ Linjan pituudelle ei ole yhtä oikeaa lukua, mutta sitä voidaan arvioida esim. 
 Tämän varsin konservatiivisen esimerkin mukaan linjan ensimmäinen ryhmä voisi siis poistua koneesta 1300 metriä ennen määritettyä UH-paikkaa ja viimeinen ryhmä 1300 metriä määritetyn pisteen jälkeen. Todellisuudessa linjan pituus voi vaihdella linjan suunnan, laskeutumisalueen, avauskorkeuksien jne. mukaan. Mitä kauempana oikeasta UH-paikasta hypätään, sitä suurempi on riski, että epätarkka tuuliennuste, sääolosuhteiden muutos, matala avaus tai varavarjon käyttö johtaa hyppääjän laskeutumiseen laskeutumisalueen ulkopuolelle.
 
 ## Hyppääminen määritetyssä paikassa
+
 Lentäjälle annetaan ohjeet suunnitellusta paikasta ja lentosuunnasta ennen koneeseen nousua. Kun kone on saavuttanut hyppykorkeuden, lentäjä ohjaa sovitulle linjalle. Hyppylinja alkaa jo ennen laskeutumisaluetta.
 
-#### Ohjeet lentäjälle 
+#### Ohjeet lentäjälle
+
 Hyppyoven avaamiseen tarvitaan yleensä lupa lentäjältä. Hän antaa avausluvan saatuaan luvan lennonjohdolta tai ilmoitettuaan pudotuksesta lentoliikenteelle. Linjaa korjataan käsimerkein oikealle / vasemmalle / suoraan. Korjaukset voidaan ilmoittaa lentäjälle myös astelukuina (esimerkiksi ”5 VASEMMALLE”) huutamalla tai radiolla (isot hyppykoneet). Tärkeintä on, että korjaukset annetaan rauhallisesti ja varmasti. On huomioitava oma paikka ja näkyvyys, sillä lentäjän voi olla vaikea nähdä
 hyppääjiä. Turhia korjauksia on vältettävä ja koneen on annettava asettua suoraan ennen seuraavaa tarkastusta.
 
-#### Heitto eteenpäin 
+#### Heitto eteenpäin
+
 Kone heittää hyppääjää lentosuuntaan. Normaalitilanteessa heitto on alle 200 metriä. Erityisen nopeasta koneesta se voi olla suurempi.
 
-#### Paikan katsominen 
+#### Paikan katsominen
+
 Paikkaa katsottaessa pää työnnetään ulos koneesta ja katsotaan suoraan alaspäin.
 
 Koneen lentoasento voi aiheuttaa paikan katsomisessa seuraavat virheet:
@@ -114,6 +123,7 @@ Lentokoneen saaminen tyhjäksi yhdellä linjalla on taloudellisesti järkevää,
 Varusteet on aina tarkastettava ennen uloshyppyä.
 
 ## Uloshyppyjärjestys
+
 Ennen koneeseen nousemista tulee pokalle määrittää uloshyppyjärjestys ja koneeseen noustaan yleensä käänteisessä järjestyksessä. Ylätuulet vaikuttavat pidempään hitaammin putoaviin hyppääjiin sekä ryhmiin ja näin nämä ajautuvat vapaapudotuksessa enemmän kuin nopeammin putoavat hyppääjät sekä ryhmät. Suuremmat muodostelmat putoavat hitaammin kuin pienet muodostelmat ja yksittäiset hyppääjät. Uloshyppyjärjestykseen vaikuttaa siten myös ryhmän koko. Hitaammin putoavat hyppääjät ja ryhmät
 hyppäävät ennen nopeammin putoavia hyppääjiä ja ryhmiä. Oikealla uloshyppyjärjestyksellä saadaan lisää etäisyyttä hyppääjien ja ryhmien välille ennen purkukorkeutta ja avauksia.
 
@@ -133,6 +143,7 @@ Uloshyppyjärjestykseen vaikuttaa myös avauskorkeus. Normaalia korkeammalla ava
 kupumuodostelma- ja liitopukuhyppääjät siten, etteivät he aiheuta vaaraa muille.
 
 ## Streamer
+
 Ajautuminen varjon varassa voidaan myös arvioida käyttämällä lentokoneesta pudotettavaa streameria. Väriltään streamerin tulee olla maastoon ja vuodenaikaan soveltuva: valkoinen tai keltainen kesällä ja
 oranssi tai neonvärinen talvella. Kaksivärinen on aina yksiväristä parempi. Streamerin mitat riippuvat käytetyistä materiaaleista, mutta paino-pituussuhteen on oltava sellainen, että streamer putoaa 2
 minuuttia 600 metristä. Painoksi käy esimerkiksi metallijauhe, hiekka tai paperi. Alle 5 metriä pitkä streamer on vaikea havaita koneesta.
@@ -141,6 +152,7 @@ Streamerin heittoon on aina saatava lupa lentäjältä/lennonjohdolta ja se heit
 streamer ole vakiokokoinen. Streamerin kadotessa heitetään uusi tai kysytään maahenkilöltä havainto sen putoamispaikasta.
 
 ### Harjoitus
+
 1. Harjoitellaan uloshyppypaikan määrittämistä tuulitietojen perusteella.
 2. Harjoitellaan lentäjän ohjeistamista päivän ensimmäiselle pokalle.
 3. Harjoitellaan linjan ajoa ja uloshyppypaikan katsomista.
