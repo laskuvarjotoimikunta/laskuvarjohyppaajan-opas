@@ -15,126 +15,81 @@ Tarkista omat varusteesi, ilmatila, pilvet ja huomioi mahdollinen exit-väli.
 
 **TAIVUTA**
 
-* Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä taivutus.
+        Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä taivutus.
+        Rentouta asento uloshypyn jälkeen
+        Tarkkaile korkeutta
 
-  + Rentouta asento uloshypyn jälkeen
-  + Tarkkaile korkeutta
+**8-SEKUNTIA**
 
-<!-- -->
+        Aloita avaustoimenpiteet: Näytä avausmerkki.
 
-8-SEKUNTIA 
+**TAIVUTA**
 
-:   \
-    Aloita avaustoimenpiteet: Näytä avausmerkki.\
+        Varmistetaan taivutus ja asento.
 
-<!-- -->
+**TARTU**
 
-TAIVUTA
+        Vasen käsi vartalon jatkeeksi ja oikea käsi apuvarjolle, tiukka ote.
 
-:   \
-    Varmistetaan taivutus ja asento.\
+**VEDÄ**
 
-TARTU
+        Heitä apuvarjo ilmavirtaan.
+        Palauta perusasento.
 
-:   \
-    Vasen käsi vartalon jatkeeksi ja oikea käsi apuvarjolle, tiukka
-    ote.\
+**101**
 
-<!-- -->
+        Aloitetaan laskeminen alusta vedon jälkeen.
 
-VEDÄ
+**102..104**
 
-:   \
-    Heitä apuvarjo ilmavirtaan.\
-    Palauta perusasento.\
+        Varjo avautuu ja tehdään sen lopullinen avaaminen.
 
-<!-- -->
+**105**
 
-101
+        Vilkaistaan olkapään yli tarvittaessa (turbulenssin poisto).
 
-:   \
-    Aloitetaan laskeminen alusta vedon jälkeen.\
+## 5”
+### Oppilaan toiminta
+Käytä tasokoulutuksessa opittuja asioita: suora uloshyppy, asennon stabilointi uloshypyn jälkeen, korkeuden tarkkailu ja stabiili asento.
 
-102..104
+### Oppimistavoitteet
+1.  Avaustoimenpiteet stabiilista asennosta oikeaan aikaan. (4-7 s uloshypystä)
 
-:   \
-    Varjo avautuu ja tehdään sen lopullinen avaaminen.\
+### Hyppylennolla
+Tarkista omat varusteesi, ilmatila, pilvet ja huomioi mahdollinen exit-väli.
 
-105
+### Hypyn kulku
+**TAIVUTA**
 
-:   \
-    Vilkaistaan olkapään yli tarvittaessa (turbulenssin poisto).\
+        Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä taivutus.
+        Rentouta asento uloshypyn jälkeen
+        Tarkkaile korkeutta
 
-<span>2</span>
+**5-SEKUNTIA**
 
- 5”  
-----
+        Aloita avaustoimenpiteet: Näytä avausmerkki.
 
-###  Oppilaan toiminta  
+**TAIVUTA**
 
-Käytä tasokoulutuksessa opittuja asioita: suora uloshyppy, asennon
-stabilointi uloshypyn jälkeen, korkeuden tarkkailu ja stabiili asento.
+        Varmistetaan taivutus ja asento.
 
-###  Oppimistavoitteet  
+**TARTU**
 
-1.  Avaustoimenpiteet stabiilista asennosta oikeaan aikaan. (4-7
-    s uloshypystä)
+        Vasen käsi vartalon jatkeeksi ja oikea käsi apuvarjolle, tiukka ote\
 
-###  Hyppylennolla  
+**VEDÄ**
 
-Tarkista omat varusteesi, ilmatila, pilvet ja huomioi mahdollinen
-exit-väli.
+        Heitä apuvarjo ilmavirtaan
+        Palauta perusasento.
 
-###  Hypyn kulku  
+**101**
 
-TAIVUTA
+        Aloitetaan laskeminen alusta vedon jälkeen.
 
-:   \
-    Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi
-    hyvä taivutus.\
-    Rentouta asento uloshypyn jälkeen\
-    Tarkkaile korkeutta\
+**102..104**
 
-<!-- -->
+        Varjo avautuu ja tehdään sen lopullinen avaaminen.
 
-5-SEKUNTIA 
+**105**
 
-:   \
-    Aloita avaustoimenpiteet: Näytä avausmerkki.\
-
-<!-- -->
-
-TAIVUTA
-
-:   \
-    Varmistetaan taivutus ja asento.\
-
-TARTU
-
-:   \
-    Vasen käsi vartalon jatkeeksi ja oikea käsi apuvarjolle, tiukka ote\
-
-<!-- -->
-
-VEDÄ
-
-:   \
-    Heitä apuvarjo ilmavirtaan\
-    Palauta perusasento.\
-
-<!-- -->
-
-101
-
-:   \
-    Aloitetaan laskeminen alusta vedon jälkeen.\
-
-102..104
-
-:   \
-    Varjo avautuu ja tehdään sen lopullinen avaaminen.\
-
-105
-
-:   \
-    Vilkaistaan olkapään yli tarvittaessa (turbulenssin poisto).\
+        Vilkaistaan olkapään yli tarvittaessa (turbulenssin poisto).
