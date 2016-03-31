@@ -2,7 +2,8 @@
     "plugins": [
         "editlink",
         "anchors",
-        "image-captions"
+        "image-captions",
+        "collapsible-menu"
     ],
     "pluginsConfig": {
         "editlink": {
@@ -10,7 +11,7 @@
             "label": "Ehdota muokkausta"
         },
         "image-captions": {
-          "caption": "Kuva: _CAPTION_"
-      }
+            "caption": "Kuva: _CAPTION_"
+        }
     }
 }
