@@ -13,5 +13,10 @@
         "image-captions": {
             "caption": "Kuva: _CAPTION_"
         }
+    },
+    "pdf": {
+        "fontSize": 10,
+        "fontFamily": "Tahoma, Geneva, sans-serif"
     }
+    Tahoma, Geneva, sans-serif
 }
