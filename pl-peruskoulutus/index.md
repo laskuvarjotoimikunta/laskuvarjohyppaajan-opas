@@ -1,18 +1,23 @@
 # PL-peruskoulutuksen suoritukset
+
 ## 15”
+
 Avaustoimenpiteet aloitetaan 1200 metrin korkeudessa mittarin mukaan. Vapaapudotusaika on noin 15 sekuntia. Lisää tästä lähin avaustoimenpiteisiisi avausmerkki, jolla ilmoitat muille avaavasi
 varjosi, eli heilauta käsiäsi ristiin pääsi edessä.
 
 ### Oppimistavoitteet
+
 1. Stabiili asento
 2. HD-apuvarjo heitetty oikein ilmavirtaan (jos hypyllä tehdään HD-totuttelu)
 
 ### Hyppylennolla
+
 1. Kertaa suoritus mielessäsi
 2. Keskity suoritukseesi
 3. 3X3 -tarkastus ennen hyppyä TODO:CROSSREFERENCE(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ### Hypyn kulku
+
 **TAIVUTA**
 
         Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä taivutus.
@@ -32,6 +37,7 @@ varjosi, eli heilauta käsiäsi ristiin pääsi edessä.
         Vasen käsi kypärän päälle eteen vartalon normaaliksi jatkeeksi ja oikea käsi kahvalle, tiukka ote
 
 **VEDÄ**
+
 * Veto kahvasta putken tai taskun suuntaan
 * Palauta perusasento.
 
@@ -40,6 +46,7 @@ varjosi, eli heilauta käsiäsi ristiin pääsi edessä.
         Aloitetaan laskeminen alusta vedon jälkeen.
 
 **102..104**
+
         Varjo avautuu ja tehdään sen lopullinen avaaminen.
 
 **105**
@@ -47,9 +54,11 @@ varjosi, eli heilauta käsiäsi ristiin pääsi edessä.
         Vilkaistaan olkapään yli tarvittaessa (turbulenssin poisto). 
 
 ## Suora uloshyppy
+
 Tavoitteena on oppia uloshyppy suorana, eli suoraan koneen sisältä ilmavirtaan.
 
 #### Streeva-kone
+
 1. Vasen jalka astinlaudalle.
 2. Kädet oviaukon reunalle.
 3. Kohottaudutaan koneen ulkopuolelle varoen repun osumista koneeseen.
@@ -59,21 +68,25 @@ Tavoitteena on oppia uloshyppy suorana, eli suoraan koneen sisältä ilmavirtaan
 7. Sitä mukaa kun asento kääntyy vaakatasoon, otetaan perusasento.
 
 #### Muut koneet
+
 1. Siirrytään oviaukolle kyykkyyn tai seisaalleen, varoen repun osumista koneeseen.
 2. Ponnistetaan ilmavirran suuntaan eteenpäin, rinta koneen etenemissuuntaan.
 3. Taivutus, jalat lähes suorina ja kädet taakse delta-asentoon.
 4. Sitä mukaa kun asento kääntyy vaakatasoon, otetaan perusasento.
 
 ### Oppimistavoitteet
+
 1. Stabiili asento 5 sekunnin kuluessa
 2. Suunnan hallinta, ei tahatonta yli 360° käännöstä.
 
 ### Hyppylennolla
+
 * Kertaa suoritus mielessäsi
 * Keskity suoritukseesi
 * 3X3 -tarkastus ennen hyppyä TODO:CROSSREF(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ### Hypyn kulku
+
 **TAIVUTA**
 
         Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä delta-asento.
@@ -85,9 +98,11 @@ Tavoitteena on oppia uloshyppy suorana, eli suoraan koneen sisältä ilmavirtaan
         Aloita avaustoimenpiteet.
 
 ## Sukellusuloshyppy
+
 Koneesta sukelletaan ulos ja pidetään suunta.
 
 #### Streeva-kone
+
 1. Oikea jalka astimelle, varpaat peräsimen suuntaan.
 2. Kädet oviaukon reunalle.
 3. Kohottaudutaan koneen ulkopuolelle varoen repun osumista koneeseen.
@@ -97,21 +112,25 @@ Koneesta sukelletaan ulos ja pidetään suunta.
 7. Sitä mukaa kun asento kääntyy vaakatasoon, otetaan perusasento.
 
 #### Muut koneet
+
 1. Siirrytään oviaukolle kyykkyyn tai seisaalleen, varoen repun osumista koneeseen.
 2. Sukelletaan ilmavirran suuntaan taaksepäin, rinta ilmavirtaan.
 3. Taivutus, jalat koukkuun ja kädet eteen leveälle.
 4. Sitä mukaa kun asento kääntyy vaakatasoon, otetaan perusasento.
 
 ### Oppimistavoitteet
+
 1. Stabiili asento 5 sekunnin kuluessa
 2. Suunnan hallinta, ei tahatonta yli 360° käännöstä.
 
 ### Hyppylennolla
+
 * Kertaa suoritus mielessäsi
 * Keskity suoritukseesi
 * 3X3 -tarkastus ennen hyppyä TODO:CRESSREF(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ### Hypyn kulku
+
 **TAIVUTA**
 
         Tee sukellus-uloshyppy
@@ -124,6 +143,7 @@ Koneesta sukelletaan ulos ja pidetään suunta.
         Aloita avaustoimenpiteet.
 
 ## 360° käännökset
+
 Uloshypyn jälkeen tehdään hallittu 360 asteen käännös.
 
 1. Otetaan kiintopiste horisontista.
@@ -134,10 +154,12 @@ Uloshypyn jälkeen tehdään hallittu 360 asteen käännös.
 Pidä taivutus koko käännöksen ajan. Tarkkaile korkeutta.
 
 ### Oppimistavoitteet
+
 1. 360° käännös sovittuun suuntaan ja hallittu pysäytys.
 2. Asento säilyy stabiilina.
 
 ### Hyppylennolla
+
 * Kertaa suoritus mielessäsi
 * Keskity suoritukseesi
 * 3X3 -tarkastus ennen hyppyä
@@ -160,6 +182,7 @@ Pidä taivutus koko käännöksen ajan. Tarkkaile korkeutta.
         Aloita avaustoimenpiteet.
 
 ## Tynnyri ja takavoltti
+
 ####  Tynnyri  
 
 Tynnyri on freeasentojen perusliike, sillä isommilla freekuvilla purun jälkeen liu’uttaessa voidaan tekemällä liu’usta tynnyri tarkastaa vapaa ilmatila ennen avausta. Tynnyrissä on tarkoitus kääntyä vatsaltaan kyljen kautta täysi vaakakierre.
@@ -186,9 +209,11 @@ Takavoltti tehdään seuraavasti:
 Kädet pidetään perusasennossa suorina, hieman sivuille käännettyinä. Jalat laitetaan yhteen ja koukkuun vartalon alle. Painetaan käsillä alaspäin ilmavirtaa vasten. Pysäytys tapahtuu palauttamalla perusasento. Jalkojen nopea ja yhtaikainen tuonti vartalon alle takaa voltin onnistumisen. Käsillä autetaan ympäri menoa ja estetään asennon kallistuminen sivulle.
 
 ### Oppimistavoitteet
+
 * Asento saadaan hallintaan liikkeiden jälkeen.
 
 ### Hyppylennolla
+
 * Kertaa suoritus mielessäsi.
 * Keskity suoritukseesi.
 * 3X3 -tarkastus ennen hyppyä.
