@@ -84,7 +84,7 @@ Tarkista omat varusteesi, ilmatila, pilvet ja huomioi mahdollinen exit-väli.
 
 **TARTU**
 
-        Vasen käsi vartalon jatkeeksi ja oikea käsi apuvarjolle, tiukka ote\
+        Vasen käsi vartalon jatkeeksi ja oikea käsi apuvarjolle, tiukka ote
 
 **VEDÄ**
 
