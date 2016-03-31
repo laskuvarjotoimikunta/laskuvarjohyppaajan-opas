@@ -78,7 +78,7 @@ Pienillä hyppykoneilla linja ajetaan yleensä vastatuuleen laskeutumisalueen yl
 
 Linjan pituudelle ei ole yhtä oikeaa lukua, mutta sitä voidaan arvioida esim. seuraavasti.
 
-*Laskuvarjon liitosuhde on välillä 3:1 ja 2:1. Jos hyppääjän varjo on auki 800 metrin korkeudessa ja hyppääjä aloittaa laskeutumiskuvion 300 metrin korkeudessa, hyppääjä voi lentää varjolla arviolta (500 m \* 2,5) n. 1300 metrin matkan.
+*Laskuvarjon liitosuhde on välillä 3:1 ja 2:1. Jos hyppääjän varjo on auki 800 metrin korkeudessa ja hyppääjä aloittaa laskeutumiskuvion 300 metrin korkeudessa, hyppääjä voi lentää varjolla arviolta (500 m \* 2,5) n. 1300 metrin matkan.*
 
 Tämän varsin konservatiivisen esimerkin mukaan linjan ensimmäinen ryhmä voisi siis poistua koneesta 1300 metriä ennen määritettyä UH-paikkaa ja viimeinen ryhmä 1300 metriä määritetyn pisteen jälkeen. Todellisuudessa linjan pituus voi vaihdella linjan suunnan, laskeutumisalueen, avauskorkeuksien jne. mukaan. Mitä kauempana oikeasta UH-paikasta hypätään, sitä suurempi on riski, että epätarkka tuuliennuste, sääolosuhteiden muutos, matala avaus tai varavarjon käyttö johtaa hyppääjän laskeutumiseen laskeutumisalueen ulkopuolelle.
 
