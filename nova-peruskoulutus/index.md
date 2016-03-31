@@ -1,33 +1,24 @@
 # NOVA-peruskoulutuksen suoritukset
+## 8”
+### Oppilaan toiminta
 
- 8”  
-----
+Käytä tasokoulutuksessa opittuja asioita: suora uloshyppy, asennon stabilointi uloshypyn jälkeen, korkeuden tarkkailu ja stabiili asento.
 
-###  Oppilaan toiminta  
+### Oppimistavoitteet
+1. Stabiili asento 5 sekunnissa
+2. Avaustoimenpiteet oikeaan aikaan (7-10 s uloshypystä)
 
-Käytä tasokoulutuksessa opittuja asioita: suora uloshyppy, asennon
-stabilointi uloshypyn jälkeen, korkeuden tarkkailu ja stabiili asento.
+### Hyppylennolla
+Tarkista omat varusteesi, ilmatila, pilvet ja huomioi mahdollinen exit-väli.
 
-###  Oppimistavoitteet  
+### Hypyn kulku
 
-1.  Stabiili asento 5 sekunnissa
+**TAIVUTA**
 
-2.  Avaustoimenpiteet oikeaan aikaan (7-10 s uloshypystä)
+* Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä taivutus.
 
-###  Hyppylennolla  
-
-Tarkista omat varusteesi, ilmatila, pilvet ja huomioi mahdollinen
-exit-väli.
-
-###  Hypyn kulku  
-
-TAIVUTA
-
-:   \
-    Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi
-    hyvä taivutus.\
-    Rentouta asento uloshypyn jälkeen\
-    Tarkkaile korkeutta\
+  + Rentouta asento uloshypyn jälkeen
+  + Tarkkaile korkeutta
 
 <!-- -->
 
