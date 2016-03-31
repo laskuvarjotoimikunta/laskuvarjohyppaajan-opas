@@ -1,4 +1,4 @@
-# II Peruskoulutus – yhteenveto
+# II Peruskoulutus
 
 ## Hyppysuoritukset, NOVA
 * 8” lyhyt vapaa TODO:CROSSREF jokaiseen bullettiin
