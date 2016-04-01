@@ -1,5 +1,7 @@
- Tarkkuushyppy oppilassuorituksena  
-===================================
+# Kuvunkäsittely oppilaana 
+ 
+ ## Tarkkuushyppy oppilassuorituksena  
+
 
 Oppilastarkkuuden tarkoituksena on opettaa varjon hallintaa ja kehittää
 korkeuden ja etäisyyden arviointikykyä. Tavoitteena olisi se, että
@@ -20,8 +22,8 @@ kohtalokasta. Turvallisuus on pidettävä kaiken aikaa mielessä. Varjon
 sakkauttamista on varottava, eikä matalalla saa tehdä jyrkkiä
 käännöksiä.
 
- Hypyn suunnittelu  
--------------------
+### Hypyn suunnittelu  
+
 
 Myös tarkkuushypyssä hypyn huolellinen suunnittelu etukäteen on tärkeää.
 Maassa tulee tarkkailla sääolosuhteiden, erityisesti tuulen suunnan ja
@@ -31,14 +33,14 @@ turbulenssit. Ennen hypylle lähtöä selvitetään uloshyppypaikka, sektori,
 josta laskeutumisalueelle pääsee sekä alustavasti ohjauskuviot ja
 finaalin aloituspiste.
 
- Uloshyppy, avaus ja alkulähestyminen  
---------------------------------------
+### Uloshyppy, avaus ja alkulähestyminen  
+
 
 Uloshypyn ja avauksen jälkeen alkulähestymisen aikana tulee varmistaa
 pääsy laskeutumisalueelle.
 
- Lähestymiskuvio  
------------------
+### Lähestymiskuvio  
+
 
 Lähestymiskuvion aikana maali ja tuulipussi tulee pitää kaiken aikaa
 näkyvissä. Tuulen suunnan ja voimakkuuden kehittymistä on tarkkailtava
@@ -47,8 +49,8 @@ aikana varjoa sivuttain luistattamalla voidaan tarpeen mukaan siirtää
 finaalin aloituspistettä joko lähemmäksi tai kauemmaksi aiotusta
 pisteestä.
 
- Finaali  
----------
+### Finaali  
+
 
 Finaalipisteessä varjo käännetään tarkasti tuulilinjalle (tuuli on
 suoraan maalipisteen suunnasta). Jarruilla säädetään lähestymiskulmaa.
@@ -57,8 +59,8 @@ suorana. Varjoa ohjataan loppuun asti maalipistettä kohti, mutta ei
 yritetä väkisin osua maaliin esimerkiksi liian kovalla jarrutuksella tai
 matalalla käännöksellä.
 
- Kuvunkäsittelyhypyt  
-=====================
+## Kuvunkäsittelyhypyt  
+
 
 Nopeilla varjoilla lentäminen on kuin lentäisi lentokoneella. Niissä on
 suorituskykyä ja ominaisuuksia, jotka tekevät liikkumisen ilmassa
@@ -81,8 +83,8 @@ maksimiohjausliikkeet eivät sovi yhteen.
 
 -   turhien riskien ottaminen.
 
- Huomioitavia asioita  
-----------------------
+## Huomioitavia asioita  
+
 
 ###  Vapaapudotus  
 
@@ -233,8 +235,8 @@ käännöksiä alle 600 metrin korkeudessa. Hyppyohjelman suorittaminen
 jatkokoulutuksessa kuuluu koulutusohjelmaan. Kuvunkäsittelyhypyillä ei
 tehdä vapaapudotussuorituksia.
 
- Hyppy 1  
----------
+## Hyppy 1  
+
 
 Tarkoituksena on oppia tuntemaan oman varjon ominaisuudet ja oppia
 tekemään loppuveto. Hyppykorkeus on 2000 metriä, josta hypätään 8–10
@@ -256,8 +258,8 @@ menetys ja ilmanopeuden kasvu verrattuna oppilasvarjoon. Valmistaudutaan
 alastulokuvioon huomioiden porrastukset. Tehdään oikeaoppinen loppuveto
 täysiliidosta.
 
- Hyppy 2  
----------
+## Hyppy 2  
+
 
 Hyppykorkeus on 2000 metriä, josta hypätään 8–10 sekunnin vapaa. Avataan
 puolijarrut. Kokeillaan rauhallisia käännöksiä eri lentotiloissa
@@ -277,8 +279,8 @@ koska varavarjon automaattilaukaisin voi toimia).
 Valmistaudutaan alastulokuvioon ja tehdään oikeaoppinen loppuveto
 täysiliidosta.
 
- Hyppy 3  
----------
+## Hyppy 3  
+
 
 Uloshyppykorkeus ja vapaa ovat samat kuin edellisissä hypyissä.
 Harjoitellaan loppuvetoa puolijarrutustilasta. Tullaan havaitsemaan,
