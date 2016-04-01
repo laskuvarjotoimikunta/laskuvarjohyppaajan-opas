@@ -1,3 +1,5 @@
+# Omiin varusteisiin siirtyminen
+
 Laskuvarjot ja niiden suorituskyky kehittyvät jatkuvasti. Oppilasvarjot
 on kuitenkin kautta aikojen suunniteltu käyttövarmoiksi ja virheitä
 anteeksiantaviksi lentolaitteiksi. 1970-luvulla oppilaat hyppäsivät
@@ -24,8 +26,8 @@ ominaisuudet erilaisissa tilanteissa. Siksi onkin tärkeää tutustua tämän
 oppaan osaan Kuvunkäsittelyopas, kun siirrytään oppilaskalustosta
 nopeampiin varjoihin.
 
- Laskuvarjoja koskevat kokemusrajat  
-====================================
+## Laskuvarjoja koskevat kokemusrajat  
+
 
 Jatkokoulutuksessa oleva oppilas voi saada koulutuspäälliköltä tai
 apulaiskoulutuspäälliköltä luvan käyttää omia varusteitaan ja
@@ -68,8 +70,8 @@ ovat seuraavia:
 
 ![image](/kuvat/MARD.jpg)
 
- Muut varusteet  
-================
+## Muut varusteet  
+
 
 AAD (Automatic Activation Device) eli varavarjon automaattilaukaisin on
 oppilasvarjoissa sekä A- ja B-lisenssin hyppääjillä pakollinen varuste
@@ -180,8 +182,8 @@ muutamia ominaispiirteitä:
 
 -   Spaceball: Spaceballin kanssa hyppääminen on Suomessa kiellettyä.
 
- Harjoitus ja harjoitushypyt  
-=============================
+ ## Harjoitus ja harjoitushypyt  
+
 
 1.  Tutustutaan Laskuvarjohyppääjän oppaan Kuvunkäsittelyoppaaseen ja
     aiheeseen liittyviin turvallisuusmääräyksiin ja tiedotteisiin.
