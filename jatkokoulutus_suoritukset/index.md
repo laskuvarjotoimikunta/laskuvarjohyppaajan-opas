@@ -2,7 +2,7 @@
 
 
 ## Ryhmähyppy  
-------------
+
 
 Ryhmähypyillä harjoittelet turvallisen ryhmähyppäämisen perusteita.
 Suorituksina on hyppyjä oppilaan FS-ohjelmasta. Myös freehyppyjä voidaan
@@ -21,8 +21,6 @@ ryhmähyppäämisen osa-alueet:
         vähintään 1600 metrissä
 
 -   Aloita avaustoimenpiteet 1200 metrin korkeudessa.
-
-<!-- -->
 
 -   Kaikkia ryhmähyppyjä yhdistää seuraava toimintajärjestys
     muodostelmaa lähestyttäessä:
