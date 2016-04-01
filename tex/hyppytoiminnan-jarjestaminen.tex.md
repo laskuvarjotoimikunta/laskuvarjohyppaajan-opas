@@ -1,4 +1,6 @@
-A B C- tai D-lisenssihyppääjä on vastuussa myös käytännön hyppytoiminnan
+# Hyppytoiminnan järjestäminen
+
+A-, B-, C- tai D-lisenssihyppääjä on vastuussa myös käytännön hyppytoiminnan
 pyörittämisestä. Aina ei paikalla ole kouluttajia tai edes kokeneita
 hyppääjiä huolehtimassa rutiineista, joita tarvitaan normaalin
 hyppytoiminnan suorittamiseksi määräysten mukaan. Tässä luvussa annetaan
@@ -9,8 +11,8 @@ keskusteltava kouluttajien kanssa omassa kerhossa vallitsevista
 käytännöistä ja selvitettävä ne myös mentäessä vierailemaan toiseen
 kerhoon.
 
- Hyppylennon pokanvanhin  
-=========================
+## Hyppylennon pokanvanhin  
+
 
 Jokaisella hyppylennolla tulee olla vähintään A-lisenssin omaava
 tehtäväänsä nimetty pokanvanhin, joka vastaa pokansa toiminnasta
@@ -35,8 +37,8 @@ pokansa osalta, ja hänen tehtävänsä ovat vähintään
 -   poikkeus- tai vaaratilanteessa yhteydenpito lentäjän kanssa ja
     ohjeiden anto hyppääjille.
 
- Hyppytoiminnan aloitus  
-========================
+## Hyppytoiminnan aloitus  
+
 
 Lennonjohdolle/aluelennonjohdolle tehdään ilmoitus/varaus
 hyppytoiminnasta. Ilmoitus tehdään tietyn kaavan mukaan ja tarvittaessa
@@ -92,8 +94,8 @@ erityisesti kerholla hyppääviä vierailijoita.
 On muistettava myös määrittää uloshyppypaikka ja antaa ohjeet
 hyppääjille ja lentäjälle (jolle myös mielellään kirjallisena).
 
- Toiminnan aikana  
-==================
+## Toiminnan aikana  
+
 
 Kentällä ollaan harvoin yksin, joten yhteistyö muiden kentällä toimivien
 ilmailijoiden (esimerkiksi lennokkiharrastajat ja purjelentäjät) kanssa
@@ -125,16 +127,16 @@ tarvittavat pelastustoimenpiteet, tehdä lennonjohtoon ilmoitus
 esimerkiksi varavarjon käytöstä tai muusta vastaavasta sovitusta asiasta
 sekä huolehtia, että lentäjä ehtii pitämään asianmukaiset tauot.
 
- Toiminnan lopetus  
-===================
+## Toiminnan lopetus  
+
 
 Hyppytoiminnan loputtua on tehtävä asianmukaiset ilmoitukset, jotta
 lennonjohto ja/tai muut kentän käyttäjät saavat siitä tiedon. Lentokone
 on pysäköitävä ja suojattava. Kaikki käytössä ollut kalusto siirretään
 takaisin säilytyspaikoilleen.
 
- Harjoitus  
-===========
+## Harjoitus  
+
 
 1.  Kirjoitetaan muistiin lennonjohdon ja muiden tarvittavien
     yhteyksien numerot.
