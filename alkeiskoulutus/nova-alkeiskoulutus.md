@@ -1,7 +1,7 @@
 NOVA-Alkeiskoulutuksen suoritukset
 ==================================
 
-<span>2</span>
+
 
 NOVA-koulutusohjelmassa oppilaalle annetaan henkilökohtaista koulutusta.
 Tasokoulutus koostuu seitsemästä erilaisesta tasosta. Jokaisella
@@ -183,7 +183,7 @@ oppimistavoitteisiin tarkasti HM:n kanssa.
                     MAA - MITTARI
   **1600 m**        Avausmerkki ja avaus
 
-<span>2</span>
+
 
  Taso 2 - Asennon hallinta  
 ---------------------------
@@ -245,7 +245,7 @@ päästäkseen seuraavalle tasolle.
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
   **1600 m**        Avausmerkki ja avaus
 
-<span>2</span>
+
 
  Taso 3 - Stabiili vapaapudotus  
 --------------------------------
@@ -333,7 +333,7 @@ varavarjotoimenpiteet.
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
   **1600 m**        Avausmerkki ja avaus
 
-<span>2</span>
+
 
  Taso 4 - Käännökset 90°  
 -------------------------
@@ -397,7 +397,7 @@ päästäkseen seuraavalle tasolle.
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
   **1500 m**        Avausmerkki ja avaus
 
-<span>2</span>
+
 
  Taso 5 - Käännökset 360°  
 --------------------------
@@ -458,7 +458,7 @@ päästäkseen seuraavalle tasolle.
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
   **1500 m**        Avausmerkki ja avaus
 
-<span>2</span>
+
 
  Taso 6 - Irtiuloshyppy  
 ------------------------
@@ -519,7 +519,7 @@ päästäkseen seuraavalle tasolle.
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
   **1300 m**        Avausmerkki ja avaus
 
-<span>2</span>
+
 
  Taso 7 - Puolisarja  
 ---------------------
@@ -578,7 +578,7 @@ avaus, sekä ohjaaminen.
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
   **1300 m**        Avausmerkki ja avaus
 
-<span>2</span>
+
 
  15” - Lyhyt vapaa  
 -------------------

@@ -1,7 +1,7 @@
 Hyppytapahtuma
 ==============
 
-<span>2</span>
+
 
  Valmistautuminen hyppyyn  
 --------------------------
@@ -316,7 +316,7 @@ Yleisimmät viat ja virheet korkeusmittarin toiminnassa ovat:
 Korkeuserojen laskeminen ja mittariasetus on osattava, jos lähtö- ja
 alastulopaikka eivät ole samat.
 
-<span>2</span>
+
 
  Avaaminen  
 -----------
@@ -451,7 +451,7 @@ asiat:
 
 Aloita ohjaaminen ja käännä varjo tarvittaessa vastatuuleen.
 
-<span>2</span>
+
 
  Ohjaaminen  
 ------------

@@ -135,7 +135,7 @@ Uloshyppyharjoituksissa opetellaan oikeaa rytmiä, joten ei huudeta vain
 numeroita vaan sekunteja. Ilmassa muutama sekunti voi tuntua hyvinkin
 pitkältä ajalta.
 
-<span>2</span>
+
 
  Harjoitusveto  
 ---------------
@@ -242,7 +242,7 @@ harjoitusvetokahva pois ja tehdään varavarjotoimenpiteet.
 
 2.  Annetaan näyte hyppymestarille.
 
-to do (mitä nämä ovat useammassa kohtaa?): <span>2</span>
+to do (mitä nämä ovat useammassa kohtaa?): 
 
  Itseaukaisu 3”  
 ----------------
@@ -325,7 +325,7 @@ LENTÄÄ-päätöksen jälkeen laitetaan avauskahva pois kädestä (haalarin
 alle tai rintahihnaan). EI LENNÄ -päätöksen jälkeen pudotetaan
 avauskahva pois ja tehdään varavarjotoimenpiteet.
 
-<span>2</span>
+
 
  Itseaukaisu 5”  
 ----------------
@@ -407,7 +407,7 @@ LENTÄÄ-päätöksen jälkeen laitetaan avauskahva pois kädestä (haalarin
 alle tai rintahihnaan). EI LENNÄ -päätöksen jälkeen pudotetaan
 avauskahva pois ja tehdään varavarjotoimenpiteet.
 
-<span>2</span>
+
 
  10”  
 -----
