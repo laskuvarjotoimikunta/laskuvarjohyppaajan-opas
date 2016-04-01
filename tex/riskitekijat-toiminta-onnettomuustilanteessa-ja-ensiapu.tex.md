@@ -1,5 +1,7 @@
- Laskuvarjohyppäämiseen liittyvät riskitekijät  
-===============================================
+# Riskitekijät, toiminta onnettomuustilanteessa ja ensiapu
+
+## Laskuvarjohyppäämiseen liittyvät riskitekijät  
+
 
 Vakavat laskuvarjohyppyonnettomuudet tutkii ensisijaisesti poliisi ja
 erityistapauksissa Onnettomuustutkintakeskus. Tutkimuksen tarkoituksena
@@ -101,8 +103,8 @@ kuten uusia varusteita. Useissa onnettomuuksissa on ainakin yhtenä syynä
 ollut tässä oppaassa opetettavien perusturvallisuusasioiden
 laiminlyönti.
 
- Toiminta onnettomuustilanteissa  
-=================================
+## Toiminta onnettomuustilanteissa  
+
 
 Onnettomuuden tapahduttua keskeytetään hyppytoiminta välittömästi ja
 toimitaan SIL ry:n ohjeen Toiminta onnettomuustilanteessa mukaan.
@@ -160,8 +162,8 @@ onnettomuustilanteessa) on seuraava:
 
     -   Otetaan talteen uhrin omaisuus
 
-Onnettomuuspaikalla 
--------------------
+### Onnettomuuspaikalla 
+
 
 -   Estetään lisäonnettomuuksien synty (tie tai lähiympäristö)
 
@@ -181,8 +183,8 @@ Onnettomuuspaikalla
 -   Järjestetään pelastushenkilökunnan sekä viranomaisten opastus
     onnettomuuspaikalle
 
-Tiedottaminen 
--------------
+### Tiedottaminen 
+
 
 -   Tiedottamisen on oltava niukkaa. Ei soiteta itse minnekään. Jos
     tiedotusvälineistä soitetaan, kerrotaan vain, että a) onnettomuus on
@@ -202,8 +204,8 @@ Tiedottaminen
 -   Täytetään ja lähetetään vaaratilanneraportti (tätä voi
     täydentää myöhemmin)
 
- Ensiapu  
-=========
+## Ensiapu  
+
 
 Hätäensiavulla tarkoitetaan sitä välitöntä ensiapua, jolla pelastetaan
 potilaan henki. Hätäensiavun tarkoituksena on palauttaa ja ylläpitää
@@ -213,8 +215,8 @@ ensiaputaitoisen toimesta. Älä siirrä loukkaantunutta, ellei se ole
 välttämätöntä. Nykypäivän ensiavun periaatteena on se, että ensiapu
 tuodaan loukkaantuneen luo eikä päinvastoin.
 
- Hätäensiapu (elvytys)  
------------------------
+### Hätäensiapu (elvytys)  
+
 
 1.  Kartoita nopeasti yleistilanne. Ota selvää saatko elottomalta
     näyttävän hereille puhuttelemalla ja tarvittaessa
@@ -263,8 +265,8 @@ tuodaan loukkaantuneen luo eikä päinvastoin.
     liikkuu, avaa silmänsä ja hengittää normaalisti tai ammattihenkilöt
     antavat luvan lopettaa tai voimasi loppuvat.
 
- Suuret verenvuodot  
---------------------
+### Suuret verenvuodot  
+
 
 Näin tyrehdytät verenvuodon:
 
@@ -285,8 +287,8 @@ esimerkiksi laskuvarjon punoksia). Runsas verenvuoto voi johtaa
 verenkierron vakavaan häiriötilaan eli sokkiin. Hälytä tarvittaessa
 apua.
 
- Sokki  
--------
+### Sokki  
+
 
 Muistetaan aina sokin vaara ja annetaan sokin oireenmukainen ensiapu:
 
@@ -302,8 +304,8 @@ Muistetaan aina sokin vaara ja annetaan sokin oireenmukainen ensiapu:
 
 6.  Tarkkaillaan tajunnan tasoa ja sen muutoksia.
 
- Muu ensiapu  
--------------
+### Muu ensiapu  
+
 
 (Nivelnyrjähdys / sijoiltaan meno / revähdys / venähdys / murtuma)
 
@@ -328,8 +330,8 @@ Muistetaan aina sokin vaara ja annetaan sokin oireenmukainen ensiapu:
     seikkojen takia kannattaa käydä lääkärissä mahdollisimman pian
     tapaturman sattumisen jälkeen.)
 
- Vaaratilanneilmoitus  
-======================
+## Vaaratilanneilmoitus  
+
 
 Jos laskuvarjohypyn yhteydessä sattuu sellainen vaaratilanne, jossa
 hyppääjän tai ilmaliikenteen turvallisuus on ollut uhattuna, on
@@ -350,8 +352,7 @@ Tapauksia, joista ilmoitus on aina tehtävä, ovat mm. seuraavat:
 SIL:n laskuvarjohyppääjiä koskeva *Toiminnallinen ohje* antaa
 lisätietoja vaaratilanneilmoituksen tekemisestä.
 
- Harjoitus  
-===========
+## Harjoitus  
 
 1.  Tutustutaan Vaaratilanneilmoitukseen ja sen täyttöön. Lomake
     löytyy mm. Koulutus- ja turvallisuuskomitean nettisivuilta.
