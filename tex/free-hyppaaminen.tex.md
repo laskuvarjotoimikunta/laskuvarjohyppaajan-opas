@@ -1,3 +1,5 @@
+# Free-hyppääminen
+
 Freehyppyjen tarkoituksena on perehtyä vapaan lentämisen alkeisiin.
 Harjoitushyppyjä ei saa ottaa liian vakavasti, sillä tarkoitus on antaa
 joitakin vinkkejä siitä, miten jatkossa kannattaa harjoitella
@@ -11,15 +13,14 @@ hallitaan, voidaan ruveta harjoittelemaan muissa asennoissa lentämistä.
 Seuraavissa teoriaosuuksissa käydään läpi muutamia freeperusasentoja ja
 -liikkeitä sekä annetaan perusteet niiden harjoitteluun.
 
- Sittis  
-========
+ ## Sittis  
 
-Katso sittisasennon perusasiat Freeoppaan puolelta
-(\[freefly-lentoasennot-sittiksen-perusasento\] s.). Siellä myös
+
+Katso sittisasennon perusasiat Freeoppaan puolelta. Siellä myös
 vinkkejä asentoon siirtymiseen.
 
- Stand up  
-==========
+## Stand up  
+
 
 Kun pysytään istuallaan vapaapudotuksessa, on siitä helppo harjoitella
 seisovaa asentoa eli stand upia. Stand upissa hyppääjä putoaa erittäin
@@ -36,8 +37,8 @@ Siirtyminen sittiksestä stand upiin tapahtuu seuraavasti:
 
 Pidetään stand upia muutama sekunti ja siirrytään takaisin sittikseen.
 
- Palloasento  
-=============
+## Palloasento  
+
 
 Palloasennolla (ball position / recovery position) tarkoitetaan asentoa,
 johon freehyppäämisessä pyritään palautumaan, mikäli menetetään asennon
@@ -58,8 +59,8 @@ voidaan harjoitella esimerkiksi menemällä kyykkyyn ja painamalla
 rintakehä reisiä vasten ja samanaikaisesti ottamalla käsiä hieman sisään
 ja kääntämällä kyynärvarret 90 astetta kyynärpäistä eteenpäin.
 
- Turvallisuus  
-==============
+## Turvallisuus  
+
 
 Freehyppyjen turvallisuuteen liittyviä asioita on lueteltu seuraavassa:
 
@@ -101,25 +102,25 @@ Freehyppyjen turvallisuuteen liittyviä asioita on lueteltu seuraavassa:
 Headdown eli pää alaspäin lentäminen on oppilasvarusteilla kielletty!
 Varusteita ei ole suunniteltu eikä mitoitettu siihen tarkoitukseen.
 
- Hyppyohjelma  
-==============
+## Hyppyohjelma  
+
 
 Harjoitellaan kutakin suoritusta kouluttajan ohjeiden mukaisesti
 harjoitusvaljaissa tai maassa ennen varsinaista suoritusta.
 
- Hyppy 1: Puhdas sittisharjoittelu  
------------------------------------
+### Hyppy 1: Puhdas sittisharjoittelu  
+
 
 Opetellaan istuvaa perusasentoa ja sittisasennon menetyksen yhteydessä
 palloasennon käyttöä freehypyillä.
 
- Hyppy 2: Sittis ja raajojen kontrolli  
----------------------------------------
+### Hyppy 2: Sittis ja raajojen kontrolli  
+
 
 Poljetaan jaloilla vuoron perään ja heilutellaan käsiä. Tavoitteena on
 oppia raajojen hallintaa sittisasennossa.
 
- Hyppy 3: Sittiskäännökset  
----------------------------
+### Hyppy 3: Sittiskäännökset  
+
 
 Opetellaan sittiskäännöksiä.
