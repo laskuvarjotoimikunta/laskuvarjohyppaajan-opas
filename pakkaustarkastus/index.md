@@ -24,7 +24,7 @@ sivulle stabilisaattoriväleihin. Taitellaan kuvun takahelma
 ohjauspunosten välistä sivulle, muiden punosryhmien päälle, lasketaan
 slider tähden muotoon stabilisaattorien kovikkeita vasten.
 
-## I tarkastusvaihe  {#pakkaustarkastus-i-tarkastusvaihe}
+## I tarkastusvaihe  
 
 I tarkastusvaiheen tarkastaja vastaa siitä, että
 
@@ -89,7 +89,7 @@ Pakkaus II tarkastusvaiheeseen suoritetaan seuraavasti:
     yksinkertaisilla kumilenkeillä ja punostetaan loput punokset
     kumilenkeillä kireälle.
 
-## II tarkastusvaihe  {#pakkaustarkastus-ii-tarkastusvaihe}
+## II tarkastusvaihe
 
 II tarkastusvaiheen tarkastaja vastaa seuraavista asioista:
 
@@ -122,7 +122,7 @@ II tarkastusvaiheen tarkastaja vastaa seuraavista asioista:
 Tämän jälkeen tarkastaja kuittaa toisen tarkastusvaiheen
 pakkauskirjanpitoon.
 
-## Harjoitus  {#pakkaustarkastus-harjoitus}
+## Harjoitus
 
 1. Harjoitellaan oppilaspäävarjon pakkaustarkastuksen tekemistä
     jokaisella pakkauskerralla tämän koulutuksen jälkeen.
