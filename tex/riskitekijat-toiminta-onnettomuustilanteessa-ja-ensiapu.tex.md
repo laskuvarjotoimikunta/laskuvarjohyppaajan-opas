@@ -1,4 +1,4 @@
-# Riskitekijät, toiminta onnettomuu
+# Riskitekijät, toiminta onnettomuustilanteessa ja ensiapu
 
 ## Laskuvarjohyppäämiseen liittyvät riskitekijät  
 
