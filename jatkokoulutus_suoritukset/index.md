@@ -5,8 +5,7 @@
 ------------
 
 Ryhmähypyillä harjoittelet turvallisen ryhmähyppäämisen perusteita.
-Suorituksina on hyppyjä oppilaan FS-ohjelmasta
-(\[fs-kuviohyppaaminen-hyppyohjelma\] s.). Myös freehyppyjä voidaan
+Suorituksina on hyppyjä oppilaan FS-ohjelmasta. Myös freehyppyjä voidaan
 hypätä, jos kouluttajan ja oppilaan taidot riittävät. Olennaista on,
 että oppilas pystyy näyttämään hallitsevansa kaikki turvallisen
 ryhmähyppäämisen osa-alueet:
@@ -111,8 +110,7 @@ tehdään.
 -   Työskentele niin, että rintamasuuntasi on poikittain hyppykoneen
     linjaan nähden.
 
--   Mene palloasentoon (\[turvallisuus-freehyppaamisessa-palloasento\]
-    s.), jos menetät stabiilin asennon. Näin vältät suuren nopeuden
+-   Mene palloasentoon, jos menetät stabiilin asennon. Näin vältät suuren nopeuden
     muutoksen (korkkaaminen).
 
 -   Sovitusta purkukorkeudesta on pidettävä kiinni.
@@ -134,8 +132,7 @@ varusteita, joita ei ole hyväksytty alkeis- / peruskoulutuskäyttöön
 
 ###  Oppilaan toiminta  
 
--   Käy hyppysuoritus läpi
-    (\[kuvunkasittely-oppilaana-kuvunkasittelyhypyt\] s.).
+-   Käy hyppysuoritus läpi.
 
 -   Tarkasta sääolosuhteet.
 
