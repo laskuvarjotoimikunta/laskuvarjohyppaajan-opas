@@ -1,5 +1,7 @@
- Asiakirjojen tarkastus  
-========================
+ # Kaluston tarkastus ja huolto
+ 
+## Asiakirjojen tarkastus  
+
 
 Ostettavan varjokokonaisuuden laitekortit on aina tarkastettava
 huolellisesti. Apua laitekorttien tarkastukseen kannattaa pyytää kerhon
@@ -61,8 +63,8 @@ tarkkaan, mitkä ovat omat lajimieltymykset ja mikä on todellinen
 hankintatarve. On myös hyvä miettiä, tarvitaanko kalliimpi, uusi varjo,
 vai riittääkö alkuun edullisempi, käytetty varjo.
 
- Kuntotarkastus  
-================
+## Kuntotarkastus  
+
 
 Käytetty varjo tai varjokokonaisuus kannattaa kuntotarkastuttaa
 kalustohenkilöllä säännöllisesti ja aina ennen ostopäätöstä.
@@ -105,8 +107,8 @@ vaihdot voivat tuntua kalliilta, mutta ne takaavat varjokokonaisuuden
 toimivuuden ja hyppyturvallisuuden. Korjaukset ja vaihdot saa suorittaa
 vain kalustomestari B tai C pätevyytensä mukaisesti.
 
- Huolto  
-========
+## Huolto  
+
 
 Päivittäiseen kalustohuoltoon kuuluu
 
@@ -152,8 +154,8 @@ huoltamattomalla kalustolla ei saa hypätä. Kalustosta kannattaa pitää
 huolta, sillä ajoissa tehdyt huollot säästävät isommilta vaurioilta ja
 kalliilta korjauksilta.
 
- Harjoitus  
-===========
+## Harjoitus  
+
 
 1.  Tutustutaan varjokirjoihin ja laitekortteihin.
 
