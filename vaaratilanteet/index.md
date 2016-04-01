@@ -54,6 +54,12 @@ taivutettu asento jotta et pyöri ja voit varmistaa mistä olet kiinni.
 Varmistu, että olet hinauksessa vain olkalukkojen välityksellä jonka
 jälkeen tee varavarjotoimenpiteet.
 
+Jos roikut koneesta PL-hihnan varassa, ota rauhallisesti. 
+ODOTA, että hyppymestari katkaisee pakkolaukaisuhihnan. 
+Tee sen jälkeen varavarjotoimenpiteet. 
+Huom. PL-hihnan katkaisuun voi mennä aikaa, 
+jos sinut pitää saada paremmalle uloshyppypaikalle.
+
  Sotkeutuminen punoksiin  
 =========================
 
