@@ -1,3 +1,5 @@
+# Määräykset, lait ja ohjeet
+
 Laskuvarjotoimintaa ja -hyppääjiä koskevat lait, asetukset, määräykset,
 koulutusohjelmat, ohjeet ja tiedotteet on laadittu luomaan selvät
 pelisäännöt lajin harrastamiseksi sekä ehkäisemään onnettomuuksia.
@@ -18,15 +20,15 @@ koskevilta osin ennen A-lisenssin hakemista. Ainakin seuraavat ajan
 tasalla olevat asiakirjat on oltava luettavissa kerholla koko
 koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä.
 
- Lait ja asetukset  
-===================
+## Lait ja asetukset  
+
 
 -   Ilmailulaki 864/2014
 
 <http://www.finlex.fi/fi/laki/alkup/2014/20140864>
 
- Ilmailumääräykset ja -tiedotukset  
-===================================
+## Ilmailumääräykset ja -tiedotukset  
+
 
 -   GEN T1-1, 6.2.2009, Ilmailuhallinnon ilmailumääräys- ja
     tiedotusjärjestelmä
@@ -37,16 +39,16 @@ koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä.
 
 <http://www.trafi.fi/ilmailu/saadokset/ilmailumaarayskokoelma>
 
- SIL ry:n ohjeet  
-=================
+## SIL ry:n ohjeet  
+
 
 -   Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset,
     20.4.2014
 
 <http://laskuvarjotoimikunta.fi/materiaalipankki/koulutus-ja-turvallisuus/lisenssihyppaajan-dokumentteja>
 
- Muut  
-======
+## Muut  
+
 
 -   Turvallisuus- ja kalustotiedotteet.
 
