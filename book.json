@@ -17,6 +17,12 @@
     "pdf": {
         "fontSize": 10,
         "fontFamily": "Tahoma, Geneva, sans-serif",
-        "paperSize": "b5"
+        "paperSize": "b5",
+        "margin": {
+          "top": 10,
+          "bottom": 10,
+          "right": 10,
+          "left": 10
+        }
     }
 }
