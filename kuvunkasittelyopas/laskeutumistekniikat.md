@@ -14,15 +14,11 @@ tavoitteesi pysty- ja vaakavauhdin loppuessa ovat seuraavat:
     tai sivutuuleen kuin kohtia 1 tai 2 rikkoen)
 
 Opettele tarvittaessa sanomaan ei vauhditetuille laskeutumisille:
-
--   kun ilmassa tai laskeutumisalueella on paljon muuta liikennettä
-
--   laskeutuessasi vieraaseen paikkaan
-
--   sääolosuhteiden ollessa marginaaliset (puuskainen tuuli,
+- kun ilmassa tai laskeutumisalueella on paljon muuta liikennettä
+- laskeutuessasi vieraaseen paikkaan
+- sääolosuhteiden ollessa marginaaliset (puuskainen tuuli,
     turbulenttinen keli)
-
--   ollessasi väsynyt, vihainen tai tyytymätön
+- ollessasi väsynyt, vihainen tai tyytymätön
     suoritukseesi vapaapudotuksessa.
 
 Muistuta itseäsi, että voit tehdä vauhdikkaan laskun myös jollakin

@@ -261,19 +261,15 @@ aiheuttamaa vastusta pyritään vähentämään kehittämällä yhä ohuempia ja
 samalla pienempivastuksisia punosmateriaaleja. Seuraavassa esitellään
 lyhyesti tällä hetkellä käytössä olevat yleisimmät punosmateriaalit sekä
 niiden ominaisuudet:
-
--   **Dacron**: Paksu ja kulutuskestävä punosmateriaali; yleisesti
+- **Dacron**: Paksu ja kulutuskestävä punosmateriaali; yleisesti
     käytössä oppilas- sekä tandemvarjoissa.
-
--   **Spectra**: Yleisin punosmateriaali, (myös nimellä *Microline*) on
+- **Spectra**: Yleisin punosmateriaali, (myös nimellä *Microline*) on
     kohtalaisen ohutta ja kulutusta kestävää materiaalia. Huono puoli on
     kutistuminen sliderin aiheuttaman kitkalämmön vuoksi.
-
--   **Vectran**: Ei kutistu ja on halkaisijaltaan hieman ohuempaa
+- **Vectran**: Ei kutistu ja on halkaisijaltaan hieman ohuempaa
     kuin Spectra. Huono puoli on Spectraa heikompi kulutuskestävyys ja
     se, että kuluminen ei näy niin selkeästi kuin Spectrassa.
-
--   **HMA**: Lyhenne sanoista High Modulus Aramide. On käytössä
+- **HMA**: Lyhenne sanoista High Modulus Aramide. On käytössä
     tietyissä erittäin suorituskykyisissä kupumalleissa. HMA-punos on
     halkaisijaltaan erittäin ohutta. Huono puoli on
     heikko kulutuskestävyys.

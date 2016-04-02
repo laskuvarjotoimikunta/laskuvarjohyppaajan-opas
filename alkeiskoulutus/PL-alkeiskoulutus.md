@@ -261,10 +261,8 @@ hypätään samana tai seuraavana kalenterivuorokautena.
 
 Asennon (X ja taivutus tai delta ja taivutus) ja ajantajun säilyminen
 sekä korkeuden tarkkailu ovat tärkeitä kaikilla itseaukaisuhypyillä.
-
--   3” veto 103:lla
-
--   5” veto 105:llä
+- 3” veto 103:lla
+- 5” veto 105:llä
 
 ###  Oppimistavoitteet  
 
@@ -344,12 +342,9 @@ säilyttävä paremmin.
     avaa päävarjo.
 
 ###  Hyppylennolla  
-
--   Kertaa suoritus mielessäsi
-
--   Keskity suoritukseesi
-
--   3X3 -tarkastus ennen hyppyä
+- Kertaa suoritus mielessäsi
+- Keskity suoritukseesi
+- 3X3 -tarkastus ennen hyppyä
     (\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ###  Hypyn kulku  
@@ -420,12 +415,9 @@ Avaustoimenpiteet aloitetaan 1200 metrin korkeudessa mittarin mukaan.
 Laskemisella säilytetään ajantaju.
 
 ###  Oppilaan toiminta  
-
--   Kertaa suoritus mielessäsi
-
--   Keskity suoritukseesi
-
--   3X3 -tarkastus ennen hyppyä
+- Kertaa suoritus mielessäsi
+- Keskity suoritukseesi
+- 3X3 -tarkastus ennen hyppyä
     (\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ###  Oppimistavoitteet  
@@ -438,12 +430,9 @@ Laskemisella säilytetään ajantaju.
 3.  Siirry UH-asennosta hypyn aikana perusasentoon.
 
 ###  Hyppylennolla  
-
--   Kertaa suoritus mielessäsi
-
--   Keskity suoritukseesi
-
--   3X3 -tarkastus ennen hyppyä
+- Kertaa suoritus mielessäsi
+- Keskity suoritukseesi
+- 3X3 -tarkastus ennen hyppyä
 
 ###  Hypyn kulku  
 

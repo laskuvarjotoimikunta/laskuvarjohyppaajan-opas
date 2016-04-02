@@ -30,17 +30,12 @@ hallitusti on aluksi vaikeaa.
 ------------------
 
 Hyvään kulma-asentoon pääset seuraavasti:
-
--   ota kiintopiste edestä tai liukuhyppyä johtavasta hyppääjästä
-
--   paina leukaa kiinni rintaan ja olkapäitä eteen saadaksesi aikaan
+- ota kiintopiste edestä tai liukuhyppyä johtavasta hyppääjästä
+- paina leukaa kiinni rintaan ja olkapäitä eteen saadaksesi aikaan
     kupin ylävartaloon
-
--   suorista tai jopa koukista lantio – älä taivuta
-
--   pidä käsivarret vartalon vieressä
-
--   jalkojen asentoa säätelemällä säädellään eteenpäin
+- suorista tai jopa koukista lantio – älä taivuta
+- pidä käsivarret vartalon vieressä
+- jalkojen asentoa säätelemällä säädellään eteenpäin
     suuntautuvaa nopeutta.
 
 Kulma-asennossa on tärkeää säilyttää vartalon jännitys, jotta liike
@@ -54,19 +49,15 @@ Jokaiselle hyppääjälle sopivin liukuasento löytyy kokeilemalla. Asento
 vaihtelee muun muassa ruumiinrakenteesta johtuen. Myös tavat säädellä
 vauhtia ja korkeutta eli kulman jyrkkyyttä vaihtelevat, mutta
 seuraavassa on muutamia vinkkejä, joita voit kokeilla.
-
--   Jos haluat päästä alaspäin eli jyrkemmin, paina otsaa ilmavirtaa
+- Jos haluat päästä alaspäin eli jyrkemmin, paina otsaa ilmavirtaa
     vasten ja ylävartaloa alaspäin muuhun vartaloon nähden. Varo
     kuitenkin, ettet päädy head-down asentoon.
-
--   Ylöspäin eli hitaammin pääset levittämällä liukuasentoa sekä
+- Ylöspäin eli hitaammin pääset levittämällä liukuasentoa sekä
     muodostamalla kupin lantiosta. Huomaa, että korkeutta säädellessäsi
     on tärkeää säilyttää eteenpäin vievä liukuasento.
-
--   Eteenpäin menevää liukunopeutta voit säädellä levittämällä ja
+- Eteenpäin menevää liukunopeutta voit säädellä levittämällä ja
     kaventamalla asentoasi.
-
--   Jos haluat jarruttaa vaakavauhtia, levitä käsivarret sivuille ja
+- Jos haluat jarruttaa vaakavauhtia, levitä käsivarret sivuille ja
     pudota polvia. Vaakavauhtia lisäät kaventamalla asentoasi ja
     keskittymällä purevaan liukuasentoon.
 
@@ -75,18 +66,13 @@ seuraavassa on muutamia vinkkejä, joita voit kokeilla.
 
 Selkäliuku vaatii hyvää vartalonhallinta ja vaatii myös taitoa lentää
 suoraan näkemättä kiintopistettä maasta. Selkäliu´ussa:
-
--   pään tulee olla suorassa linjassa vartalon kanssa niin, ettei se
+- pään tulee olla suorassa linjassa vartalon kanssa niin, ettei se
     taivu liikaa taakse ja käännä sinua hetukka-asentoon
-
--   keskivartalo muodostaa loivan kaaren, jossa lantio on ylimpänä
+- keskivartalo muodostaa loivan kaaren, jossa lantio on ylimpänä
     (purista pakaroita)
-
--   jalat ojennetaan ja niitä painetaan ilmavirtaa vasten
-
--   jalat pidetään lähestulkoon yhdessä, nilkat ojennettuina
-
--   käsivarret ovat hartioiden alapuolella
+- jalat ojennetaan ja niitä painetaan ilmavirtaa vasten
+- jalat pidetään lähestulkoon yhdessä, nilkat ojennettuina
+- käsivarret ovat hartioiden alapuolella
 
 Tehoton selkäliukuasento hidastaa vaakavauhtia ja nopeuttaa
 putoamisvauhtia. Yleinen ongelma on se, että selällään liukuja yrittää
@@ -193,32 +179,24 @@ muihin hyppääjiin.
 ------------------------------------
 
 Jos päädyt selällesi,
-
--   et ehkä pidä jalkojasi tarpeeksi voimakkaasti oikeassa asennossa
+- et ehkä pidä jalkojasi tarpeeksi voimakkaasti oikeassa asennossa
     polvesta alaspäin (ilmavirran ei pitäisi osua suoraan pohkeisiin
     eikä sääriin).
-
--   kätesi ovat ehkä liian edessä.
-
--   selkäsi ei ehkä ole suorassa.
+- kätesi ovat ehkä liian edessä.
+- selkäsi ei ehkä ole suorassa.
 
 Jos päädyt mahallesi:
-
--   Polvesi eivät ehkä ole 90 asteen kulmassa vaan kantapäät osoittavat
+- Polvesi eivät ehkä ole 90 asteen kulmassa vaan kantapäät osoittavat
     takapuoleesi ja ilmavirta ottaa sääriisi.
-
--   Selkäsi ei ehkä ole suorassa.
+- Selkäsi ei ehkä ole suorassa.
 
 Jos pyörit holtittomasti:
-
--   Jalkapohjasi eivät välttämättä osoita suoraan alaspäin
+- Jalkapohjasi eivät välttämättä osoita suoraan alaspäin
     polviesi alla. Jos käännät jalkapohjia osoittamaan edes hiukan
     sivulle alat pyörimään.
-
--   Käsivarret eivät ehkä ole symmetrisesti ilmaa vastaan, vaan toinen
+- Käsivarret eivät ehkä ole symmetrisesti ilmaa vastaan, vaan toinen
     on ylempänä kuin toinen.
-
--   Jalkasi saattavat olla liian lähellä toisiaan.
+- Jalkasi saattavat olla liian lähellä toisiaan.
 
 Jos joudut yllä mainitun kaltaiseen epästabiiliin tilaan, mene
 palloasentoon ja yritä uudelleen.
@@ -263,26 +241,20 @@ straddle-asento näyttää putoavalta sulkapallolta. Tähän perusasentoon
 pääset joko sittiksestä tai suoraan uloshypystä. Sittiksestä pääset
 päällesi sivukautta (puolikas kärrynpyörä) tai etukautta (kuin nousisit
 seisomaan päällesi etuvoltin kautta). Kun olet päälläsi:
-
--   Levitä jalat leveään haaraan sivuille ja koukista niitä
+- Levitä jalat leveään haaraan sivuille ja koukista niitä
     hieman polvista. Pidä pohkeet ilmavirrassa. Pyri siihen ettei
     kumpikaan jalkasi pääse retkahtamaan liikaa eteen tai taakse
     haukaten ilmaa.
-
--   Levitä käsivartesi sivuille, mutta pidä ne tarpeeksi matalalla,
+- Levitä käsivartesi sivuille, mutta pidä ne tarpeeksi matalalla,
     jottei niska ja hartiat jännity. Kämmenet taivasta kohti,
     kädet rentona.
-
--   Katso horisonttiin – muutaman hypyn jälkeen horisontin katsominen
+- Katso horisonttiin – muutaman hypyn jälkeen horisontin katsominen
     väärinpäin tuntuu jo luontevalta.
-
--   Pidä lantio ja niska selkärankaan nähden suorana. Koko ylävartalosi
+- Pidä lantio ja niska selkärankaan nähden suorana. Koko ylävartalosi
     lantiosta päälakeen tulisi olla aivan suora. Yritä muutoin olla
     mahdollisimman rento.
-
--   Älä taivuta!
-
--   Muista hengittää! Jos sinusta tuntuu, että mikään ei onnistu, vedä
+- Älä taivuta!
+- Muista hengittää! Jos sinusta tuntuu, että mikään ei onnistu, vedä
     syvään henkeä, rentoudu ja yritä uudelleen.
 
 ![image](/kuvat/Headdown-straddle.jpeg)

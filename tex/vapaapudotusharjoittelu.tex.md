@@ -43,18 +43,12 @@ etäisyydet muihin hyppääjiin pienimmällä mahdollisella korkeuden
 menetyksellä.
 
 Kantava liukuasento:
-
--   oikaistaan jalat suoriksi ja tuodaan ne lähemmäksi toisiaan
-
--   viedään kädet sivuille lähelle vartaloa kämmenet alaspäin
-
--   suoristetaan vartalo ja painetaan olkapäitä alas
-
--   leuka painetaan rintaan
-
--   asento on jäykkä
-
--   kämmenillä ohjataan liu’un suuntaa.
+- oikaistaan jalat suoriksi ja tuodaan ne lähemmäksi toisiaan
+- viedään kädet sivuille lähelle vartaloa kämmenet alaspäin
+- suoristetaan vartalo ja painetaan olkapäitä alas
+- leuka painetaan rintaan
+- asento on jäykkä
+- kämmenillä ohjataan liu’un suuntaa.
 
 Liukua jatketaan kunnes ilmatila on vapaa turvalliseen avaukseen. Liuku
 pysäytetään palaamalla perusasentoon. Pysäytyksen jälkeen tarkastetaan

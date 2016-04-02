@@ -35,15 +35,11 @@ korkeuksista voidaan saada lentäjältä, mikäli lentokoneessa on
 GPS-laite. Tuulitietojen perusteella voidaan laskea ajautuman matka ja
 suunta tai arvioida ne riittävällä tarkkuudella. Tuulitietojen lisäksi
 on arvioitava eri ilmakerroksissa vietetty aika:
-
--   Vapaapudotuksen ajaksi arvioidaan 50 sekuntia.
-
--   Hyppääjä vajoaa varjon varassa keskimäärin 5 m/s.
-
--   Varjon voidaan odottaa olevan täysin lentävä 800–1000
+- Vapaapudotuksen ajaksi arvioidaan 50 sekuntia.
+- Hyppääjä vajoaa varjon varassa keskimäärin 5 m/s.
+- Varjon voidaan odottaa olevan täysin lentävä 800–1000
     metrin korkeudessa.
-
--   Varjon varassa vietetyksi ajaksi saadaan siis noin 3 minuuttia.
+- Varjon varassa vietetyksi ajaksi saadaan siis noin 3 minuuttia.
     (180 s)
 
 Seuraavaan taulukkoon on laskettu yllä olevilla oletuksilla (lähimpään
@@ -110,12 +106,9 @@ paikka koneessa olevalta kartalta tai kerrotaan paikka sanallisesti.
 
 Jos lentokoneessa on useampia hyppääjiä/ryhmiä, määritetään hyppylinja
 huomioiden, että:
-
--   Linja kulkee lasketun UH-paikan läpi.
-
--   Ryhmien välille tulee jäädä turvallinen välimatka.
-
--   Kaikkien tulee päästä turvallisesti laskeutumisalueelle.
+- Linja kulkee lasketun UH-paikan läpi.
+- Ryhmien välille tulee jäädä turvallinen välimatka.
+- Kaikkien tulee päästä turvallisesti laskeutumisalueelle.
 
 Pienillä hyppykoneilla linja ajetaan yleensä vastatuuleen
 laskeutumisalueen yli. Suurilla hyppykoneilla ajetaan usein
@@ -173,20 +166,15 @@ Paikkaa katsottaessa pää työnnetään ulos koneesta ja katsotaan suoraan
 alaspäin.
 
 Koneen lentoasento voi aiheuttaa paikan katsomisessa seuraavat virheet:
-
--   Nousussa katsotaan liikaa eteenpäin.
-
--   Laskussa katsotaan liikaa taaksepäin.
-
--   Kallellaan katsotaan liikaa sivulle.
+- Nousussa katsotaan liikaa eteenpäin.
+- Laskussa katsotaan liikaa taaksepäin.
+- Kallellaan katsotaan liikaa sivulle.
 
 Koneen ollessa vaakalennossa siipi ja horisontti ovat samassa linjassa.
 
 Lisäksi hyppääjä voi tehdä seuraavia virheitä:
-
--   Katsominen koneen sisältä, jolloin katsotaan liikaa sivulle.
-
--   Katsominen eteenpäin ennakoi uloshyppyä liikaa.
+- Katsominen koneen sisältä, jolloin katsotaan liikaa sivulle.
+- Katsominen eteenpäin ennakoi uloshyppyä liikaa.
 
 ### Ennen uloshyppyä ja uloshyppy 
 
@@ -226,24 +214,15 @@ uloshyppyjärjestyksellä saadaan lisää etäisyyttä hyppääjien ja ryhmien
 välille ennen purkukorkeutta ja avauksia.
 
 Uloshyppyjärjestys on yleensä seuraava:
-
--   Isot FS-muodostelmat
-
--   Pienet FS-muodostelmat
-
--   Yksittäiset mahallaan hyppääjät
-
--   Isot free-muodostelmat
-
--   Pienet free-muodostelmat
-
--   Yksittäiset free-hyppääjät
-
--   Tandemit
-
--   Liukuhyppääjät
-
--   Liitopukuhyppääjät
+- Isot FS-muodostelmat
+- Pienet FS-muodostelmat
+- Yksittäiset mahallaan hyppääjät
+- Isot free-muodostelmat
+- Pienet free-muodostelmat
+- Yksittäiset free-hyppääjät
+- Tandemit
+- Liukuhyppääjät
+- Liitopukuhyppääjät
 
 Uloshyppyjärjestykseen vaikuttaa myös avauskorkeus. Normaalia
 korkeammalla avaavat hyppääjät hyppäävät linjan viimeisinä ennen

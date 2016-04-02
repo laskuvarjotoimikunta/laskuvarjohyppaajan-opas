@@ -167,11 +167,9 @@ oppimistavoitteisiin tarkasti HM:n kanssa.
 3.  Avausmerkki 1600 m (±300m) ja avaus
 
 ###  Hyppylennolla  
-
--   Katso laskeutumisalue ja oikea laskeutumissuunta yli 600
+- Katso laskeutumisalue ja oikea laskeutumissuunta yli 600
     m:n korkeudessa. Hyppymestari kysyy tärkeitä korkeuksia.
-
--   Hyppymestari kysyy hypyn avainkohdat.
+- Hyppymestari kysyy hypyn avainkohdat.
 
 ###  Hypyn kulku  
 
@@ -257,14 +255,10 @@ päästäkseen seuraavalle tasolle.
 
 Jos tasoilla 3-7 et näe kumpaakaan hyppymestaria, voit jatkaa hyppyä,
 mikäli kaikki alla olevat ehdot täyttyvät:
-
--   Tiedät korkeutesi
-
--   Et pyöri mihinkään suuntaan
-
--   Et ole selälläsi
-
--   Tilanne tuntuu kaiken kaikkiaan olevan hallinnassa
+- Tiedät korkeutesi
+- Et pyöri mihinkään suuntaan
+- Et ole selälläsi
+- Tilanne tuntuu kaiken kaikkiaan olevan hallinnassa
 
 Tarkkaile korkeutta koko ajan n. 5 s välein (MAA, MITTARI, TAIVUTA,
 JALAT, RENTOUTA) ja tason mukaisessa korkeudessa tee avausmerkki ja avaa

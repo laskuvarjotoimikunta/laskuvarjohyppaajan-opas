@@ -33,20 +33,15 @@ Jatkokoulutuksessa oleva oppilas voi saada koulutuspäälliköltä tai
 apulaiskoulutuspäälliköltä luvan käyttää omia varusteitaan ja
 laskuvarjoaan. SIL ylläpitää luetteloja, joista ilmenee, mitkä
 varjomallit ovat soveltuvia
-
--   alkeis- ja peruskoulutuksessa oppilaiden käyttöön
-
--   jatkokoulutuksessa oppilaiden käyttöön
+- alkeis- ja peruskoulutuksessa oppilaiden käyttöön
+- jatkokoulutuksessa oppilaiden käyttöön
     (koulutuspäällikön/apulaiskoulutuspäällikön suostumuksella)
-
--   itsenäisillä lisenssihyppääjillä
+- itsenäisillä lisenssihyppääjillä
 
 SIL on määritellyt hyppääjille siipikuormarajat (katso siipikuorman
 määrittely) kokemuksen mukaan seuraavasti:
-
--   alkeis- ja peruskoulutusvaihe &lt; 1,1 lbs/ft².
-
--   jatkokoulutusvaihe sekä A- ja B-lisenssit &lt; 1,34 lbs/ft².
+- alkeis- ja peruskoulutusvaihe &lt; 1,1 lbs/ft².
+- jatkokoulutusvaihe sekä A- ja B-lisenssit &lt; 1,34 lbs/ft².
 
 Koulutus- ja turvallisuuskomitea suosittelee jatkokoulutusvaiheen
 oppilaille ja ensimmäistä varjoaan hankkiville hyppääjille korkeintaan
@@ -54,18 +49,14 @@ oppilaille ja ensimmäistä varjoaan hankkiville hyppääjille korkeintaan
 
 Kelpoisuushyppääjien käytössä olevien varjojen erot oppilasvarjoihin
 ovat seuraavia:
-
--   pienempiä, suurempi siipikuorma ⇒ suurempi nopeus alas- ja
+- pienempiä, suurempi siipikuorma ⇒ suurempi nopeus alas- ja
     eteenpäin, kasvanut vajaatoimintaherkkyys, suurempi sakkausnopeus ⇒
     vaativat suurempaa tarkkuutta ja reaktionopeutta
-
--   siipiprofiililtaan ja muodoltaan suorituskykyisempiä ⇒ parempi
+- siipiprofiililtaan ja muodoltaan suorituskykyisempiä ⇒ parempi
     liitosuhde, suurempi nopeus ja käännösherkkyys
-
--   ohuet microline-punokset ⇒ välittävät avausnykäyksen voimakkaammin,
+- ohuet microline-punokset ⇒ välittävät avausnykäyksen voimakkaammin,
     kuluvat nopeammin, vaaralliset törmättäessä varjon varassa
-
--   lisävarusteet (tukahdutettava slider ja tukahtuva apuvarjo) vaativat
+- lisävarusteet (tukahdutettava slider ja tukahtuva apuvarjo) vaativat
     huolellisuutta pakkaamisessa ja lentämisessä.
 
 ![image](/kuvat/MARD.jpg)
@@ -162,11 +153,9 @@ varavarjokahvojen päälle.
 
 Hyppääjä voi hypätä erilaisten lisävarusteiden kanssa, seuraavassa
 muutamia ominaispiirteitä:
-
--   Liitopuku: Liitopuvulla hyppääminen vaatii joko C-lisenssin ja
+- Liitopuku: Liitopuvulla hyppääminen vaatii joko C-lisenssin ja
     koulutuksen tai D-lisenssin. Lue lisää asiasta Liitohyppyoppaasta.
-
--   Savut, liput ja viirit: Näytöshypyillä saattaa joskus tulla tarpeen
+- Savut, liput ja viirit: Näytöshypyillä saattaa joskus tulla tarpeen
     käyttää esimerkiksi savuja, lippuja tai viirejä lisäämään
     näytöksen näyttävyyttä. Hypättäessä lipun tai viirin kanssa tulee
     aina miettiä, onko lippu tai viiri *vapaapudotukseen oleellisesti
@@ -174,13 +163,11 @@ muutamia ominaispiirteitä:
     vaatii D-lisenssin. Savujen, lippujen ja viirien virittely vaatii
     paljon kokemusta, joten pyydä apua kokeneemmilta hyppääjiltä.
     Savujen käytöstä on aina sovittava lentäjän (lennonjohdon) kanssa.
-
--   Skysurf: Lautahyppääminen vaatii joko C-lisenssin ja
+- Skysurf: Lautahyppääminen vaatii joko C-lisenssin ja
     koulutuspäällikölle annettavat käytännön taitonäytteet, joilla
     osoitetaan, että omataan lautahyppäämiseen tarvittavat perustaidot
     tai D-lisenssin. Lue lisää asiasta Skysurf-alkeisoppaasta.
-
--   Spaceball: Spaceballin kanssa hyppääminen on Suomessa kiellettyä.
+- Spaceball: Spaceballin kanssa hyppääminen on Suomessa kiellettyä.
 
  ## Harjoitus ja harjoitushypyt  
 

@@ -27,40 +27,27 @@ slider tähden muotoon stabilisaattorien kovikkeita vasten.
 ## I tarkastusvaihe  
 
 I tarkastusvaiheen tarkastaja vastaa siitä, että
-
--   Repun, valjaiden ja varjon yleiskunto sekä siisteys on hyvä.
-
--   Repun luuppi ja avausjärjestelmän varusteet ovat kunnossa, slider ja
+- Repun, valjaiden ja varjon yleiskunto sekä siisteys on hyvä.
+- Repun luuppi ja avausjärjestelmän varusteet ovat kunnossa, slider ja
     apuvarjo on viritetty.
-
--   PL-hihna, lukko ja sokka/IA-kahva ovat kunnossa, eikä niissä
+- PL-hihna, lukko ja sokka/IA-kahva ovat kunnossa, eikä niissä
     ole kulumia.
-
--   Olkalukot ovat maata kohti eivätkä kantohihnat ole kierteellä.
-
--   Olkalukot ovat kiinni ehjillä luupeilla ja connectorilenkkien suojat
+- Olkalukot ovat maata kohti eivätkä kantohihnat ole kierteellä.
+- Olkalukot ovat kiinni ehjillä luupeilla ja connectorilenkkien suojat
     ovat kiinni ja ehyet.
-
--   Puolijarrut on kiinnitetty, ohjauslenkkien päät on työnnetty
+- Puolijarrut on kiinnitetty, ohjauslenkkien päät on työnnetty
     käärmeensilmien läpi ja lenkit ovat kiinni tarroissaan
     ja taskuissaan.
-
--   Ylimääräinen ohjauspunos on lenkitetty siististi ja taiteltu
+- Ylimääräinen ohjauspunos on lenkitetty siististi ja taiteltu
     kiinnitystarrojen (tai vastaavien) alle.
-
--   Ohjauspunokset ovat koko pituudeltaan erillään muista punoksista.
-
--   Kupu on laskostettu molemmilta puolilta
+- Ohjauspunokset ovat koko pituudeltaan erillään muista punoksista.
+- Kupu on laskostettu molemmilta puolilta
     stabilisaattoriväleihin siististi.
-
--   Takahelma on laskostettu ohjauspunosten välistä sivulle.
-
--   Punokset ovat tiukalla kuvun keskellä: 4+4 ohjaus 5+5 D 5+5 C 5+5 B-
+- Takahelma on laskostettu ohjauspunosten välistä sivulle.
+- Punokset ovat tiukalla kuvun keskellä: 4+4 ohjaus 5+5 D 5+5 C 5+5 B-
     ja 5+5 A-punosta.
-
--   Slider on taitettuna kuvun sisälle ristiin, purjerenkaat nipussa.
-
--   Etuhelman 9 tunneliparia on tasattu.
+- Slider on taitettuna kuvun sisälle ristiin, purjerenkaat nipussa.
+- Etuhelman 9 tunneliparia on tasattu.
 
 Tarkastuksen on oltava yksityiskohtainen, jotta pakkausta ei tarvitse
 keskeyttää myöhemmin puutteen tai vian takia. Tämän jälkeen tarkastaja
@@ -68,41 +55,31 @@ kuittaa ensimmäisen tarkastusvaiheen pakkauskirjanpitoon todeten samalla
 esitäytettyjen pakkaustietojen paikkansapitävyyden.
 
 Pakkaus II tarkastusvaiheeseen suoritetaan seuraavasti:
-
--   Asetetaan takahelman keskiosa ylös (warning label / keskimerkki)
+- Asetetaan takahelman keskiosa ylös (warning label / keskimerkki)
     sliderin purjerenkaiden päälle ja kiedotaan niiden ympärille.
-
--   Kierretään takahelman reunat kuvun ympäri, vapautetaan tunnelinsuut
+- Kierretään takahelman reunat kuvun ympäri, vapautetaan tunnelinsuut
     jalkojen välistä, tasataan tunnelin suut kuvun reunan tasalle sekä
     kiristetään takahelman reunat ja rullataan 5–6 kierrosta.
-
--   Asetetaan kupu maahan punokset kireällä, poistetaan ilma kuvusta ja
+- Asetetaan kupu maahan punokset kireällä, poistetaan ilma kuvusta ja
     muotoillaan se hieman sisäpussia leveämmäksi pötköksi, taitetaan
     kuvun alaosa kuvun s-mutkalle ja kuvun yläosa edellisen taitoksen
     päälle sekä sujautetaan kupu sisäpussiin.
-
--   Vedetään ylimääräinen yhdyspunos pois sisäpussista ja tarkistetaan,
+- Vedetään ylimääräinen yhdyspunos pois sisäpussista ja tarkistetaan,
     ettei varjokangasta jää sisäpussin purjerenkaan ja
     yhdyspunoksen väliin.
-
--   Suljetaan sisäpussi purjerenkaiden kautta kulkevilla
+- Suljetaan sisäpussi purjerenkaiden kautta kulkevilla
     yksinkertaisilla kumilenkeillä ja punostetaan loput punokset
     kumilenkeillä kireälle.
 
 ## II tarkastusvaihe
 
 II tarkastusvaiheen tarkastaja vastaa seuraavista asioista:
-
--   Kupu on sisäpussissa tasaisesti ja pursuilematta.
-
--   Yhdyspunos on vedetty ulos sisäpussista kiinnitysrenkaaseen saakka
+- Kupu on sisäpussissa tasaisesti ja pursuilematta.
+- Yhdyspunos on vedetty ulos sisäpussista kiinnitysrenkaaseen saakka
     eikä varjokangasta ole purjerenkaan ja yhdyspunoksen välissä.
-
--   Yhdyspunoksessa/pakkolaukaisuhihnassa ei ole kierrettä.
-
--   Punostus on tasainen ja kireä.
-
--   Toisen vaiheen tarkastaja vastaa myös (pakkaajan ohella) repun
+- Yhdyspunoksessa/pakkolaukaisuhihnassa ei ole kierrettä.
+- Punostus on tasainen ja kireä.
+- Toisen vaiheen tarkastaja vastaa myös (pakkaajan ohella) repun
     oikeasta sulkemisesta:
 
     -   Sisäpussi asetetaan reppuun oikein ja pyörittämättä.

@@ -22,36 +22,28 @@ koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä.
 
 ## Lait ja asetukset  
 
-
--   Ilmailulaki 864/2014
+- Ilmailulaki 864/2014
 
 <http://www.finlex.fi/fi/laki/alkup/2014/20140864>
 
 ## Ilmailumääräykset ja -tiedotukset  
 
-
--   GEN T1-1, 6.2.2009, Ilmailuhallinnon ilmailumääräys- ja
+- GEN T1-1, 6.2.2009, Ilmailuhallinnon ilmailumääräys- ja
     tiedotusjärjestelmä
-
--   OPS M6-1, 9.7.2010, Laskuvarjohyppytoiminta
-
--   PEL T4-3, 18.1.2007, Lääkkeet ja ilmailu
+- OPS M6-1, 9.7.2010, Laskuvarjohyppytoiminta
+- PEL T4-3, 18.1.2007, Lääkkeet ja ilmailu
 
 <http://www.trafi.fi/ilmailu/saadokset/ilmailumaarayskokoelma>
 
 ## SIL ry:n ohjeet  
 
-
--   Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset,
+- Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset,
     20.4.2014
 
 <http://laskuvarjotoimikunta.fi/materiaalipankki/koulutus-ja-turvallisuus/lisenssihyppaajan-dokumentteja>
 
 ## Muut  
 
-
--   Turvallisuus- ja kalustotiedotteet.
-
--   Lentokelpoisuusmääräykset (muutosmääräykset).
-
--   Kenttä- ja kerhokohtaiset ohjeet.
+- Turvallisuus- ja kalustotiedotteet.
+- Lentokelpoisuusmääräykset (muutosmääräykset).
+- Kenttä- ja kerhokohtaiset ohjeet.

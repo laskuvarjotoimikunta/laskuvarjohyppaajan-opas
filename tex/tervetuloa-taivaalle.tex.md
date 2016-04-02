@@ -64,21 +64,14 @@ toimintaa koordinoi liiton toimisto Helsinki-Malmin lentoasemalla.
 Ilmailu on ilmailuviranomaisen valvomaa toimintaa. Suomen Ilmailuliitto
 antaa jäsenilleen omia ohjeistuksia ja toimii etujärjestönä
 viranomaisiin päin muun muassa
-
--   Avustamalla asiantuntijana Trafia laskuvarjohyppytoiminnassa
-
--   Laatimalla laskuvarjourheilua koskevat koulutusohjelmat ja
+- Avustamalla asiantuntijana Trafia laskuvarjohyppytoiminnassa
+- Laatimalla laskuvarjourheilua koskevat koulutusohjelmat ja
     tiedottamalla niistä jäsenistölleen
-
--   Valvomalla jäsenorganisaatioiden koulutustoimintaa
-
--   Laatimalla laskuvarjohyppytoimintatilastoja
-
--   Kokoamalla ja analysoimalla onnettomuus- ja vaaratilanneselvityksiä
-
--   Myöntämällä SIL-laskuvarjohyppylisenssit
-
--   Osallistumalla laskuvarjourheilua koskevien määräysten ja ohjeiden
+- Valvomalla jäsenorganisaatioiden koulutustoimintaa
+- Laatimalla laskuvarjohyppytoimintatilastoja
+- Kokoamalla ja analysoimalla onnettomuus- ja vaaratilanneselvityksiä
+- Myöntämällä SIL-laskuvarjohyppylisenssit
+- Osallistumalla laskuvarjourheilua koskevien määräysten ja ohjeiden
     valmisteluun
 
 Ilmailu-lehteä Ilmailuliitto on julkaissut jo vuodesta 1938 alkaen.

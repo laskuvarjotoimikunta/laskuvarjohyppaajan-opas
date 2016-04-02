@@ -18,77 +18,48 @@ Hyvin yleistä onnettomuuksissa on, että tapahtumalle ei ole olemassa
 yhtä syytä, vaan useita osasyitä, jotka yhdessä ovat aiheuttaneet
 onnettomuuden. Riskitekijöitä ja onnettomuuteen johtavia tekijöitä
 laskuvarjourheilussa ovat esimerkiksi
-
--   väsymys, krapula, huumaavat aineet, lääkkeet ja niiden vaikutuksen
+- väsymys, krapula, huumaavat aineet, lääkkeet ja niiden vaikutuksen
     alaisena hyppääminen
-
--   ongelmat ja ristiriidat töissä, kotona tai kerholla
-
--   huolimaton päävarjon pakkaus
-
--   väärä pukeutuminen säähän ja olosuhteisiin nähden
-
--   lainavarusteilla hyppääminen ja usein vaihtuvat varusteet
-
--   muuttuneet toimintamallit varavarjotoimenpiteissä, ohjaamisessa jne.
-
--   liian vaativa hyppy kokemukseen nähden ja epäsäännöllinen
+- ongelmat ja ristiriidat töissä, kotona tai kerholla
+- huolimaton päävarjon pakkaus
+- väärä pukeutuminen säähän ja olosuhteisiin nähden
+- lainavarusteilla hyppääminen ja usein vaihtuvat varusteet
+- muuttuneet toimintamallit varavarjotoimenpiteissä, ohjaamisessa jne.
+- liian vaativa hyppy kokemukseen nähden ja epäsäännöllinen
     hyppytausta
-
--   liika yrittäminen kokemuksen ollessa vähäinen
-
--   välinpitämättömyys muista hyppääjistä ja näyttämisen tarve
-
--   väärä uloshyppypaikka.
-
--   matalat purut ja aukaisut sekä lyhyt liuku tai puutteellinen
+- liika yrittäminen kokemuksen ollessa vähäinen
+- välinpitämättömyys muista hyppääjistä ja näyttämisen tarve
+- väärä uloshyppypaikka.
+- matalat purut ja aukaisut sekä lyhyt liuku tai puutteellinen
     liukutekniikka
-
--   puutteellinen ilmatilan tarkkailu varjon varassa ja laskeuduttaessa.
-
--   rajut ohjausliikkeet ja käännökset matalalla sekä liian vaativa
+- puutteellinen ilmatilan tarkkailu varjon varassa ja laskeuduttaessa.
+- rajut ohjausliikkeet ja käännökset matalalla sekä liian vaativa
     varjo taitoihin nähden.
 
 Riskitekijöitä minimoitaessa on huomioitava ainakin seuraavat seikat:
-
--   Tunnetaan omat tiedot, taidot ja vireystila eikä yliarvioida niitä.
-
--   Harjoitellaan opittuja toimintamalleja useasti hyppykauden aikana.
-
--   Hypätään säännöllisesti ja osallistutaan koulutustilaisuuksiin.
-
--   Noudatetaan määräyksiä ja sääntöjä sekä tiedetään kerho- ja
+- Tunnetaan omat tiedot, taidot ja vireystila eikä yliarvioida niitä.
+- Harjoitellaan opittuja toimintamalleja useasti hyppykauden aikana.
+- Hypätään säännöllisesti ja osallistutaan koulutustilaisuuksiin.
+- Noudatetaan määräyksiä ja sääntöjä sekä tiedetään kerho- ja
     kenttäkohtaiset ohjeet.
-
--   Tunnetaan kentän nostavat, laskevat ja pyörteet sekä ohjataan niistä
+- Tunnetaan kentän nostavat, laskevat ja pyörteet sekä ohjataan niistä
     pois täydellä liidolla (ZP-kangas).
-
--   Tutustutaan varjoon sekä varusteisiin eri tilanteissa ja keleissä
+- Tutustutaan varjoon sekä varusteisiin eri tilanteissa ja keleissä
     sekä vältetään lainavarusteita.
-
--   Käytetään omaan taito- ja kokemustasoon soveltuvaa varjokalustoa
+- Käytetään omaan taito- ja kokemustasoon soveltuvaa varjokalustoa
     sekä muita varusteita (esimerkiksi kamerakypärä).
-
--   Käytetään kaikilla hypyillä reppu-valjasyhdistelmää, jossa on
+- Käytetään kaikilla hypyillä reppu-valjasyhdistelmää, jossa on
     varavarjon automaattilaukaisin.
-
--   Seurataan sään kehittymistä koko hyppypäivän ajan eikä hypätä, jos
+- Seurataan sään kehittymistä koko hyppypäivän ajan eikä hypätä, jos
     ollaan epävarmoja.
-
--   Ei olla itsekkäitä, vaan huomioidaan muut hyppääjät.
-
--   Varataan aina riittävästi korkeutta hyppysuoritusta varten.
-
--   Ei epäröidä käyttää varavarjoa epäselvässä tilanteessa.
-
--   Pukeudutaan sään mukaisesti huomioiden myös hyppykorkeus sekä
+- Ei olla itsekkäitä, vaan huomioidaan muut hyppääjät.
+- Varataan aina riittävästi korkeutta hyppysuoritusta varten.
+- Ei epäröidä käyttää varavarjoa epäselvässä tilanteessa.
+- Pukeudutaan sään mukaisesti huomioiden myös hyppykorkeus sekä
     käytetään aina sormikkaita.
-
--   Ei pakata märkää tai roskaista varjoa.
-
--   Ei hypätä pilveen.
-
--   Muistetaan, että onnettomuus ei ole yksityisasia!
+- Ei pakata märkää tai roskaista varjoa.
+- Ei hypätä pilveen.
+- Muistetaan, että onnettomuus ei ole yksityisasia!
 
 Hyppyturvallisuus rakentuu toimintamalleille ja -menetelmille.
 Toimintamalli on esimerkiksi opittu varavarjon käyttötapa.
@@ -127,10 +98,8 @@ tiedotteet ovat kaikkien hyppääjien saatavilla.
 
 Toiminta onnettomuuspaikalla (katso lisätietoja ohjeesta Toiminta
 onnettomuustilanteessa) on seuraava:
-
--   Hyppytoiminta keskeytetään
-
--   Ilmoitukset:
+- Hyppytoiminta keskeytetään
+- Ilmoitukset:
 
     -   Hätäkeskus 112
 
@@ -164,44 +133,32 @@ onnettomuustilanteessa) on seuraava:
 
 ### Onnettomuuspaikalla 
 
-
--   Estetään lisäonnettomuuksien synty (tie tai lähiympäristö)
-
--   Annetaan ensiapu
-
--   Eristetään alue ja estetään turhien jälkien syntyminen
-
--   Loukkaantuneen varusteet pyritään pitämään mahdollisimman
+- Estetään lisäonnettomuuksien synty (tie tai lähiympäristö)
+- Annetaan ensiapu
+- Eristetään alue ja estetään turhien jälkien syntyminen
+- Loukkaantuneen varusteet pyritään pitämään mahdollisimman
     alkuperäisessä tilassa, jos mahdollista
-
--   Kuolemaan johtaneissa onnettomuuksissa uhria ja varusteita ei
+- Kuolemaan johtaneissa onnettomuuksissa uhria ja varusteita ei
     saa siirtää. Uhri peitetään tarvittaessa
-
--   Otetaan onnettomuuspaikasta maastoon sidottuja valokuvia ja/tai
+- Otetaan onnettomuuspaikasta maastoon sidottuja valokuvia ja/tai
     videokuvaa
-
--   Järjestetään pelastushenkilökunnan sekä viranomaisten opastus
+- Järjestetään pelastushenkilökunnan sekä viranomaisten opastus
     onnettomuuspaikalle
 
 ### Tiedottaminen 
 
-
--   Tiedottamisen on oltava niukkaa. Ei soiteta itse minnekään. Jos
+- Tiedottamisen on oltava niukkaa. Ei soiteta itse minnekään. Jos
     tiedotusvälineistä soitetaan, kerrotaan vain, että a) onnettomuus on
     tapahtunut ja b) tiedottamisesta vastaa nimetty henkilö
-
--   Onnettomuuden uhrin nimeä ei saa julkaista, ennen kuin uhrin
+- Onnettomuuden uhrin nimeä ei saa julkaista, ennen kuin uhrin
     omaisille on mennyt tieto tapahtuneesta ja he ovat antaneet
     siihen luvan. Kerholaiset eivät saa kertoa nimeä ulkopuolisille
-
--   Onnettomuuteen johtaneista syistä ei saa esittää minkäänlaisia
+- Onnettomuuteen johtaneista syistä ei saa esittää minkäänlaisia
     arvioita
-
--   Onnettomuudesta ei saa keskustella missään julkisessa paikassa, ei
+- Onnettomuudesta ei saa keskustella missään julkisessa paikassa, ei
     ravintoloisissa, ei busseissa, ei saunassa eikä missään, missä on
     ulkopuolisia kuulijoita
-
--   Täytetään ja lähetetään vaaratilanneraportti (tätä voi
+- Täytetään ja lähetetään vaaratilanneraportti (tätä voi
     täydentää myöhemmin)
 
 ## Ensiapu  
@@ -337,16 +294,12 @@ Jos laskuvarjohypyn yhteydessä sattuu sellainen vaaratilanne, jossa
 hyppääjän tai ilmaliikenteen turvallisuus on ollut uhattuna, on
 tapahtuneesta viipymättä tehtävä kirjallinen selonteko SIL:lle.
 Tapauksia, joista ilmoitus on aina tehtävä, ovat mm. seuraavat:
-
--   kaikki hypyt, joissa on käytetty varavarjoa,
-
--   kaikki tapaukset, joissa on sattunut lääkäri- tai sairaalahoitoon
+- kaikki hypyt, joissa on käytetty varavarjoa,
+- kaikki tapaukset, joissa on sattunut lääkäri- tai sairaalahoitoon
     johtaneita loukkaantumisia,
-
--   kaikki tapaukset, joissa varjon toiminta on ollut epänormaali
+- kaikki tapaukset, joissa varjon toiminta on ollut epänormaali
     (vajaatoiminta),
-
--   tapaukset, jotka muuten ovat turvallisuutta vaarantavia tai joista
+- tapaukset, jotka muuten ovat turvallisuutta vaarantavia tai joista
     olisi voinut kehittyä vaaratilanne.
 
 SIL:n laskuvarjohyppääjiä koskeva *Toiminnallinen ohje* antaa

@@ -64,7 +64,7 @@ Normaalit vapaa-ajan tapaturmavakuutukset eivät yleensä korvaa laskuvarjohypyl
 myös laskuvarjohypyillä tapahtuneet onnettomuudet, on vakuutukseen otettava lisä-
 suoja. Lisävakuutuksen voi ottaa omalta vakuutusyhtiöltä tai hyödyntää Suomen Ilmailuliitto ry:n vakuutuksia koskevia etuja. Katso lisätietoja
 vakuutuksien ehdoista ja korvaussummista Hyvä hyppykurssilainen -esitteestä. Lisätietoja saa myös kouluttajilta ja Ilmailuliiton
-puhelinnumerosta [(09) 350 9340](tel:+35893509340). Suosittelemme laskuvarjotoiminnan kattavan vakuutuksen hankkimista.
+puhelinnumerosta (09) 350 9340. Suosittelemme laskuvarjotoiminnan kattavan vakuutuksen hankkimista.
 
 ## Terveydentilavaatimukset
 Hyppääminen on urheilua ja vaatii fyysistä ja henkistä kuntoa sekä normaalia terveyttä. Sairaudet, jotka aiheuttavat edes hetkellistä tajuttomuutta

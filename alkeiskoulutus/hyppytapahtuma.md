@@ -1,6 +1,10 @@
-# Hyppytapahtuma
+Hyppytapahtuma
+==============
 
-## Valmistautuminen hyppyyn  
+
+
+ Valmistautuminen hyppyyn  
+--------------------------
 
 Hyppytapahtuma ei suinkaan ala siitä, kun poistutaan koneesta ilmassa.
 Jotta kaikki sujuisi hyvin, on tärkeää huolehtia myös valmisteluista.
@@ -20,7 +24,9 @@ ohjaamiseen ja laskeutumiseen.
 
 Ennen koneelle menoa hyppymestari tarkastaa, että varusteet on puettu
 oikein päälle. Tarkastuksen jälkeen varusteita **ei saa säätää** ilman
-hyppymestarin lupaa! Vallitsevan tuulen mukainen ohjauskuvio käydään vielä läpi ennen koneelle menoa. Oppilaat saavat mennä koneelle vain hyppymestarin
+hyppymestarin lupaa! Vallitsevan tuulen mukainen ohjauskuvio
+(\[hyppytapahtuma-laskeutumiskuvio\] s.) käydään vielä läpi ennen
+koneelle menoa. Oppilaat saavat mennä koneelle vain hyppymestarin
 johdolla.
 
 ###  Toiminta koneessa  
@@ -44,7 +50,8 @@ Lähestyttäessä uloshyppypaikkaa kone lentää tuuliolosuhteiden
 perusteella määriteltyä linjaa. Hyvissä ajoin ennen uloshyppypaikkaa
 hyppymestari tarkastaa vielä oppilaiden varusteet.
 
-### Uloshyppy Cessna 206, pakkolaukaisu  
+ Uloshyppy Cessna 206, pakkolaukaisu  
+-------------------------------------
 
 Hyppymestarin komennolla OVELLE! siirrytään (varoen repun osumista
 koneeseen) ovelle uloshyppyasentoon. Komennolla MENE! ponnistetaan irti
@@ -73,14 +80,14 @@ pitkältä ajalta.
 ![image](/kuvat/206UH2.jpeg)
 
 Onnistuneen uloshypyn päätekijät ovat:
-
--   Asettautuminen hyvään uloshyppyasentoon ovelle (katse
+- Asettautuminen hyvään uloshyppyasentoon ovelle (katse
     ylös koneeseen)
--   Riittävä ponnistus ja rintamasuunta lentosuuntaan
--   Hyvä ja symmetrinen delta-asento sekä voimakas taivutus ja katse
+- Riittävä ponnistus ja rintamasuunta lentosuuntaan
+- Hyvä ja symmetrinen delta-asento sekä voimakas taivutus ja katse
     ylös koneeseen
 
-### Uloshyppy Streevakone, pakkolaukaisu  
+ Uloshyppy Streevakone, pakkolaukaisu  
+--------------------------------------
 
 Hyppymestarin komennolla OVELLE! siirrytään ovelle. Komennolla MENE!
 siirrytään (varoen repun osumista koneeseen) roikkumaan streevalle
@@ -114,14 +121,14 @@ pitkältä ajalta.
 ![image](/kuvat/StreevaUH2.jpeg)
 
 Onnistuneen uloshypyn päätekijät ovat:
-
--   Asettautuminen hyvään ja symmetriseen uloshyppyasentoon (X-asento,
+- Asettautuminen hyvään ja symmetriseen uloshyppyasentoon (X-asento,
     taivutus ja katse ylös koneeseen)
--   Käsien yhtäaikainen irrottaminen ja rintamasuunta lentosuuntaan
--   Hyvä ja symmetrinen X-asento sekä voimakas taivutus ja katse ylös
+- Käsien yhtäaikainen irrottaminen ja rintamasuunta lentosuuntaan
+- Hyvä ja symmetrinen X-asento sekä voimakas taivutus ja katse ylös
     koneeseen
 
-### Uloshyppy NOVA  
+ Uloshyppy NOVA  
+----------------
 
 Hyppymestari komentaa: **SIIRRY / YLÖS**
 
@@ -140,40 +147,48 @@ kovalla äänellä:
 
 **TARKISTUS SISÄÄN**
 
-> Tällä varmistat sisällä olevan hyppymestarin valmiuden, joka ollessaan
+Tällä varmistat sisällä olevan hyppymestarin valmiuden, joka ollessaan
 valmis nyökkää jolloin voit jatkaa eteenpäin. Pidä katseesi
 hyppymestarissa niin kauan kunnes hän antaa merkin ravistamalla tai
 nyökkäämällä.
 
-> Tämän jälkeen tarkista ulkona olevan hyppymestarin valmius. Siirrä
+Tämä jälkeen tarkista ulkona olevan hyppymestarin valmius. Siirrä
 katseesi olkapääsi yli ulos hyppymestariin ja sano kovalla äänellä:
 
 **TARKISTUS ULOS**
 
-> Tällä varmistat ulkona olevan hyppymestarin valmiuden, joka ollessaan
+Tällä varmistat ulkona olevan hyppymestarin valmiuden, joka ollessaan
 valmis nyökkää jolloin voit jatkaa eteenpäin. Pidä katseesi
 hyppymestarissa niin kauan, kunnes hän antaa merkin ravistamalla tai
 nyökkäämällä.
 
-> Kun olet varmistanut hyppymestareiden valmiuden voit aloittaa rytmikkään
+Kun olet varmistanut hyppymestareiden valmiuden voit aloittaa rytmikkään
 uloshyppylaskennan ääneen. Laskenta voi vaihdella käytetyn konetyypin
 mukaan.
 
 **SIIPI**
 
-> Siirrä ja pidä katseesi siivessä (tai vastaavassa kiintopisteessä)\
+:   \
+    Siirrä ja pidä katseesi siivessä (tai vastaavassa kiintopisteessä)\
 
 **YLÖS** (tai ULOS)
 
-> Liikuta vartaloasi ylöspäin (tai ulospäin)\
+:   \
+    Liikuta vartaloasi ylöspäin (tai ulospäin)\
 
 **ALAS** (tai SISÄÄN)
 
-> Liikuta vartaloasi alaspäin (tai sisäänpäin)\
+:   \
+    Liikuta vartaloasi alaspäin (tai sisäänpäin)\
 
 **TAIVUTA**
 
-> Ponnista sivuttain ulospäin, ota hyvä taivutus ja siirrä välittömästi kädet ja jalat symmetrisesti vapaapudotusasentoon. Pidä katseesi koneessa mahdollisimman pitkään koko uloshypyn ajan, sillä se edesauttaa hyvää uloshyppyä. Laske myös ääneen 105 saakka ja aloita hypyn kulku.
+:   \
+    Ponnista sivuttain ulospäin, ota hyvä taivutus ja siirrä
+    välittömästi kädet ja jalat symmetrisesti vapaapudotusasentoon. Pidä
+    katseesi koneessa mahdollisimman pitkään koko uloshypyn ajan, sillä
+    se edesauttaa hyvää uloshyppyä. Laske myös ääneen 105 saakka ja
+    aloita hypyn kulku.\
 
 Laskeminen on tärkeää opetella heti alusta, sillä se on käytännössä
 ainoa tapa säilyttää ajantaju tässä vaiheessa hyppyuraa. Laskeminen
@@ -181,10 +196,16 @@ tapahtuu ääneen huutamalla (101...105). Uloshyppyharjoituksissa
 opetellaan oikeaa rytmiä, joten ei huudeta vain numeroita vaan
 sekunteja. Ilmassa muutama sekunti voi tuntua hyvinkin pitkältä ajalta.
 
-## Vapaapudotuksen perusteet  
+ Vapaapudotuksen perusteet  
+---------------------------
 
-Jos olet pakkolaukaisukurssilla, voit siirtyä kohtaan: *Varjon
- avautuminen ja lentokuntoon saattaminen*, ja palata tähän lukuun kun olet siirtymässä itseaukaisuhyppyihin.
+ 
+
+:   \
+    *Jos olet pakkolaukaisukurssilla, voit siirtyä kohtaan: Varjon
+    avautuminen ja lentokuntoon saattaminen,
+    (\[hyppytapahtuma-varjon-avautuminen-ja-lentokuntoon-saattaminen\] s.)
+    ja palata tähän lukuun kun olet siirtymässä itseaukaisuhyppyihin.*\
 
 ![image](/kuvat/Vapaapudotus-taulukko.png)
 
@@ -230,11 +251,10 @@ Visuaalinen, metriasteikolla varustettu osoitinmittari, on ainoa
 hyväksyttävä mittari hyppyuran alussa.
 
 Visuaalisessa korkeusmittarissa on
-
--   näyttöväli 10, 50 tai 100 metriä ja numerot 100 tai 500
+- näyttöväli 10, 50 tai 100 metriä ja numerot 100 tai 500
     metrin välein.
--   avauskorkeus 800 tai 1000 metriä merkitty eri värillä.
--   joko osoitinmittari tai digitaalinen, jossa numeronäyttö.
+- avauskorkeus 800 tai 1000 metriä merkitty eri värillä.
+- joko osoitinmittari tai digitaalinen, jossa numeronäyttö.
 
 Mittarin näyttöasteikko voi osoittaa korkeuden joko metreinä tai
 jalkoina (feet = ft). Jalka = 0,3048 m.
@@ -242,36 +262,33 @@ jalkoina (feet = ft). Jalka = 0,3048 m.
 ###  Käyttö  
 
 Korkeusmittaria käytettäessä on huomioitava seuraavat asiat:
-
--   Mittari on asetettava paikkaan, josta se nähdään aina.
--   Perusasennon on säilyttävä mittaria katsottaessa.
--   Mittaria vilkaistaan päätä kääntämällä tai FS-hypyillä voidaan
+- Mittari on asetettava paikkaan, josta se nähdään aina.
+- Perusasennon on säilyttävä mittaria katsottaessa.
+- Mittaria vilkaistaan päätä kääntämällä tai FS-hypyillä voidaan
     katsoa myös muiden mittareita.
--   Mittaria luetaan vertaamalla viisarin asentoa punaisen alkuun eikä
+- Mittaria luetaan vertaamalla viisarin asentoa punaisen alkuun eikä
     numeroihin tuijottamalla.
--   Ajantajun on säilyttävä jokaisella hypyllä, sillä mittari voi
+- Ajantajun on säilyttävä jokaisella hypyllä, sillä mittari voi
     mennä rikki.
--   Mittarin jumiutuessa, tai jos mittari ei ole luettavissa, avataan
+- Mittarin jumiutuessa, tai jos mittari ei ole luettavissa, avataan
     varjo heti, mutta huomioidaan kuitenkin muut hyppääjät.
--   Freehypyillä suositellaan käsimittaria. Ensimmäisillä freehypyillä
+- Freehypyillä suositellaan käsimittaria. Ensimmäisillä freehypyillä
     kannattaa käyttää myös rintamittaria.
--   Käytettäessä integraalikypärää suositellaan käsimittaria, sillä
+- Käytettäessä integraalikypärää suositellaan käsimittaria, sillä
     rintamittari ei ole välttämättä luettavissa.
-
--   Mittarit on kalibroitu toimimaan tarkimmin avauskorkeusalueella.
+- Mittarit on kalibroitu toimimaan tarkimmin avauskorkeusalueella.
     Korkealla esiintyvät näyttöerot ovat tavallisia.
 
 ###  Virheet  
 
 Yleisimmät viat ja virheet korkeusmittarin toiminnassa ovat:
-
--   paine-erot ja virhenäytöt vapaapudotushypyillä esimerkiksi
+- paine-erot ja virhenäytöt vapaapudotushypyillä esimerkiksi
     käytettäessä rintamittaria selkälennossa
--   mittarin jäätyminen kosteuden tai tiivistyneen veden takia
--   jumiutuminen iskujen tai lian takia
--   mekaaninen vika, joka aiheutuu mittarin pudotessa maahan tai maassa
+- mittarin jäätyminen kosteuden tai tiivistyneen veden takia
+- jumiutuminen iskujen tai lian takia
+- mekaaninen vika, joka aiheutuu mittarin pudotessa maahan tai maassa
     olevan mittarin päälle astumisesta
--   paristojen loppuminen
+- paristojen loppuminen
 
 Korkeuserojen laskeminen ja mittariasetus on osattava, jos lähtö- ja
 alastulopaikka eivät ole samat.
@@ -285,8 +302,10 @@ alastulopaikka eivät ole samat.
 
 1.  **Avaa varjo.** Itseaukaisuhypyllä tärkein tehtäväsi on aina avata
     itse varjosi.
+
 2.  **Avaa avauskorkeudessa** Jokaiselle hypyllä on aina määrätty
     avauskorkeus, jossa varjo on ehdottomasti avattava.
+
 3.  **Avaa stabiilissa asennossa** Pyri avaamaan varjosi stabiilissa
     asennossa, mutta tärkeämpää on avata oikeassa korkeudessa.
 
@@ -319,24 +338,23 @@ varusteisiin.
 ![image](/kuvat/HD-apuvarjo.jpeg)
 
 ###  Vaaratilanteet  
-
--   Epästabiili asento, kädet/käsi tai jalat/jalka sisällä ⇨ kaatuu
+- Epästabiili asento, kädet/käsi tai jalat/jalka sisällä ⇨ kaatuu
     kyljelleen/selälleen ⇨ mahdollista sotkeutua avautuvaan varjoon.
--   Veto irtipäästöpampulasta ⇨ päävarjo irtoaa normaalin avauksen
+- Veto irtipäästöpampulasta ⇨ päävarjo irtoaa normaalin avauksen
     jälkeen ⇨ tehdään varavarjotoimenpiteet.
--   Veto varavarjon kahvasta ⇨ varavarjo aukeaa.
--   Veto valjaista / kahva ei lähde / ei vetoa ⇨ päävarjo ei aukea ⇨
+- Veto varavarjon kahvasta ⇨ varavarjo aukeaa.
+- Veto valjaista / kahva ei lähde / ei vetoa ⇨ päävarjo ei aukea ⇨
     uusitaan veto tai tehdään varavarjotoimenpiteet.
--   Apuvarjo tarttuu kiinni hyppääjään ⇨ yksi irrotusyritys, jos
+- Apuvarjo tarttuu kiinni hyppääjään ⇨ yksi irrotusyritys, jos
     nähtävissä ⇨ aukeaa tai varavarjotoimenpiteet.
--   Punokset sotkeutuvat hyppääjään ⇨ pyritään irrottautumaan
+- Punokset sotkeutuvat hyppääjään ⇨ pyritään irrottautumaan
     sotkeutuneista punoksista, käytetään tarvittaessa koukkupuukkoa ⇨
     tehdään varavarjotoimenpiteet.
--   Apuvarjo voi avauksessa joskus tulla kuvun etureunan kautta kuvun
+- Apuvarjo voi avauksessa joskus tulla kuvun etureunan kautta kuvun
     alapuolelle ⇨ tehdään ohjauskokeilu ⇨ jos varjo ei käyttäydy
     normaalisti, tehdään varavarjotoimenpiteet.
--   Asento hallitsematon ⇨ avataan päävarjo heti.
--   Apuvarjo turbulenssissa:
+- Asento hallitsematon ⇨ avataan päävarjo heti.
+- Apuvarjo turbulenssissa:
 
 Avauksessa apuvarjo voi jäädä hyppääjän selän taakse muodostuvaan
 pyörteeseen eli turbulenssiin. Jos vedon jälkeen 105:n kohdalla ei ole
@@ -350,7 +368,8 @@ nähdä, tehdään varavarjotoimenpiteet heti.
 
 ![image](/kuvat/Selka-turbulenssi.png)
 
-### Varjon avautuminen ja lentokuntoon saattaminen  
+ Varjon avautuminen ja lentokuntoon saattaminen  
+------------------------------------------------
 
 Pakkolaukaisujärjestelmässä koneesta irtautuessa
 pakkolaukaisujärjestelmä ja vastaavasti NOVA:ssa ilmavirtaan heitetty
@@ -361,10 +380,9 @@ punoksia pitkin alas hidastaen kuvun aukeamista. Sinun tehtäväksesi jää
 varjon tarkastaminen ja sen lopullinen avaaminen.
 
 Kun olet päässyt laskemisessa 105:een, tarkasta varjo. Varjo LENTÄÄ, kun
-
--   Kupu on säännöllisen muotoinen
--   Punokset ovat kireällä
--   Slider on suorakaiteen muotoinen.
+- Kupu on säännöllisen muotoinen
+- Punokset ovat kireällä
+- Slider on suorakaiteen muotoinen.
 
 Tarkastettuasi varjon vie kädet takimmaisille kantohihnoille. Jos
 punokset ovat kierteellä, avaa ne potkimalla ja levittämällä
@@ -381,51 +399,61 @@ yläasentoon. Pumppauksen voit toistaa useampia kertoja (SELVITÄ).
 
 Mikäli varjo EI LENNÄ tai EI SELVIÄ, siirry välittömästi
 varavarjotoimenpiteisiin.
+(\[paavarjon-vajaatoiminnot-varavarjon-kaytto\] s.)
 
 Kun olet suorittanut varjon lopullisen avaamisen, tarkasta seuraavat
 asiat:
-
--   ILMATILA (myös kierteiden avauksen ja pumppauksen aikana, väistä
+- ILMATILA (myös kierteiden avauksen ja pumppauksen aikana, väistä
     tarvittaessa ja/tai varoita huutamalla
--   KORKEUS (myös kierteiden avauksen ja pumppauksen aikana)
--   KAHVAT taskuissaan (varavarjon kahva ja päävarjon irtipäästöpampula)
--   SIJAINTI (oma ja maalialueen sijainti)
+    (\[mahdolliset-vaaratilanteet-tormaaminen-varjon-varassa\] s.))
+- KORKEUS (myös kierteiden avauksen ja pumppauksen aikana)
+- KAHVAT taskuissaan (varavarjon kahva ja päävarjon irtipäästöpampula)
+- SIJAINTI (oma ja maalialueen sijainti)
 
 Aloita ohjaaminen ja käännä varjo tarvittaessa vastatuuleen.
 
-## Ohjaaminen  
+
+
+ Ohjaaminen  
+------------
 
 ###  Lentotilat  
 
-**Täysliito** 
+Täysliito: 
 
->Nosta ohjauslenkit täysin ylös. Varjo saavuttaa suurimman
-    vaakanopeuden ja lentää parhaiten vastatuuleen.
+:   \
+    Nosta ohjauslenkit täysin ylös. Varjo saavuttaa suurimman
+    vaakanopeuden ja lentää parhaiten vastatuuleen.\
 
-**Puolijarrutustila**
+Puolijarrutustila: 
 
-> Vedä/nosta ohjauslenkit hartioiden korkeudelle. Varjo jarruttaa.\
+:   \
+    Vedä/nosta ohjauslenkit hartioiden korkeudelle. Varjo jarruttaa.\
 
-**Täysjarrutus**
+Täysjarrutus: 
 
-> Vedä ohjauslenkit noin lantion tasalle. Varjo jarruttaa
+:   \
+    Vedä ohjauslenkit noin lantion tasalle. Varjo jarruttaa
     voimakkaasti.\
 
-**Sakkaus**
+Sakkaus:
 
-> Jos ohjauslenkkejä painetaan vielä täysjarrutustilaa alemmaksi,
+:   \
+    Jos ohjauslenkkejä painetaan vielä täysjarrutustilaa alemmaksi,
     varjo lakkaa lentämästä. Sakkauksessa varjon vajoamisnopeus kasvaa,
     joten varo sakkaamasta varjoasi matalalla. Varjo palautetaan
     sakkaustilasta nostamalla ohjauslenkkejä rauhallisesti 10–20 cm.
     Tämän jälkeen tarkasta varjo ja selvitä sitä tarpeen mukaan.
+    (\[paavarjon-vajaatoiminnot\] s.)\
 
 Kokeile varjon eri lentotiloja, mutta muista, että kaikki ohjauskokeilut
 tulee tehdä yli 600 metrissä.
 
-| ![Täysliito](/kuvat/Lentotila-taysi.jpeg) | ![Puolijarrutus](/kuvat/Lentotila-puoli.jpeg) | ![Täysjarrutus](/kuvat/Lentotila-jarru.jpeg) |
-| -- | -- | -- |
-| Täysliito | Puolijarrutus | Täysjarrutus |
+![image](/kuvat/Lentotila-taysi.jpeg)
 
+![image](/kuvat/Lentotila-puoli.jpeg)
+
+![image](/kuvat/Lentotila-jarru.jpeg)
 
 ###  Ilma- ja maanopeus  
 
@@ -564,7 +592,9 @@ laskeutumiskuviossa.
 
 1.  **Suora finaali** (tärkeintä on, ettei varjo ole
     laskeuduttaessa käännöksessä)
+
 2.  Tee **loppuveto** aina vähintään puolijarrutustilaan
+
 3.  Pyri laskeutumaan **vastatuuleen**, esteettömälle alueelle
 
 Muista aina laskeutumisen tärkeysjärjestys, se auttaa sinua laskeutumaan
@@ -573,14 +603,13 @@ turvallisesti!
 ###  Loppuveto ja maahantulo  
 
 Ollessasi finaalissa noin 50 metrin korkeudessa ota hyvä alastuloasento:
+- Kädet ohjauslenkeissä
+- Leuka kiinni rinnassa ja hampaat yhdessä
+- Polvet joustavasti hiukan koukussa ja **tiukasti** yhdessä
+- Jalkaterät 45° etenemissuunnasta sivulle ja **tiukasti** yhdessä
+- Jalkapohjat samalla tasolla ja maanpinnan suuntaiset.
 
--   Kädet ohjauslenkeissä
--   Leuka kiinni rinnassa ja hampaat yhdessä
--   Polvet joustavasti hiukan koukussa ja **tiukasti** yhdessä
--   Jalkaterät 45° etenemissuunnasta sivulle ja **tiukasti** yhdessä
--   Jalkapohjat samalla tasolla ja maanpinnan suuntaiset.
-
-<img src="/kuvat/Alastuloasento.jpeg" align=right>
+![image](/kuvat/Alastuloasento.jpeg)
 
 ![image](/kuvat/Loppuveto.png)
 
@@ -588,10 +617,9 @@ Samalla kun otat alastuloasennon, siirrä ohjauslenkit korvien tasalle.
 Kun korkeutta on 2-3 metriä, tee loppuveto painamalla ohjauslenkit
 terävästi täysjarrutustilaan. Ensimmäisillä kolmella hypyllä sinulla on
 radio, josta kuulet ohjeita esimerkiksi seuraavasti:
-
--   1. hyppy - ohjeita ohjailuun ja laskeutuminen ohjatusti
--   2. hyppy - ohjeet tarvittaessa ja laskeutuminen ohjatusti
--   3. hyppy - ohjeet vain tarvittaessa
+- 1\. hyppy - ohjeita ohjailuun ja laskeutuminen ohjatusti
+- 2\. hyppy - ohjeet tarvittaessa ja laskeutuminen ohjatusti
+- 3\. hyppy - ohjeet vain tarvittaessa
 
 Kun olet noin puiden latvojen tasolla, maa näyttää hyökkäävän silmille.
 Älä säikähdä, vaan keskity oikeaan alastuloasentoon ja loppuvedon
@@ -612,19 +640,18 @@ murtumia, joista valtaosa olisi vältettävissä hyvän alastuloasennon
 pitämisellä loppuun saakka.
 
 Muista aina varjon varassa:
-
--   Tarkkaile ilmatilaa
--   Tarkkaile korkeutta
--   Vältä rajuja ohjausliikkeitä
--   Tarkkaile sijaintiasi ja pysy ohjeistetulla alueella ja
+- Tarkkaile ilmatilaa
+- Tarkkaile korkeutta
+- Vältä rajuja ohjausliikkeitä
+- Tarkkaile sijaintiasi ja pysy ohjeistetulla alueella ja
     suunnitellulla reitillä
--   Älä lennä toisen hyppääjän lähellä
--   Alempana olevalla on etuajo-oikeus
--   Varjo ei käänny hetkessä
--   Tarkkaile tuulipussia
--   Käänny finaaliin 100 metrissä
--   Suora finaali
--   Ohjaa varjoa maahan saakka.
+- Älä lennä toisen hyppääjän lähellä
+- Alempana olevalla on etuajo-oikeus
+- Varjo ei käänny hetkessä
+- Tarkkaile tuulipussia
+- Käänny finaaliin 100 metrissä
+- Suora finaali
+- Ohjaa varjoa maahan saakka.
 
 ###  Varjon tukahduttaminen  
 
@@ -648,39 +675,45 @@ oikea-aikaisessa suorittamisessa. Toimi joka hypyllä itsenäisesti, sillä
 ohjeita annetaan vain tarvittaessa. Radio on vain apuväline, jossa voi
 esiintyä häiriöitä.
 
-1. Yhteyskokeilu ennen koneen kuormausta  
-   
-   KUTSU
-   -   Kuittaus kättä nostamalla
-2. Yhteyskokeilu ilmassa
-   
-   KUTSU + HEILUTA JALKOJA
-   -   Kuittaus jalkojen heilutuksella
-3. Käännökset
-   
-   KUTSU + VASEN, VASEN, SUORAAN
-   -   Käännä niin kauan, kunnes kuuluu komento SUORAAN
-4. Jarruttaminen
-   
-   KUTSU + JARRUTA, JARRUTA
-   -   Jokaisella komennolla laske ohjauslenkkejä 10-15 cm
-5. Jarrutuksen vähentäminen
-   
-   KUTSU + NOSTA, NOSTA
-   -   Jokaisella komennolla nosta ohjauslenkkejä 10-15 cm
-   
-   KUTSU + LIIDÄ
-   -   Täysliito
-6. Itsenäinen ohjaaminen
-   
-   KUTSU + OHJAA ITSENÄISESTI
-   -   Jatka ohjaamista itsenäisesti.
-   -   Kumoaa edellisten komentojen vaikutuksen.
-7. Loppuveto
+1\. Yhteyskokeilu ennen koneen kuormausta
 
-   KUTSU + JALAT YHTEEN
-   -   Hyvä alastuloasento, jalat tiukasti yhdessä.
-   
-   VEDÄ
-   -   Paina ohjauslenkit terävästi täysjarrutustilaan,
+KUTSU =\
+- Kuittaus kättä nostamalla
+
+2\. Yhteyskokeilu ilmassa
+
+KUTSU + HEILUTA JALKOJA
+- Kuittaus jalkojen heilutuksella
+
+3\. Käännökset
+
+KUTSU + VASEN, VASEN, SUORAAN
+- Käännä niin kauan, kunnes kuuluu komento SUORAAN
+
+4\. Jarruttaminen
+
+KUTSU + JARRUTA, JARRUTA
+- Jokaisella komennolla laske ohjauslenkkejä 10-15 cm
+
+5\. Jarrutuksen vähentäminen
+
+KUTSU + NOSTA, NOSTA
+- Jokaisella komennolla nosta ohjauslenkkejä 10-15 cm
+
+KUTSU + LIIDÄ
+- Täysliito
+
+6\. Itsenäinen ohjaaminen
+
+KUTSU + OHJAA ITSENÄISESTI
+- Jatka ohjaamista itsenäisesti.
+- Kumoaa edellisten komentojen vaikutuksen.
+
+7\. Loppuveto
+
+KUTSU + JALAT YHTEEN
+- Hyvä alastuloasento, jalat tiukasti yhdessä.
+
+VEDÄ
+- Paina ohjauslenkit terävästi täysjarrutustilaan,
     pidä alastuloasento.

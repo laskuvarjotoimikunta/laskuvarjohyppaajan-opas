@@ -42,8 +42,7 @@ Tuulirajat
 
 Maatuulen nopeuden asettamat rajoitukset laskuvarjohypyille ovat
 seuraavat:
-
--   Itsenäisellä hyppääjällä maatuulen nopeus ei saa ylittää:
+- Itsenäisellä hyppääjällä maatuulen nopeus ei saa ylittää:
 
     -   A-lisenssihyppääjällä 8 m/s
 
@@ -52,11 +51,9 @@ seuraavat:
     -   C-lisenssihyppääjällä 11 m/s
 
     -   D-lisenssihyppääjällä 11 m/s
-
--   Oppilas ei saa hypätä, mikäli maatuulen nopeus ylittää 8 m/s.
+- Oppilas ei saa hypätä, mikäli maatuulen nopeus ylittää 8 m/s.
     Tandemoppilas ei saa hypätä, mikäli maatuulen nopeus ylittää 11 m/s.
-
--   Pallovarjoa pää- tai varavarjona käytettäessä maatuulen nopeus ei
+- Pallovarjoa pää- tai varavarjona käytettäessä maatuulen nopeus ei
     saa ylittää 8 m/s.
 
 Pilvet 
@@ -80,14 +77,10 @@ huomioitava, että kostea ja lämmin ilma kantaa huonommin kuin kuiva ja
 kylmä ilma. Kosteus vaikuttaa varjon ominaisuuksiin heikentäväksi.
 
 Jos joudut avaamaan varjon pilvessä:
-
--   Lennä puolijarruilla
-
--   Tee loivaa oikeaa kaarrosta
-
--   Tarkkaile koko ajan etu- ja sivusektoreita
-
--   Huuda ja kuuntele, jos epäilet, ettet ole ainoa pilvessä
+- Lennä puolijarruilla
+- Tee loivaa oikeaa kaarrosta
+- Tarkkaile koko ajan etu- ja sivusektoreita
+- Huuda ja kuuntele, jos epäilet, ettet ole ainoa pilvessä
     varjon avannut.
 
 Termiikki 
@@ -156,12 +149,9 @@ niitä. On muistettava, että taivaalle pääsy ei takaa onnistunutta
 hyppyä, vaan turvallinen alastulo.
 
 Lentosääsanomia saadaan mm. seuraavasti:
-
--   Internet (mm. <http://www.ilmailusaa.fi/> )
-
--   Lentosääaseman automaattitiedotus radiolla ja puhelimella
-
--   Sääsanomat YLE Teksti-TV s. 428 ja 429 (myös
+- Internet (mm. <http://www.ilmailusaa.fi/> )
+- Lentosääaseman automaattitiedotus radiolla ja puhelimella
+- Sääsanomat YLE Teksti-TV s. 428 ja 429 (myös
     <http://www.yle.fi/tekstitv/html/P428_01.html> )
 
  METAR-sanomat  
@@ -178,40 +168,27 @@ EFTU 231250Z 27006KT 9999 SCT055 FEW080 08/04 Q1015
 
 Tämä viesti voidaan jakaa osioihin ja tulkita sen perusteella.
 Metar-viestin pääosiot ovat:
-
--   EFTU Sääasema lentopaikan ICAO-koodilla; Eurooppa, Finland, Turku
-
--   231250Z Aika (UTC) Päivä kuluvaa kuukautta sekä kellonaika
+- EFTU Sääasema lentopaikan ICAO-koodilla; Eurooppa, Finland, Turku
+- 231250Z Aika (UTC) Päivä kuluvaa kuukautta sekä kellonaika
     UTC-ajassa ilmaistuna
-
--   27006KT Tuulen suunta asteina ja nopeus solmuina, 270 astetta, 3 m/s
-
--   9999 Näkyvyys metreinä, yli 10 km
-
--   SCT055 Pilvien määrä sekä korkeus
-
--   FEW080 Pilvien äärä sekä korkeus
-
--   08/04 Lämpötila ja kastepiste celsiusasteina
-
--   Q1015 Ilmanpaine millibareina / hehtopascaleina
-
--   Lisätiedot ja mahdolliset muut huomioitavat asiat kerrotaan Metarin
+- 27006KT Tuulen suunta asteina ja nopeus solmuina, 270 astetta, 3 m/s
+- 9999 Näkyvyys metreinä, yli 10 km
+- SCT055 Pilvien määrä sekä korkeus
+- FEW080 Pilvien äärä sekä korkeus
+- 08/04 Lämpötila ja kastepiste celsiusasteina
+- Q1015 Ilmanpaine millibareina / hehtopascaleina
+- Lisätiedot ja mahdolliset muut huomioitavat asiat kerrotaan Metarin
     lopussa
 
 Metar-sanomassa tuulen suunta ilmoitetaan kolmella numerolla, lähimpään
 10 asteeseen pyöristettynä. Tuulen nopeuden yksikkönä käytetään solmua
 (KT). Tuulen ollessa tyyni, ilmoitetaan se metar-sanomassa 00000KT.
-
--   VRB02KT: Suunnaltaan vaihtelevaa tuulta, tuulen nopeus 1 m/s.
-
--   18010KT: Tuulen suunta on etelästä (180 astetta) ja tuulen nopeus on
+- VRB02KT: Suunnaltaan vaihtelevaa tuulta, tuulen nopeus 1 m/s.
+- 18010KT: Tuulen suunta on etelästä (180 astetta) ja tuulen nopeus on
     5 m/s.
-
--   22015G28KT: Tuulen suunta on 220 astetta, keskituulen nopeus 7,5 m/s
+- 22015G28KT: Tuulen suunta on 220 astetta, keskituulen nopeus 7,5 m/s
     ja puuskissa 14 m/s.
-
--   35014KT 310V030: Tuulen suunta vaihtelee lentopaikalla siten, ettei
+- 35014KT 310V030: Tuulen suunta vaihtelee lentopaikalla siten, ettei
     keskituulen suuntaa voi määrätä ja keskituulen nopeus on 7 m/s.
     Tuulen suunnan vaihteluväli on 310 astetta ja 030 astetta.
 
@@ -219,18 +196,12 @@ Metar-sanomassa ilmoitetaan sääilmiöt kuten sumu, sade, lumisade,
 ukkonen ja muut vastaavat säähän vaikuttavat tekijät.
 
 Esimerkkejä vallitsevan sään ilmoittamisesta:
-
--   TS: ukkosta ilman sadetta
-
--   TSRA: ukkosta ja vesisadetta
-
--   -RABR: heikkoa vesisadetta ja utua
-
--   FG: sumua
-
--   MIFG: matalaa sumua
-
--   -DZBR: heikkoa tihkusadetta ja utua
+- TS: ukkosta ilman sadetta
+- TSRA: ukkosta ja vesisadetta
+- -RABR: heikkoa vesisadetta ja utua
+- FG: sumua
+- MIFG: matalaa sumua
+- -DZBR: heikkoa tihkusadetta ja utua
 
 Metar-sanomassa pilven alaraja ilmoitetaan lyhennetysti jättämällä
 korkeuden kaksi viimeistä nollaa pois. Esimerkiksi pilven alaraja 300 ft
@@ -240,43 +211,29 @@ kirjoitetaan 300. Korkeus ilmoitetaan maanpinnasta.
 Näkyvä taivas jaetaan pilvisyyttä ilmoitettaessa kahdeksaan osaan.
 Pilvisyys ilmoitetaan kolmen kirjaimen tunnuksella, joka kertoo kuinka
 monta kahdeksasosaa taivaasta on pilven peitossa kyseisessä korkeudessa:
-
--   0/8 SKC = sky clear (pilvetöntä)
-
--   1/8-2/8 FEW = few (muutamia pilviä)
-
--   3/8-4/8 SCT = scattered (hajanaisia pilviä)
-
--   5/8-7/8 BKN = broken (melkein pilvistä)
-
--   8/8 OVC = overcast (täysin pilvistä)
+- 0/8 SKC = sky clear (pilvetöntä)
+- 1/8-2/8 FEW = few (muutamia pilviä)
+- 3/8-4/8 SCT = scattered (hajanaisia pilviä)
+- 5/8-7/8 BKN = broken (melkein pilvistä)
+- 8/8 OVC = overcast (täysin pilvistä)
 
 Pilvestä voidaan ilmoittaa myös lisämääreet CB ja TCU:
-
--   CB - Cumulonimbus, ukkospilvi
-
--   TCU - Towering Cumulus, nouseva cumuluspilvi
+- CB - Cumulonimbus, ukkospilvi
+- TCU - Towering Cumulus, nouseva cumuluspilvi
 
 Esimerkkejä pilvien ilmoittamisesta:
-
--   FEW007 - vähän pilviä 700 ft korkeudella maanpinnasta.
-
--   SCT020 - 3/8 taivaasta pilvessä 2000 ft korkeudella
-
--   BKN080 - 5/8 taivaasta pilvessä 8000 ft korkeudella.
-
--   OVC003 - täyskatto (8/8) pilviä 300 ft korkeudella.
+- FEW007 - vähän pilviä 700 ft korkeudella maanpinnasta.
+- SCT020 - 3/8 taivaasta pilvessä 2000 ft korkeudella
+- BKN080 - 5/8 taivaasta pilvessä 8000 ft korkeudella.
+- OVC003 - täyskatto (8/8) pilviä 300 ft korkeudella.
 
 Koodisana CAVOK on lyhenne englannin kielen sanoista ”Ceiling And
 Visibility OK”. Sitä käytetään, mikäli kaikki seuraavat ehdot ovat
 voimassa samanaikaisesti:
-
--   Näkyvyys on 10 km tai enemmän.
-
--   Alueella ei ole pilviä 1500 m (5000 ft) alapuolella eikä CB- tai
+- Näkyvyys on 10 km tai enemmän.
+- Alueella ei ole pilviä 1500 m (5000 ft) alapuolella eikä CB- tai
     TCU-pilviä havaita.
-
--   Ei esiinny merkittäviä sääilmiöitä kuten ukkosta, sadetta tai sumua.
+- Ei esiinny merkittäviä sääilmiöitä kuten ukkosta, sadetta tai sumua.
 
  GAFOR-sanomat  
 ===============
@@ -328,12 +285,9 @@ Mikäli kerrostuulien yhteydessä ei ole erillistä alueisiin jakoa, lukee
 WINDS-tunnuksen perässä monesti 21/25, jolloin kaikki tiedot koskevat
 koko Itä-Suomen aluetta. Tuulitiedot on aina jaettu kolmeen osaan, eli
 on ilmoitettu tuulet:
-
--   Maanpinnan läheisyydessä (SFC, surface)
-
--   2000 jalan (600 metrin) korkeudella
-
--   5000 jalan (1500 metrin) korkeudella.
+- Maanpinnan läheisyydessä (SFC, surface)
+- 2000 jalan (600 metrin) korkeudella
+- 5000 jalan (1500 metrin) korkeudella.
 
 Eri kerroksien tuulitiedot on toisinaan jaettu alueisiin, kuten tässä
 maatuuliosa. Maatuuliennusteen (SFC) ensimmäinen osa koskee tässä

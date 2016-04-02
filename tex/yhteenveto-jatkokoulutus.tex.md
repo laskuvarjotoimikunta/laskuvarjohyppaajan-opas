@@ -10,15 +10,12 @@ kuvunkäsittelyyn ja tarkkuuslaskeutumisiin.
 ## Hyppysuoritukset  
 
 Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
-
--   5 ryhmähyppyä
-
--   3 kuvunkäsittelyhyppyä
+- 5 ryhmähyppyä
+- 3 kuvunkäsittelyhyppyä
     Jos oppilas ottaa käyttöön omat varusteet tai käyttää varjoa, jota ei
     ole tarkoitettu alkeis- tai peruskoulutukseen, suoritetaan
     kuvunkäsittelyhypyt ennen muita suorituksia.
-
--   Vapaavalintaisia hyppyjä siten, että A-lisenssiin vaadittavat 25
+- Vapaavalintaisia hyppyjä siten, että A-lisenssiin vaadittavat 25
     itseavaushyppyä saadaan täyteen. Kokeillaan freehyppäämistä
     tai kouluttaja valitsee oppilaan osaamiseen ja kehityskohteisiin sopivimman 
     suorituksen. Hypyillä on oltava oppimistavoite, pelkkiä täytehyppyjä ei tule hypätä.
@@ -26,20 +23,15 @@ Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
     -   NOVA 2 kpl
 
     -   PL 5 kpl
-
--   Koehyppy 
+- Koehyppy 
 
 ## Muut suoritukset  
-
--   5 tarkkuuslaskeutumista hyppysuoritusten yhteydessä, laskeutuminen
+- 5 tarkkuuslaskeutumista hyppysuoritusten yhteydessä, laskeutuminen
     25 metrin säteelle kouluttajan osoittamasta paikasta.
-
--   Pakkaustaidonnäyte (Voidaan suorittaa koulutusorganisaatiosta
+- Pakkaustaidonnäyte (Voidaan suorittaa koulutusorganisaatiosta
     riippuen myös aikaisemmassa vaiheessa.)
-
--   Oppilasvarjon pakkaustarkastusnäyte.
-
--   A-lisenssin teoriakoe. Kokeessa on tulee osata kaikki tähän mennessä
+- Oppilasvarjon pakkaustarkastusnäyte.
+- A-lisenssin teoriakoe. Kokeessa on tulee osata kaikki tähän mennessä
     luettu ja harjoiteltu sekä laskuvarjohyppäämistä koskevat lait,
     määräykset ja ohjeet.
 

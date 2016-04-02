@@ -27,14 +27,10 @@ lentäjä ja kaikki pokan hyppääjät ovat tietoisia asiasta.
 
 Pokanvanhin vastaa sujuvasta ja turvallisesta hyppytoiminnasta oman
 pokansa osalta, ja hänen tehtävänsä ovat vähintään
-
--   hyppyjärjestyksen määrittäminen
-
--   ohjeiden antaminen lentäjälle ennen hyppylentoa ja lennon aikana
-
--   vastaaminen pokasta koneen kuormauksen ja lennon aikana
-
--   poikkeus- tai vaaratilanteessa yhteydenpito lentäjän kanssa ja
+- hyppyjärjestyksen määrittäminen
+- ohjeiden antaminen lentäjälle ennen hyppylentoa ja lennon aikana
+- vastaaminen pokasta koneen kuormauksen ja lennon aikana
+- poikkeus- tai vaaratilanteessa yhteydenpito lentäjän kanssa ja
     ohjeiden anto hyppääjille.
 
 ## Hyppytoiminnan aloitus  
@@ -62,11 +58,9 @@ turvallisuudesta.
 
 Toimittaessa muulla kuin kerhon koneella on syytä huomioida seuraavaa:
 ilma-aluksen lentokäsikirjassa tai sen liitteessä on oltava
-
--   hyväksyntä siitä, että koneella voidaan lentää ilman ovea tai ovi
+- hyväksyntä siitä, että koneella voidaan lentää ilman ovea tai ovi
     voidaan avata lennon aikana
-
--   laskuvarjohyppytoimintaan tarvittavat ohjeet
+- laskuvarjohyppytoimintaan tarvittavat ohjeet
 
 Lisäksi koneessa on oltava puukko tai vastaava teräase lentäjän ja
 hyppääjien saatavilla. Jos koneessa on yli 10 hyppääjää, kaikkien on

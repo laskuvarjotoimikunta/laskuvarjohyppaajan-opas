@@ -15,17 +15,12 @@ tasolla, jotta vaativat haasteet eivät muodostu riskitekijäksi.
 Sen lisäksi mitä laskuvarjohyppytoiminnalta vaaditaan, ovat SIL ry:n
 ohjeen *Laskuvarjohyppääjien toiminnalliset ohjeet ja
 kelpoisuusvaatimukset* mukaan yöhypyt sallittuja seuraavin ehdoin:
-
--   hyppääjällä on vähintään C-lisenssi
-
--   hyppääjällä on valaistu tai itsevalaiseva korkeusmittari
-
--   hyppääjä on varustettu kiinteällä, ympäristöön näkyvällä
+- hyppääjällä on vähintään C-lisenssi
+- hyppääjällä on valaistu tai itsevalaiseva korkeusmittari
+- hyppääjä on varustettu kiinteällä, ympäristöön näkyvällä
     valolaitteella
-
--   hyppääjällä on suunnattava valolaite laskuvarjon tarkastamiseksi
-
--   maalialue on valaistu
+- hyppääjällä on suunnattava valolaite laskuvarjon tarkastamiseksi
+- maalialue on valaistu
 
 Yö määritellään ilmailumääräysten mukaan (OPS M1-1) seuraavasti:
 ”Auringon laskun ja nousun välinen aika silloin, kun valaisematonta

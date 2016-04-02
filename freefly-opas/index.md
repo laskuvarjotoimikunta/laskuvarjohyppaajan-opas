@@ -10,12 +10,9 @@ ole olemassa oikeaa tai väärää tyyliä lentää freetä.
 Freeflyn määritelmä on hyvin laaja. Alkujaan sillä tarkoitettiin
 erilaisia tyylejä lentää niin, että selkäranka on suorassa ilmavirran
 suuntaisesti. Nykyään käsite sisältää käytännössä kaiken mahdollisen:
-
--   *Headdown*, pää alaspäin lentämisen,
-
--   *Headup*, pää ylöspäin lentämisen,
-
--   *Angle*, pää alaspäin tai ylöspäin kulmassa ilmavirtaan
+- *Headdown*, pää alaspäin lentämisen,
+- *Headup*, pää ylöspäin lentämisen,
+- *Angle*, pää alaspäin tai ylöspäin kulmassa ilmavirtaan
     nähden lentämisen.
 
 Perusajatuksena on pystyä hallitsemaan oma vartalo ilmavirrassa

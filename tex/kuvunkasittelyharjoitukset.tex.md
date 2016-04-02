@@ -77,14 +77,12 @@ ja loppuveto puolijarruilla.
 =========
 
 Vaihtoehtoina esimerkiksi:
-
--   Toisen hyppääjän kanssa ennalta sovitusti seuraa johtajaa -leikki.
+- Toisen hyppääjän kanssa ennalta sovitusti seuraa johtajaa -leikki.
     Liikesarja on syytä sopia maassa ennen hyppyä! Esimerkiksi kaksi
     kertaa vasen 360°, oikea 360°, pysäytys, hidaslentoa jarruilla ja
     sitten samat käännökset hidaslennossa. Johtaja varmistaa, että
     perässä pysytään. Tarvittaessa liikesarja keskeytetään ja odotetaan.
-
--   Tarkkuusniksin harjoittelua. Kokeile myös korkealla ensin
+- Tarkkuusniksin harjoittelua. Kokeile myös korkealla ensin
     vauhdinotto etukantohihnoista ja siitä loppuveto. Testaa myös
     korkealla 90° käännöstä loppuvedon aikana.
 

@@ -2,36 +2,24 @@
 ======================================
 
 Harjoitellaan 2- tai 3-wayna esim. speedstarina:
-
--   Tasolla lentämistä
-
--   Keskipisteen säilyttämistä
-
--   Katsekontaktin säilyttämistä
-
--   Otteiden ottamista
+- Tasolla lentämistä
+- Keskipisteen säilyttämistä
+- Katsekontaktin säilyttämistä
+- Otteiden ottamista
 
 ###  2-way harjoitushyppyjä  
-
--   Star- ja sidebody-uloshyppyjä
-
--   Laskuvarjohyppääjän oppaasta FS-koulutushypyt 5 (90° käännökset), 6
+- Star- ja sidebody-uloshyppyjä
+- Laskuvarjohyppääjän oppaasta FS-koulutushypyt 5 (90° käännökset), 6
     (180° käännökset), 7 (360° käännökset), 8 (sivuttain liikkuminen)
-
--   Sidebodyja siten, että molemmat kääntyvät 90° samaan aikaan
-
--   Star - Open accordion - Compressed accordion - Open accordion - Star
+- Sidebodyja siten, että molemmat kääntyvät 90° samaan aikaan
+- Star - Open accordion - Compressed accordion - Open accordion - Star
     (sama toiselle puolelle)
-
--   Tehdään vuorotellen: Open accordion - Stairstep
+- Tehdään vuorotellen: Open accordion - Stairstep
 
 ###  3-way-harjoitushyppyjä  
-
--   Star - Open accordion - Star (vaihdetaan avohaitarissa paikkoja)
-
--   Star - Donut - Compressed accordion - Star
-
--   Star - Arrowhead - Star
+- Star - Open accordion - Star (vaihdetaan avohaitarissa paikkoja)
+- Star - Donut - Compressed accordion - Star
+- Star - Arrowhead - Star
 
 ![image](/kuvat/2-way-star.pdf)
 

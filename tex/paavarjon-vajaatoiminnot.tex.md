@@ -6,12 +6,9 @@ pakkolaukaisuhypyillä (syynä esimerkiksi huono uloshyppy tai lentokoneen
 alhainen ilmanopeus). Varjo lentää, vaikka punoksissa on kierrettä,
 kuvun reunatunnelit ovat tukossa ja slider on ylhäällä, mikäli varjo
 täyttää lentävän laskuvarjon kriteerit:
-
--   Kupu on säännöllisen muotoinen.
-
--   Punokset ovat kireällä.
-
--   Slider on suorakaiteen muotoinen.
+- Kupu on säännöllisen muotoinen.
+- Punokset ovat kireällä.
+- Slider on suorakaiteen muotoinen.
 
 Muista aina tarkkailla korkeutta, jotta voit tarvittaessa ajoissa
 suorittaa varavarjotoimenpiteet.
@@ -23,12 +20,9 @@ Tee varavarjotoimenpiteet!
 ===========================
 
 ![image](/kuvat/Vajaatoiminnot-Lentaa-Taysin-kehittynyt.png)
-
--   Kupu on säännöllisen muotoinen
-
--   Punokset ovat kireällä
-
--   Slider on suorakaiteen muotoinen ja alhaalla.
+- Kupu on säännöllisen muotoinen
+- Punokset ovat kireällä
+- Slider on suorakaiteen muotoinen ja alhaalla.
 
  Lentää - Selvitä  
 ==================
@@ -36,43 +30,33 @@ Tee varavarjotoimenpiteet!
 ### Slider ylhäällä 
 
 ![image](/kuvat/Vajaatoiminnot-Lentaa-Slider-ylhaalla.png)
-
--   Pumppaa slider alas
-
--   Tarkkaile korkeutta.
+- Pumppaa slider alas
+- Tarkkaile korkeutta.
 
 ### Slider ylhäällä ja kierrettä 
 
 ![image](/kuvat/Vajaatoiminnot-Lentaa-Slider-ylhaalla-ja-Kierteita.png)
-
--   Levitä kantohihnoja, potki kierre auki ja pumppaa slider alas
-
--   Tarkkaile korkeutta.
+- Levitä kantohihnoja, potki kierre auki ja pumppaa slider alas
+- Tarkkaile korkeutta.
 
 ### Reunatunnelit tukossa ja slider ylhäällä 
 
 ![image](/kuvat/Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla.png)
-
--   Pumppaa slider alas ja tunnelit auki
-
--   Tarkkaile korkeutta.
+- Pumppaa slider alas ja tunnelit auki
+- Tarkkaile korkeutta.
 
 ### Reunatunneli tukossa, slider ylhäällä ja kierrettä punoksissa 
 
 ![image](/kuvat/Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla-ja-kierteita.png)
-
--   Levitä kantohihnoja, potki kierre auki, pumppaa slider alas ja
+- Levitä kantohihnoja, potki kierre auki, pumppaa slider alas ja
     tunneli auki
-
--   Tarkkaile korkeutta.
+- Tarkkaile korkeutta.
 
 ### Avautumassa oleva varjo 
 
 ![image](/kuvat/Vajaatoiminnot-lentaa-avautumassa.png)
-
--   Pumppaa kupu tarvittaessa auki
-
--   Tarkkaile korkeutta.
+- Pumppaa kupu tarvittaessa auki
+- Tarkkaile korkeutta.
 
  Ei lennä  
 ==========
@@ -80,8 +64,7 @@ Tee varavarjotoimenpiteet!
 ### Line over 
 
 ![image](/kuvat/Vajaatoiminnot-line-over.png)
-
--   Tee varavarjotoimenpiteet.
+- Tee varavarjotoimenpiteet.
 
 ![image](/kuvat/VV-toimenpiteet.pdf)
 

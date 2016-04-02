@@ -29,13 +29,10 @@ varalaskeutumispaikkojen kanssa, sopivuus omaan hyppylajiin jne.
 
 Mieti siis pienempään varjoon vaihtamista harkitessasi seuraavia
 vaihtoehtoja:
-
--   Ottaisitko sittenkin harjoittelemalla lisää tehoja ja vauhtia irti
+- Ottaisitko sittenkin harjoittelemalla lisää tehoja ja vauhtia irti
     vanhasta varjostasi?
-
--   Vaihdatko samankokoiseen, mutta erimalliseen kupuun?
-
--   Haluatko vauhtia suuremman siipikuorman avulla?
+- Vaihdatko samankokoiseen, mutta erimalliseen kupuun?
+- Haluatko vauhtia suuremman siipikuorman avulla?
 
 Liian pienellä ja suorituskykyisellä kuvulla ei voi eikä kannata yrittää
 kompensoida puutteellisia kuvunkäsittelytaitoja. Varsinkin ensimmäisellä

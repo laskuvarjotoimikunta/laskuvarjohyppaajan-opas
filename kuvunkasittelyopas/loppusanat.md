@@ -26,14 +26,11 @@ ja kursseja löytyy kaikentasoisille hyppääjille.
 pehmeitä laskeutumisia!**
 
 **Lisäluettavaa:**
-
--   Germain, Brian: The Parachute and Its Pilot.
+- Germain, Brian: The Parachute and Its Pilot.
     <http://www.bigairsportz.com/>
-
--   Sobieski, Jerry. The Aerodynamics and Piloting of High Performance
+- Sobieski, Jerry. The Aerodynamics and Piloting of High Performance
     Ram-Air Parachutes. <http://skysurfer.com.au/hosted/highperf.pdf>
-
--   Performance Designs: <http://www.performancedesigns.com/support.asp>
+- Performance Designs: <http://www.performancedesigns.com/support.asp>
 
     -   Flying and Landing High Performance Parachutes Safely
 

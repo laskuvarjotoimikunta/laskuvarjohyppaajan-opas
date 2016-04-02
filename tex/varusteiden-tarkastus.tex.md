@@ -28,32 +28,26 @@ syntymisen. Varusteet tarkistetaan kolme kertaa ennen uloshyppyä.
 Varusteet jokainen hyppääjä valitsee itse painonsa, kokemuksensa sekä
 kouluttajan ohjeet huomioon ottaen. Varusteita valittaessa on
 huomioitava seuraavaa:
-
--   Henkilökohtaisen vaatetuksen on oltava vuodenaikaan ja
+- Henkilökohtaisen vaatetuksen on oltava vuodenaikaan ja
     säähän sovelias. Hyppyvaatteiden on oltava lämpimiä, mutta samalla
     myös joustavia. Turha ja liika vaatetus vaikeuttaa suoritusta sekä
     jäykistää ja hiostuttaa.
-
--   Varjokokonaisuuden ja automaattilaukaisimen asiakirjat
+- Varjokokonaisuuden ja automaattilaukaisimen asiakirjat
     on tarkastettava. Pakkausten on oltava alle 12 kk ikäiset ja
     määräaikaistarkastusten on oltava voimassa. Oppilaspäävarjo sekä
     varavarjo ja reppu-valjasyhdistelmä tarkastetaan vuoden välein.
     Automaattilaukaisimet tarkastetaan ja huolletaan 1–4 vuoden välein
     laitteesta riippuen.
-
--   Varusteet ovat ulkoisesti ehjät ja siistit. Varavarjon vaijerista ja
+- Varusteet ovat ulkoisesti ehjät ja siistit. Varavarjon vaijerista ja
     irtipäästökaapeleista tarkastetaan myös niiden vapaa
     kulku suojaputkissa.
-
--   Automaattilaukaisin säädetään tai se käynnistetään.
-
--   Muista hypyllä tarvittavista varusteista tarkastetaan
+- Automaattilaukaisin säädetään tai se käynnistetään.
+- Muista hypyllä tarvittavista varusteista tarkastetaan
     korkeusmittarin, kypärän, suojalasien, koukkupuukon, haalarin,
     sormikkaiden, kenkien ja pelastusliivien(tarvittaessa) kunto,
     toimivuus ja soveltuvuus laskuvarjohyppykäyttöön. Varusteissa ei saa
     olla ulokkeita tai osia, jotka voivat tarttua kiinni.
-
--   Varusteet ovat sopivat ja säädöt kunnossa. Tarvittaessa valjaiden
+- Varusteet ovat sopivat ja säädöt kunnossa. Tarvittaessa valjaiden
     pituussäätöä muutetaan ja haalari jne. vaihdetaan sopivampiin
     huomioiden hyppysuoritus ja sääolosuhteet.
 
@@ -69,20 +63,15 @@ ensimmäinen tarkastusvaihe nopeuttaa muita vaiheita.
 Varusteiden toinen tarkastusvaihe suoritetaan, kun varusteet on puettu
 päälle. Tarkastus tehdään ennen koneeseen nousua. Varusteiden
 tarkastuksessa noudatetaan aina samaa, seuraavassa lueteltua mallia:
-
--   Varusteet on puettu oikein.
-
--   Kaikki hypyllä tarvittavat varusteet ovat mukana
+- Varusteet on puettu oikein.
+- Kaikki hypyllä tarvittavat varusteet ovat mukana
     oikeilla paikoillaan. Korkeusmittari on näkyvissä ja nollattu sekä
     koukkupuukko on saatavilla. Kahvat ovat omilla paikoillaan ja
     ne näkyvät.
-
--   Kaikki lukot, soljet ja hihnat ovat kiinni. Hihnojen päät on
+- Kaikki lukot, soljet ja hihnat ovat kiinni. Hihnojen päät on
     työnnetty valjaskumilenkkien alta hihnataskuihin.
-
--   Automaattilaukaisin on päällä ja se on oikein säädetty.
-
--   Hyppykaveri tarkastaa takaa, että pää- ja varavarjon läpät
+- Automaattilaukaisin on päällä ja se on oikein säädetty.
+- Hyppykaveri tarkastaa takaa, että pää- ja varavarjon läpät
     ovat kiinni. Pinnitarkastus suoritetaan, jos läppä tai läpät ovat
     auenneet I vaiheen jälkeen varusteita päälle puettaessa.
 
@@ -103,24 +92,18 @@ vaiheessa. Tarkastus on silmämääräinen ja siinä tehdään vain tarvittavat
 muutokset ja kiristykset. Liikkuminen koneessa ja uloshyppy on aina
 suoritettava varoen ja varusteita suojaten. Tässä vaiheessa tarkastetaan
 seuraavat asiat:
-
--   Kypärä ja sormikkaat ovat puettuna päälle ja hyppylasit
+- Kypärä ja sormikkaat ovat puettuna päälle ja hyppylasit
     kiristettyinä hyppykireyteen.
-
--   Varavarjon pakkolaukaisuhihnan lukko on kiinni ja paikoillaan.
-
--   Korkeusmittari näyttää oikein ja on luettavissa. Automaattilaukaisin
+- Varavarjon pakkolaukaisuhihnan lukko on kiinni ja paikoillaan.
+- Korkeusmittari näyttää oikein ja on luettavissa. Automaattilaukaisin
     FXC-12000 on JUMP-asennossa.
-
--   Irtipäästöpampula, varavarjonkahva ja päävarjon avauskahva ovat
+- Irtipäästöpampula, varavarjonkahva ja päävarjon avauskahva ovat
     paikallaan sekä näkyvissä (pois lukien BOC eli repun pohjassa
     sijaitseva avauskahva, jonka pitää olla esteettömästi saatavilla,
     tarkista sijainti koskettamalla BOC-avauskahvaa).
-
--   Rinta- ja reisihihnat ovat kireällä ja mahdolliset lukot
+- Rinta- ja reisihihnat ovat kireällä ja mahdolliset lukot
     ovat kiinni.
-
--   Hyppykaveri tarkastaa takaa, että pää- ja varavarjon läpät
+- Hyppykaveri tarkastaa takaa, että pää- ja varavarjon läpät
     ovat kiinni. Pinnitarkastus suoritetaan, jos läppä tai läpät
     ovat auenneet. Tarraläpän alla oleva pinni on hyvä tarkastaa aina.
 

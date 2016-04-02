@@ -36,15 +36,11 @@ uloshypystä maahantuloon asti.
 
  Ongelmat  
 ----------
-
--   Koukussa olevat jalat aiheuttavat takavoltin.
-
--   Negatiivinen taivutus kaataa asennon selälleen.
-
--   Astinlaudalta ilmavirtaan hyppääminen voi aiheuttaa
+- Koukussa olevat jalat aiheuttavat takavoltin.
+- Negatiivinen taivutus kaataa asennon selälleen.
+- Astinlaudalta ilmavirtaan hyppääminen voi aiheuttaa
     ennenaikaisen tippumisen.
-
--   Käsillä ponnistaminen kaataa asennon selälleen.
+- Käsillä ponnistaminen kaataa asennon selälleen.
 
  Suora uloshyppy  
 =================

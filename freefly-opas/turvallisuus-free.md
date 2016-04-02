@@ -17,59 +17,46 @@ edellä mainittuja turvallisuuteen liittyviä asioita.
 
 Huolehdi, että laskuvarjosi on hyvässä kunnossa. Laskuvarjokokonaisuuden
 suositellaan täyttävän seuraavat vaatimukset freefly-hypylle:
-
--   Sen tulee sopia hyvin ja tiukasti hyppääjän päälle. Valjaat eivät
+- Sen tulee sopia hyvin ja tiukasti hyppääjän päälle. Valjaat eivät
     saa olla niin löysästi puettuna, että ne valuvat hartioilta alas tai
     jalkahihnat karkaavat kohti polvia. Pahimmassa tapauksessa tällöin
     on riskinä putoaminen valjaista avauksessa.
-
--   Rintahihnan tulee olla tiukemmalla kuin normaalisti, eikä sen
+- Rintahihnan tulee olla tiukemmalla kuin normaalisti, eikä sen
     lukitus saa luistaa. Mikäli pää- tai varavarjo aukeaa tahattomasti
     freefly-hypyn aikana, saattavat tiukemmalla olleet hihnat estää
     sinua putoamasta valjaista.
-
--   Repun olkaläpät suojaavat kantohihnoja ilmavirralta. Niiden tulee
+- Repun olkaläpät suojaavat kantohihnoja ilmavirralta. Niiden tulee
     olla tarpeeksi jäykät ja työnnettävissä syvälle lukitukseensa.
     Ilmavirta saattaa repiä esimerkiksi ohjauslenkin irti kantohihnan
     kiinnikkeestä, mikäli kantohihnat ovat alttiina ilmavirralle
     huonosti kiinni pysyvän olkaläpän vuoksi. Velcro-tarroilla
     suljettavat olkatarrat eivät sovellu freefly-hypyille.
-
--   Pää- ja varavarjon läppien tulee olla jäykät ja ne eivät saa aueta
+- Pää- ja varavarjon läppien tulee olla jäykät ja ne eivät saa aueta
     ilmavirran voimasta.
-
--   Irtipäästöpampulan ja varavarjon kahvan velcro-tarrojen tulee olla
+- Irtipäästöpampulan ja varavarjon kahvan velcro-tarrojen tulee olla
     hyvässä kunnossa, jotta ne pysyvät vapaan aikana kiinnityksissään,
     eivätkä irtoa freefly-hypyn liikkeitä tehdessäsi.
-
--   Pää- ja varavarjon looppien tulee olla kireät ja ehyet, jotta reppu
+- Pää- ja varavarjon looppien tulee olla kireät ja ehyet, jotta reppu
     pysyy suljettuna liikkuessasi eri asennoissa taivaalla.
-
--   Jalkahihnojen välillä suositellaan käytettäväksi elastista
+- Jalkahihnojen välillä suositellaan käytettäväksi elastista
     kuminauhaa, jotta jalkahihnat eivät liikkuisi vapaan aikana.
     Varsinkin sittishypyllä jalkahihnat saattavat luisua pois
     paikoiltaan ja valua polvia kohti.
-
--   Apuvarjon yhdyspunoksen tulisi olla kokonaan piilossa ilmavirralta
+- Apuvarjon yhdyspunoksen tulisi olla kokonaan piilossa ilmavirralta
     päävarjon läppien alla, jotta ilmavirta ei pääse repimään apuvarjoa
     ulos taskustaan.
-
--   Apuvarjon taskun tulee olla kireä ja ehyt sekä apuvarjon tulee olla
+- Apuvarjon taskun tulee olla kireä ja ehyt sekä apuvarjon tulee olla
     pakattu taskuunsa siten, että ilmavirta ei revi apuvarjoa
     ulos taskusta.
 
 Freefly-hypyllä ei suositella käytettäväksi reppu-valjas-yhdistelmää:
-
--   jossa on kaksoispinni joko pää- tai varavarjossa, freefly-liikkeet
+- jossa on kaksoispinni joko pää- tai varavarjossa, freefly-liikkeet
     saattavat avata pinnin tai pinnit
-
--   jossa apuvarjo on joko reisi- tai vatsahihnassa, freefly-liikkeet
+- jossa apuvarjo on joko reisi- tai vatsahihnassa, freefly-liikkeet
     saattavat irrottaa apuvarjon ulos taskustaan ilmavirralle alttiiksi
-
--   jolla pää- ja varavarjon läpät tai kantohihnojen suojaläpät
+- jolla pää- ja varavarjon läpät tai kantohihnojen suojaläpät
     suljetaan velcro-tarralla.
-
--   jonka apuvarjon yhdyspunos on näkyvillä ja alttiina ilmavirralle,
+- jonka apuvarjon yhdyspunos on näkyvillä ja alttiina ilmavirralle,
     luupin ja apuvarjon taskun välillä. Ilmavirta saattaa repiä
     yhdyspunoksesta repun auki ja aiheuttaa
     *hevosenkenkä*-vaaratilanteen.
@@ -80,33 +67,25 @@ Oppilaskalustoa saa käyttää vain kouluttajan luvalla.
 
 Freefly-hypyllä muiden varusteiden osalta on huomioitava seuraavia
 asioita, jotka ovat joko pakollisia tai suositeltavia:
-
--   Suojalasien (goggles) tulee olla ehyet ja niiden
+- Suojalasien (goggles) tulee olla ehyet ja niiden
     kiinnityskuminauhan kireä. Ilmavirta tulee freefly-hypyllä eri
     suunnasta kuin olet tottunut ja saattaa aiheuttaa suojalasien
     lähtemisen kesken hypyn
-
--   Kova kypärä yhteentörmäyksien varalta
-
--   Pakollisena visuaalisena mittarina suositellaan käytettäväksi
+- Kova kypärä yhteentörmäyksien varalta
+- Pakollisena visuaalisena mittarina suositellaan käytettäväksi
     käsimittaria, opettele katsomaan korkeutta mittarista eri
     lentoasennoissa vapaapudotuksen aikana.
-
--   Äänikorkeusmittarin käyttö on suositeltavaa. Jopa kahta
+- Äänikorkeusmittarin käyttö on suositeltavaa. Jopa kahta
     äänikorkeusmittaria voi käyttää. Älä luota
     pelkästään äänikorkeusmittariisi.
-
--   Kuvaajille suositellaan kuvauskypärään yhden kahvan
+- Kuvaajille suositellaan kuvauskypärään yhden kahvan
     irtipäästöjärjestelmää
-
--   Varavarjon automaattilaukaisin on erittäin suositeltava ja ennen
+- Varavarjon automaattilaukaisin on erittäin suositeltava ja ennen
     D-lisenssiä pakollinen
-
--   Vältä vaatteita, jotka saattavat peittää päävarjon
+- Vältä vaatteita, jotka saattavat peittää päävarjon
     avausjärjestelmän, päävarjon irtipäästöpampulan tai varavarjon
     kahvan vapaassa.
-
--   Koukkupuukon on oltava helposti saatavilla (kuten
+- Koukkupuukon on oltava helposti saatavilla (kuten
     muissakin hyppylajeissa).
 
 ## Toiminta uloshypyssä  
@@ -209,14 +188,10 @@ törmäämisiin vapaassa. Välttääksesi näitä tilanteita, pura
 freefly-ryhmähyppy sovitussa korkeudessa. Nyrkkisääntö: mitä enemmän
 hyppääjiä on mukana ryhmässä, sitä korkeammalla hypyn muodostelma tulee
 purkaa. Ohessa esimerkkejä suositeltavista purkukorkeuksista:
-
--   2 - 4 hyppääjää, 1400 m
-
--   yli 4 hyppääjää, 1500 m
-
--   yli 8 hyppääjää, 1600 m
-
--   yli 12 hyppääjää, 1700 m tai enemmän
+- 2 - 4 hyppääjää, 1400 m
+- yli 4 hyppääjää, 1500 m
+- yli 8 hyppääjää, 1600 m
+- yli 12 hyppääjää, 1700 m tai enemmän
 
 Ennen freefly-ryhmähypyn purkua pyri saamaan näköyhteys kaikkiin mukana
 olleisiin hyppääjiin. Jos et näe purkumerkin jälkeen kaikkia ryhmässä

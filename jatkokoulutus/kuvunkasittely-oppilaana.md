@@ -66,77 +66,52 @@ määräysten mukaan mahdollistavat hyppäämisen. Ääriolosuhteet ja
 maksimiohjausliikkeet eivät sovi yhteen.
 
 Ääriolosuhteita ja asioita, joita tulisi välttää, ovat
-
--   kova tuuli, erityisesti puuskainen ja turbulenttinen keli
-
--   toisen jättövirtauksessa lentäminen
-
--   pienet laskeutumisalueet
-
--   väsyneenä hyppääminen
-
--   turhien riskien ottaminen.
+- kova tuuli, erityisesti puuskainen ja turbulenttinen keli
+- toisen jättövirtauksessa lentäminen
+- pienet laskeutumisalueet
+- väsyneenä hyppääminen
+- turhien riskien ottaminen.
 
 ## Huomioitavia asioita  
 
 
 ###  Vapaapudotus  
-
--   Hypätään oikeasta uloshyppypaikasta.
-
--   Tarkastetaan sijainti jo vapaan aikana.
-
--   Puretaan oikeassa korkeudessa sekä riittävän korkealla tasoon ja
+- Hypätään oikeasta uloshyppypaikasta.
+- Tarkastetaan sijainti jo vapaan aikana.
+- Puretaan oikeassa korkeudessa sekä riittävän korkealla tasoon ja
     suoritukseen nähden.
-
--   Liu’utaan eroon muista, tarkastetaan ilmatila ja
+- Liu’utaan eroon muista, tarkastetaan ilmatila ja
     annetaan avausmerkki.
 
 ###  Avauksen aikana  
-
--   Avataan riittävän korkealla, stabiilissa asennossa, katse
+- Avataan riittävän korkealla, stabiilissa asennossa, katse
     horisonttiin ja olkapäät horisontin tasossa. Ei katsota olan
     yli apuvarjoa. Jo avauksen aikana kannattaa tarkkailla ilmatilaa
     muiden varjojen varalta.
-
--   Tehdään päätös: LENTÄÄ / EI LENNÄ (⇒ varavarjotoimenpiteet).
-
--   Laitetaan kädet takimmaisille kantohihnoille, väistetään
+- Tehdään päätös: LENTÄÄ / EI LENNÄ (⇒ varavarjotoimenpiteet).
+- Laitetaan kädet takimmaisille kantohihnoille, väistetään
     tarvittaessa (oikealle) ja tarkastetaan ilmatila.
-
--   Ohjataan takimmaisista kantohinnoista ja etsitään muut.
-
--   Tarkastetaan oma sijainti ja korkeus.
-
--   Tarkastetaan irtipäästöpampula ja varavarjon kahvan paikka
+- Ohjataan takimmaisista kantohinnoista ja etsitään muut.
+- Tarkastetaan oma sijainti ja korkeus.
+- Tarkastetaan irtipäästöpampula ja varavarjon kahvan paikka
     ja kiinnitys.
-
--   Käännetään takimmaisista kantohinnoista haluttuun lentosuuntaan.
-
--   Tukahdutetaan slider ja avataan puolijarrut.
-
--   Tehdään varjon ohjauskokeilu viimeistään 600 metrin korkeudessa.
+- Käännetään takimmaisista kantohinnoista haluttuun lentosuuntaan.
+- Tukahdutetaan slider ja avataan puolijarrut.
+- Tehdään varjon ohjauskokeilu viimeistään 600 metrin korkeudessa.
 
 ###  Lentäminen 
-
--   Katsekontakti 90 % ympärille (lentosuunta, sivut, alas, ylös
+- Katsekontakti 90 % ympärille (lentosuunta, sivut, alas, ylös
     ja taakse) ja 10 % maahan.
-
--   Annetaan muillekin lentotilaa: ei mennä lähelle, jos ei ole
+- Annetaan muillekin lentotilaa: ei mennä lähelle, jos ei ole
     etukäteen sovittu.
-
--   Porrastetaan liikenne mahdollisimman ylhäällä, ei
+- Porrastetaan liikenne mahdollisimman ylhäällä, ei
     vasta laskeutumiskuviossa.
-
--   Huomioidaan väistämisvelvollisuus: varavarjot, hitaammat kuvut,
+- Huomioidaan väistämisvelvollisuus: varavarjot, hitaammat kuvut,
     alemmat ja oikealta tulevat.
-
--   Ohjaillaan varjoa rauhallisesti ja keliä
+- Ohjaillaan varjoa rauhallisesti ja keliä
     tunnustellen (turbulenttisuus).
-
--   Päätetään tarvittaessa ajoissa varalaskupaikka ja laskusuunta.
-
--   Tarkkaillaan korkeutta ja korkeusmenetystä liikkeiden aikana.
+- Päätetään tarvittaessa ajoissa varalaskupaikka ja laskusuunta.
+- Tarkkaillaan korkeutta ja korkeusmenetystä liikkeiden aikana.
 
 ###  Varjon varassa törmäämisestä  
 
@@ -153,12 +128,9 @@ välistä.
 Pyri estämään törmääminen varjon varassa väistämällä oikealle ja
 varoittamalla huutamalla. Jos törmäämistä varjon varassa ei voi välttää,
 niin menetellään seuraavasti:
-
--   Minimoidaan törmäysvauhti jarruttamalla varjoa voimakkaasti.
-
--   Käperrytään palloksi.
-
--   Jos varjot sotkeutuvat:
+- Minimoidaan törmäysvauhti jarruttamalla varjoa voimakkaasti.
+- Käperrytään palloksi.
+- Jos varjot sotkeutuvat:
 
     -   tarkkaillaan korkeutta
 
@@ -166,58 +138,41 @@ niin menetellään seuraavasti:
 
     -   varmistetaan, että ollaan irti punoksista/kuvusta (käytetään
         tarvittaessa koukkupuukkoa) ennen varavarjotoimenpiteitä.
-
--   Kahden hyppääjän ei ole turvallista laskeutua yhdellä erittäin
+- Kahden hyppääjän ei ole turvallista laskeutua yhdellä erittäin
     raskaasti kuormitetulla päävarjolla.
 
 ###  Laskeutuminen  
-
--   Noudatetaan laskeutumissääntöjä: kuvion suunta, esteet
+- Noudatetaan laskeutumissääntöjä: kuvion suunta, esteet
     ja rajoitukset.
-
--   Tarkkaillaan ympäristöä, tuulta ja maata.
-
--   Suunnitellaan loppukuvio ajoissa. Huomioidaan esteet, ihmiset, muu
+- Tarkkaillaan ympäristöä, tuulta ja maata.
+- Suunnitellaan loppukuvio ajoissa. Huomioidaan esteet, ihmiset, muu
     liikenne, turbulenssi ja tuuli.
-
--   Ei tehdä jyrkkiä käännöksiä.
-
--   Valitaan laskeutumisalue (lyhyt, pitkä) taitojen mukaan.
-
--   Ei yritetä väkisin tiettyyn paikkaan, vaan laskeudutaan
+- Ei tehdä jyrkkiä käännöksiä.
+- Valitaan laskeutumisalue (lyhyt, pitkä) taitojen mukaan.
+- Ei yritetä väkisin tiettyyn paikkaan, vaan laskeudutaan
     rauhallisesti ja turvallisesti.
-
--   Tehdään oikeaoppinen loppuveto.
+- Tehdään oikeaoppinen loppuveto.
     Kaikki liikkeet tehdään rauhallisesti eikä varjoa sakkauteta. Varjo ei anna
     anteeksi epäsymmetrisyyttä.
 
 Vastatuulen sijaan voidaan tulla mihin suuntaan tahansa tilanteen niin
 vaatiessa. Tärkeintä on laskeutua vapaaseen suuntaan ilman matalalla
 tehtyjä jyrkkiä käännöksiä.
-
--   Pidetään ohjaussuunta loppuun asti eikä oteta vastaan kädellä
+- Pidetään ohjaussuunta loppuun asti eikä oteta vastaan kädellä
     tai jalalla.
-
--   Ei pumpata loppuvedossa ohjauslenkeillä.
-
--   Jos loppuveto tehdään liian korkealla, pidetään ohjauslenkit
+- Ei pumpata loppuvedossa ohjauslenkeillä.
+- Jos loppuveto tehdään liian korkealla, pidetään ohjauslenkit
     alhaalla tai löysätään jarrutusta vain hieman. Jalat pidetään
     tiukasti yhdessä.
-
--   Tarkkaillaan korkeutta, sillä loppuveto perustuu sekä näköhavaintoon
+- Tarkkaillaan korkeutta, sillä loppuveto perustuu sekä näköhavaintoon
     että tuntemukseen.
 
 ###  Maahantulon jälkeen  
-
--   Tukahdutetaan kupu vetämällä toinen ohjauslenkki alas.
-
--   Tarkastetaan takaa tulevien lentosuunnat.
-
--   Asetetaan ohjauslenkit tarroihin ja avataan slider.
-
--   Kootaan varjo ja poistutaan laskeutumisalueelta.
-
--   Huomioidaan muut hyppääjät ja liikenne koko ajan.
+- Tukahdutetaan kupu vetämällä toinen ohjauslenkki alas.
+- Tarkastetaan takaa tulevien lentosuunnat.
+- Asetetaan ohjauslenkit tarroihin ja avataan slider.
+- Kootaan varjo ja poistutaan laskeutumisalueelta.
+- Huomioidaan muut hyppääjät ja liikenne koko ajan.
 
 Hyppyohjelman läpivienti edellyttää sopivat sääolosuhteet myös yli 600
 metrin korkeudessa, jotta käännökset, sakkauskokeilut jne. voidaan

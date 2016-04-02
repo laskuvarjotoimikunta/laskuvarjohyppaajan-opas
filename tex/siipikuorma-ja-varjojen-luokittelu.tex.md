@@ -31,21 +31,14 @@ varjojen lento-ominaisuudet olisivat samantyyppiset.
 
 Seuraavassa on varjojen suorituskykyikkunoita. Optimaalinen käyttöalue
 on välin keskivaiheilla. Lista on vain suuntaa antava.
-
--   oppilasvarjot (Navigator, Skymaster) 0,5 – 1,0
-
--   tarkkuusvarjot (Parafoil, Classic, Opus) 0,5 – 0,8
-
--   F-111-varjot (PD9-cell, Silhouette, Fury) 0,7 – 1,1
-
--   yleisvarjot (Sabre, Sabre2, Hornet, Triathlon, Spectre,
+- oppilasvarjot (Navigator, Skymaster) 0,5 – 1,0
+- tarkkuusvarjot (Parafoil, Classic, Opus) 0,5 – 0,8
+- F-111-varjot (PD9-cell, Silhouette, Fury) 0,7 – 1,1
+- yleisvarjot (Sabre, Sabre2, Hornet, Triathlon, Spectre,
     Pilot, Safire) 0,9 – 1,5
-
--   I sukupolven elliptiset (Stiletto, Contrail, Springo) 1,3 – 1,7
-
--   II sukupolven elliptiset (Crossfire, Katana, Vengeance) 1,5 – 2,0
-
--   cross-brace-rakenteiset (FX, VX, Velocity, Xaos, Sensei) 1,8 – 2,5
+- I sukupolven elliptiset (Stiletto, Contrail, Springo) 1,3 – 1,7
+- II sukupolven elliptiset (Crossfire, Katana, Vengeance) 1,5 – 2,0
+- cross-brace-rakenteiset (FX, VX, Velocity, Xaos, Sensei) 1,8 – 2,5
 
 Seuraavassa luokittelussa varjot ja siipikuormat on jaettu kuuteen
 ryhmään, jotka kuvaavat varjojen suorituskykyeroja ja niiden

@@ -75,64 +75,40 @@ katsomaan toisen hyppääjän selän yli.
 Joitakin turvallisuusasioita tarkistettavaksi ja huomioitavaksi:
 
 Ennen hyppyä:
-
--   Mieti, onko sää sopiva omiin taitoihisi nähden.
-
--   Mieti, sopiiko hypyn vaativuus omiin taitoihisi.
-
--   Tarkista ja huolla omat varusteesi (huomioi aina luupin kunto
+- Mieti, onko sää sopiva omiin taitoihisi nähden.
+- Mieti, sopiiko hypyn vaativuus omiin taitoihisi.
+- Tarkista ja huolla omat varusteesi (huomioi aina luupin kunto
     ja tiukkuus).
-
--   Mieti, vaikuttavatko painot siipikuormaasi.
-
--   Pidä painovyötä haalareiden päällä ja varmista, että vyössä on
+- Mieti, vaikuttavatko painot siipikuormaasi.
+- Pidä painovyötä haalareiden päällä ja varmista, että vyössä on
     pitävä, mutta helposti avattava lukitus (jos laskeudutkin veteen).
 
 Koneessa:
-
--   Jos hyppykone on sinulle uusi, varmistu siitä, että tunnet sen
+- Jos hyppykone on sinulle uusi, varmistu siitä, että tunnet sen
     hyppäämiseen vaikuttavat ominaisuudet (hätävarusteet ja
     hätäuloskäynnit, mahdollinen sakkausvaara, oven toiminta jne.)
-
--   Toimi sovittujen ohjeiden mukaan.
-
--   Tarkista omat varusteesi.
-
--   Tarkista hyppykaverisi varusteet.
-
--   Varmistu oikeasta uloshyppypaikasta.
-
--   Varmistu esteettömästä ja turvallisesta uloshypystä.
+- Toimi sovittujen ohjeiden mukaan.
+- Tarkista omat varusteesi.
+- Tarkista hyppykaverisi varusteet.
+- Varmistu oikeasta uloshyppypaikasta.
+- Varmistu esteettömästä ja turvallisesta uloshypystä.
 
 Hypyllä:
-
--   Varmista riittävä väli edelliseen ryhmään.
-
--   Etsi muut hyppääjät, jos uloshyppy hajoaa.
-
--   Varsinkin isoja kuvia hypätessäsi tarkkaile muita hyppääjiä vapaassa
+- Varmista riittävä väli edelliseen ryhmään.
+- Etsi muut hyppääjät, jos uloshyppy hajoaa.
+- Varsinkin isoja kuvia hypätessäsi tarkkaile muita hyppääjiä vapaassa
     törmäyksen estämiseksi.
-
--   Tarkkaile korkeutta.
-
--   Liu’u riittävän pitkälle.
-
--   Varmista vapaa ilmatila.
-
--   Avaa oikeassa korkeudessa.
+- Tarkkaile korkeutta.
+- Liu’u riittävän pitkälle.
+- Varmista vapaa ilmatila.
+- Avaa oikeassa korkeudessa.
 
 Varjon varassa:
-
--   Varaudu kuvun kääntymiseen avauksen jälkeen.
-
--   Tarkista varusteesi
+- Varaudu kuvun kääntymiseen avauksen jälkeen.
+- Tarkista varusteesi
     (\[hyppytapahtuma-varjon-avautuminen-ja-lentokuntoon-saattaminen\] s.)
-
--   Tarkista, että hyppykaveriesi varjot ovat auki.
-
--   Tarkkaile ilmatilaa ja huomioi muut hyppääjät varjon varassa.
-
--   Jos et pääse maalialueelle, valitse ajoissa varalaskupaikka
+- Tarkista, että hyppykaveriesi varjot ovat auki.
+- Tarkkaile ilmatilaa ja huomioi muut hyppääjät varjon varassa.
+- Jos et pääse maalialueelle, valitse ajoissa varalaskupaikka
     (tilanteen mukaan laskeudu samaan paikkaan kuin hyppykaverisi).
-
--   Noudata laskeutumiskuria ja sovittuja sääntöjä.
+- Noudata laskeutumiskuria ja sovittuja sääntöjä.

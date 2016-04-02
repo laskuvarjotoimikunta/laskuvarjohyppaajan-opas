@@ -73,41 +73,30 @@ Oppilaan ollessa kyseessä vain hyppymestarilla on oikeus säätää
 automaattilaukaisinta. FXC:n säätölaitteessa on JUMP/OFF-nuppi, jonka on
 koko ajan oltava JUMP-asennossa. On olemassa kaksi tilannetta, joissa
 FXC:n JUMP/OFF-nuppi käännetään OFF-asentoon:
-
--   Koneella alas tultaessa hyppymestarin käskystä
-
--   Laskeuduttaessa veteen
+- Koneella alas tultaessa hyppymestarin käskystä
+- Laskeuduttaessa veteen
     (\[mahdolliset-vaaratilanteet-laskeutuminen-veteen\] s.)
 
 ![image](/kuvat/AAD-Cypres.jpg)
 
  Muut hyppytoiminnassa käytettävät varusteet  
 =============================================
-
--   Kova kypärä, jossa kiinnityshihna on kypärän ulkopuolella.
-
--   Radiovastaanotin on oltava ainakin kolmella ensimmäisellä hypyllä.
-
--   Suojalasit suojaavat silmiä viimalta ja roskilta.
-
--   Haalari, jossa ei saa olla tarttuvia taskuja tai ulokkeita, jotka
+- Kova kypärä, jossa kiinnityshihna on kypärän ulkopuolella.
+- Radiovastaanotin on oltava ainakin kolmella ensimmäisellä hypyllä.
+- Suojalasit suojaavat silmiä viimalta ja roskilta.
+- Haalari, jossa ei saa olla tarttuvia taskuja tai ulokkeita, jotka
     voivat takertua johonkin tai joista hyppääjä voi vahingossa ottaa
     kiinni kahvoista kiinni ottaessaan. Haalarin alle puetaan säähän
     sopiva vaatetus, joka ei haittaa liikkumista.
-
--   Sormikkaat ovat pakolliset oppilailla. Niiden on oltava lämpimät,
+- Sormikkaat ovat pakolliset oppilailla. Niiden on oltava lämpimät,
     mutta ei liian paksut eikä liukkaat.
-
--   Kengät, joiden on oltava hyppytoimintaan soveltuvat (ei
+- Kengät, joiden on oltava hyppytoimintaan soveltuvat (ei
     koukkuja tms.).
-
--   Korkeusmittari, joka nollataan maassa. Mittari kiinnitetään
+- Korkeusmittari, joka nollataan maassa. Mittari kiinnitetään
     rintahihnaan tai käteen.
-
--   Koukkupuukkoa käytetään takertumien selvittämiseen sotkeutumis-
+- Koukkupuukkoa käytetään takertumien selvittämiseen sotkeutumis-
     tai törmäämistilanteissa.
-
--   Pelastusliivi puetaan koulutuspäällikön harkinnan mukaan, jos
+- Pelastusliivi puetaan koulutuspäällikön harkinnan mukaan, jos
     hyppypaikalla on ilmeinen hukkumisvaara.
 
 Hypyn aikana mukana ei saa olla mitään tarpeetonta (esimerkiksi avaimet,

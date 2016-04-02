@@ -88,21 +88,14 @@ toimintaa koordinoi liiton toimisto Helsinki-Malmin lentoasemalla.
 Ilmailu on ilmailuviranomaisen valvomaa toimintaa. Suomen Ilmailuliitto
 antaa jäsenilleen omia ohjeistuksia ja toimii etujärjestönä
 viranomaisiin päin muun muassa
-
--   Avustamalla asiantuntijana Trafia laskuvarjohyppytoiminnassa
-
--   Laatimalla laskuvarjourheilua koskevat koulutusohjelmat ja
+- Avustamalla asiantuntijana Trafia laskuvarjohyppytoiminnassa
+- Laatimalla laskuvarjourheilua koskevat koulutusohjelmat ja
     tiedottamalla niistä jäsenistölleen
-
--   Valvomalla jäsenorganisaatioiden koulutustoimintaa
-
--   Laatimalla laskuvarjohyppytoimintatilastoja
-
--   Kokoamalla ja analysoimalla onnettomuus- ja vaaratilanneselvityksiä
-
--   Myöntämällä SIL-laskuvarjohyppylisenssit
-
--   Osallistumalla laskuvarjourheilua koskevien määräysten ja ohjeiden
+- Valvomalla jäsenorganisaatioiden koulutustoimintaa
+- Laatimalla laskuvarjohyppytoimintatilastoja
+- Kokoamalla ja analysoimalla onnettomuus- ja vaaratilanneselvityksiä
+- Myöntämällä SIL-laskuvarjohyppylisenssit
+- Osallistumalla laskuvarjourheilua koskevien määräysten ja ohjeiden
     valmisteluun
 
 Ilmailu-lehteä Ilmailuliitto on julkaissut jo vuodesta 1938 alkaen.
@@ -229,78 +222,60 @@ suoritus voidaan hyväksyä.
 
  Hyppysuoritukset, NOVA  
 ------------------------
-
--   Taso 1
+- Taso 1
     (\[nova-alkeiskoulutuksen-suoritukset-taso-1-tottuminen-vapaapudotukseen\] s.)
-
--   Taso 2
+- Taso 2
     (\[nova-alkeiskoulutuksen-suoritukset-taso-2-asennon-hallinta\] s.)
-
--   Taso 3
+- Taso 3
     (\[nova-alkeiskoulutuksen-suoritukset-taso-3-stabiili-vapaapudotus\] s.)
-
--   Taso 4
+- Taso 4
     (\[nova-alkeiskoulutuksen-suoritukset-taso-4-kaannokset-90deg\] s.)
-
--   Taso 5
+- Taso 5
     (\[nova-alkeiskoulutuksen-suoritukset-taso-5-kaannokset-360deg\] s.)
-
--   Taso 6
+- Taso 6
     (\[nova-alkeiskoulutuksen-suoritukset-taso-6-irtiuloshyppy\] s.)
-
--   Taso 7 (\[nova-alkeiskoulutuksen-suoritukset-taso-7-puolisarja\] s.)
-
--   15” lyhyt vapaa
+- Taso 7 (\[nova-alkeiskoulutuksen-suoritukset-taso-7-puolisarja\] s.)
+- 15” lyhyt vapaa
     (\[nova-alkeiskoulutuksen-suoritukset-15-lyhyt-vapaa\] s.)
 
  Hyppysuoritukset, PL  
 ----------------------
-
--   3 pakkolaukaisua
+- 3 pakkolaukaisua
     (\[pl-alkeiskoulutuksen-suoritukset-pakkolaukaisu\] s.)
-
--   3 harjoitusvetoa
+- 3 harjoitusvetoa
     (\[pl-alkeiskoulutuksen-suoritukset-harjoitusveto\] s.)
-
--   3” itseaukaisu
+- 3” itseaukaisu
     (\[pl-alkeiskoulutuksen-suoritukset-itseaukaisu-3\] s.)
-
--   5” itseaukaisu
+- 5” itseaukaisu
     (\[pl-alkeiskoulutuksen-suoritukset-itseaukaisu-5\] s.)
-
--   10” itseaukaisu (\[pl-alkeiskoulutuksen-suoritukset-10\] s.)
+- 10” itseaukaisu (\[pl-alkeiskoulutuksen-suoritukset-10\] s.)
 
  Muut suoritukset  
 ------------------
-
--   Peruskoulutuksen teoriakoe. Opiskeltava alue on luvusta *Yhteenveto:
+- Peruskoulutuksen teoriakoe. Opiskeltava alue on luvusta *Yhteenveto:
     Peruskoulutus* (\[yhteenveto-peruskoulutus\] s.) lukuun
     *Peruskoulutuksen muut suoritukset*
     (\[peruskoulutuksen-muut-suoritukset\] s.).
 
  NOVA-suoritusten aikarajat  
 ----------------------------
-
--   Jos tasokoulutuksen aikana oppilaalle tulee 30 vrk tai sitä pitempi
+- Jos tasokoulutuksen aikana oppilaalle tulee 30 vrk tai sitä pitempi
     hyppytauko, hänen on uusittava edellinen taso, kuitenkin enintään 3.
     taso.
-
--   NOVA-oppilaan on hypättävä alkeiskoulutuksen viimeinen hyppy (15”)
+- NOVA-oppilaan on hypättävä alkeiskoulutuksen viimeinen hyppy (15”)
     **neljäntoista** vuorokauden sisällä viimeisestä tasohypystä, muuten
     hän joutuu uusimaan tason 7.
 
  PL-suoritusten aikarajat  
 --------------------------
-
--   Jos alkeiskoulutuksen aikana oppilaalle tulee 30 vrk tai sitä
+- Jos alkeiskoulutuksen aikana oppilaalle tulee 30 vrk tai sitä
     pidempi hyppytauko, hänen on hypättävä totuttelusuoritus ennen
     seuraavaa hyppyä riippuen edellisestä suorituksesta:
 
     -   PL tai HV ⇨ PL
 
     -   3”, 5” tai 10” ⇨ HV
-
--   Ensimmäinen itseaukaisuhyppy on hypättävä viimeistään seuraavan
+- Ensimmäinen itseaukaisuhyppy on hypättävä viimeistään seuraavan
     vuorokauden aikana viimeisestä
     hyväksytystä harjoitusvetosuorituksesta.
 
@@ -382,41 +357,30 @@ Oppilaan ollessa kyseessä vain hyppymestarilla on oikeus säätää
 automaattilaukaisinta. FXC:n säätölaitteessa on JUMP/OFF-nuppi, jonka on
 koko ajan oltava JUMP-asennossa. On olemassa kaksi tilannetta, joissa
 FXC:n JUMP/OFF-nuppi käännetään OFF-asentoon:
-
--   Koneella alas tultaessa hyppymestarin käskystä
-
--   Laskeuduttaessa veteen
+- Koneella alas tultaessa hyppymestarin käskystä
+- Laskeuduttaessa veteen
     (\[mahdolliset-vaaratilanteet-laskeutuminen-veteen\] s.)
 
 ![image](/kuvat/AAD-Cypres.jpg)
 
  Muut hyppytoiminnassa käytettävät varusteet  
 ---------------------------------------------
-
--   Kova kypärä, jossa kiinnityshihna on kypärän ulkopuolella.
-
--   Radiovastaanotin on oltava ainakin kolmella ensimmäisellä hypyllä.
-
--   Suojalasit suojaavat silmiä viimalta ja roskilta.
-
--   Haalari, jossa ei saa olla tarttuvia taskuja tai ulokkeita, jotka
+- Kova kypärä, jossa kiinnityshihna on kypärän ulkopuolella.
+- Radiovastaanotin on oltava ainakin kolmella ensimmäisellä hypyllä.
+- Suojalasit suojaavat silmiä viimalta ja roskilta.
+- Haalari, jossa ei saa olla tarttuvia taskuja tai ulokkeita, jotka
     voivat takertua johonkin tai joista hyppääjä voi vahingossa ottaa
     kiinni kahvoista kiinni ottaessaan. Haalarin alle puetaan säähän
     sopiva vaatetus, joka ei haittaa liikkumista.
-
--   Sormikkaat ovat pakolliset oppilailla. Niiden on oltava lämpimät,
+- Sormikkaat ovat pakolliset oppilailla. Niiden on oltava lämpimät,
     mutta ei liian paksut eikä liukkaat.
-
--   Kengät, joiden on oltava hyppytoimintaan soveltuvat (ei
+- Kengät, joiden on oltava hyppytoimintaan soveltuvat (ei
     koukkuja tms.).
-
--   Korkeusmittari, joka nollataan maassa. Mittari kiinnitetään
+- Korkeusmittari, joka nollataan maassa. Mittari kiinnitetään
     rintahihnaan tai käteen.
-
--   Koukkupuukkoa käytetään takertumien selvittämiseen sotkeutumis-
+- Koukkupuukkoa käytetään takertumien selvittämiseen sotkeutumis-
     tai törmäämistilanteissa.
-
--   Pelastusliivi puetaan koulutuspäällikön harkinnan mukaan, jos
+- Pelastusliivi puetaan koulutuspäällikön harkinnan mukaan, jos
     hyppypaikalla on ilmeinen hukkumisvaara.
 
 Hypyn aikana mukana ei saa olla mitään tarpeetonta (esimerkiksi avaimet,
@@ -544,13 +508,10 @@ pitkältä ajalta.
 ![image](/kuvat/206UH2.jpeg)
 
 Onnistuneen uloshypyn päätekijät ovat:
-
--   Asettautuminen hyvään uloshyppyasentoon ovelle (katse
+- Asettautuminen hyvään uloshyppyasentoon ovelle (katse
     ylös koneeseen)
-
--   Riittävä ponnistus ja rintamasuunta lentosuuntaan
-
--   Hyvä ja symmetrinen delta-asento sekä voimakas taivutus ja katse
+- Riittävä ponnistus ja rintamasuunta lentosuuntaan
+- Hyvä ja symmetrinen delta-asento sekä voimakas taivutus ja katse
     ylös koneeseen
 
  Uloshyppy Streevakone, pakkolaukaisu  
@@ -588,13 +549,10 @@ pitkältä ajalta.
 ![image](/kuvat/StreevaUH2.jpeg)
 
 Onnistuneen uloshypyn päätekijät ovat:
-
--   Asettautuminen hyvään ja symmetriseen uloshyppyasentoon (X-asento,
+- Asettautuminen hyvään ja symmetriseen uloshyppyasentoon (X-asento,
     taivutus ja katse ylös koneeseen)
-
--   Käsien yhtäaikainen irrottaminen ja rintamasuunta lentosuuntaan
-
--   Hyvä ja symmetrinen X-asento sekä voimakas taivutus ja katse ylös
+- Käsien yhtäaikainen irrottaminen ja rintamasuunta lentosuuntaan
+- Hyvä ja symmetrinen X-asento sekä voimakas taivutus ja katse ylös
     koneeseen
 
  Uloshyppy NOVA  
@@ -721,13 +679,10 @@ Visuaalinen, metriasteikolla varustettu osoitinmittari, on ainoa
 hyväksyttävä mittari hyppyuran alussa.
 
 Visuaalisessa korkeusmittarissa on
-
--   näyttöväli 10, 50 tai 100 metriä ja numerot 100 tai 500
+- näyttöväli 10, 50 tai 100 metriä ja numerot 100 tai 500
     metrin välein.
-
--   avauskorkeus 800 tai 1000 metriä merkitty eri värillä.
-
--   joko osoitinmittari tai digitaalinen, jossa numeronäyttö.
+- avauskorkeus 800 tai 1000 metriä merkitty eri värillä.
+- joko osoitinmittari tai digitaalinen, jossa numeronäyttö.
 
 Mittarin näyttöasteikko voi osoittaa korkeuden joko metreinä tai
 jalkoina (feet = ft). Jalka = 0,3048 m.
@@ -735,47 +690,33 @@ jalkoina (feet = ft). Jalka = 0,3048 m.
 ###  Käyttö  
 
 Korkeusmittaria käytettäessä on huomioitava seuraavat asiat:
-
--   Mittari on asetettava paikkaan, josta se nähdään aina.
-
--   Perusasennon on säilyttävä mittaria katsottaessa.
-
--   Mittaria vilkaistaan päätä kääntämällä tai FS-hypyillä voidaan
+- Mittari on asetettava paikkaan, josta se nähdään aina.
+- Perusasennon on säilyttävä mittaria katsottaessa.
+- Mittaria vilkaistaan päätä kääntämällä tai FS-hypyillä voidaan
     katsoa myös muiden mittareita.
-
--   Mittaria luetaan vertaamalla viisarin asentoa punaisen alkuun eikä
+- Mittaria luetaan vertaamalla viisarin asentoa punaisen alkuun eikä
     numeroihin tuijottamalla.
-
--   Ajantajun on säilyttävä jokaisella hypyllä, sillä mittari voi
+- Ajantajun on säilyttävä jokaisella hypyllä, sillä mittari voi
     mennä rikki.
-
--   Mittarin jumiutuessa, tai jos mittari ei ole luettavissa, avataan
+- Mittarin jumiutuessa, tai jos mittari ei ole luettavissa, avataan
     varjo heti, mutta huomioidaan kuitenkin muut hyppääjät.
-
--   Freehypyillä suositellaan käsimittaria. Ensimmäisillä freehypyillä
+- Freehypyillä suositellaan käsimittaria. Ensimmäisillä freehypyillä
     kannattaa käyttää myös rintamittaria.
-
--   Käytettäessä integraalikypärää suositellaan käsimittaria, sillä
+- Käytettäessä integraalikypärää suositellaan käsimittaria, sillä
     rintamittari ei ole välttämättä luettavissa.
-
--   Mittarit on kalibroitu toimimaan tarkimmin avauskorkeusalueella.
+- Mittarit on kalibroitu toimimaan tarkimmin avauskorkeusalueella.
     Korkealla esiintyvät näyttöerot ovat tavallisia.
 
 ###  Virheet  
 
 Yleisimmät viat ja virheet korkeusmittarin toiminnassa ovat:
-
--   paine-erot ja virhenäytöt vapaapudotushypyillä esimerkiksi
+- paine-erot ja virhenäytöt vapaapudotushypyillä esimerkiksi
     käytettäessä rintamittaria selkälennossa
-
--   mittarin jäätyminen kosteuden tai tiivistyneen veden takia
-
--   jumiutuminen iskujen tai lian takia
-
--   mekaaninen vika, joka aiheutuu mittarin pudotessa maahan tai maassa
+- mittarin jäätyminen kosteuden tai tiivistyneen veden takia
+- jumiutuminen iskujen tai lian takia
+- mekaaninen vika, joka aiheutuu mittarin pudotessa maahan tai maassa
     olevan mittarin päälle astumisesta
-
--   paristojen loppuminen
+- paristojen loppuminen
 
 Korkeuserojen laskeminen ja mittariasetus on osattava, jos lähtö- ja
 alastulopaikka eivät ole samat.
@@ -825,32 +766,23 @@ varusteisiin.
 ![image](/kuvat/HD-apuvarjo.jpeg)
 
 ###  Vaaratilanteet  
-
--   Epästabiili asento, kädet/käsi tai jalat/jalka sisällä ⇨ kaatuu
+- Epästabiili asento, kädet/käsi tai jalat/jalka sisällä ⇨ kaatuu
     kyljelleen/selälleen ⇨ mahdollista sotkeutua avautuvaan varjoon.
-
--   Veto irtipäästöpampulasta ⇨ päävarjo irtoaa normaalin avauksen
+- Veto irtipäästöpampulasta ⇨ päävarjo irtoaa normaalin avauksen
     jälkeen ⇨ tehdään varavarjotoimenpiteet.
-
--   Veto varavarjon kahvasta ⇨ varavarjo aukeaa.
-
--   Veto valjaista / kahva ei lähde / ei vetoa ⇨ päävarjo ei aukea ⇨
+- Veto varavarjon kahvasta ⇨ varavarjo aukeaa.
+- Veto valjaista / kahva ei lähde / ei vetoa ⇨ päävarjo ei aukea ⇨
     uusitaan veto tai tehdään varavarjotoimenpiteet.
-
--   Apuvarjo tarttuu kiinni hyppääjään ⇨ yksi irrotusyritys, jos
+- Apuvarjo tarttuu kiinni hyppääjään ⇨ yksi irrotusyritys, jos
     nähtävissä ⇨ aukeaa tai varavarjotoimenpiteet.
-
--   Punokset sotkeutuvat hyppääjään ⇨ pyritään irrottautumaan
+- Punokset sotkeutuvat hyppääjään ⇨ pyritään irrottautumaan
     sotkeutuneista punoksista, käytetään tarvittaessa koukkupuukkoa ⇨
     tehdään varavarjotoimenpiteet.
-
--   Apuvarjo voi avauksessa joskus tulla kuvun etureunan kautta kuvun
+- Apuvarjo voi avauksessa joskus tulla kuvun etureunan kautta kuvun
     alapuolelle ⇨ tehdään ohjauskokeilu ⇨ jos varjo ei käyttäydy
     normaalisti, tehdään varavarjotoimenpiteet.
-
--   Asento hallitsematon ⇨ avataan päävarjo heti.
-
--   Apuvarjo turbulenssissa:
+- Asento hallitsematon ⇨ avataan päävarjo heti.
+- Apuvarjo turbulenssissa:
 
 Avauksessa apuvarjo voi jäädä hyppääjän selän taakse muodostuvaan
 pyörteeseen eli turbulenssiin. Jos vedon jälkeen 105:n kohdalla ei ole
@@ -876,12 +808,9 @@ punoksia pitkin alas hidastaen kuvun aukeamista. Sinun tehtäväksesi jää
 varjon tarkastaminen ja sen lopullinen avaaminen.
 
 Kun olet päässyt laskemisessa 105:een, tarkasta varjo. Varjo LENTÄÄ, kun
-
--   Kupu on säännöllisen muotoinen
-
--   Punokset ovat kireällä
-
--   Slider on suorakaiteen muotoinen.
+- Kupu on säännöllisen muotoinen
+- Punokset ovat kireällä
+- Slider on suorakaiteen muotoinen.
 
 Tarkastettuasi varjon vie kädet takimmaisille kantohihnoille. Jos
 punokset ovat kierteellä, avaa ne potkimalla ja levittämällä
@@ -902,16 +831,12 @@ varavarjotoimenpiteisiin.
 
 Kun olet suorittanut varjon lopullisen avaamisen, tarkasta seuraavat
 asiat:
-
--   ILMATILA (myös kierteiden avauksen ja pumppauksen aikana, väistä
+- ILMATILA (myös kierteiden avauksen ja pumppauksen aikana, väistä
     tarvittaessa ja/tai varoita huutamalla
     (\[mahdolliset-vaaratilanteet-tormaaminen-varjon-varassa\] s.))
-
--   KORKEUS (myös kierteiden avauksen ja pumppauksen aikana)
-
--   KAHVAT taskuissaan (varavarjon kahva ja päävarjon irtipäästöpampula)
-
--   SIJAINTI (oma ja maalialueen sijainti)
+- KORKEUS (myös kierteiden avauksen ja pumppauksen aikana)
+- KAHVAT taskuissaan (varavarjon kahva ja päävarjon irtipäästöpampula)
+- SIJAINTI (oma ja maalialueen sijainti)
 
 Aloita ohjaaminen ja käännä varjo tarvittaessa vastatuuleen.
 
@@ -1106,16 +1031,11 @@ turvallisesti!
 ###  Loppuveto ja maahantulo  
 
 Ollessasi finaalissa noin 50 metrin korkeudessa ota hyvä alastuloasento:
-
--   Kädet ohjauslenkeissä
-
--   Leuka kiinni rinnassa ja hampaat yhdessä
-
--   Polvet joustavasti hiukan koukussa ja **tiukasti** yhdessä
-
--   Jalkaterät 45° etenemissuunnasta sivulle ja **tiukasti** yhdessä
-
--   Jalkapohjat samalla tasolla ja maanpinnan suuntaiset.
+- Kädet ohjauslenkeissä
+- Leuka kiinni rinnassa ja hampaat yhdessä
+- Polvet joustavasti hiukan koukussa ja **tiukasti** yhdessä
+- Jalkaterät 45° etenemissuunnasta sivulle ja **tiukasti** yhdessä
+- Jalkapohjat samalla tasolla ja maanpinnan suuntaiset.
 
 ![image](/kuvat/Alastuloasento.jpeg)
 
@@ -1125,12 +1045,9 @@ Samalla kun otat alastuloasennon, siirrä ohjauslenkit korvien tasalle.
 Kun korkeutta on 2-3 metriä, tee loppuveto painamalla ohjauslenkit
 terävästi täysjarrutustilaan. Ensimmäisillä kolmella hypyllä sinulla on
 radio, josta kuulet ohjeita esimerkiksi seuraavasti:
-
--   1\. hyppy - ohjeita ohjailuun ja laskeutuminen ohjatusti
-
--   2\. hyppy - ohjeet tarvittaessa ja laskeutuminen ohjatusti
-
--   3\. hyppy - ohjeet vain tarvittaessa
+- 1\. hyppy - ohjeita ohjailuun ja laskeutuminen ohjatusti
+- 2\. hyppy - ohjeet tarvittaessa ja laskeutuminen ohjatusti
+- 3\. hyppy - ohjeet vain tarvittaessa
 
 Kun olet noin puiden latvojen tasolla, maa näyttää hyökkäävän silmille.
 Älä säikähdä, vaan keskity oikeaan alastuloasentoon ja loppuvedon
@@ -1151,29 +1068,18 @@ murtumia, joista valtaosa olisi vältettävissä hyvän alastuloasennon
 pitämisellä loppuun saakka.
 
 Muista aina varjon varassa:
-
--   Tarkkaile ilmatilaa
-
--   Tarkkaile korkeutta
-
--   Vältä rajuja ohjausliikkeitä
-
--   Tarkkaile sijaintiasi ja pysy ohjeistetulla alueella ja
+- Tarkkaile ilmatilaa
+- Tarkkaile korkeutta
+- Vältä rajuja ohjausliikkeitä
+- Tarkkaile sijaintiasi ja pysy ohjeistetulla alueella ja
     suunnitellulla reitillä
-
--   Älä lennä toisen hyppääjän lähellä
-
--   Alempana olevalla on etuajo-oikeus
-
--   Varjo ei käänny hetkessä
-
--   Tarkkaile tuulipussia
-
--   Käänny finaaliin 100 metrissä
-
--   Suora finaali
-
--   Ohjaa varjoa maahan saakka.
+- Älä lennä toisen hyppääjän lähellä
+- Alempana olevalla on etuajo-oikeus
+- Varjo ei käänny hetkessä
+- Tarkkaile tuulipussia
+- Käänny finaaliin 100 metrissä
+- Suora finaali
+- Ohjaa varjoa maahan saakka.
 
 ###  Varjon tukahduttaminen  
 
@@ -1200,54 +1106,44 @@ esiintyä häiriöitä.
 1\. Yhteyskokeilu ennen koneen kuormausta
 
 KUTSU =\
-
--   Kuittaus kättä nostamalla
+- Kuittaus kättä nostamalla
 
 2\. Yhteyskokeilu ilmassa
 
 KUTSU + HEILUTA JALKOJA
-
--   Kuittaus jalkojen heilutuksella
+- Kuittaus jalkojen heilutuksella
 
 3\. Käännökset
 
 KUTSU + VASEN, VASEN, SUORAAN
-
--   Käännä niin kauan, kunnes kuuluu komento SUORAAN
+- Käännä niin kauan, kunnes kuuluu komento SUORAAN
 
 4\. Jarruttaminen
 
 KUTSU + JARRUTA, JARRUTA
-
--   Jokaisella komennolla laske ohjauslenkkejä 10-15 cm
+- Jokaisella komennolla laske ohjauslenkkejä 10-15 cm
 
 5\. Jarrutuksen vähentäminen
 
 KUTSU + NOSTA, NOSTA
-
--   Jokaisella komennolla nosta ohjauslenkkejä 10-15 cm
+- Jokaisella komennolla nosta ohjauslenkkejä 10-15 cm
 
 KUTSU + LIIDÄ
-
--   Täysliito
+- Täysliito
 
 6\. Itsenäinen ohjaaminen
 
 KUTSU + OHJAA ITSENÄISESTI
-
--   Jatka ohjaamista itsenäisesti.
-
--   Kumoaa edellisten komentojen vaikutuksen.
+- Jatka ohjaamista itsenäisesti.
+- Kumoaa edellisten komentojen vaikutuksen.
 
 7\. Loppuveto
 
 KUTSU + JALAT YHTEEN
-
--   Hyvä alastuloasento, jalat tiukasti yhdessä.
+- Hyvä alastuloasento, jalat tiukasti yhdessä.
 
 VEDÄ
-
--   Paina ohjauslenkit terävästi täysjarrutustilaan,
+- Paina ohjauslenkit terävästi täysjarrutustilaan,
     pidä alastuloasento.
 
 Päävarjon vajaatoiminnot 
@@ -1263,12 +1159,9 @@ pakkolaukaisuhypyillä (syynä esimerkiksi huono uloshyppy tai lentokoneen
 alhainen ilmanopeus). Varjo lentää, vaikka punoksissa on kierrettä,
 kuvun reunatunnelit ovat tukossa ja slider on ylhäällä, mikäli varjo
 täyttää lentävän laskuvarjon kriteerit:
-
--   Kupu on säännöllisen muotoinen.
-
--   Punokset ovat kireällä.
-
--   Slider on suorakaiteen muotoinen.
+- Kupu on säännöllisen muotoinen.
+- Punokset ovat kireällä.
+- Slider on suorakaiteen muotoinen.
 
 Muista aina tarkkailla korkeutta, jotta voit tarvittaessa ajoissa
 suorittaa varavarjotoimenpiteet.
@@ -1280,12 +1173,9 @@ Tee varavarjotoimenpiteet!
 ---------------------------
 
 ![image](/kuvat/Vajaatoiminnot-Lentaa-Taysin-kehittynyt.png)
-
--   Kupu on säännöllisen muotoinen
-
--   Punokset ovat kireällä
-
--   Slider on suorakaiteen muotoinen ja alhaalla.
+- Kupu on säännöllisen muotoinen
+- Punokset ovat kireällä
+- Slider on suorakaiteen muotoinen ja alhaalla.
 
  Lentää - Selvitä  
 ------------------
@@ -1293,43 +1183,33 @@ Tee varavarjotoimenpiteet!
 #### Slider ylhäällä 
 
 ![image](/kuvat/Vajaatoiminnot-Lentaa-Slider-ylhaalla.png)
-
--   Pumppaa slider alas
-
--   Tarkkaile korkeutta.
+- Pumppaa slider alas
+- Tarkkaile korkeutta.
 
 #### Slider ylhäällä ja kierrettä 
 
 ![image](/kuvat/Vajaatoiminnot-Lentaa-Slider-ylhaalla-ja-Kierteita.png)
-
--   Levitä kantohihnoja, potki kierre auki ja pumppaa slider alas
-
--   Tarkkaile korkeutta.
+- Levitä kantohihnoja, potki kierre auki ja pumppaa slider alas
+- Tarkkaile korkeutta.
 
 #### Reunatunnelit tukossa ja slider ylhäällä 
 
 ![image](/kuvat/Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla.png)
-
--   Pumppaa slider alas ja tunnelit auki
-
--   Tarkkaile korkeutta.
+- Pumppaa slider alas ja tunnelit auki
+- Tarkkaile korkeutta.
 
 #### Reunatunneli tukossa, slider ylhäällä ja kierrettä punoksissa 
 
 ![image](/kuvat/Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla-ja-kierteita.png)
-
--   Levitä kantohihnoja, potki kierre auki, pumppaa slider alas ja
+- Levitä kantohihnoja, potki kierre auki, pumppaa slider alas ja
     tunneli auki
-
--   Tarkkaile korkeutta.
+- Tarkkaile korkeutta.
 
 #### Avautumassa oleva varjo 
 
 ![image](/kuvat/Vajaatoiminnot-lentaa-avautumassa.png)
-
--   Pumppaa kupu tarvittaessa auki
-
--   Tarkkaile korkeutta.
+- Pumppaa kupu tarvittaessa auki
+- Tarkkaile korkeutta.
 
  Ei lennä  
 ----------
@@ -1337,8 +1217,7 @@ Tee varavarjotoimenpiteet!
 #### Line over 
 
 ![image](/kuvat/Vajaatoiminnot-line-over.png)
-
--   Tee varavarjotoimenpiteet.
+- Tee varavarjotoimenpiteet.
 
 ![image](/kuvat/VV-toimenpiteet.pdf)
 
@@ -1547,12 +1426,9 @@ törmäämistä, minimoi törmäysvauhti jarruttamalla voimakkaasti sekä
 käperry *palloksi.* Varoita toista hyppääjää huutamalla.
 
 Sotkeutumistilanteessa:
-
--   Tarkkaile korkeutta, sillä päätökset on tehtävä riittävän korkealla
-
--   Keskustele aina kaverisi kanssa siitä, mitä aiotte tehdä
-
--   Varmista, että olet irti punoksista/kuvusta (käytä
+- Tarkkaile korkeutta, sillä päätökset on tehtävä riittävän korkealla
+- Keskustele aina kaverisi kanssa siitä, mitä aiotte tehdä
+- Varmista, että olet irti punoksista/kuvusta (käytä
     tarvittaessa koukkupuukkoa) ennen varavarjotoimenpiteitä.
 
 Jos ylempi varjo lentää ja alempi on sotkeutunut, voi alempi hyppääjä
@@ -1593,34 +1469,23 @@ suunnan osoittimia.
 Laskeudu mieluummin metsään kuin veteen. Joutuessasi laskeutumaan veteen
 pyri niin lähelle rantaa kuin mahdollista. Veteen laskeutuessasi toimi
 seuraavasti:
-
--   Vapauta varavarjon pakkolaukaisuhihna
-
--   Käännä FXC OFF-asentoon
-
--   Löysää rintahihna
-
--   Ota alastuloasento
-
--   Tee loppuveto ennen veteen tuloa.
+- Vapauta varavarjon pakkolaukaisuhihna
+- Käännä FXC OFF-asentoon
+- Löysää rintahihna
+- Ota alastuloasento
+- Tee loppuveto ennen veteen tuloa.
 
 Vedessä:
-
--   Tukahduta varjo tarvittaessa tekemällä päävarjon irtipäästö
-
--   Avaa hihnat ja ui eroon varjosta.
+- Tukahduta varjo tarvittaessa tekemällä päävarjon irtipäästö
+- Avaa hihnat ja ui eroon varjosta.
 
 ###  Laskeutuminen puuhun/metsään  
 
 Puuhun tai metsään laskeutuessasi toimi seuraavasti:
-
--   Vältä yksittäisiä ja korkeita puita
-
--   Ota alastuloasento ja vedä polvet ylös suojaamaan alavartaloa
-
--   Tee loppuveto puiden latvoihin sekä pidä kyynärpäät kyljissä kiinni
-
--   Valmistaudu tulemaan maahan asti ja pura alastuloasento vasta, kun
+- Vältä yksittäisiä ja korkeita puita
+- Ota alastuloasento ja vedä polvet ylös suojaamaan alavartaloa
+- Tee loppuveto puiden latvoihin sekä pidä kyynärpäät kyljissä kiinni
+- Valmistaudu tulemaan maahan asti ja pura alastuloasento vasta, kun
     liike loppuu.
 
 Jos jäät puuhun roikkumaan, älä pudottaudu korkealta, vaan odota apua.
@@ -1632,44 +1497,30 @@ lentäminen.
 ###  Laskeutuminen sähkölinjoihin  
 
 Jos joudut laskeutumaan sähkölinjoihin, niin
-
--   Heitä mahdollisesti käsissäsi olevat kahvat pois
-
--   Ohjaa varjoa loppuun saakka
-
--   Ota alastuloasento ja tee loppuveto linjoihin
-
--   Estä johtimien meno jalkojen väliin tai kainaloihin
-
--   Jos varjo jää kiinni, **älä yritä irrottaa sitä**
-
--   Odota apua.
+- Heitä mahdollisesti käsissäsi olevat kahvat pois
+- Ohjaa varjoa loppuun saakka
+- Ota alastuloasento ja tee loppuveto linjoihin
+- Estä johtimien meno jalkojen väliin tai kainaloihin
+- Jos varjo jää kiinni, **älä yritä irrottaa sitä**
+- Odota apua.
 
 ###  Laskeutuminen katolle  
 
 Mikäli joudut laskeutumaan katolle, toimi seuraavasti:
-
--   Ota alastuloasento
-
--   Tee loppuveto katolle
-
--   Tukahduta varjo välittömästi ja tee tarvittaessa päävarjon
+- Ota alastuloasento
+- Tee loppuveto katolle
+- Tukahduta varjo välittömästi ja tee tarvittaessa päävarjon
     irtipäästö
-
--   Tartu kiinni kattorakenteista
-
--   Odota apua.
+- Tartu kiinni kattorakenteista
+- Odota apua.
 
 ###  Kiinteään esteeseen törmääminen  
 
 Näitä ovat esimerkiksi seinät, autot, pylväät ja aidat. Jos osut
 kiinteään esteeseen,
-
--   Tee loppuveto ennen törmäystä
-
--   Ota isku vastaan jaloilla
-
--   Valmistaudu maahantuloon
+- Tee loppuveto ennen törmäystä
+- Ota isku vastaan jaloilla
+- Valmistaudu maahantuloon
 
 Hyvän alastuloasennon merkitys korostuu, jos joudut laskeutumaan muualle
 kuin maalialueelle.
@@ -1843,11 +1694,9 @@ oppimistavoitteisiin tarkasti HM:n kanssa.
 3.  Avausmerkki 1600 m (±300m) ja avaus
 
 ###  Hyppylennolla  
-
--   Katso laskeutumisalue ja oikea laskeutumissuunta yli 600
+- Katso laskeutumisalue ja oikea laskeutumissuunta yli 600
     m:n korkeudessa. Hyppymestari kysyy tärkeitä korkeuksia.
-
--   Hyppymestari kysyy hypyn avainkohdat.
+- Hyppymestari kysyy hypyn avainkohdat.
 
 ###  Hypyn kulku  
 
@@ -1933,14 +1782,10 @@ päästäkseen seuraavalle tasolle.
 
 Jos tasoilla 3-7 et näe kumpaakaan hyppymestaria, voit jatkaa hyppyä,
 mikäli kaikki alla olevat ehdot täyttyvät:
-
--   Tiedät korkeutesi
-
--   Et pyöri mihinkään suuntaan
-
--   Et ole selälläsi
-
--   Tilanne tuntuu kaiken kaikkiaan olevan hallinnassa
+- Tiedät korkeutesi
+- Et pyöri mihinkään suuntaan
+- Et ole selälläsi
+- Tilanne tuntuu kaiken kaikkiaan olevan hallinnassa
 
 Tarkkaile korkeutta koko ajan n. 5 s välein (MAA, MITTARI, TAIVUTA,
 JALAT, RENTOUTA) ja tason mukaisessa korkeudessa tee avausmerkki ja avaa
@@ -2565,10 +2410,8 @@ hypätään samana tai seuraavana kalenterivuorokautena.
 
 Asennon (X ja taivutus tai delta ja taivutus) ja ajantajun säilyminen
 sekä korkeuden tarkkailu ovat tärkeitä kaikilla itseaukaisuhypyillä.
-
--   3” veto 103:lla
-
--   5” veto 105:llä
+- 3” veto 103:lla
+- 5” veto 105:llä
 
 ###  Oppimistavoitteet  
 
@@ -2648,12 +2491,9 @@ säilyttävä paremmin.
     avaa päävarjo.
 
 ###  Hyppylennolla  
-
--   Kertaa suoritus mielessäsi
-
--   Keskity suoritukseesi
-
--   3X3 -tarkastus ennen hyppyä
+- Kertaa suoritus mielessäsi
+- Keskity suoritukseesi
+- 3X3 -tarkastus ennen hyppyä
     (\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ###  Hypyn kulku  
@@ -2724,12 +2564,9 @@ Avaustoimenpiteet aloitetaan 1200 metrin korkeudessa mittarin mukaan.
 Laskemisella säilytetään ajantaju.
 
 ###  Oppilaan toiminta  
-
--   Kertaa suoritus mielessäsi
-
--   Keskity suoritukseesi
-
--   3X3 -tarkastus ennen hyppyä
+- Kertaa suoritus mielessäsi
+- Keskity suoritukseesi
+- 3X3 -tarkastus ennen hyppyä
     (\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ###  Oppimistavoitteet  
@@ -2742,12 +2579,9 @@ Laskemisella säilytetään ajantaju.
 3.  Siirry UH-asennosta hypyn aikana perusasentoon.
 
 ###  Hyppylennolla  
-
--   Kertaa suoritus mielessäsi
-
--   Keskity suoritukseesi
-
--   3X3 -tarkastus ennen hyppyä
+- Kertaa suoritus mielessäsi
+- Keskity suoritukseesi
+- 3X3 -tarkastus ennen hyppyä
 
 ###  Hypyn kulku  
 
@@ -2816,49 +2650,33 @@ Yhteenveto: Peruskoulutus
 
  Hyppysuoritukset, NOVA  
 ------------------------
-
--   8” lyhyt vapaa (\[nova-peruskoulutuksen-suoritukset-8\] s.)
-
--   Kaksi 5” lyhyttä vapaata
+- 8” lyhyt vapaa (\[nova-peruskoulutuksen-suoritukset-8\] s.)
+- Kaksi 5” lyhyttä vapaata
     (\[nova-peruskoulutuksen-suoritukset-5\] s.)
-
--   Selkälento (\[peruskoulutuksen-muut-suoritukset-selkalento\] s.)
-
--   Liuku (\[peruskoulutuksen-muut-suoritukset-liuku\] s.)
-
--   FS-liuku (\[peruskoulutuksen-muut-suoritukset-fs-liuku\] s.)
+- Selkälento (\[peruskoulutuksen-muut-suoritukset-selkalento\] s.)
+- Liuku (\[peruskoulutuksen-muut-suoritukset-liuku\] s.)
+- FS-liuku (\[peruskoulutuksen-muut-suoritukset-fs-liuku\] s.)
 
  Hyppysuoritukset, PL  
 ----------------------
-
--   15” (\[pl-peruskoulutuksen-suoritukset-15\] s.)
-
--   Suora uloshyppy
+- 15” (\[pl-peruskoulutuksen-suoritukset-15\] s.)
+- Suora uloshyppy
     (\[pl-peruskoulutuksen-suoritukset-suora-uloshyppy\] s.)
-
--   Sukellusuloshyppy
+- Sukellusuloshyppy
     (\[pl-peruskoulutuksen-suoritukset-sukellusuloshyppy\] s.)
-
--   360° käännökset
+- 360° käännökset
     (\[pl-peruskoulutuksen-suoritukset-360deg-kaannokset\] s.)
-
--   Tynnyri ja takavoltti
+- Tynnyri ja takavoltti
     (\[pl-peruskoulutuksen-suoritukset-tynnyri-ja-takavoltti\] s.)
-
--   Selkälento (\[peruskoulutuksen-muut-suoritukset-selkalento\] s.)
-
--   Liuku (\[peruskoulutuksen-muut-suoritukset-liuku\] s.)
-
--   FS-liuku (\[peruskoulutuksen-muut-suoritukset-fs-liuku\] s.)
+- Selkälento (\[peruskoulutuksen-muut-suoritukset-selkalento\] s.)
+- Liuku (\[peruskoulutuksen-muut-suoritukset-liuku\] s.)
+- FS-liuku (\[peruskoulutuksen-muut-suoritukset-fs-liuku\] s.)
 
  Muut suoritukset  
 ------------------
-
--   5 paikanmääritystä, laskeutuminen kouluttajan osoittamalle alueelle
-
--   Varusteiden tarkastusnäyte
-
--   Jatkokoulutuksen teoriakoe. Opiskeltava alue on luvusta *Yhteenveto:
+- 5 paikanmääritystä, laskeutuminen kouluttajan osoittamalle alueelle
+- Varusteiden tarkastusnäyte
+- Jatkokoulutuksen teoriakoe. Opiskeltava alue on luvusta *Yhteenveto:
     Jatkokoulutus* (\[yhteenveto-jatkokoulutus\] s.) lukuun
     *Jatkokoulutuksen suoritukset*
     (\[jatkokoulutuksen-suoritukset\] s.).
@@ -2912,15 +2730,11 @@ uloshypystä maahantuloon asti.
     sekunnin jälkeen) otetaan perusasento.
 
 ###  Ongelmat  
-
--   Koukussa olevat jalat aiheuttavat takavoltin.
-
--   Negatiivinen taivutus kaataa asennon selälleen.
-
--   Astinlaudalta ilmavirtaan hyppääminen voi aiheuttaa
+- Koukussa olevat jalat aiheuttavat takavoltin.
+- Negatiivinen taivutus kaataa asennon selälleen.
+- Astinlaudalta ilmavirtaan hyppääminen voi aiheuttaa
     ennenaikaisen tippumisen.
-
--   Käsillä ponnistaminen kaataa asennon selälleen.
+- Käsillä ponnistaminen kaataa asennon selälleen.
 
  Suora uloshyppy  
 -----------------
@@ -3077,14 +2891,10 @@ Liikesarjoissa uusi liike aloitetaan vasta, kun edellinen on pysäytetty.
 Liikkeiden harjoittelu lopetetaan viimeistään 1400 metrin korkeudessa ja
 keskitytään avaukseen. Siirtyminen perusasentoon tapahtuu 3-5 sekunnin
 kuluttua uloshypystä. Perusasento on seuraava:
-
--   Lantiossa taivutus ja pää ylös
-
--   Käsivarret 90° kyynärpäästä ja vartalosta
-
--   Jalat levitettyinä, polvet hartioiden tasalla
-
--   Sääret ojennettuina siten, että ilmavirta osuu niihin
+- Lantiossa taivutus ja pää ylös
+- Käsivarret 90° kyynärpäästä ja vartalosta
+- Jalat levitettyinä, polvet hartioiden tasalla
+- Sääret ojennettuina siten, että ilmavirta osuu niihin
 
 ![image](/kuvat/Asento-perus.png)
 
@@ -3212,15 +3022,11 @@ muihin hyppääjiin purun jälkeen! Liuku tehdään seuraavasti:
     pyöriminen ei pysähdy, avaa varjo heti.
 
 Lattakierre:
-
--   On holtitonta pyörimistä vaakatasossa
-
--   Aiheutuu epäsymmetrisestä ja jäykästä asennosta tai
+- On holtitonta pyörimistä vaakatasossa
+- Aiheutuu epäsymmetrisestä ja jäykästä asennosta tai
     hallitsemattomasta käännöksestä
-
--   Aiheuttaa asento- ja ajantajun menettämisen
-
--   Pysäytetään rentouttamalla asentoa ja hartialinjan vastaliikkeellä.
+- Aiheuttaa asento- ja ajantajun menettämisen
+- Pysäytetään rentouttamalla asentoa ja hartialinjan vastaliikkeellä.
     Jos vastaliike ei auta ja liike ei ole hallinnassa, ota perusasento,
     taivuta ja avaa varjo heti.
 
@@ -3282,8 +3088,7 @@ oikea ajoittaminen voi olla vaikeaa.
 
 Maatuulen nopeuden asettamat rajoitukset laskuvarjohypyille ovat
 seuraavat:
-
--   Itsenäisellä hyppääjällä maatuulen nopeus ei saa ylittää:
+- Itsenäisellä hyppääjällä maatuulen nopeus ei saa ylittää:
 
     -   A-lisenssihyppääjällä 8 m/s
 
@@ -3292,11 +3097,9 @@ seuraavat:
     -   C-lisenssihyppääjällä 11 m/s
 
     -   D-lisenssihyppääjällä 11 m/s
-
--   Oppilas ei saa hypätä, mikäli maatuulen nopeus ylittää 8 m/s.
+- Oppilas ei saa hypätä, mikäli maatuulen nopeus ylittää 8 m/s.
     Tandemoppilas ei saa hypätä, mikäli maatuulen nopeus ylittää 11 m/s.
-
--   Pallovarjoa pää- tai varavarjona käytettäessä maatuulen nopeus ei
+- Pallovarjoa pää- tai varavarjona käytettäessä maatuulen nopeus ei
     saa ylittää 8 m/s.
 
 Pilvet 
@@ -3320,14 +3123,10 @@ huomioitava, että kostea ja lämmin ilma kantaa huonommin kuin kuiva ja
 kylmä ilma. Kosteus vaikuttaa varjon ominaisuuksiin heikentäväksi.
 
 Jos joudut avaamaan varjon pilvessä:
-
--   Lennä puolijarruilla
-
--   Tee loivaa oikeaa kaarrosta
-
--   Tarkkaile koko ajan etu- ja sivusektoreita
-
--   Huuda ja kuuntele, jos epäilet, ettet ole ainoa pilvessä
+- Lennä puolijarruilla
+- Tee loivaa oikeaa kaarrosta
+- Tarkkaile koko ajan etu- ja sivusektoreita
+- Huuda ja kuuntele, jos epäilet, ettet ole ainoa pilvessä
     varjon avannut.
 
 Termiikki 
@@ -3396,12 +3195,9 @@ niitä. On muistettava, että taivaalle pääsy ei takaa onnistunutta
 hyppyä, vaan turvallinen alastulo.
 
 Lentosääsanomia saadaan mm. seuraavasti:
-
--   Internet (mm. <http://www.ilmailusaa.fi/> )
-
--   Lentosääaseman automaattitiedotus radiolla ja puhelimella
-
--   Sääsanomat YLE Teksti-TV s. 428 ja 429 (myös
+- Internet (mm. <http://www.ilmailusaa.fi/> )
+- Lentosääaseman automaattitiedotus radiolla ja puhelimella
+- Sääsanomat YLE Teksti-TV s. 428 ja 429 (myös
     <http://www.yle.fi/tekstitv/html/P428_01.html> )
 
  METAR-sanomat  
@@ -3418,40 +3214,27 @@ EFTU 231250Z 27006KT 9999 SCT055 FEW080 08/04 Q1015
 
 Tämä viesti voidaan jakaa osioihin ja tulkita sen perusteella.
 Metar-viestin pääosiot ovat:
-
--   EFTU Sääasema lentopaikan ICAO-koodilla; Eurooppa, Finland, Turku
-
--   231250Z Aika (UTC) Päivä kuluvaa kuukautta sekä kellonaika
+- EFTU Sääasema lentopaikan ICAO-koodilla; Eurooppa, Finland, Turku
+- 231250Z Aika (UTC) Päivä kuluvaa kuukautta sekä kellonaika
     UTC-ajassa ilmaistuna
-
--   27006KT Tuulen suunta asteina ja nopeus solmuina, 270 astetta, 3 m/s
-
--   9999 Näkyvyys metreinä, yli 10 km
-
--   SCT055 Pilvien määrä sekä korkeus
-
--   FEW080 Pilvien äärä sekä korkeus
-
--   08/04 Lämpötila ja kastepiste celsiusasteina
-
--   Q1015 Ilmanpaine millibareina / hehtopascaleina
-
--   Lisätiedot ja mahdolliset muut huomioitavat asiat kerrotaan Metarin
+- 27006KT Tuulen suunta asteina ja nopeus solmuina, 270 astetta, 3 m/s
+- 9999 Näkyvyys metreinä, yli 10 km
+- SCT055 Pilvien määrä sekä korkeus
+- FEW080 Pilvien äärä sekä korkeus
+- 08/04 Lämpötila ja kastepiste celsiusasteina
+- Q1015 Ilmanpaine millibareina / hehtopascaleina
+- Lisätiedot ja mahdolliset muut huomioitavat asiat kerrotaan Metarin
     lopussa
 
 Metar-sanomassa tuulen suunta ilmoitetaan kolmella numerolla, lähimpään
 10 asteeseen pyöristettynä. Tuulen nopeuden yksikkönä käytetään solmua
 (KT). Tuulen ollessa tyyni, ilmoitetaan se metar-sanomassa 00000KT.
-
--   VRB02KT: Suunnaltaan vaihtelevaa tuulta, tuulen nopeus 1 m/s.
-
--   18010KT: Tuulen suunta on etelästä (180 astetta) ja tuulen nopeus on
+- VRB02KT: Suunnaltaan vaihtelevaa tuulta, tuulen nopeus 1 m/s.
+- 18010KT: Tuulen suunta on etelästä (180 astetta) ja tuulen nopeus on
     5 m/s.
-
--   22015G28KT: Tuulen suunta on 220 astetta, keskituulen nopeus 7,5 m/s
+- 22015G28KT: Tuulen suunta on 220 astetta, keskituulen nopeus 7,5 m/s
     ja puuskissa 14 m/s.
-
--   35014KT 310V030: Tuulen suunta vaihtelee lentopaikalla siten, ettei
+- 35014KT 310V030: Tuulen suunta vaihtelee lentopaikalla siten, ettei
     keskituulen suuntaa voi määrätä ja keskituulen nopeus on 7 m/s.
     Tuulen suunnan vaihteluväli on 310 astetta ja 030 astetta.
 
@@ -3459,18 +3242,12 @@ Metar-sanomassa ilmoitetaan sääilmiöt kuten sumu, sade, lumisade,
 ukkonen ja muut vastaavat säähän vaikuttavat tekijät.
 
 Esimerkkejä vallitsevan sään ilmoittamisesta:
-
--   TS: ukkosta ilman sadetta
-
--   TSRA: ukkosta ja vesisadetta
-
--   -RABR: heikkoa vesisadetta ja utua
-
--   FG: sumua
-
--   MIFG: matalaa sumua
-
--   -DZBR: heikkoa tihkusadetta ja utua
+- TS: ukkosta ilman sadetta
+- TSRA: ukkosta ja vesisadetta
+- -RABR: heikkoa vesisadetta ja utua
+- FG: sumua
+- MIFG: matalaa sumua
+- -DZBR: heikkoa tihkusadetta ja utua
 
 Metar-sanomassa pilven alaraja ilmoitetaan lyhennetysti jättämällä
 korkeuden kaksi viimeistä nollaa pois. Esimerkiksi pilven alaraja 300 ft
@@ -3480,43 +3257,29 @@ kirjoitetaan 300. Korkeus ilmoitetaan maanpinnasta.
 Näkyvä taivas jaetaan pilvisyyttä ilmoitettaessa kahdeksaan osaan.
 Pilvisyys ilmoitetaan kolmen kirjaimen tunnuksella, joka kertoo kuinka
 monta kahdeksasosaa taivaasta on pilven peitossa kyseisessä korkeudessa:
-
--   0/8 SKC = sky clear (pilvetöntä)
-
--   1/8-2/8 FEW = few (muutamia pilviä)
-
--   3/8-4/8 SCT = scattered (hajanaisia pilviä)
-
--   5/8-7/8 BKN = broken (melkein pilvistä)
-
--   8/8 OVC = overcast (täysin pilvistä)
+- 0/8 SKC = sky clear (pilvetöntä)
+- 1/8-2/8 FEW = few (muutamia pilviä)
+- 3/8-4/8 SCT = scattered (hajanaisia pilviä)
+- 5/8-7/8 BKN = broken (melkein pilvistä)
+- 8/8 OVC = overcast (täysin pilvistä)
 
 Pilvestä voidaan ilmoittaa myös lisämääreet CB ja TCU:
-
--   CB - Cumulonimbus, ukkospilvi
-
--   TCU - Towering Cumulus, nouseva cumuluspilvi
+- CB - Cumulonimbus, ukkospilvi
+- TCU - Towering Cumulus, nouseva cumuluspilvi
 
 Esimerkkejä pilvien ilmoittamisesta:
-
--   FEW007 - vähän pilviä 700 ft korkeudella maanpinnasta.
-
--   SCT020 - 3/8 taivaasta pilvessä 2000 ft korkeudella
-
--   BKN080 - 5/8 taivaasta pilvessä 8000 ft korkeudella.
-
--   OVC003 - täyskatto (8/8) pilviä 300 ft korkeudella.
+- FEW007 - vähän pilviä 700 ft korkeudella maanpinnasta.
+- SCT020 - 3/8 taivaasta pilvessä 2000 ft korkeudella
+- BKN080 - 5/8 taivaasta pilvessä 8000 ft korkeudella.
+- OVC003 - täyskatto (8/8) pilviä 300 ft korkeudella.
 
 Koodisana CAVOK on lyhenne englannin kielen sanoista ”Ceiling And
 Visibility OK”. Sitä käytetään, mikäli kaikki seuraavat ehdot ovat
 voimassa samanaikaisesti:
-
--   Näkyvyys on 10 km tai enemmän.
-
--   Alueella ei ole pilviä 1500 m (5000 ft) alapuolella eikä CB- tai
+- Näkyvyys on 10 km tai enemmän.
+- Alueella ei ole pilviä 1500 m (5000 ft) alapuolella eikä CB- tai
     TCU-pilviä havaita.
-
--   Ei esiinny merkittäviä sääilmiöitä kuten ukkosta, sadetta tai sumua.
+- Ei esiinny merkittäviä sääilmiöitä kuten ukkosta, sadetta tai sumua.
 
  GAFOR-sanomat  
 ---------------
@@ -3568,12 +3331,9 @@ Mikäli kerrostuulien yhteydessä ei ole erillistä alueisiin jakoa, lukee
 WINDS-tunnuksen perässä monesti 21/25, jolloin kaikki tiedot koskevat
 koko Itä-Suomen aluetta. Tuulitiedot on aina jaettu kolmeen osaan, eli
 on ilmoitettu tuulet:
-
--   Maanpinnan läheisyydessä (SFC, surface)
-
--   2000 jalan (600 metrin) korkeudella
-
--   5000 jalan (1500 metrin) korkeudella.
+- Maanpinnan läheisyydessä (SFC, surface)
+- 2000 jalan (600 metrin) korkeudella
+- 5000 jalan (1500 metrin) korkeudella.
 
 Eri kerroksien tuulitiedot on toisinaan jaettu alueisiin, kuten tässä
 maatuuliosa. Maatuuliennusteen (SFC) ensimmäinen osa koskee tässä
@@ -3689,15 +3449,11 @@ korkeuksista voidaan saada lentäjältä, mikäli lentokoneessa on
 GPS-laite. Tuulitietojen perusteella voidaan laskea ajautuman matka ja
 suunta tai arvioida ne riittävällä tarkkuudella. Tuulitietojen lisäksi
 on arvioitava eri ilmakerroksissa vietetty aika:
-
--   Vapaapudotuksen ajaksi arvioidaan 50 sekuntia.
-
--   Hyppääjä vajoaa varjon varassa keskimäärin 5 m/s.
-
--   Varjon voidaan odottaa olevan täysin lentävä 800–1000
+- Vapaapudotuksen ajaksi arvioidaan 50 sekuntia.
+- Hyppääjä vajoaa varjon varassa keskimäärin 5 m/s.
+- Varjon voidaan odottaa olevan täysin lentävä 800–1000
     metrin korkeudessa.
-
--   Varjon varassa vietetyksi ajaksi saadaan siis noin 3 minuuttia.
+- Varjon varassa vietetyksi ajaksi saadaan siis noin 3 minuuttia.
     (180 s)
 
 Seuraavaan taulukkoon on laskettu yllä olevilla oletuksilla (lähimpään
@@ -3762,12 +3518,9 @@ paikka koneessa olevalta kartalta tai kerrotaan paikka sanallisesti.
 
 Jos lentokoneessa on useampia hyppääjiä/ryhmiä, määritetään hyppylinja
 huomioiden, että:
-
--   Linja kulkee lasketun UH-paikan läpi.
-
--   Ryhmien välille tulee jäädä turvallinen välimatka.
-
--   Kaikkien tulee päästä turvallisesti laskeutumisalueelle.
+- Linja kulkee lasketun UH-paikan läpi.
+- Ryhmien välille tulee jäädä turvallinen välimatka.
+- Kaikkien tulee päästä turvallisesti laskeutumisalueelle.
 
 Pienillä hyppykoneilla linja ajetaan yleensä vastatuuleen
 laskeutumisalueen yli. Suurilla hyppykoneilla ajetaan usein
@@ -3825,20 +3578,15 @@ Paikkaa katsottaessa pää työnnetään ulos koneesta ja katsotaan suoraan
 alaspäin.
 
 Koneen lentoasento voi aiheuttaa paikan katsomisessa seuraavat virheet:
-
--   Nousussa katsotaan liikaa eteenpäin.
-
--   Laskussa katsotaan liikaa taaksepäin.
-
--   Kallellaan katsotaan liikaa sivulle.
+- Nousussa katsotaan liikaa eteenpäin.
+- Laskussa katsotaan liikaa taaksepäin.
+- Kallellaan katsotaan liikaa sivulle.
 
 Koneen ollessa vaakalennossa siipi ja horisontti ovat samassa linjassa.
 
 Lisäksi hyppääjä voi tehdä seuraavia virheitä:
-
--   Katsominen koneen sisältä, jolloin katsotaan liikaa sivulle.
-
--   Katsominen eteenpäin ennakoi uloshyppyä liikaa.
+- Katsominen koneen sisältä, jolloin katsotaan liikaa sivulle.
+- Katsominen eteenpäin ennakoi uloshyppyä liikaa.
 
 #### Ennen uloshyppyä ja uloshyppy 
 
@@ -3878,24 +3626,15 @@ uloshyppyjärjestyksellä saadaan lisää etäisyyttä hyppääjien ja ryhmien
 välille ennen purkukorkeutta ja avauksia.
 
 Uloshyppyjärjestys on yleensä seuraava:
-
--   Isot FS-muodostelmat
-
--   Pienet FS-muodostelmat
-
--   Yksittäiset mahallaan hyppääjät
-
--   Isot free-muodostelmat
-
--   Pienet free-muodostelmat
-
--   Yksittäiset free-hyppääjät
-
--   Tandemit
-
--   Liukuhyppääjät
-
--   Liitopukuhyppääjät
+- Isot FS-muodostelmat
+- Pienet FS-muodostelmat
+- Yksittäiset mahallaan hyppääjät
+- Isot free-muodostelmat
+- Pienet free-muodostelmat
+- Yksittäiset free-hyppääjät
+- Tandemit
+- Liukuhyppääjät
+- Liitopukuhyppääjät
 
 Uloshyppyjärjestykseen vaikuttaa myös avauskorkeus. Normaalia
 korkeammalla avaavat hyppääjät hyppäävät linjan viimeisinä ennen
@@ -3969,32 +3708,26 @@ syntymisen. Varusteet tarkistetaan kolme kertaa ennen uloshyppyä.
 Varusteet jokainen hyppääjä valitsee itse painonsa, kokemuksensa sekä
 kouluttajan ohjeet huomioon ottaen. Varusteita valittaessa on
 huomioitava seuraavaa:
-
--   Henkilökohtaisen vaatetuksen on oltava vuodenaikaan ja
+- Henkilökohtaisen vaatetuksen on oltava vuodenaikaan ja
     säähän sovelias. Hyppyvaatteiden on oltava lämpimiä, mutta samalla
     myös joustavia. Turha ja liika vaatetus vaikeuttaa suoritusta sekä
     jäykistää ja hiostuttaa.
-
--   Varjokokonaisuuden ja automaattilaukaisimen asiakirjat
+- Varjokokonaisuuden ja automaattilaukaisimen asiakirjat
     on tarkastettava. Pakkausten on oltava alle 12 kk ikäiset ja
     määräaikaistarkastusten on oltava voimassa. Oppilaspäävarjo sekä
     varavarjo ja reppu-valjasyhdistelmä tarkastetaan vuoden välein.
     Automaattilaukaisimet tarkastetaan ja huolletaan 1–4 vuoden välein
     laitteesta riippuen.
-
--   Varusteet ovat ulkoisesti ehjät ja siistit. Varavarjon vaijerista ja
+- Varusteet ovat ulkoisesti ehjät ja siistit. Varavarjon vaijerista ja
     irtipäästökaapeleista tarkastetaan myös niiden vapaa
     kulku suojaputkissa.
-
--   Automaattilaukaisin säädetään tai se käynnistetään.
-
--   Muista hypyllä tarvittavista varusteista tarkastetaan
+- Automaattilaukaisin säädetään tai se käynnistetään.
+- Muista hypyllä tarvittavista varusteista tarkastetaan
     korkeusmittarin, kypärän, suojalasien, koukkupuukon, haalarin,
     sormikkaiden, kenkien ja pelastusliivien(tarvittaessa) kunto,
     toimivuus ja soveltuvuus laskuvarjohyppykäyttöön. Varusteissa ei saa
     olla ulokkeita tai osia, jotka voivat tarttua kiinni.
-
--   Varusteet ovat sopivat ja säädöt kunnossa. Tarvittaessa valjaiden
+- Varusteet ovat sopivat ja säädöt kunnossa. Tarvittaessa valjaiden
     pituussäätöä muutetaan ja haalari jne. vaihdetaan sopivampiin
     huomioiden hyppysuoritus ja sääolosuhteet.
 
@@ -4010,20 +3743,15 @@ ensimmäinen tarkastusvaihe nopeuttaa muita vaiheita.
 Varusteiden toinen tarkastusvaihe suoritetaan, kun varusteet on puettu
 päälle. Tarkastus tehdään ennen koneeseen nousua. Varusteiden
 tarkastuksessa noudatetaan aina samaa, seuraavassa lueteltua mallia:
-
--   Varusteet on puettu oikein.
-
--   Kaikki hypyllä tarvittavat varusteet ovat mukana
+- Varusteet on puettu oikein.
+- Kaikki hypyllä tarvittavat varusteet ovat mukana
     oikeilla paikoillaan. Korkeusmittari on näkyvissä ja nollattu sekä
     koukkupuukko on saatavilla. Kahvat ovat omilla paikoillaan ja
     ne näkyvät.
-
--   Kaikki lukot, soljet ja hihnat ovat kiinni. Hihnojen päät on
+- Kaikki lukot, soljet ja hihnat ovat kiinni. Hihnojen päät on
     työnnetty valjaskumilenkkien alta hihnataskuihin.
-
--   Automaattilaukaisin on päällä ja se on oikein säädetty.
-
--   Hyppykaveri tarkastaa takaa, että pää- ja varavarjon läpät
+- Automaattilaukaisin on päällä ja se on oikein säädetty.
+- Hyppykaveri tarkastaa takaa, että pää- ja varavarjon läpät
     ovat kiinni. Pinnitarkastus suoritetaan, jos läppä tai läpät ovat
     auenneet I vaiheen jälkeen varusteita päälle puettaessa.
 
@@ -4044,24 +3772,18 @@ vaiheessa. Tarkastus on silmämääräinen ja siinä tehdään vain tarvittavat
 muutokset ja kiristykset. Liikkuminen koneessa ja uloshyppy on aina
 suoritettava varoen ja varusteita suojaten. Tässä vaiheessa tarkastetaan
 seuraavat asiat:
-
--   Kypärä ja sormikkaat ovat puettuna päälle ja hyppylasit
+- Kypärä ja sormikkaat ovat puettuna päälle ja hyppylasit
     kiristettyinä hyppykireyteen.
-
--   Varavarjon pakkolaukaisuhihnan lukko on kiinni ja paikoillaan.
-
--   Korkeusmittari näyttää oikein ja on luettavissa. Automaattilaukaisin
+- Varavarjon pakkolaukaisuhihnan lukko on kiinni ja paikoillaan.
+- Korkeusmittari näyttää oikein ja on luettavissa. Automaattilaukaisin
     FXC-12000 on JUMP-asennossa.
-
--   Irtipäästöpampula, varavarjonkahva ja päävarjon avauskahva ovat
+- Irtipäästöpampula, varavarjonkahva ja päävarjon avauskahva ovat
     paikallaan sekä näkyvissä (pois lukien BOC eli repun pohjassa
     sijaitseva avauskahva, jonka pitää olla esteettömästi saatavilla,
     tarkista sijainti koskettamalla BOC-avauskahvaa).
-
--   Rinta- ja reisihihnat ovat kireällä ja mahdolliset lukot
+- Rinta- ja reisihihnat ovat kireällä ja mahdolliset lukot
     ovat kiinni.
-
--   Hyppykaveri tarkastaa takaa, että pää- ja varavarjon läpät
+- Hyppykaveri tarkastaa takaa, että pää- ja varavarjon läpät
     ovat kiinni. Pinnitarkastus suoritetaan, jos läppä tai läpät
     ovat auenneet. Tarraläpän alla oleva pinni on hyvä tarkastaa aina.
 
@@ -4257,12 +3979,9 @@ varjosi, eli heilauta käsiäsi ristiin pääsi edessä.
     tehdään HD-totuttelu)
 
 ###  Hyppylennolla  
-
--   Kertaa suoritus mielessäsi
-
--   Keskity suoritukseesi
-
--   3X3 -tarkastus ennen hyppyä
+- Kertaa suoritus mielessäsi
+- Keskity suoritukseesi
+- 3X3 -tarkastus ennen hyppyä
     (\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ###  Hypyn kulku  
@@ -4358,12 +4077,9 @@ ilmavirtaan.
 2.  Suunnan hallinta, ei tahatonta yli 360° käännöstä.
 
 ###  Hyppylennolla  
-
--   Kertaa suoritus mielessäsi
-
--   Keskity suoritukseesi
-
--   3X3 -tarkastus ennen hyppyä
+- Kertaa suoritus mielessäsi
+- Keskity suoritukseesi
+- 3X3 -tarkastus ennen hyppyä
     (\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ###  Hypyn kulku  
@@ -4423,12 +4139,9 @@ Koneesta sukelletaan ulos ja pidetään suunta.
 2.  Suunnan hallinta, ei tahatonta yli 360° käännöstä.
 
 ###  Hyppylennolla  
-
--   Kertaa suoritus mielessäsi
-
--   Keskity suoritukseesi
-
--   3X3 -tarkastus ennen hyppyä
+- Kertaa suoritus mielessäsi
+- Keskity suoritukseesi
+- 3X3 -tarkastus ennen hyppyä
     (\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ###  Hypyn kulku  
@@ -4472,12 +4185,9 @@ Pidä taivutus koko käännöksen ajan. Tarkkaile korkeutta.
 2.  Asento säilyy stabiilina.
 
 ###  Hyppylennolla  
-
--   Kertaa suoritus mielessäsi
-
--   Keskity suoritukseesi
-
--   3X3 -tarkastus ennen hyppyä
+- Kertaa suoritus mielessäsi
+- Keskity suoritukseesi
+- 3X3 -tarkastus ennen hyppyä
 
 ###  Hypyn kulku  
 
@@ -4549,16 +4259,12 @@ onnistumisen. Käsillä autetaan ympäri menoa ja estetään asennon
 kallistuminen sivulle.
 
 ###  Oppimistavoitteet  
-
--   Asento saadaan hallintaan liikkeiden jälkeen.
+- Asento saadaan hallintaan liikkeiden jälkeen.
 
 ###  Hyppylennolla  
-
--   Kertaa suoritus mielessäsi.
-
--   Keskity suoritukseesi.
-
--   3X3 -tarkastus ennen hyppyä.
+- Kertaa suoritus mielessäsi.
+- Keskity suoritukseesi.
+- 3X3 -tarkastus ennen hyppyä.
 
 ###  Hypyn kulku  
 
@@ -4598,8 +4304,7 @@ Selkälennossa rintahihnassa oleva korkeusmittari ei välttämättä näytä
 oikein.
 
 ###  Oppilaan toiminta  
-
--   Harjoittele suorituksen vaiheet:
+- Harjoittele suorituksen vaiheet:
 
     1.  Käännetään asento kyljelleen käyttämällä kättä vartalossa
 
@@ -4617,12 +4322,9 @@ oikein.
 2.  Asennon hallinta selällään (pieni kääntyminen ok, lattakierre ei)
 
 ###  Hyppylennolla  
-
--   Kertaa suoritus mielessäsi
-
--   Keskity suoritukseesi
-
--   3X3 -tarkastus ennen hyppyä
+- Kertaa suoritus mielessäsi
+- Keskity suoritukseesi
+- 3X3 -tarkastus ennen hyppyä
 
 ###  Hypyn kulku  
 
@@ -4681,8 +4383,7 @@ Liuku tehdään seuraavasti:
     sen jälkeen kädet ja jalat perusasentoon
 
 ###  Oppilaan toiminta  
-
--   Ota selvää hyppylinjan suunnasta, jotta osaat valita oikean
+- Ota selvää hyppylinjan suunnasta, jotta osaat valita oikean
     liukusuunnan (poispäin linjasta).
 
 ###  Oppimistavoitteet  
@@ -4694,12 +4395,9 @@ Liuku tehdään seuraavasti:
 3.  Liuku ei nyöki
 
 ###  Hyppylennolla  
-
--   Kertaa suoritus mielessäsi
-
--   Keskity suoritukseesi
-
--   3X3 -tarkastus ennen hyppyä
+- Kertaa suoritus mielessäsi
+- Keskity suoritukseesi
+- 3X3 -tarkastus ennen hyppyä
 
 ###  Hypyn kulku  
 
@@ -4758,12 +4456,9 @@ FS-liuku sisältää seuraavan liikesarjan:
 3.  Käännös on 180° ja liuku pysyy suunnassa
 
 ###  Hyppylennolla  
-
--   Kertaa suoritus mielessäsi
-
--   Keskity suoritukseesi
-
--   3X3 -tarkastus ennen hyppyä
+- Kertaa suoritus mielessäsi
+- Keskity suoritukseesi
+- 3X3 -tarkastus ennen hyppyä
 
 ###  Hypyn kulku  
 
@@ -4804,16 +4499,13 @@ kuvunkäsittelyyn ja tarkkuuslaskeutumisiin.
 ------------------
 
 Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
-
--   5 ryhmähyppyä (\[jatkokoulutuksen-suoritukset-ryhmahyppy\] s.)
-
--   3 kuvunkäsittelyhyppyä
+- 5 ryhmähyppyä (\[jatkokoulutuksen-suoritukset-ryhmahyppy\] s.)
+- 3 kuvunkäsittelyhyppyä
     (\[jatkokoulutuksen-suoritukset-kuvunkasittelyhyppy\] s.) Jos
     oppilas ottaa käyttöön omat varusteet tai käyttää varjoa, jota ei
     ole tarkoitettu alkeis- tai peruskoulutukseen, suoritetaan
     kuvunkäsittelyhypyt ennen muita suorituksia.
-
--   Vapaavalintaisia hyppyjä siten, että A-lisenssiin vaadittavat 25
+- Vapaavalintaisia hyppyjä siten, että A-lisenssiin vaadittavat 25
     itseavaushyppyä saadaan täyteen. Kokeillaan freehyppäämistä
     (\[free-hyppaaminen\] s.) tai kouluttaja valitsee oppilaan
     osaamiseen ja kehityskohteisiin sopivimman suorituksen. Hypyillä on
@@ -4822,21 +4514,16 @@ Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
     -   NOVA 2 kpl
 
     -   PL 5 kpl
-
--   Koehyppy (\[jatkokoulutuksen-suoritukset-koehyppy\] s.)
+- Koehyppy (\[jatkokoulutuksen-suoritukset-koehyppy\] s.)
 
  Muut suoritukset  
 ------------------
-
--   5 tarkkuuslaskeutumista hyppysuoritusten yhteydessä, laskeutuminen
+- 5 tarkkuuslaskeutumista hyppysuoritusten yhteydessä, laskeutuminen
     25 metrin säteelle kouluttajan osoittamasta paikasta.
-
--   Pakkaustaidonnäyte (Voidaan suorittaa koulutusorganisaatiosta
+- Pakkaustaidonnäyte (Voidaan suorittaa koulutusorganisaatiosta
     riippuen myös aikaisemmassa vaiheessa.)
-
--   Oppilasvarjon pakkaustarkastusnäyte
-
--   A-lisenssin teoriakoe. Kokeessa on tulee osata kaikki tähän mennessä
+- Oppilasvarjon pakkaustarkastusnäyte
+- A-lisenssin teoriakoe. Kokeessa on tulee osata kaikki tähän mennessä
     luettu ja harjoiteltu sekä laskuvarjohyppäämistä koskevat lait,
     määräykset ja ohjeet (\[maaraykset-lait-ja-ohjeet\] s.).
 
@@ -5123,10 +4810,8 @@ suurella nopeudella (korkeuden tarkkailu) seisovassa asennossa kädet
 sivuille ojennettuina.
 
 Siirtyminen sittiksestä stand upiin tapahtuu seuraavasti:
-
--   Tarkastetaan korkeus ja viedään jalat alas yhteen.
-
--   Pidetään katse edelleen horisontissa tai hivenen sen alapuolella. Ei
+- Tarkastetaan korkeus ja viedään jalat alas yhteen.
+- Pidetään katse edelleen horisontissa tai hivenen sen alapuolella. Ei
     katsota missään tapauksessa suoraan alaspäin jalkoihin, sillä se
     aiheuttaa muutoksen vartalolinjassa.
 
@@ -5158,41 +4843,31 @@ ja kääntämällä kyynärvarret 90 astetta kyynärpäistä eteenpäin.
 --------------
 
 Freehyppyjen turvallisuuteen liittyviä asioita on lueteltu seuraavassa:
-
--   Tarkkaillaan korkeutta, sillä monissa freeasennoissa putoamisvauhti
+- Tarkkaillaan korkeutta, sillä monissa freeasennoissa putoamisvauhti
     on erittäin kova.
-
--   Lopetetaan harjoittelu viimeistään 1400 metrin korkeudessa ja
+- Lopetetaan harjoittelu viimeistään 1400 metrin korkeudessa ja
     palataan perusasentoon.
-
--   Selällään tai istualtaan lennettäessä saattaa rintahihnassa oleva
+- Selällään tai istualtaan lennettäessä saattaa rintahihnassa oleva
     korkeusmittari näyttää väärin. Käsimittarin käyttäminen
     on suositeltavaa.
-
--   Työskennellään aina poikittain lennettyyn hyppylinjaan nähden, sillä
+- Työskennellään aina poikittain lennettyyn hyppylinjaan nähden, sillä
     monet freeasennot saattavat väärin tehtyinä ruveta
     ajelehtimaan (liukumaan). Poikittain linjaan nähden työskenneltäessä
     ei ajelehdita muiden hyppääjien alle tai päälle.
-
--   Freehypyillä on ensiarvoisen tärkeää, että valjaat ovat sopivat,
+- Freehypyillä on ensiarvoisen tärkeää, että valjaat ovat sopivat,
     joten sovitetaan valjaat kunnolla ja kiristetään valjaat tiukalle,
     jotta ne eivät pääse liikkumaan päällä vapaan aikana.
-
--   Kun puetaan varusteita päälle, pidetään huoli siitä, että kaikki
+- Kun puetaan varusteita päälle, pidetään huoli siitä, että kaikki
     ylipitkät valjashihnat on niputettu kumilenkeillä
     tarpeeksi tiukasti.
-
--   Varmistetaan, etteivät vaatteet pääse kahvojen ja
+- Varmistetaan, etteivät vaatteet pääse kahvojen ja
     pampuloiden päälle.
-
--   Pidetään huoli, että apuvarjo on tiukasti taskussaan.
-
--   Joskus selällään tai istualtaan lennettäessä reisihihnat saattavat
+- Pidetään huoli, että apuvarjo on tiukasti taskussaan.
+- Joskus selällään tai istualtaan lennettäessä reisihihnat saattavat
     liukua polvitaipeisiin. Tämän estää reisihihnojen välissä haaran
     kohdalla oleva kumilenkki. Pyydetään kalustohenkilöä ompelemaan
     kuminauha jalkahihnoihin, jos sellaista ei ole.
-
--   Muistetaan pysyä hypyn etukäteissuunnitelmassa.
+- Muistetaan pysyä hypyn etukäteissuunnitelmassa.
 
 Headdown eli pää alaspäin lentäminen on oppilasvarusteilla kielletty!
 Varusteita ei ole suunniteltu eikä mitoitettu siihen tarkoitukseen.
@@ -5290,76 +4965,51 @@ määräysten mukaan mahdollistavat hyppäämisen. Ääriolosuhteet ja
 maksimiohjausliikkeet eivät sovi yhteen.
 
 Ääriolosuhteita ja asioita, joita tulisi välttää, ovat
-
--   kova tuuli, erityisesti puuskainen ja turbulenttinen keli
-
--   toisen jättövirtauksessa lentäminen
-
--   pienet laskeutumisalueet
-
--   väsyneenä hyppääminen
-
--   turhien riskien ottaminen.
+- kova tuuli, erityisesti puuskainen ja turbulenttinen keli
+- toisen jättövirtauksessa lentäminen
+- pienet laskeutumisalueet
+- väsyneenä hyppääminen
+- turhien riskien ottaminen.
 
 ###  Huomioitavia asioita  
 
 ####  Vapaapudotus  
-
--   Hypätään oikeasta uloshyppypaikasta.
-
--   Tarkastetaan sijainti jo vapaan aikana.
-
--   Puretaan oikeassa korkeudessa sekä riittävän korkealla tasoon ja
+- Hypätään oikeasta uloshyppypaikasta.
+- Tarkastetaan sijainti jo vapaan aikana.
+- Puretaan oikeassa korkeudessa sekä riittävän korkealla tasoon ja
     suoritukseen nähden.
-
--   Liu’utaan eroon muista, tarkastetaan ilmatila ja
+- Liu’utaan eroon muista, tarkastetaan ilmatila ja
     annetaan avausmerkki.
 
 ####  Avauksen aikana  
-
--   Avataan riittävän korkealla, stabiilissa asennossa, katse
+- Avataan riittävän korkealla, stabiilissa asennossa, katse
     horisonttiin ja olkapäät horisontin tasossa. Ei katsota olan
     yli apuvarjoa. Jo avauksen aikana kannattaa tarkkailla ilmatilaa
     muiden varjojen varalta.
-
--   Tehdään päätös: LENTÄÄ / EI LENNÄ (⇒ varavarjotoimenpiteet).
-
--   Laitetaan kädet takimmaisille kantohihnoille, väistetään
+- Tehdään päätös: LENTÄÄ / EI LENNÄ (⇒ varavarjotoimenpiteet).
+- Laitetaan kädet takimmaisille kantohihnoille, väistetään
     tarvittaessa (oikealle) ja tarkastetaan ilmatila.
-
--   Ohjataan takimmaisista kantohinnoista ja etsitään muut.
-
--   Tarkastetaan oma sijainti ja korkeus.
-
--   Tarkastetaan irtipäästöpampula ja varavarjon kahvan paikka
+- Ohjataan takimmaisista kantohinnoista ja etsitään muut.
+- Tarkastetaan oma sijainti ja korkeus.
+- Tarkastetaan irtipäästöpampula ja varavarjon kahvan paikka
     ja kiinnitys.
-
--   Käännetään takimmaisista kantohinnoista haluttuun lentosuuntaan.
-
--   Tukahdutetaan slider ja avataan puolijarrut.
-
--   Tehdään varjon ohjauskokeilu viimeistään 600 metrin korkeudessa.
+- Käännetään takimmaisista kantohinnoista haluttuun lentosuuntaan.
+- Tukahdutetaan slider ja avataan puolijarrut.
+- Tehdään varjon ohjauskokeilu viimeistään 600 metrin korkeudessa.
 
 ####  Lentäminen 
-
--   Katsekontakti 90 % ympärille (lentosuunta, sivut, alas, ylös
+- Katsekontakti 90 % ympärille (lentosuunta, sivut, alas, ylös
     ja taakse) ja 10 % maahan.
-
--   Annetaan muillekin lentotilaa: ei mennä lähelle, jos ei ole
+- Annetaan muillekin lentotilaa: ei mennä lähelle, jos ei ole
     etukäteen sovittu.
-
--   Porrastetaan liikenne mahdollisimman ylhäällä, ei
+- Porrastetaan liikenne mahdollisimman ylhäällä, ei
     vasta laskeutumiskuviossa.
-
--   Huomioidaan väistämisvelvollisuus: varavarjot, hitaammat kuvut,
+- Huomioidaan väistämisvelvollisuus: varavarjot, hitaammat kuvut,
     alemmat ja oikealta tulevat.
-
--   Ohjaillaan varjoa rauhallisesti ja keliä
+- Ohjaillaan varjoa rauhallisesti ja keliä
     tunnustellen (turbulenttisuus).
-
--   Päätetään tarvittaessa ajoissa varalaskupaikka ja laskusuunta.
-
--   Tarkkaillaan korkeutta ja korkeusmenetystä liikkeiden aikana.
+- Päätetään tarvittaessa ajoissa varalaskupaikka ja laskusuunta.
+- Tarkkaillaan korkeutta ja korkeusmenetystä liikkeiden aikana.
 
 ####  Varjon varassa törmäämisestä  
 
@@ -5376,12 +5026,9 @@ välistä.
 Pyri estämään törmääminen varjon varassa väistämällä oikealle ja
 varoittamalla huutamalla. Jos törmäämistä varjon varassa ei voi välttää,
 niin menetellään seuraavasti:
-
--   Minimoidaan törmäysvauhti jarruttamalla varjoa voimakkaasti.
-
--   Käperrytään palloksi.
-
--   Jos varjot sotkeutuvat:
+- Minimoidaan törmäysvauhti jarruttamalla varjoa voimakkaasti.
+- Käperrytään palloksi.
+- Jos varjot sotkeutuvat:
 
     -   tarkkaillaan korkeutta
 
@@ -5389,28 +5036,20 @@ niin menetellään seuraavasti:
 
     -   varmistetaan, että ollaan irti punoksista/kuvusta (käytetään
         tarvittaessa koukkupuukkoa) ennen varavarjotoimenpiteitä.
-
--   Kahden hyppääjän ei ole turvallista laskeutua yhdellä erittäin
+- Kahden hyppääjän ei ole turvallista laskeutua yhdellä erittäin
     raskaasti kuormitetulla päävarjolla.
 
 ####  Laskeutuminen  
-
--   Noudatetaan laskeutumissääntöjä: kuvion suunta, esteet
+- Noudatetaan laskeutumissääntöjä: kuvion suunta, esteet
     ja rajoitukset.
-
--   Tarkkaillaan ympäristöä, tuulta ja maata.
-
--   Suunnitellaan loppukuvio ajoissa. Huomioidaan esteet, ihmiset, muu
+- Tarkkaillaan ympäristöä, tuulta ja maata.
+- Suunnitellaan loppukuvio ajoissa. Huomioidaan esteet, ihmiset, muu
     liikenne, turbulenssi ja tuuli.
-
--   Ei tehdä jyrkkiä käännöksiä.
-
--   Valitaan laskeutumisalue (lyhyt, pitkä) taitojen mukaan.
-
--   Ei yritetä väkisin tiettyyn paikkaan, vaan laskeudutaan
+- Ei tehdä jyrkkiä käännöksiä.
+- Valitaan laskeutumisalue (lyhyt, pitkä) taitojen mukaan.
+- Ei yritetä väkisin tiettyyn paikkaan, vaan laskeudutaan
     rauhallisesti ja turvallisesti.
-
--   Tehdään oikeaoppinen loppuveto
+- Tehdään oikeaoppinen loppuveto
     (\[laskeutumistekniikat-oikeaoppinen-loppuveto\] s.). Kaikki
     liikkeet tehdään rauhallisesti eikä varjoa sakkauteta. Varjo ei anna
     anteeksi epäsymmetrisyyttä.
@@ -5418,30 +5057,21 @@ niin menetellään seuraavasti:
 Vastatuulen sijaan voidaan tulla mihin suuntaan tahansa tilanteen niin
 vaatiessa. Tärkeintä on laskeutua vapaaseen suuntaan ilman matalalla
 tehtyjä jyrkkiä käännöksiä.
-
--   Pidetään ohjaussuunta loppuun asti eikä oteta vastaan kädellä
+- Pidetään ohjaussuunta loppuun asti eikä oteta vastaan kädellä
     tai jalalla.
-
--   Ei pumpata loppuvedossa ohjauslenkeillä.
-
--   Jos loppuveto tehdään liian korkealla, pidetään ohjauslenkit
+- Ei pumpata loppuvedossa ohjauslenkeillä.
+- Jos loppuveto tehdään liian korkealla, pidetään ohjauslenkit
     alhaalla tai löysätään jarrutusta vain hieman. Jalat pidetään
     tiukasti yhdessä.
-
--   Tarkkaillaan korkeutta, sillä loppuveto perustuu sekä näköhavaintoon
+- Tarkkaillaan korkeutta, sillä loppuveto perustuu sekä näköhavaintoon
     että tuntemukseen.
 
 ####  Maahantulon jälkeen  
-
--   Tukahdutetaan kupu vetämällä toinen ohjauslenkki alas.
-
--   Tarkastetaan takaa tulevien lentosuunnat.
-
--   Asetetaan ohjauslenkit tarroihin ja avataan slider.
-
--   Kootaan varjo ja poistutaan laskeutumisalueelta.
-
--   Huomioidaan muut hyppääjät ja liikenne koko ajan.
+- Tukahdutetaan kupu vetämällä toinen ohjauslenkki alas.
+- Tarkastetaan takaa tulevien lentosuunnat.
+- Asetetaan ohjauslenkit tarroihin ja avataan slider.
+- Kootaan varjo ja poistutaan laskeutumisalueelta.
+- Huomioidaan muut hyppääjät ja liikenne koko ajan.
 
 Hyppyohjelman läpivienti edellyttää sopivat sääolosuhteet myös yli 600
 metrin korkeudessa, jotta käännökset, sakkauskokeilut jne. voidaan
@@ -5539,20 +5169,15 @@ Jatkokoulutuksessa oleva oppilas voi saada koulutuspäälliköltä tai
 apulaiskoulutuspäälliköltä luvan käyttää omia varusteitaan ja
 laskuvarjoaan. SIL ylläpitää luetteloja, joista ilmenee, mitkä
 varjomallit ovat soveltuvia
-
--   alkeis- ja peruskoulutuksessa oppilaiden käyttöön
-
--   jatkokoulutuksessa oppilaiden käyttöön
+- alkeis- ja peruskoulutuksessa oppilaiden käyttöön
+- jatkokoulutuksessa oppilaiden käyttöön
     (koulutuspäällikön/apulaiskoulutuspäällikön suostumuksella)
-
--   itsenäisillä lisenssihyppääjillä
+- itsenäisillä lisenssihyppääjillä
 
 SIL on määritellyt hyppääjille siipikuormarajat (katso siipikuorman
 määrittely) kokemuksen mukaan seuraavasti:
-
--   alkeis- ja peruskoulutusvaihe &lt; 1,1 lbs/ft².
-
--   jatkokoulutusvaihe sekä A- ja B-lisenssit &lt; 1,34 lbs/ft².
+- alkeis- ja peruskoulutusvaihe &lt; 1,1 lbs/ft².
+- jatkokoulutusvaihe sekä A- ja B-lisenssit &lt; 1,34 lbs/ft².
 
 Koulutus- ja turvallisuuskomitea suosittelee jatkokoulutusvaiheen
 oppilaille ja ensimmäistä varjoaan hankkiville hyppääjille korkeintaan
@@ -5560,18 +5185,14 @@ oppilaille ja ensimmäistä varjoaan hankkiville hyppääjille korkeintaan
 
 Kelpoisuushyppääjien käytössä olevien varjojen erot oppilasvarjoihin
 ovat seuraavia:
-
--   pienempiä, suurempi siipikuorma ⇒ suurempi nopeus alas- ja
+- pienempiä, suurempi siipikuorma ⇒ suurempi nopeus alas- ja
     eteenpäin, kasvanut vajaatoimintaherkkyys, suurempi sakkausnopeus ⇒
     vaativat suurempaa tarkkuutta ja reaktionopeutta
-
--   siipiprofiililtaan ja muodoltaan suorituskykyisempiä ⇒ parempi
+- siipiprofiililtaan ja muodoltaan suorituskykyisempiä ⇒ parempi
     liitosuhde, suurempi nopeus ja käännösherkkyys
-
--   ohuet microline-punokset ⇒ välittävät avausnykäyksen voimakkaammin,
+- ohuet microline-punokset ⇒ välittävät avausnykäyksen voimakkaammin,
     kuluvat nopeammin, vaaralliset törmättäessä varjon varassa
-
--   lisävarusteet (tukahdutettava slider ja tukahtuva apuvarjo) vaativat
+- lisävarusteet (tukahdutettava slider ja tukahtuva apuvarjo) vaativat
     huolellisuutta pakkaamisessa ja lentämisessä.
 
 ![image](/kuvat/MARD.jpg)
@@ -5668,11 +5289,9 @@ varavarjokahvojen päälle.
 
 Hyppääjä voi hypätä erilaisten lisävarusteiden kanssa, seuraavassa
 muutamia ominaispiirteitä:
-
--   Liitopuku: Liitopuvulla hyppääminen vaatii joko C-lisenssin ja
+- Liitopuku: Liitopuvulla hyppääminen vaatii joko C-lisenssin ja
     koulutuksen tai D-lisenssin. Lue lisää asiasta Liitohyppyoppaasta.
-
--   Savut, liput ja viirit: Näytöshypyillä saattaa joskus tulla tarpeen
+- Savut, liput ja viirit: Näytöshypyillä saattaa joskus tulla tarpeen
     käyttää esimerkiksi savuja, lippuja tai viirejä lisäämään
     näytöksen näyttävyyttä. Hypättäessä lipun tai viirin kanssa tulee
     aina miettiä, onko lippu tai viiri *vapaapudotukseen oleellisesti
@@ -5680,13 +5299,11 @@ muutamia ominaispiirteitä:
     vaatii D-lisenssin. Savujen, lippujen ja viirien virittely vaatii
     paljon kokemusta, joten pyydä apua kokeneemmilta hyppääjiltä.
     Savujen käytöstä on aina sovittava lentäjän (lennonjohdon) kanssa.
-
--   Skysurf: Lautahyppääminen vaatii joko C-lisenssin ja
+- Skysurf: Lautahyppääminen vaatii joko C-lisenssin ja
     koulutuspäällikölle annettavat käytännön taitonäytteet, joilla
     osoitetaan, että omataan lautahyppäämiseen tarvittavat perustaidot
     tai D-lisenssin. Lue lisää asiasta Skysurf-alkeisoppaasta.
-
--   Spaceball: Spaceballin kanssa hyppääminen on Suomessa kiellettyä.
+- Spaceball: Spaceballin kanssa hyppääminen on Suomessa kiellettyä.
 
  Harjoitus ja harjoitushypyt  
 -----------------------------
@@ -5721,8 +5338,7 @@ suhtautua ostamiseen terveellä epäluulolla.
 
 Laitekortista on tarkastettava aina seuraavat kohdat ja niitä on
 verrattava kalustoon:
-
--   Varjon ja valjaiden tyypin, sarjanumeroiden ja valmistusmerkintöjen
+- Varjon ja valjaiden tyypin, sarjanumeroiden ja valmistusmerkintöjen
     eli tunnistetietojen on täsmättävä laitekortissa oleviin. Kupujen
     tunnistetiedot löytyvät kuvun takahelmassa olevasta varoituslapusta.
     Valjaissa tunnistetiedot on yleensä merkitty joko varavarjon
@@ -5730,37 +5346,29 @@ verrattava kalustoon:
     sijainti vaihtelee repun valmistajan mukaan. Tunnistetietojen
     vertailuun ja merkin löytämiseen on hyvä pyytää apua kerhon
     kalustohenkilöiltä tai hyppymestareilta.
-
--   Tunniste- ja rekisteröintitiedot ovat luettavissa laitekortista.
-
--   Varjon omistajan vaihdoksesta tekee vanha omistaja
+- Tunniste- ja rekisteröintitiedot ovat luettavissa laitekortista.
+- Varjon omistajan vaihdoksesta tekee vanha omistaja
     merkinnän laitekorttiin.
-
--   Varjoihin ja reppu-valjasyhdistelmään tehdyt tarkastukset, huollot,
+- Varjoihin ja reppu-valjasyhdistelmään tehdyt tarkastukset, huollot,
     korjaukset sekä lentokelpoisuusmääräysten edellyttämät työt
     näkyvät laitekortista. Seuraavan tarkastuksen ajankohta kannattaa
     huomioida, ja jos mahdollista, käytetty varjo tai
     reppu-valjasyhdistelmä kannattaa tarkastuttaa ennen ostamista.
-
--   Varavarjo ja reppu-valjasyhdistelmä tarkastetaan aina yhdessä.
+- Varavarjo ja reppu-valjasyhdistelmä tarkastetaan aina yhdessä.
     Varavarjon ja valjaat voi tarkastaa kalustomestari C:n pätevyyden
     omaava henkilö. Päävarjo tarkastetaan aina
     kiinnitettynä reppu-valjasyhdistelmään. Päävarjon voi tarkastaa
     kalustomestari B tai C. Kalustomestari B:n tai C:n on tarkastettava
     päävarjo myös uuteen reppu-valjasyhdistelmään ennen kuin päävarjolla
     voidaan hypätä.
-
--   Varavarjon pakannut henkilö merkitsee aina laitekorttiin varavarjoon
+- Varavarjon pakannut henkilö merkitsee aina laitekorttiin varavarjoon
     tehtävät toimenpiteet kuten pakkaukset ja
     käytönjälkeiset tarkastukset.
-
--   Päävarjon pakkausmerkinnäksi riittää hyppypäiväkirjamerkintä.
-
--   Automaattilaukaisimen laitekortista selviää laitteen
+- Päävarjon pakkausmerkinnäksi riittää hyppypäiväkirjamerkintä.
+- Automaattilaukaisimen laitekortista selviää laitteen
     tunnistetietojen lisäksi huoltotilanne ja mahdollinen pariston
     vaihdon ajankohta.
-
--   Ostettaessa pelkästään vara- tai päävarjoa tai valjaita on
+- Ostettaessa pelkästään vara- tai päävarjoa tai valjaita on
     huomioitava, että pää- ja varavarjo sisältävät connectorilenkit,
     kantopunokset, sliderin ja itse varjon. Reppu-valjasyhdistelmään
     kuuluvat apuvarjo yhdyspunoksineen, kantohihnat sekä päävarjon ja
@@ -5790,22 +5398,17 @@ paineentasaukkojen reunat, ohjauspunosten alapäiden ja reisihihnojen
 kulumiset ovat näkyvimpiä ja yleisimpiä käytöstä johtuvia kulumisen
 kohteita. Varjokokonaisuuden kulumiseen vaikuttavia asioita ja
 seurattavia kohteita:
-
--   Punokset kuluvat nopeasti kuluneiden sliderin renkaiden takia.
+- Punokset kuluvat nopeasti kuluneiden sliderin renkaiden takia.
     Punossetti kestää yleensä 500–700 hyppyä. Punosten epätasainen
     kutistuminen aiheutuu sliderin tuottamasta kitkalämmöstä ja
     huonontaa varjon lento- ja avautumisominaisuuksia.
-
--   Avausjärjestelmään sekä kupuun tulee palamisreikiä huolimattoman
+- Avausjärjestelmään sekä kupuun tulee palamisreikiä huolimattoman
     pakkauksen vuoksi. Valmistajan ohjeiden mukainen pakkaus
     säästää kupua.
-
--   Ompeleet ja varjokangas kuluvat lian ja roskien vaikutuksesta.
-
--   Valjaiden kulumista ja likaantumista lisää ilman
+- Ompeleet ja varjokangas kuluvat lian ja roskien vaikutuksesta.
+- Valjaiden kulumista ja likaantumista lisää ilman
     pakkausalustaa pakkaaminen.
-
--   Kuluvia osia, kuten ohjauspunosten alapäitä, paineentasausaukkojen
+- Kuluvia osia, kuten ohjauspunosten alapäitä, paineentasausaukkojen
     reunoja, avausjärjestelmän osia, sliderin renkaita sekä mahdollisia
     tarroja on tarkkailtava ja niiden vaihdattaminen tai korjauttaminen
     kannattaa suorittaa ajoissa muiden osien säilymiseksi.
@@ -5819,39 +5422,28 @@ vain kalustomestari B tai C pätevyytensä mukaisesti.
 --------
 
 Päivittäiseen kalustohuoltoon kuuluu
-
--   kierteiden poisto ohjauspunoksista ja yhdyspunoksesta
-
--   päävarjon luupin kunnon ja pituuden tarkastus ja tarvittaessa vaihto
+- kierteiden poisto ohjauspunoksista ja yhdyspunoksesta
+- päävarjon luupin kunnon ja pituuden tarkastus ja tarvittaessa vaihto
     uuteen
-
--   irtohiekan ja muun mahdollisen lian poistaminen päävarjosta
+- irtohiekan ja muun mahdollisen lian poistaminen päävarjosta
     ravistamalla takahelmasta
-
--   sisäpussin kuminauhojen vaihtaminen ehjiin ja valjaskuminauhojen
+- sisäpussin kuminauhojen vaihtaminen ehjiin ja valjaskuminauhojen
     kunnon tarkastaminen
-
--   repun ja valjaiden puhdistus irtoliasta tarvittaessa esimerkiksi
+- repun ja valjaiden puhdistus irtoliasta tarvittaessa esimerkiksi
     juuriharjalla
-
--   varusteiden kuivaus tarvittaessa sekä oikea säilytys suojassa
+- varusteiden kuivaus tarvittaessa sekä oikea säilytys suojassa
     valolta, lialta ja kosteudelta.
 
 Varusteiden huollossa ja säilyttämisessä on huomioitava myös seuraavat
 seikat:
-
--   Kuvun ja valjaiden pesua kannattaa välttää. Pakottavissa tilanteissa
+- Kuvun ja valjaiden pesua kannattaa välttää. Pakottavissa tilanteissa
     pesu on mahdollinen, mutta asiassa kannattaa kääntyä kalustohenkilön
     puoleen turvallisen pesutavan selvittämiseksi.
-
--   Ei säilytetä varjoa auton takakontissa ilman varjokassia.
-
--   Luupin on oltava ehjä ja oikean pituinen.
-
--   Kerhon säilytystilat on pidettävä kuivina, eikä niissä saa säilyttää
+- Ei säilytetä varjoa auton takakontissa ilman varjokassia.
+- Luupin on oltava ehjä ja oikean pituinen.
+- Kerhon säilytystilat on pidettävä kuivina, eikä niissä saa säilyttää
     mitään syövyttäviä tai paloarkoja aineita.
-
--   Varjoa säilytetään talven yli kotona kuivassa ja pimeässä paikassa.
+- Varjoa säilytetään talven yli kotona kuivassa ja pimeässä paikassa.
     Kuiva varjo voi olla sisäpussissaan, mutta varavarjon jousiapuvarjo
     on hyvä vapauttaa, mikäli säilytys on pitempiaikaista.
 
@@ -5903,40 +5495,27 @@ slider tähden muotoon stabilisaattorien kovikkeita vasten.
 ------------------
 
 I tarkastusvaiheen tarkastaja vastaa siitä, että
-
--   Repun, valjaiden ja varjon yleiskunto sekä siisteys on hyvä.
-
--   Repun luuppi ja avausjärjestelmän varusteet ovat kunnossa, slider ja
+- Repun, valjaiden ja varjon yleiskunto sekä siisteys on hyvä.
+- Repun luuppi ja avausjärjestelmän varusteet ovat kunnossa, slider ja
     apuvarjo on viritetty.
-
--   PL-hihna, lukko ja sokka/IA-kahva ovat kunnossa, eikä niissä
+- PL-hihna, lukko ja sokka/IA-kahva ovat kunnossa, eikä niissä
     ole kulumia.
-
--   Olkalukot ovat maata kohti eivätkä kantohihnat ole kierteellä.
-
--   Olkalukot ovat kiinni ehjillä luupeilla ja connectorilenkkien suojat
+- Olkalukot ovat maata kohti eivätkä kantohihnat ole kierteellä.
+- Olkalukot ovat kiinni ehjillä luupeilla ja connectorilenkkien suojat
     ovat kiinni ja ehyet.
-
--   Puolijarrut on kiinnitetty, ohjauslenkkien päät on työnnetty
+- Puolijarrut on kiinnitetty, ohjauslenkkien päät on työnnetty
     käärmeensilmien läpi ja lenkit ovat kiinni tarroissaan
     ja taskuissaan.
-
--   Ylimääräinen ohjauspunos on lenkitetty siististi ja taiteltu
+- Ylimääräinen ohjauspunos on lenkitetty siististi ja taiteltu
     kiinnitystarrojen (tai vastaavien) alle.
-
--   Ohjauspunokset ovat koko pituudeltaan erillään muista punoksista.
-
--   Kupu on laskostettu molemmilta puolilta
+- Ohjauspunokset ovat koko pituudeltaan erillään muista punoksista.
+- Kupu on laskostettu molemmilta puolilta
     stabilisaattoriväleihin siististi.
-
--   Takahelma on laskostettu ohjauspunosten välistä sivulle.
-
--   Punokset ovat tiukalla kuvun keskellä: 4+4 ohjaus 5+5 D 5+5 C 5+5 B-
+- Takahelma on laskostettu ohjauspunosten välistä sivulle.
+- Punokset ovat tiukalla kuvun keskellä: 4+4 ohjaus 5+5 D 5+5 C 5+5 B-
     ja 5+5 A-punosta.
-
--   Slider on taitettuna kuvun sisälle ristiin, purjerenkaat nipussa.
-
--   Etuhelman 9 tunneliparia on tasattu.
+- Slider on taitettuna kuvun sisälle ristiin, purjerenkaat nipussa.
+- Etuhelman 9 tunneliparia on tasattu.
 
 Tarkastuksen on oltava yksityiskohtainen, jotta pakkausta ei tarvitse
 keskeyttää myöhemmin puutteen tai vian takia. Tämän jälkeen tarkastaja
@@ -5944,24 +5523,19 @@ kuittaa ensimmäisen tarkastusvaiheen pakkauskirjanpitoon todeten samalla
 esitäytettyjen pakkaustietojen paikkansapitävyyden.
 
 Pakkaus II tarkastusvaiheeseen suoritetaan seuraavasti:
-
--   Asetetaan takahelman keskiosa ylös (warning label / keskimerkki)
+- Asetetaan takahelman keskiosa ylös (warning label / keskimerkki)
     sliderin purjerenkaiden päälle ja kiedotaan niiden ympärille.
-
--   Kierretään takahelman reunat kuvun ympäri, vapautetaan tunnelinsuut
+- Kierretään takahelman reunat kuvun ympäri, vapautetaan tunnelinsuut
     jalkojen välistä, tasataan tunnelin suut kuvun reunan tasalle sekä
     kiristetään takahelman reunat ja rullataan 5–6 kierrosta.
-
--   Asetetaan kupu maahan punokset kireällä, poistetaan ilma kuvusta ja
+- Asetetaan kupu maahan punokset kireällä, poistetaan ilma kuvusta ja
     muotoillaan se hieman sisäpussia leveämmäksi pötköksi, taitetaan
     kuvun alaosa kuvun s-mutkalle ja kuvun yläosa edellisen taitoksen
     päälle sekä sujautetaan kupu sisäpussiin.
-
--   Vedetään ylimääräinen yhdyspunos pois sisäpussista ja tarkistetaan,
+- Vedetään ylimääräinen yhdyspunos pois sisäpussista ja tarkistetaan,
     ettei varjokangasta jää sisäpussin purjerenkaan ja
     yhdyspunoksen väliin.
-
--   Suljetaan sisäpussi purjerenkaiden kautta kulkevilla
+- Suljetaan sisäpussi purjerenkaiden kautta kulkevilla
     yksinkertaisilla kumilenkeillä ja punostetaan loput punokset
     kumilenkeillä kireälle.
 
@@ -5969,17 +5543,12 @@ Pakkaus II tarkastusvaiheeseen suoritetaan seuraavasti:
 -------------------
 
 II tarkastusvaiheen tarkastaja vastaa seuraavista asioista:
-
--   Kupu on sisäpussissa tasaisesti ja pursuilematta.
-
--   Yhdyspunos on vedetty ulos sisäpussista kiinnitysrenkaaseen saakka
+- Kupu on sisäpussissa tasaisesti ja pursuilematta.
+- Yhdyspunos on vedetty ulos sisäpussista kiinnitysrenkaaseen saakka
     eikä varjokangasta ole purjerenkaan ja yhdyspunoksen välissä.
-
--   Yhdyspunoksessa/pakkolaukaisuhihnassa ei ole kierrettä.
-
--   Punostus on tasainen ja kireä.
-
--   Toisen vaiheen tarkastaja vastaa myös (pakkaajan ohella) repun
+- Yhdyspunoksessa/pakkolaukaisuhihnassa ei ole kierrettä.
+- Punostus on tasainen ja kireä.
+- Toisen vaiheen tarkastaja vastaa myös (pakkaajan ohella) repun
     oikeasta sulkemisesta:
 
     -   Sisäpussi asetetaan reppuun oikein ja pyörittämättä.
@@ -6035,39 +5604,31 @@ koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä.
 
  Lait ja asetukset  
 -------------------
-
--   Ilmailulaki 22.12.2009/1194
+- Ilmailulaki 22.12.2009/1194
 
 <http://www.finlex.fi/fi/laki/alkup/2009/20091194>
 
  Ilmailumääräykset ja -tiedotukset  
 -----------------------------------
-
--   GEN T1-1, 6.2.2009, Ilmailuhallinnon ilmailumääräys- ja
+- GEN T1-1, 6.2.2009, Ilmailuhallinnon ilmailumääräys- ja
     tiedotusjärjestelmä
-
--   OPS M6-1, 9.7.2010, Laskuvarjohyppytoiminta
-
--   PEL T4-3, 18.1.2007, Lääkkeet ja ilmailu
+- OPS M6-1, 9.7.2010, Laskuvarjohyppytoiminta
+- PEL T4-3, 18.1.2007, Lääkkeet ja ilmailu
 
 <http://www.trafi.fi/ilmailu/saadokset/ilmailumaarayskokoelma>
 
  SIL ry:n ohjeet  
 -----------------
-
--   Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset,
+- Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset,
     20.4.2014
 
 <http://laskuvarjotoimikunta.fi/materiaalipankki/koulutus-ja-turvallisuus/lisenssihyppaajan-dokumentteja>
 
  Muut  
 ------
-
--   Turvallisuus- ja kalustotiedotteet.
-
--   Lentokelpoisuusmääräykset (muutosmääräykset).
-
--   Kenttä- ja kerhokohtaiset ohjeet.
+- Turvallisuus- ja kalustotiedotteet.
+- Lentokelpoisuusmääräykset (muutosmääräykset).
+- Kenttä- ja kerhokohtaiset ohjeet.
 
 Hyppytoiminnan järjestäminen 
 ============================
@@ -6101,14 +5662,10 @@ lentäjä ja kaikki pokan hyppääjät ovat tietoisia asiasta.
 
 Pokanvanhin vastaa sujuvasta ja turvallisesta hyppytoiminnasta oman
 pokansa osalta, ja hänen tehtävänsä ovat vähintään
-
--   hyppyjärjestyksen määrittäminen
-
--   ohjeiden antaminen lentäjälle ennen hyppylentoa ja lennon aikana
-
--   vastaaminen pokasta koneen kuormauksen ja lennon aikana
-
--   poikkeus- tai vaaratilanteessa yhteydenpito lentäjän kanssa ja
+- hyppyjärjestyksen määrittäminen
+- ohjeiden antaminen lentäjälle ennen hyppylentoa ja lennon aikana
+- vastaaminen pokasta koneen kuormauksen ja lennon aikana
+- poikkeus- tai vaaratilanteessa yhteydenpito lentäjän kanssa ja
     ohjeiden anto hyppääjille.
 
  Hyppytoiminnan aloitus  
@@ -6136,11 +5693,9 @@ turvallisuudesta.
 
 Toimittaessa muulla kuin kerhon koneella on syytä huomioida seuraavaa:
 ilma-aluksen lentokäsikirjassa tai sen liitteessä on oltava
-
--   hyväksyntä siitä, että koneella voidaan lentää ilman ovea tai ovi
+- hyväksyntä siitä, että koneella voidaan lentää ilman ovea tai ovi
     voidaan avata lennon aikana
-
--   laskuvarjohyppytoimintaan tarvittavat ohjeet
+- laskuvarjohyppytoimintaan tarvittavat ohjeet
 
 Lisäksi koneessa on oltava puukko tai vastaava teräase lentäjän ja
 hyppääjien saatavilla. Jos koneessa on yli 10 hyppääjää, kaikkien on
@@ -6248,17 +5803,12 @@ tasolla, jotta vaativat haasteet eivät muodostu riskitekijäksi.
 Sen lisäksi mitä laskuvarjohyppytoiminnalta vaaditaan, ovat SIL ry:n
 ohjeen *Laskuvarjohyppääjien toiminnalliset ohjeet ja
 kelpoisuusvaatimukset* mukaan yöhypyt sallittuja seuraavin ehdoin:
-
--   hyppääjällä on vähintään C-lisenssi
-
--   hyppääjällä on valaistu tai itsevalaiseva korkeusmittari
-
--   hyppääjä on varustettu kiinteällä, ympäristöön näkyvällä
+- hyppääjällä on vähintään C-lisenssi
+- hyppääjällä on valaistu tai itsevalaiseva korkeusmittari
+- hyppääjä on varustettu kiinteällä, ympäristöön näkyvällä
     valolaitteella
-
--   hyppääjällä on suunnattava valolaite laskuvarjon tarkastamiseksi
-
--   maalialue on valaistu
+- hyppääjällä on suunnattava valolaite laskuvarjon tarkastamiseksi
+- maalialue on valaistu
 
 Yö määritellään ilmailumääräysten mukaan (OPS M1-1) seuraavasti:
 ”Auringon laskun ja nousun välinen aika silloin, kun valaisematonta
@@ -6872,77 +6422,48 @@ Hyvin yleistä onnettomuuksissa on, että tapahtumalle ei ole olemassa
 yhtä syytä, vaan useita osasyitä, jotka yhdessä ovat aiheuttaneet
 onnettomuuden. Riskitekijöitä ja onnettomuuteen johtavia tekijöitä
 laskuvarjourheilussa ovat esimerkiksi
-
--   väsymys, krapula, huumaavat aineet, lääkkeet ja niiden vaikutuksen
+- väsymys, krapula, huumaavat aineet, lääkkeet ja niiden vaikutuksen
     alaisena hyppääminen
-
--   ongelmat ja ristiriidat töissä, kotona tai kerholla
-
--   huolimaton päävarjon pakkaus
-
--   väärä pukeutuminen säähän ja olosuhteisiin nähden
-
--   lainavarusteilla hyppääminen ja usein vaihtuvat varusteet
-
--   muuttuneet toimintamallit varavarjotoimenpiteissä, ohjaamisessa jne.
-
--   liian vaativa hyppy kokemukseen nähden ja epäsäännöllinen
+- ongelmat ja ristiriidat töissä, kotona tai kerholla
+- huolimaton päävarjon pakkaus
+- väärä pukeutuminen säähän ja olosuhteisiin nähden
+- lainavarusteilla hyppääminen ja usein vaihtuvat varusteet
+- muuttuneet toimintamallit varavarjotoimenpiteissä, ohjaamisessa jne.
+- liian vaativa hyppy kokemukseen nähden ja epäsäännöllinen
     hyppytausta
-
--   liika yrittäminen kokemuksen ollessa vähäinen
-
--   välinpitämättömyys muista hyppääjistä ja näyttämisen tarve
-
--   väärä uloshyppypaikka.
-
--   matalat purut ja aukaisut sekä lyhyt liuku tai puutteellinen
+- liika yrittäminen kokemuksen ollessa vähäinen
+- välinpitämättömyys muista hyppääjistä ja näyttämisen tarve
+- väärä uloshyppypaikka.
+- matalat purut ja aukaisut sekä lyhyt liuku tai puutteellinen
     liukutekniikka
-
--   puutteellinen ilmatilan tarkkailu varjon varassa ja laskeuduttaessa.
-
--   rajut ohjausliikkeet ja käännökset matalalla sekä liian vaativa
+- puutteellinen ilmatilan tarkkailu varjon varassa ja laskeuduttaessa.
+- rajut ohjausliikkeet ja käännökset matalalla sekä liian vaativa
     varjo taitoihin nähden.
 
 Riskitekijöitä minimoitaessa on huomioitava ainakin seuraavat seikat:
-
--   Tunnetaan omat tiedot, taidot ja vireystila eikä yliarvioida niitä.
-
--   Harjoitellaan opittuja toimintamalleja useasti hyppykauden aikana.
-
--   Hypätään säännöllisesti ja osallistutaan koulutustilaisuuksiin.
-
--   Noudatetaan määräyksiä ja sääntöjä sekä tiedetään kerho- ja
+- Tunnetaan omat tiedot, taidot ja vireystila eikä yliarvioida niitä.
+- Harjoitellaan opittuja toimintamalleja useasti hyppykauden aikana.
+- Hypätään säännöllisesti ja osallistutaan koulutustilaisuuksiin.
+- Noudatetaan määräyksiä ja sääntöjä sekä tiedetään kerho- ja
     kenttäkohtaiset ohjeet.
-
--   Tunnetaan kentän nostavat, laskevat ja pyörteet sekä ohjataan niistä
+- Tunnetaan kentän nostavat, laskevat ja pyörteet sekä ohjataan niistä
     pois täydellä liidolla (ZP-kangas).
-
--   Tutustutaan varjoon sekä varusteisiin eri tilanteissa ja keleissä
+- Tutustutaan varjoon sekä varusteisiin eri tilanteissa ja keleissä
     sekä vältetään lainavarusteita.
-
--   Käytetään omaan taito- ja kokemustasoon soveltuvaa varjokalustoa
+- Käytetään omaan taito- ja kokemustasoon soveltuvaa varjokalustoa
     sekä muita varusteita (esimerkiksi kamerakypärä).
-
--   Käytetään kaikilla hypyillä reppu-valjasyhdistelmää, jossa on
+- Käytetään kaikilla hypyillä reppu-valjasyhdistelmää, jossa on
     varavarjon automaattilaukaisin.
-
--   Seurataan sään kehittymistä koko hyppypäivän ajan eikä hypätä, jos
+- Seurataan sään kehittymistä koko hyppypäivän ajan eikä hypätä, jos
     ollaan epävarmoja.
-
--   Ei olla itsekkäitä, vaan huomioidaan muut hyppääjät.
-
--   Varataan aina riittävästi korkeutta hyppysuoritusta varten.
-
--   Ei epäröidä käyttää varavarjoa epäselvässä tilanteessa.
-
--   Pukeudutaan sään mukaisesti huomioiden myös hyppykorkeus sekä
+- Ei olla itsekkäitä, vaan huomioidaan muut hyppääjät.
+- Varataan aina riittävästi korkeutta hyppysuoritusta varten.
+- Ei epäröidä käyttää varavarjoa epäselvässä tilanteessa.
+- Pukeudutaan sään mukaisesti huomioiden myös hyppykorkeus sekä
     käytetään aina sormikkaita.
-
--   Ei pakata märkää tai roskaista varjoa.
-
--   Ei hypätä pilveen.
-
--   Muistetaan, että onnettomuus ei ole yksityisasia!
+- Ei pakata märkää tai roskaista varjoa.
+- Ei hypätä pilveen.
+- Muistetaan, että onnettomuus ei ole yksityisasia!
 
 Hyppyturvallisuus rakentuu toimintamalleille ja -menetelmille.
 Toimintamalli on esimerkiksi opittu varavarjon käyttötapa.
@@ -6981,10 +6502,8 @@ tiedotteet ovat kaikkien hyppääjien saatavilla.
 
 Toiminta onnettomuuspaikalla (katso lisätietoja ohjeesta Toiminta
 onnettomuustilanteessa) on seuraava:
-
--   Hyppytoiminta keskeytetään
-
--   Ilmoitukset:
+- Hyppytoiminta keskeytetään
+- Ilmoitukset:
 
     -   Hätäkeskus 112
 
@@ -7017,43 +6536,31 @@ onnettomuustilanteessa) on seuraava:
     -   Otetaan talteen uhrin omaisuus
 
 ### Onnettomuuspaikalla 
-
--   Estetään lisäonnettomuuksien synty (tie tai lähiympäristö)
-
--   Annetaan ensiapu
-
--   Eristetään alue ja estetään turhien jälkien syntyminen
-
--   Loukkaantuneen varusteet pyritään pitämään mahdollisimman
+- Estetään lisäonnettomuuksien synty (tie tai lähiympäristö)
+- Annetaan ensiapu
+- Eristetään alue ja estetään turhien jälkien syntyminen
+- Loukkaantuneen varusteet pyritään pitämään mahdollisimman
     alkuperäisessä tilassa, jos mahdollista
-
--   Kuolemaan johtaneissa onnettomuuksissa uhria ja varusteita ei
+- Kuolemaan johtaneissa onnettomuuksissa uhria ja varusteita ei
     saa siirtää. Uhri peitetään tarvittaessa
-
--   Otetaan onnettomuuspaikasta maastoon sidottuja valokuvia ja/tai
+- Otetaan onnettomuuspaikasta maastoon sidottuja valokuvia ja/tai
     videokuvaa
-
--   Järjestetään pelastushenkilökunnan sekä viranomaisten opastus
+- Järjestetään pelastushenkilökunnan sekä viranomaisten opastus
     onnettomuuspaikalle
 
 ### Tiedottaminen 
-
--   Tiedottamisen on oltava niukkaa. Ei soiteta itse minnekään. Jos
+- Tiedottamisen on oltava niukkaa. Ei soiteta itse minnekään. Jos
     tiedotusvälineistä soitetaan, kerrotaan vain, että a) onnettomuus on
     tapahtunut ja b) tiedottamisesta vastaa nimetty henkilö
-
--   Onnettomuuden uhrin nimeä ei saa julkaista, ennen kuin uhrin
+- Onnettomuuden uhrin nimeä ei saa julkaista, ennen kuin uhrin
     omaisille on mennyt tieto tapahtuneesta ja he ovat antaneet
     siihen luvan. Kerholaiset eivät saa kertoa nimeä ulkopuolisille
-
--   Onnettomuuteen johtaneista syistä ei saa esittää minkäänlaisia
+- Onnettomuuteen johtaneista syistä ei saa esittää minkäänlaisia
     arvioita
-
--   Onnettomuudesta ei saa keskustella missään julkisessa paikassa, ei
+- Onnettomuudesta ei saa keskustella missään julkisessa paikassa, ei
     ravintoloisissa, ei busseissa, ei saunassa eikä missään, missä on
     ulkopuolisia kuulijoita
-
--   Täytetään ja lähetetään vaaratilanneraportti (tätä voi
+- Täytetään ja lähetetään vaaratilanneraportti (tätä voi
     täydentää myöhemmin)
 
  Ensiapu  
@@ -7185,16 +6692,12 @@ Jos laskuvarjohypyn yhteydessä sattuu sellainen vaaratilanne, jossa
 hyppääjän tai ilmaliikenteen turvallisuus on ollut uhattuna, on
 tapahtuneesta viipymättä tehtävä kirjallinen selonteko SIL:lle.
 Tapauksia, joista ilmoitus on aina tehtävä, ovat mm. seuraavat:
-
--   kaikki hypyt, joissa on käytetty varavarjoa,
-
--   kaikki tapaukset, joissa on sattunut lääkäri- tai sairaalahoitoon
+- kaikki hypyt, joissa on käytetty varavarjoa,
+- kaikki tapaukset, joissa on sattunut lääkäri- tai sairaalahoitoon
     johtaneita loukkaantumisia,
-
--   kaikki tapaukset, joissa varjon toiminta on ollut epänormaali
+- kaikki tapaukset, joissa varjon toiminta on ollut epänormaali
     (vajaatoiminta),
-
--   tapaukset, jotka muuten ovat turvallisuutta vaarantavia tai joista
+- tapaukset, jotka muuten ovat turvallisuutta vaarantavia tai joista
     olisi voinut kehittyä vaaratilanne.
 
 SIL:n laskuvarjohyppääjiä koskeva *Toiminnallinen ohje* antaa
@@ -7236,22 +6739,17 @@ Suorituksina on hyppyjä oppilaan FS-ohjelmasta
 hypätä, jos kouluttajan ja oppilaan taidot riittävät. Olennaista on,
 että oppilas pystyy näyttämään hallitsevansa kaikki turvallisen
 ryhmähyppäämisen osa-alueet:
-
--   Toiminta maassa, lentokoneessa ja uloshypyssä.
-
--   Toiminta vapaapudotuksessa, muodostelman lähestyminen ja otteiden
+- Toiminta maassa, lentokoneessa ja uloshypyssä.
+- Toiminta vapaapudotuksessa, muodostelman lähestyminen ja otteiden
     ottaminen turvallisesti.
-
--   Purku ja liuku (oikeaan suuntaan ja riittävän tehokkaasti)
+- Purku ja liuku (oikeaan suuntaan ja riittävän tehokkaasti)
 
     -   Purku kahdella ensimmäisellä hypyllä 1800 metrissä, seuraavilla
         vähintään 1600 metrissä
-
--   Aloita avaustoimenpiteet 1200 metrin korkeudessa.
+- Aloita avaustoimenpiteet 1200 metrin korkeudessa.
 
 <!-- -->
-
--   Kaikkia ryhmähyppyjä yhdistää seuraava toimintajärjestys
+- Kaikkia ryhmähyppyjä yhdistää seuraava toimintajärjestys
     muodostelmaa lähestyttäessä:
 
     1.  TASO (Level)
@@ -7267,10 +6765,8 @@ ryhmähyppäämisen osa-alueet:
         -   Ota ote.
 
 ###  Oppilaan toiminta  
-
--   UH-harjoittelu, otteet ja ovelle asettautuminen
-
--   Hypyn harjoittelu maassa
+- UH-harjoittelu, otteet ja ovelle asettautuminen
+- Hypyn harjoittelu maassa
 
 ###  Oppimistavoitteet  
 
@@ -7303,16 +6799,12 @@ onnistuminen.
 
 Freehypyillä hyppäät suorituksia oppilaan freefly-ohjelmasta
 (\[free-hyppaaminen-hyppyohjelma\] s.).
-
--   Tutustut freelentämisen alkeisiin.
-
--   Opettelet vartalon hallintaa muussakin asennossa kuin boksissa.
+- Tutustut freelentämisen alkeisiin.
+- Opettelet vartalon hallintaa muussakin asennossa kuin boksissa.
 
 ###  Oppilaan toiminta  
-
--   Varmista, että käytettävä laskuvarjokalusto on sopiva freekäyttöön.
-
--   Harjoittele asentoa maassa.
+- Varmista, että käytettävä laskuvarjokalusto on sopiva freekäyttöön.
+- Harjoittele asentoa maassa.
 
 ###  Oppimistavoitteet  
 
@@ -7332,18 +6824,14 @@ Kertaa, miten siirryt ovelle, otat otteet ja miten uloshyppylaskenta
 tehdään.
 
 ###  Hypyn kulku  
-
--   Keskity omaan suoritukseesi ja säännölliseen korkeuden tarkkailuun.
+- Keskity omaan suoritukseesi ja säännölliseen korkeuden tarkkailuun.
     Muista että vapaapudotusnopeus on suurempi kuin mahallaan hypätessä.
-
--   Työskentele niin, että rintamasuuntasi on poikittain hyppykoneen
+- Työskentele niin, että rintamasuuntasi on poikittain hyppykoneen
     linjaan nähden.
-
--   Mene palloasentoon (\[turvallisuus-freehyppaamisessa-palloasento\]
+- Mene palloasentoon (\[turvallisuus-freehyppaamisessa-palloasento\]
     s.), jos menetät stabiilin asennon. Näin vältät suuren nopeuden
     muutoksen (korkkaaminen).
-
--   Sovitusta purkukorkeudesta on pidettävä kiinni.
+- Sovitusta purkukorkeudesta on pidettävä kiinni.
 
     -   Vaikka hyppäisit yksin, harjoittele purkua.
 
@@ -7355,27 +6843,19 @@ tehdään.
 Kuvunkäsittelyhypyt on hypättävä ennen muita suorituksia, jos oppilas
 saa jatkokoulutuksessa luvan käyttää omia varusteita tai kerhon
 varusteita, joita ei ole hyväksytty alkeis- / peruskoulutuskäyttöön
-
--   Hyppykorkeus on 2000 metriä, josta hypätään 8-10 s vapaa.
-
--   Vapaapudotussuorituksia ei tehdä samalla hypyllä.
+- Hyppykorkeus on 2000 metriä, josta hypätään 8-10 s vapaa.
+- Vapaapudotussuorituksia ei tehdä samalla hypyllä.
 
 ###  Oppilaan toiminta  
-
--   Käy hyppysuoritus läpi
+- Käy hyppysuoritus läpi
     (\[kuvunkasittely-oppilaana-kuvunkasittelyhypyt\] s.).
-
--   Tarkasta sääolosuhteet.
-
--   Määritä UH-paikka. (aika varjon varassa pidempi?)
+- Tarkasta sääolosuhteet.
+- Määritä UH-paikka. (aika varjon varassa pidempi?)
 
 ###  Oppimistavoitteet  
-
--   Oppia käsittelemään varjoa kantohihnoista
-
--   Oppia käsittelemään varjoa eri jarrutustiloissa
-
--   Oppia erilaisia loppuvetotapoja.
+- Oppia käsittelemään varjoa kantohihnoista
+- Oppia käsittelemään varjoa eri jarrutustiloissa
+- Oppia erilaisia loppuvetotapoja.
 
 ###  Hyppylennolla  
 
@@ -7401,20 +6881,13 @@ hyppääjänä.
 ###  Oppilaan toiminta  
 
 Hän valmistelee pokan kaikilta osin pokan vanhimman roolissa:
-
--   huolehtii varusteistaan
-
--   valitsee ja suunnittelee turvallisen hypyn
-
--   päättää pokassa olevien uloshyppyjärjestyksen
-
--   määrittää UH-paikan ja hyppylinjan koko pokalle tuulitietojen avulla
-
--   katsoo UH-paikan koneesta
-
--   toteuttaa suunnitellun hypyn
-
--   ohjaa varjoaan turvallisesti ja laskeutuu sovitulle alueelle.
+- huolehtii varusteistaan
+- valitsee ja suunnittelee turvallisen hypyn
+- päättää pokassa olevien uloshyppyjärjestyksen
+- määrittää UH-paikan ja hyppylinjan koko pokalle tuulitietojen avulla
+- katsoo UH-paikan koneesta
+- toteuttaa suunnitellun hypyn
+- ohjaa varjoaan turvallisesti ja laskeutuu sovitulle alueelle.
 
 Kaikkien osioiden on sujuttava itsenäisesti ilman apua, koska tämän
 jälkeen hän toimii itsenäisenä hyppääjänä.
@@ -7430,10 +6903,8 @@ jälkeen hän toimii itsenäisenä hyppääjänä.
 4.  Suoriutuu kokemukseensa nähden sopivasta hyppysuorituksesta
 
 ###  Hyppylennolla  
-
--   Varmistaa koneen lastauksen oikeassa järjestyksessä
-
--   Määrittää UH-paikan
+- Varmistaa koneen lastauksen oikeassa järjestyksessä
+- Määrittää UH-paikan
 
 ###  Hypyn kulku  
 
@@ -7462,47 +6933,31 @@ IPC:n julkaisemasta Dive poolista.
 ----------------
 
 ####  1970-luku  
-
--   RW-hyppääminen alkaa (Relative Work)
-
--   1974 ensimmäinen World Cup Etelä-Afrikassa
-
--   1975 ensimmäiset SM-kilpailut järjestetään
-
--   1975 ensimmäiset MM-kilpailut Länsi-Saksassa
+- RW-hyppääminen alkaa (Relative Work)
+- 1974 ensimmäinen World Cup Etelä-Afrikassa
+- 1975 ensimmäiset SM-kilpailut järjestetään
+- 1975 ensimmäiset MM-kilpailut Länsi-Saksassa
 
 ####  1980-luku  
-
--   1984 Mike Zahar kehitti 4- ja 8-way blokit ja randomit kilpailuihin
-
--   1985 suomalainen Skorpions sijoittui 5. sijalle MM-kisoissa
+- 1984 Mike Zahar kehitti 4- ja 8-way blokit ja randomit kilpailuihin
+- 1985 suomalainen Skorpions sijoittui 5. sijalle MM-kisoissa
     Brasiliassa
-
--   1986 ensimmäinen virallinen 100-way, Muskogee USA
+- 1986 ensimmäinen virallinen 100-way, Muskogee USA
 
 ####  1990-luku  
-
--   1991 Relative Workistä tulee Formation Skydiving
-
--   1993 suomalainen Madway sijoittui 4. sijalle MM-kisoissa USA:ssa
-
--   1993 Suomen ennätys 57-way
-
--   1997 Max 5 teki Suomen ennätyksen 24 pistettä kilpailuhypyllä
-
--   1999 Suomen naisten ennätys 30-way
+- 1991 Relative Workistä tulee Formation Skydiving
+- 1993 suomalainen Madway sijoittui 4. sijalle MM-kisoissa USA:ssa
+- 1993 Suomen ennätys 57-way
+- 1997 Max 5 teki Suomen ennätyksen 24 pistettä kilpailuhypyllä
+- 1999 Suomen naisten ennätys 30-way
 
 ####  2000-luku  
-
--   2002 ranskalainen Maubeuge teki maailman ennätyksen 42 pistettä
+- 2002 ranskalainen Maubeuge teki maailman ennätyksen 42 pistettä
     kilpailuhypyllä
-
--   2003 suomalainen naisjoukkue Zooey sijoittui 8. sijalle naisten
+- 2003 suomalainen naisjoukkue Zooey sijoittui 8. sijalle naisten
     sarjassa MM-kisoissa Ranskassa
-
--   2004 maailman ennätys 357-way, Thaimaa
-
--   2006 maailman ennätys 400-way, Thaimaa
+- 2004 maailman ennätys 357-way, Thaimaa
+- 2006 maailman ennätys 400-way, Thaimaa
 
 FS-hyppääjän varusteet 
 ======================
@@ -7666,67 +7121,43 @@ katsomaan toisen hyppääjän selän yli.
 Joitakin turvallisuusasioita tarkistettavaksi ja huomioitavaksi:
 
 Ennen hyppyä:
-
--   Mieti, onko sää sopiva omiin taitoihisi nähden.
-
--   Mieti, sopiiko hypyn vaativuus omiin taitoihisi.
-
--   Tarkista ja huolla omat varusteesi (huomioi aina luupin kunto
+- Mieti, onko sää sopiva omiin taitoihisi nähden.
+- Mieti, sopiiko hypyn vaativuus omiin taitoihisi.
+- Tarkista ja huolla omat varusteesi (huomioi aina luupin kunto
     ja tiukkuus).
-
--   Mieti, vaikuttavatko painot siipikuormaasi.
-
--   Pidä painovyötä haalareiden päällä ja varmista, että vyössä on
+- Mieti, vaikuttavatko painot siipikuormaasi.
+- Pidä painovyötä haalareiden päällä ja varmista, että vyössä on
     pitävä, mutta helposti avattava lukitus (jos laskeudutkin veteen).
 
 Koneessa:
-
--   Jos hyppykone on sinulle uusi, varmistu siitä, että tunnet sen
+- Jos hyppykone on sinulle uusi, varmistu siitä, että tunnet sen
     hyppäämiseen vaikuttavat ominaisuudet (hätävarusteet ja
     hätäuloskäynnit, mahdollinen sakkausvaara, oven toiminta jne.)
-
--   Toimi sovittujen ohjeiden mukaan.
-
--   Tarkista omat varusteesi.
-
--   Tarkista hyppykaverisi varusteet.
-
--   Varmistu oikeasta uloshyppypaikasta.
-
--   Varmistu esteettömästä ja turvallisesta uloshypystä.
+- Toimi sovittujen ohjeiden mukaan.
+- Tarkista omat varusteesi.
+- Tarkista hyppykaverisi varusteet.
+- Varmistu oikeasta uloshyppypaikasta.
+- Varmistu esteettömästä ja turvallisesta uloshypystä.
 
 Hypyllä:
-
--   Varmista riittävä väli edelliseen ryhmään.
-
--   Etsi muut hyppääjät, jos uloshyppy hajoaa.
-
--   Varsinkin isoja kuvia hypätessäsi tarkkaile muita hyppääjiä vapaassa
+- Varmista riittävä väli edelliseen ryhmään.
+- Etsi muut hyppääjät, jos uloshyppy hajoaa.
+- Varsinkin isoja kuvia hypätessäsi tarkkaile muita hyppääjiä vapaassa
     törmäyksen estämiseksi.
-
--   Tarkkaile korkeutta.
-
--   Liu’u riittävän pitkälle.
-
--   Varmista vapaa ilmatila.
-
--   Avaa oikeassa korkeudessa.
+- Tarkkaile korkeutta.
+- Liu’u riittävän pitkälle.
+- Varmista vapaa ilmatila.
+- Avaa oikeassa korkeudessa.
 
 Varjon varassa:
-
--   Varaudu kuvun kääntymiseen avauksen jälkeen.
-
--   Tarkista varusteesi
+- Varaudu kuvun kääntymiseen avauksen jälkeen.
+- Tarkista varusteesi
     (\[hyppytapahtuma-varjon-avautuminen-ja-lentokuntoon-saattaminen\] s.)
-
--   Tarkista, että hyppykaveriesi varjot ovat auki.
-
--   Tarkkaile ilmatilaa ja huomioi muut hyppääjät varjon varassa.
-
--   Jos et pääse maalialueelle, valitse ajoissa varalaskupaikka
+- Tarkista, että hyppykaveriesi varjot ovat auki.
+- Tarkkaile ilmatilaa ja huomioi muut hyppääjät varjon varassa.
+- Jos et pääse maalialueelle, valitse ajoissa varalaskupaikka
     (tilanteen mukaan laskeudu samaan paikkaan kuin hyppykaverisi).
-
--   Noudata laskeutumiskuria ja sovittuja sääntöjä.
+- Noudata laskeutumiskuria ja sovittuja sääntöjä.
 
 Hypyn läpikäyminen maassa 
 =========================
@@ -7871,18 +7302,12 @@ etäisyydet muihin hyppääjiin pienimmällä mahdollisella korkeuden
 menetyksellä.
 
 Kantava liukuasento:
-
--   oikaistaan jalat suoriksi ja tuodaan ne lähemmäksi toisiaan
-
--   viedään kädet sivuille lähelle vartaloa kämmenet alaspäin
-
--   suoristetaan vartalo ja painetaan olkapäitä alas
-
--   leuka painetaan rintaan
-
--   asento on jäykkä
-
--   kämmenillä ohjataan liu’un suuntaa.
+- oikaistaan jalat suoriksi ja tuodaan ne lähemmäksi toisiaan
+- viedään kädet sivuille lähelle vartaloa kämmenet alaspäin
+- suoristetaan vartalo ja painetaan olkapäitä alas
+- leuka painetaan rintaan
+- asento on jäykkä
+- kämmenillä ohjataan liu’un suuntaa.
 
 Liukua jatketaan kunnes ilmatila on vapaa turvalliseen avaukseen. Liuku
 pysäytetään palaamalla perusasentoon. Pysäytyksen jälkeen tarkastetaan
@@ -8050,36 +7475,24 @@ Tuoreen lisenssihyppääjän FS-ohjelma
 --------------------------------------
 
 Harjoitellaan 2- tai 3-wayna esim. speedstarina:
-
--   Tasolla lentämistä
-
--   Keskipisteen säilyttämistä
-
--   Katsekontaktin säilyttämistä
-
--   Otteiden ottamista
+- Tasolla lentämistä
+- Keskipisteen säilyttämistä
+- Katsekontaktin säilyttämistä
+- Otteiden ottamista
 
 ####  2-way harjoitushyppyjä  
-
--   Star- ja sidebody-uloshyppyjä
-
--   Laskuvarjohyppääjän oppaasta FS-koulutushypyt 5 (90° käännökset), 6
+- Star- ja sidebody-uloshyppyjä
+- Laskuvarjohyppääjän oppaasta FS-koulutushypyt 5 (90° käännökset), 6
     (180° käännökset), 7 (360° käännökset), 8 (sivuttain liikkuminen)
-
--   Sidebodyja siten, että molemmat kääntyvät 90° samaan aikaan
-
--   Star - Open accordion - Compressed accordion - Open accordion - Star
+- Sidebodyja siten, että molemmat kääntyvät 90° samaan aikaan
+- Star - Open accordion - Compressed accordion - Open accordion - Star
     (sama toiselle puolelle)
-
--   Tehdään vuorotellen: Open accordion - Stairstep
+- Tehdään vuorotellen: Open accordion - Stairstep
 
 ####  3-way-harjoitushyppyjä  
-
--   Star - Open accordion - Star (vaihdetaan avohaitarissa paikkoja)
-
--   Star - Donut - Compressed accordion - Star
-
--   Star - Arrowhead - Star
+- Star - Open accordion - Star (vaihdetaan avohaitarissa paikkoja)
+- Star - Donut - Compressed accordion - Star
+- Star - Arrowhead - Star
 
 ![image](/kuvat/2-way-star.pdf)
 
@@ -8160,12 +7573,9 @@ ole olemassa oikeaa tai väärää tyyliä lentää freetä.
 Freeflyn määritelmä on hyvin laaja. Alkujaan sillä tarkoitettiin
 erilaisia tyylejä lentää niin, että selkäranka on suorassa ilmavirran
 suuntaisesti. Nykyään käsite sisältää käytännössä kaiken mahdollisen:
-
--   *Headdown*, pää alaspäin lentämisen,
-
--   *Headup*, pää ylöspäin lentämisen,
-
--   *Angle*, pää alaspäin tai ylöspäin kulmassa ilmavirtaan
+- *Headdown*, pää alaspäin lentämisen,
+- *Headup*, pää ylöspäin lentämisen,
+- *Angle*, pää alaspäin tai ylöspäin kulmassa ilmavirtaan
     nähden lentämisen.
 
 Perusajatuksena on pystyä hallitsemaan oma vartalo ilmavirrassa
@@ -8217,17 +7627,12 @@ hallitusti on aluksi vaikeaa.
 ###  Maha maata kohti  
 
 Hyvään kulma-asentoon pääset seuraavasti:
-
--   ota kiintopiste edestä tai liukuhyppyä johtavasta hyppääjästä
-
--   paina leukaa kiinni rintaan ja olkapäitä eteen saadaksesi aikaan
+- ota kiintopiste edestä tai liukuhyppyä johtavasta hyppääjästä
+- paina leukaa kiinni rintaan ja olkapäitä eteen saadaksesi aikaan
     kupin ylävartaloon
-
--   suorista tai jopa koukista lantio – älä taivuta
-
--   pidä käsivarret vartalon vieressä
-
--   jalkojen asentoa säätelemällä säädellään eteenpäin
+- suorista tai jopa koukista lantio – älä taivuta
+- pidä käsivarret vartalon vieressä
+- jalkojen asentoa säätelemällä säädellään eteenpäin
     suuntautuvaa nopeutta.
 
 Kulma-asennossa on tärkeää säilyttää vartalon jännitys, jotta liike
@@ -8241,19 +7646,15 @@ Jokaiselle hyppääjälle sopivin liukuasento löytyy kokeilemalla. Asento
 vaihtelee muun muassa ruumiinrakenteesta johtuen. Myös tavat säädellä
 vauhtia ja korkeutta eli kulman jyrkkyyttä vaihtelevat, mutta
 seuraavassa on muutamia vinkkejä, joita voit kokeilla.
-
--   Jos haluat päästä alaspäin eli jyrkemmin, paina otsaa ilmavirtaa
+- Jos haluat päästä alaspäin eli jyrkemmin, paina otsaa ilmavirtaa
     vasten ja ylävartaloa alaspäin muuhun vartaloon nähden. Varo
     kuitenkin, ettet päädy head-down asentoon.
-
--   Ylöspäin eli hitaammin pääset levittämällä liukuasentoa sekä
+- Ylöspäin eli hitaammin pääset levittämällä liukuasentoa sekä
     muodostamalla kupin lantiosta. Huomaa, että korkeutta säädellessäsi
     on tärkeää säilyttää eteenpäin vievä liukuasento.
-
--   Eteenpäin menevää liukunopeutta voit säädellä levittämällä ja
+- Eteenpäin menevää liukunopeutta voit säädellä levittämällä ja
     kaventamalla asentoasi.
-
--   Jos haluat jarruttaa vaakavauhtia, levitä käsivarret sivuille ja
+- Jos haluat jarruttaa vaakavauhtia, levitä käsivarret sivuille ja
     pudota polvia. Vaakavauhtia lisäät kaventamalla asentoasi ja
     keskittymällä purevaan liukuasentoon.
 
@@ -8261,18 +7662,13 @@ seuraavassa on muutamia vinkkejä, joita voit kokeilla.
 
 Selkäliuku vaatii hyvää vartalonhallinta ja vaatii myös taitoa lentää
 suoraan näkemättä kiintopistettä maasta. Selkäliu´ussa:
-
--   pään tulee olla suorassa linjassa vartalon kanssa niin, ettei se
+- pään tulee olla suorassa linjassa vartalon kanssa niin, ettei se
     taivu liikaa taakse ja käännä sinua hetukka-asentoon
-
--   keskivartalo muodostaa loivan kaaren, jossa lantio on ylimpänä
+- keskivartalo muodostaa loivan kaaren, jossa lantio on ylimpänä
     (purista pakaroita)
-
--   jalat ojennetaan ja niitä painetaan ilmavirtaa vasten
-
--   jalat pidetään lähestulkoon yhdessä, nilkat ojennettuina
-
--   käsivarret ovat hartioiden alapuolella
+- jalat ojennetaan ja niitä painetaan ilmavirtaa vasten
+- jalat pidetään lähestulkoon yhdessä, nilkat ojennettuina
+- käsivarret ovat hartioiden alapuolella
 
 Tehoton selkäliukuasento hidastaa vaakavauhtia ja nopeuttaa
 putoamisvauhtia. Yleinen ongelma on se, että selällään liukuja yrittää
@@ -8374,32 +7770,24 @@ muihin hyppääjiin.
 ###  Mikä voi mennä vikaan sittiksessä?  
 
 Jos päädyt selällesi,
-
--   et ehkä pidä jalkojasi tarpeeksi voimakkaasti oikeassa asennossa
+- et ehkä pidä jalkojasi tarpeeksi voimakkaasti oikeassa asennossa
     polvesta alaspäin (ilmavirran ei pitäisi osua suoraan pohkeisiin
     eikä sääriin).
-
--   kätesi ovat ehkä liian edessä.
-
--   selkäsi ei ehkä ole suorassa.
+- kätesi ovat ehkä liian edessä.
+- selkäsi ei ehkä ole suorassa.
 
 Jos päädyt mahallesi:
-
--   Polvesi eivät ehkä ole 90 asteen kulmassa vaan kantapäät osoittavat
+- Polvesi eivät ehkä ole 90 asteen kulmassa vaan kantapäät osoittavat
     takapuoleesi ja ilmavirta ottaa sääriisi.
-
--   Selkäsi ei ehkä ole suorassa.
+- Selkäsi ei ehkä ole suorassa.
 
 Jos pyörit holtittomasti:
-
--   Jalkapohjasi eivät välttämättä osoita suoraan alaspäin
+- Jalkapohjasi eivät välttämättä osoita suoraan alaspäin
     polviesi alla. Jos käännät jalkapohjia osoittamaan edes hiukan
     sivulle alat pyörimään.
-
--   Käsivarret eivät ehkä ole symmetrisesti ilmaa vastaan, vaan toinen
+- Käsivarret eivät ehkä ole symmetrisesti ilmaa vastaan, vaan toinen
     on ylempänä kuin toinen.
-
--   Jalkasi saattavat olla liian lähellä toisiaan.
+- Jalkasi saattavat olla liian lähellä toisiaan.
 
 Jos joudut yllä mainitun kaltaiseen epästabiiliin tilaan, mene
 palloasentoon ja yritä uudelleen.
@@ -8442,26 +7830,20 @@ straddle-asento näyttää putoavalta sulkapallolta. Tähän perusasentoon
 pääset joko sittiksestä tai suoraan uloshypystä. Sittiksestä pääset
 päällesi sivukautta (puolikas kärrynpyörä) tai etukautta (kuin nousisit
 seisomaan päällesi etuvoltin kautta). Kun olet päälläsi:
-
--   Levitä jalat leveään haaraan sivuille ja koukista niitä
+- Levitä jalat leveään haaraan sivuille ja koukista niitä
     hieman polvista. Pidä pohkeet ilmavirrassa. Pyri siihen ettei
     kumpikaan jalkasi pääse retkahtamaan liikaa eteen tai taakse
     haukaten ilmaa.
-
--   Levitä käsivartesi sivuille, mutta pidä ne tarpeeksi matalalla,
+- Levitä käsivartesi sivuille, mutta pidä ne tarpeeksi matalalla,
     jottei niska ja hartiat jännity. Kämmenet taivasta kohti,
     kädet rentona.
-
--   Katso horisonttiin – muutaman hypyn jälkeen horisontin katsominen
+- Katso horisonttiin – muutaman hypyn jälkeen horisontin katsominen
     väärinpäin tuntuu jo luontevalta.
-
--   Pidä lantio ja niska selkärankaan nähden suorana. Koko ylävartalosi
+- Pidä lantio ja niska selkärankaan nähden suorana. Koko ylävartalosi
     lantiosta päälakeen tulisi olla aivan suora. Yritä muutoin olla
     mahdollisimman rento.
-
--   Älä taivuta!
-
--   Muista hengittää! Jos sinusta tuntuu, että mikään ei onnistu, vedä
+- Älä taivuta!
+- Muista hengittää! Jos sinusta tuntuu, että mikään ei onnistu, vedä
     syvään henkeä, rentoudu ja yritä uudelleen.
 
 ![image](/kuvat/Headdown-straddle.jpeg)
@@ -8654,59 +8036,46 @@ edellä mainittuja turvallisuuteen liittyviä asioita.
 
 Huolehdi, että laskuvarjosi on hyvässä kunnossa. Laskuvarjokokonaisuuden
 suositellaan täyttävän seuraavat vaatimukset freefly-hypylle:
-
--   Sen tulee sopia hyvin ja tiukasti hyppääjän päälle. Valjaat eivät
+- Sen tulee sopia hyvin ja tiukasti hyppääjän päälle. Valjaat eivät
     saa olla niin löysästi puettuna, että ne valuvat hartioilta alas tai
     jalkahihnat karkaavat kohti polvia. Pahimmassa tapauksessa tällöin
     on riskinä putoaminen valjaista avauksessa.
-
--   Rintahihnan tulee olla tiukemmalla kuin normaalisti, eikä sen
+- Rintahihnan tulee olla tiukemmalla kuin normaalisti, eikä sen
     lukitus saa luistaa. Mikäli pää- tai varavarjo aukeaa tahattomasti
     freefly-hypyn aikana, saattavat tiukemmalla olleet hihnat estää
     sinua putoamasta valjaista.
-
--   Repun olkaläpät suojaavat kantohihnoja ilmavirralta. Niiden tulee
+- Repun olkaläpät suojaavat kantohihnoja ilmavirralta. Niiden tulee
     olla tarpeeksi jäykät ja työnnettävissä syvälle lukitukseensa.
     Ilmavirta saattaa repiä esimerkiksi ohjauslenkin irti kantohihnan
     kiinnikkeestä, mikäli kantohihnat ovat alttiina ilmavirralle
     huonosti kiinni pysyvän olkaläpän vuoksi. Velcro-tarroilla
     suljettavat olkatarrat eivät sovellu freefly-hypyille.
-
--   Pää- ja varavarjon läppien tulee olla jäykät ja ne eivät saa aueta
+- Pää- ja varavarjon läppien tulee olla jäykät ja ne eivät saa aueta
     ilmavirran voimasta.
-
--   Irtipäästöpampulan ja varavarjon kahvan velcro-tarrojen tulee olla
+- Irtipäästöpampulan ja varavarjon kahvan velcro-tarrojen tulee olla
     hyvässä kunnossa, jotta ne pysyvät vapaan aikana kiinnityksissään,
     eivätkä irtoa freefly-hypyn liikkeitä tehdessäsi.
-
--   Pää- ja varavarjon looppien tulee olla kireät ja ehyet, jotta reppu
+- Pää- ja varavarjon looppien tulee olla kireät ja ehyet, jotta reppu
     pysyy suljettuna liikkuessasi eri asennoissa taivaalla.
-
--   Jalkahihnojen välillä suositellaan käytettäväksi elastista
+- Jalkahihnojen välillä suositellaan käytettäväksi elastista
     kuminauhaa, jotta jalkahihnat eivät liikkuisi vapaan aikana.
     Varsinkin sittishypyllä jalkahihnat saattavat luisua pois
     paikoiltaan ja valua polvia kohti.
-
--   Apuvarjon yhdyspunoksen tulisi olla kokonaan piilossa ilmavirralta
+- Apuvarjon yhdyspunoksen tulisi olla kokonaan piilossa ilmavirralta
     päävarjon läppien alla, jotta ilmavirta ei pääse repimään apuvarjoa
     ulos taskustaan.
-
--   Apuvarjon taskun tulee olla kireä ja ehyt sekä apuvarjon tulee olla
+- Apuvarjon taskun tulee olla kireä ja ehyt sekä apuvarjon tulee olla
     pakattu taskuunsa siten, että ilmavirta ei revi apuvarjoa
     ulos taskusta.
 
 Freefly-hypyllä ei suositella käytettäväksi reppu-valjas-yhdistelmää:
-
--   jossa on kaksoispinni joko pää- tai varavarjossa, freefly-liikkeet
+- jossa on kaksoispinni joko pää- tai varavarjossa, freefly-liikkeet
     saattavat avata pinnin tai pinnit
-
--   jossa apuvarjo on joko reisi- tai vatsahihnassa, freefly-liikkeet
+- jossa apuvarjo on joko reisi- tai vatsahihnassa, freefly-liikkeet
     saattavat irrottaa apuvarjon ulos taskustaan ilmavirralle alttiiksi
-
--   jolla pää- ja varavarjon läpät tai kantohihnojen suojaläpät
+- jolla pää- ja varavarjon läpät tai kantohihnojen suojaläpät
     suljetaan velcro-tarralla.
-
--   jonka apuvarjon yhdyspunos on näkyvillä ja alttiina ilmavirralle,
+- jonka apuvarjon yhdyspunos on näkyvillä ja alttiina ilmavirralle,
     luupin ja apuvarjon taskun välillä. Ilmavirta saattaa repiä
     yhdyspunoksesta repun auki ja aiheuttaa
     *hevosenkenkä*-vaaratilanteen.
@@ -8717,33 +8086,25 @@ Oppilaskalustoa saa käyttää vain kouluttajan luvalla.
 
 Freefly-hypyllä muiden varusteiden osalta on huomioitava seuraavia
 asioita, jotka ovat joko pakollisia tai suositeltavia:
-
--   Suojalasien (goggles) tulee olla ehyet ja niiden
+- Suojalasien (goggles) tulee olla ehyet ja niiden
     kiinnityskuminauhan kireä. Ilmavirta tulee freefly-hypyllä eri
     suunnasta kuin olet tottunut ja saattaa aiheuttaa suojalasien
     lähtemisen kesken hypyn
-
--   Kova kypärä yhteentörmäyksien varalta
-
--   Pakollisena visuaalisena mittarina suositellaan käytettäväksi
+- Kova kypärä yhteentörmäyksien varalta
+- Pakollisena visuaalisena mittarina suositellaan käytettäväksi
     käsimittaria, opettele katsomaan korkeutta mittarista eri
     lentoasennoissa vapaapudotuksen aikana.
-
--   Äänikorkeusmittarin käyttö on suositeltavaa. Jopa kahta
+- Äänikorkeusmittarin käyttö on suositeltavaa. Jopa kahta
     äänikorkeusmittaria voi käyttää. Älä luota
     pelkästään äänikorkeusmittariisi.
-
--   Kuvaajille suositellaan kuvauskypärään yhden kahvan
+- Kuvaajille suositellaan kuvauskypärään yhden kahvan
     irtipäästöjärjestelmää
-
--   Varavarjon automaattilaukaisin on erittäin suositeltava ja ennen
+- Varavarjon automaattilaukaisin on erittäin suositeltava ja ennen
     D-lisenssiä pakollinen
-
--   Vältä vaatteita, jotka saattavat peittää päävarjon
+- Vältä vaatteita, jotka saattavat peittää päävarjon
     avausjärjestelmän, päävarjon irtipäästöpampulan tai varavarjon
     kahvan vapaassa.
-
--   Koukkupuukon on oltava helposti saatavilla (kuten
+- Koukkupuukon on oltava helposti saatavilla (kuten
     muissakin hyppylajeissa).
 
  Toiminta uloshypyssä  
@@ -8851,14 +8212,10 @@ törmäämisiin vapaassa. Välttääksesi näitä tilanteita, pura
 freefly-ryhmähyppy sovitussa korkeudessa. Nyrkkisääntö: mitä enemmän
 hyppääjiä on mukana ryhmässä, sitä korkeammalla hypyn muodostelma tulee
 purkaa. Ohessa esimerkkejä suositeltavista purkukorkeuksista:
-
--   2 - 4 hyppääjää, 1400 m
-
--   yli 4 hyppääjää, 1500 m
-
--   yli 8 hyppääjää, 1600 m
-
--   yli 12 hyppääjää, 1700 m tai enemmän
+- 2 - 4 hyppääjää, 1400 m
+- yli 4 hyppääjää, 1500 m
+- yli 8 hyppääjää, 1600 m
+- yli 12 hyppääjää, 1700 m tai enemmän
 
 Ennen freefly-ryhmähypyn purkua pyri saamaan näköyhteys kaikkiin mukana
 olleisiin hyppääjiin. Jos et näe purkumerkin jälkeen kaikkia ryhmässä
@@ -9432,19 +8789,15 @@ aiheuttamaa vastusta pyritään vähentämään kehittämällä yhä ohuempia ja
 samalla pienempivastuksisia punosmateriaaleja. Seuraavassa esitellään
 lyhyesti tällä hetkellä käytössä olevat yleisimmät punosmateriaalit sekä
 niiden ominaisuudet:
-
--   **Dacron**: Paksu ja kulutuskestävä punosmateriaali; yleisesti
+- **Dacron**: Paksu ja kulutuskestävä punosmateriaali; yleisesti
     käytössä oppilas- sekä tandemvarjoissa.
-
--   **Spectra**: Yleisin punosmateriaali, (myös nimellä *Microline*) on
+- **Spectra**: Yleisin punosmateriaali, (myös nimellä *Microline*) on
     kohtalaisen ohutta ja kulutusta kestävää materiaalia. Huono puoli on
     kutistuminen sliderin aiheuttaman kitkalämmön vuoksi.
-
--   **Vectran**: Ei kutistu ja on halkaisijaltaan hieman ohuempaa
+- **Vectran**: Ei kutistu ja on halkaisijaltaan hieman ohuempaa
     kuin Spectra. Huono puoli on Spectraa heikompi kulutuskestävyys ja
     se, että kuluminen ei näy niin selkeästi kuin Spectrassa.
-
--   **HMA**: Lyhenne sanoista High Modulus Aramide. On käytössä
+- **HMA**: Lyhenne sanoista High Modulus Aramide. On käytössä
     tietyissä erittäin suorituskykyisissä kupumalleissa. HMA-punos on
     halkaisijaltaan erittäin ohutta. Huono puoli on
     heikko kulutuskestävyys.
@@ -9769,21 +9122,14 @@ varjojen lento-ominaisuudet olisivat samantyyppiset.
 
 Seuraavassa on varjojen suorituskykyikkunoita. Optimaalinen käyttöalue
 on välin keskivaiheilla. Lista on vain suuntaa antava.
-
--   oppilasvarjot (Navigator, Skymaster) 0,5 – 1,0
-
--   tarkkuusvarjot (Parafoil, Classic, Opus) 0,5 – 0,8
-
--   F-111-varjot (PD9-cell, Silhouette, Fury) 0,7 – 1,1
-
--   yleisvarjot (Sabre, Sabre2, Hornet, Triathlon, Spectre,
+- oppilasvarjot (Navigator, Skymaster) 0,5 – 1,0
+- tarkkuusvarjot (Parafoil, Classic, Opus) 0,5 – 0,8
+- F-111-varjot (PD9-cell, Silhouette, Fury) 0,7 – 1,1
+- yleisvarjot (Sabre, Sabre2, Hornet, Triathlon, Spectre,
     Pilot, Safire) 0,9 – 1,5
-
--   I sukupolven elliptiset (Stiletto, Contrail, Springo) 1,3 – 1,7
-
--   II sukupolven elliptiset (Crossfire, Katana, Vengeance) 1,5 – 2,0
-
--   cross-brace-rakenteiset (FX, VX, Velocity, Xaos, Sensei) 1,8 – 2,5
+- I sukupolven elliptiset (Stiletto, Contrail, Springo) 1,3 – 1,7
+- II sukupolven elliptiset (Crossfire, Katana, Vengeance) 1,5 – 2,0
+- cross-brace-rakenteiset (FX, VX, Velocity, Xaos, Sensei) 1,8 – 2,5
 
 Seuraavassa luokittelussa varjot ja siipikuormat on jaettu kuuteen
 ryhmään, jotka kuvaavat varjojen suorituskykyeroja ja niiden
@@ -9936,13 +9282,10 @@ varalaskeutumispaikkojen kanssa, sopivuus omaan hyppylajiin jne.
 
 Mieti siis pienempään varjoon vaihtamista harkitessasi seuraavia
 vaihtoehtoja:
-
--   Ottaisitko sittenkin harjoittelemalla lisää tehoja ja vauhtia irti
+- Ottaisitko sittenkin harjoittelemalla lisää tehoja ja vauhtia irti
     vanhasta varjostasi?
-
--   Vaihdatko samankokoiseen, mutta erimalliseen kupuun?
-
--   Haluatko vauhtia suuremman siipikuorman avulla?
+- Vaihdatko samankokoiseen, mutta erimalliseen kupuun?
+- Haluatko vauhtia suuremman siipikuorman avulla?
 
 Liian pienellä ja suorituskykyisellä kuvulla ei voi eikä kannata yrittää
 kompensoida puutteellisia kuvunkäsittelytaitoja. Varsinkin ensimmäisellä
@@ -10205,15 +9548,11 @@ tavoitteesi pysty- ja vaakavauhdin loppuessa ovat seuraavat:
     tai sivutuuleen kuin kohtia 1 tai 2 rikkoen)
 
 Opettele tarvittaessa sanomaan ei vauhditetuille laskeutumisille:
-
--   kun ilmassa tai laskeutumisalueella on paljon muuta liikennettä
-
--   laskeutuessasi vieraaseen paikkaan
-
--   sääolosuhteiden ollessa marginaaliset (puuskainen tuuli,
+- kun ilmassa tai laskeutumisalueella on paljon muuta liikennettä
+- laskeutuessasi vieraaseen paikkaan
+- sääolosuhteiden ollessa marginaaliset (puuskainen tuuli,
     turbulenttinen keli)
-
--   ollessasi väsynyt, vihainen tai tyytymätön
+- ollessasi väsynyt, vihainen tai tyytymätön
     suoritukseesi vapaapudotuksessa.
 
 Muistuta itseäsi, että voit tehdä vauhdikkaan laskun myös jollakin
@@ -10756,14 +10095,12 @@ ja loppuveto puolijarruilla.
 ---------
 
 Vaihtoehtoina esimerkiksi:
-
--   Toisen hyppääjän kanssa ennalta sovitusti seuraa johtajaa -leikki.
+- Toisen hyppääjän kanssa ennalta sovitusti seuraa johtajaa -leikki.
     Liikesarja on syytä sopia maassa ennen hyppyä! Esimerkiksi kaksi
     kertaa vasen 360°, oikea 360°, pysäytys, hidaslentoa jarruilla ja
     sitten samat käännökset hidaslennossa. Johtaja varmistaa, että
     perässä pysytään. Tarvittaessa liikesarja keskeytetään ja odotetaan.
-
--   Tarkkuusniksin harjoittelua. Kokeile myös korkealla ensin
+- Tarkkuusniksin harjoittelua. Kokeile myös korkealla ensin
     vauhdinotto etukantohihnoista ja siitä loppuveto. Testaa myös
     korkealla 90° käännöstä loppuvedon aikana.
 
@@ -10852,14 +10189,11 @@ ja kursseja löytyy kaikentasoisille hyppääjille.
 pehmeitä laskeutumisia!**
 
 **Lisäluettavaa:**
-
--   Germain, Brian: The Parachute and Its Pilot.
+- Germain, Brian: The Parachute and Its Pilot.
     <http://www.bigairsportz.com/>
-
--   Sobieski, Jerry. The Aerodynamics and Piloting of High Performance
+- Sobieski, Jerry. The Aerodynamics and Piloting of High Performance
     Ram-Air Parachutes. <http://skysurfer.com.au/hosted/highperf.pdf>
-
--   Performance Designs: <http://www.performancedesigns.com/support.asp>
+- Performance Designs: <http://www.performancedesigns.com/support.asp>
 
     -   Flying and Landing High Performance Parachutes Safely
 

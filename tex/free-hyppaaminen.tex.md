@@ -28,10 +28,8 @@ suurella nopeudella (korkeuden tarkkailu) seisovassa asennossa kädet
 sivuille ojennettuina.
 
 Siirtyminen sittiksestä stand upiin tapahtuu seuraavasti:
-
--   Tarkastetaan korkeus ja viedään jalat alas yhteen.
-
--   Pidetään katse edelleen horisontissa tai hivenen sen alapuolella. Ei
+- Tarkastetaan korkeus ja viedään jalat alas yhteen.
+- Pidetään katse edelleen horisontissa tai hivenen sen alapuolella. Ei
     katsota missään tapauksessa suoraan alaspäin jalkoihin, sillä se
     aiheuttaa muutoksen vartalolinjassa.
 
@@ -63,41 +61,31 @@ ja kääntämällä kyynärvarret 90 astetta kyynärpäistä eteenpäin.
 
 
 Freehyppyjen turvallisuuteen liittyviä asioita on lueteltu seuraavassa:
-
--   Tarkkaillaan korkeutta, sillä monissa freeasennoissa putoamisvauhti
+- Tarkkaillaan korkeutta, sillä monissa freeasennoissa putoamisvauhti
     on erittäin kova.
-
--   Lopetetaan harjoittelu viimeistään 1400 metrin korkeudessa ja
+- Lopetetaan harjoittelu viimeistään 1400 metrin korkeudessa ja
     palataan perusasentoon.
-
--   Selällään tai istualtaan lennettäessä saattaa rintahihnassa oleva
+- Selällään tai istualtaan lennettäessä saattaa rintahihnassa oleva
     korkeusmittari näyttää väärin. Käsimittarin käyttäminen
     on suositeltavaa.
-
--   Työskennellään aina poikittain lennettyyn hyppylinjaan nähden, sillä
+- Työskennellään aina poikittain lennettyyn hyppylinjaan nähden, sillä
     monet freeasennot saattavat väärin tehtyinä ruveta
     ajelehtimaan (liukumaan). Poikittain linjaan nähden työskenneltäessä
     ei ajelehdita muiden hyppääjien alle tai päälle.
-
--   Freehypyillä on ensiarvoisen tärkeää, että valjaat ovat sopivat,
+- Freehypyillä on ensiarvoisen tärkeää, että valjaat ovat sopivat,
     joten sovitetaan valjaat kunnolla ja kiristetään valjaat tiukalle,
     jotta ne eivät pääse liikkumaan päällä vapaan aikana.
-
--   Kun puetaan varusteita päälle, pidetään huoli siitä, että kaikki
+- Kun puetaan varusteita päälle, pidetään huoli siitä, että kaikki
     ylipitkät valjashihnat on niputettu kumilenkeillä
     tarpeeksi tiukasti.
-
--   Varmistetaan, etteivät vaatteet pääse kahvojen ja
+- Varmistetaan, etteivät vaatteet pääse kahvojen ja
     pampuloiden päälle.
-
--   Pidetään huoli, että apuvarjo on tiukasti taskussaan.
-
--   Joskus selällään tai istualtaan lennettäessä reisihihnat saattavat
+- Pidetään huoli, että apuvarjo on tiukasti taskussaan.
+- Joskus selällään tai istualtaan lennettäessä reisihihnat saattavat
     liukua polvitaipeisiin. Tämän estää reisihihnojen välissä haaran
     kohdalla oleva kumilenkki. Pyydetään kalustohenkilöä ompelemaan
     kuminauha jalkahihnoihin, jos sellaista ei ole.
-
--   Muistetaan pysyä hypyn etukäteissuunnitelmassa.
+- Muistetaan pysyä hypyn etukäteissuunnitelmassa.
 
 Headdown eli pää alaspäin lentäminen on oppilasvarusteilla kielletty!
 Varusteita ei ole suunniteltu eikä mitoitettu siihen tarkoitukseen.

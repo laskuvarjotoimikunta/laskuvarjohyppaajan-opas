@@ -152,12 +152,9 @@ törmäämistä, minimoi törmäysvauhti jarruttamalla voimakkaasti sekä
 käperry *palloksi.* Varoita toista hyppääjää huutamalla.
 
 Sotkeutumistilanteessa:
-
--   Tarkkaile korkeutta, sillä päätökset on tehtävä riittävän korkealla
-
--   Keskustele aina kaverisi kanssa siitä, mitä aiotte tehdä
-
--   Varmista, että olet irti punoksista/kuvusta (käytä
+- Tarkkaile korkeutta, sillä päätökset on tehtävä riittävän korkealla
+- Keskustele aina kaverisi kanssa siitä, mitä aiotte tehdä
+- Varmista, että olet irti punoksista/kuvusta (käytä
     tarvittaessa koukkupuukkoa) ennen varavarjotoimenpiteitä.
 
 Jos ylempi varjo lentää ja alempi on sotkeutunut, voi alempi hyppääjä
@@ -199,35 +196,24 @@ suunnan osoittimia.
 Laskeudu mieluummin metsään kuin veteen. Joutuessasi laskeutumaan veteen
 pyri niin lähelle rantaa kuin mahdollista. Veteen laskeutuessasi toimi
 seuraavasti:
-
--   Vapauta varavarjon pakkolaukaisuhihna
-
--   Käännä FXC OFF-asentoon
-
--   Löysää rintahihna
-
--   Ota alastuloasento
-
--   Tee loppuveto ennen veteen tuloa.
+- Vapauta varavarjon pakkolaukaisuhihna
+- Käännä FXC OFF-asentoon
+- Löysää rintahihna
+- Ota alastuloasento
+- Tee loppuveto ennen veteen tuloa.
 
 Vedessä:
-
--   Tukahduta varjo tarvittaessa tekemällä päävarjon irtipäästö
-
--   Avaa hihnat ja ui eroon varjosta.
+- Tukahduta varjo tarvittaessa tekemällä päävarjon irtipäästö
+- Avaa hihnat ja ui eroon varjosta.
 
  Laskeutuminen puuhun/metsään  
 ------------------------------
 
 Puuhun tai metsään laskeutuessasi toimi seuraavasti:
-
--   Vältä yksittäisiä ja korkeita puita
-
--   Ota alastuloasento ja vedä polvet ylös suojaamaan alavartaloa
-
--   Tee loppuveto puiden latvoihin sekä pidä kyynärpäät kyljissä kiinni
-
--   Valmistaudu tulemaan maahan asti ja pura alastuloasento vasta, kun
+- Vältä yksittäisiä ja korkeita puita
+- Ota alastuloasento ja vedä polvet ylös suojaamaan alavartaloa
+- Tee loppuveto puiden latvoihin sekä pidä kyynärpäät kyljissä kiinni
+- Valmistaudu tulemaan maahan asti ja pura alastuloasento vasta, kun
     liike loppuu.
 
 Jos jäät puuhun roikkumaan, älä pudottaudu korkealta, vaan odota apua.
@@ -240,46 +226,32 @@ lentäminen.
 ------------------------------
 
 Jos joudut laskeutumaan sähkölinjoihin, niin
-
--   Heitä mahdollisesti käsissäsi olevat kahvat pois
-
--   Ohjaa varjoa loppuun saakka
-
--   Ota alastuloasento ja tee loppuveto linjoihin
-
--   Estä johtimien meno jalkojen väliin tai kainaloihin
-
--   Jos varjo jää kiinni, **älä yritä irrottaa sitä**
-
--   Odota apua.
+- Heitä mahdollisesti käsissäsi olevat kahvat pois
+- Ohjaa varjoa loppuun saakka
+- Ota alastuloasento ja tee loppuveto linjoihin
+- Estä johtimien meno jalkojen väliin tai kainaloihin
+- Jos varjo jää kiinni, **älä yritä irrottaa sitä**
+- Odota apua.
 
  Laskeutuminen katolle  
 -----------------------
 
 Mikäli joudut laskeutumaan katolle, toimi seuraavasti:
-
--   Ota alastuloasento
-
--   Tee loppuveto katolle
-
--   Tukahduta varjo välittömästi ja tee tarvittaessa päävarjon
+- Ota alastuloasento
+- Tee loppuveto katolle
+- Tukahduta varjo välittömästi ja tee tarvittaessa päävarjon
     irtipäästö
-
--   Tartu kiinni kattorakenteista
-
--   Odota apua.
+- Tartu kiinni kattorakenteista
+- Odota apua.
 
  Kiinteään esteeseen törmääminen  
 ---------------------------------
 
 Näitä ovat esimerkiksi seinät, autot, pylväät ja aidat. Jos osut
 kiinteään esteeseen,
-
--   Tee loppuveto ennen törmäystä
-
--   Ota isku vastaan jaloilla
-
--   Valmistaudu maahantuloon
+- Tee loppuveto ennen törmäystä
+- Ota isku vastaan jaloilla
+- Valmistaudu maahantuloon
 
 Hyvän alastuloasennon merkitys korostuu, jos joudut laskeutumaan muualle
 kuin maalialueelle.
