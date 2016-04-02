@@ -20,7 +20,7 @@
 * [Jatkokoulutus](jatkokoulutus/index.md)
    * [FS-kuviohyppääminen](jatkokoulutus/FS.md)
    * [Free-hyppääminen](jatkokoulutus/free.md)
-   * [Kuvunkäsittely oppilaana](jatkokoulutus/Kuvunkasittely.md)
+   * [Kuvunkäsittely oppilaana](jatkokoulutus/kuvunkasittely-oppilaana.md)
    * [Omiin varusteisiin siirtyminen](jatkokoulutus/omat-varusteet.md)
    * [Kaluston tarkastus ja huolto](jatkokoulutus/kaluston-tarkastus.md)
    * [Pakkaustarkastus](jatkokoulutus/pakkaustarkastus.md)
