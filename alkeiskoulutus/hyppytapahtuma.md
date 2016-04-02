@@ -422,6 +422,7 @@ Aloita ohjaaminen ja käännä varjo tarvittaessa vastatuuleen.
 Kokeile varjon eri lentotiloja, mutta muista, että kaikki ohjauskokeilut
 tulee tehdä yli 600 metrissä.
 
+
 | ![Täysliito](/kuvat/Lentotila-taysi.jpeg) | ![Puolijarrutus](/kuvat/Lentotila-puoli.jpeg) | ![Täysjarrutus](/kuvat/Lentotila-jarru.jpeg) |
 | -- | -- | -- |
 | Täysliito | Puolijarrutus | Täysjarrutus |
