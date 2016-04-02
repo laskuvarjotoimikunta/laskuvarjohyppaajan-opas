@@ -1,20 +1,19 @@
-Laskuvarjokalusto ja hyppyvarusteet
-===================================
+# Laskuvarjokalusto ja hyppyvarusteet
+
+## Laskuvarjokokonaisuus  
 
 
- Laskuvarjokokonaisuus  
------------------------
-
-![Päävarjon osat](/kuvat/Paavarjon-osat.jpg)
 
 Laskuvarjokokonaisuuteen kuuluu reppu-valjasyhdistelmä sekä kaksi
 varjoa: pää- ja varavarjo. Molemmat näistä ovat liitovarjoja, jotka ovat
 muodoltaan siiven kaltaisia. Niiden liitosuhde on noin 3:1, eli
 liitäessään kolme metriä eteenpäin varjo vajoaa metrin.
 
-![image](/kuvat/Reppu-valjas-etu.png)
+![Wings-reppuvaljasyhdistelmä hyppääjän päällä](/kuvat/Reppu-valjas-etu.png)
 
 ###  Päävarjo  
+
+![Päävarjon osat](/kuvat/Paavarjon-osat.jpg)
 
 Päävarjo, joka koostuu kuvusta, punoksista ja sliderista, on
 kantohihnojen välityksellä kiinni valjaissa kolmirengaslukkojen avulla.
@@ -30,17 +29,15 @@ Varavarjoa käytettäessä laskeutumispaikka saattaa olla muualla kuin
 laskeutumisalueella. Tämän vuoksi alastuloasennon on oltava hyvä ja
 tarvittaessa on tehtävä maahantulokierähdys.
 
- Reppu-valjasyhdistelmä  
-------------------------
+### Reppu-valjasyhdistelmä  
 
 ![](/kuvat/Reppuvaljasyhdistelma.png)
 
-![image](/kuvat/Reppu-nova.pdf)
+![Valjaat](/kuvat/Reppu-nova.pdf)
 
 ![image](/kuvat/Reppu-pl.pdf)
 
- Lisälaitteet  
---------------
+## Lisälaitteet  
 
 Pää- ja varavarjon lisäksi valjaissa on laitteita lisäämässä hyppääjän
 turvallisuutta. Näiden laitteiden tarkoituksena on varmistaa varavarjon
@@ -53,8 +50,7 @@ aukaisujärjestelmän yhteen. Hyppääjän on mahdollista vapauttaa
 varavarjon pakkolaukaisuhihna avaamalla päävarjon kantohihnaan kytketty
 pikalukko.
 
-Kun päävarjon kantohihnat ovat päävarjon irtipäästön
-(\[paavarjon-vajaatoiminnot-varavarjon-kaytto\] s.) jälkeen irronneet
+Kun päävarjon kantohihnat ovat päävarjon irtipäästön jälkeen irronneet
 kolmirengaslukoista, päävarjo vetää irrotessaan varavarjon
 pakkolaukaisuhihnasta ja avaa varavarjon. Varavarjon pakkolaukaisuhihna
 on kuitenkin vain apuväline. Hyppääjän on aina avattava varavarjo
@@ -75,38 +71,38 @@ Oppilaan ollessa kyseessä vain hyppymestarilla on oikeus säätää
 automaattilaukaisinta. FXC:n säätölaitteessa on JUMP/OFF-nuppi, jonka on
 koko ajan oltava JUMP-asennossa. On olemassa kaksi tilannetta, joissa
 FXC:n JUMP/OFF-nuppi käännetään OFF-asentoon:
-- Koneella alas tultaessa hyppymestarin käskystä
-- Laskeuduttaessa veteen
-    (\[mahdolliset-vaaratilanteet-laskeutuminen-veteen\] s.)
+
+-   Koneella alas tultaessa hyppymestarin käskystä
+-   Laskeuduttaessa veteen
 
 ![image](/kuvat/AAD-Cypres.jpg)
 
- Muut hyppytoiminnassa käytettävät varusteet  
----------------------------------------------
-- Kova kypärä, jossa kiinnityshihna on kypärän ulkopuolella.
-- Radiovastaanotin on oltava ainakin kolmella ensimmäisellä hypyllä.
-- Suojalasit suojaavat silmiä viimalta ja roskilta.
-- Haalari, jossa ei saa olla tarttuvia taskuja tai ulokkeita, jotka
+## Muut hyppytoiminnassa käytettävät varusteet  
+
+
+-   Kova kypärä, jossa kiinnityshihna on kypärän ulkopuolella.
+-   Radiovastaanotin on oltava ainakin kolmella ensimmäisellä hypyllä.
+-   Suojalasit suojaavat silmiä viimalta ja roskilta.
+-   Haalari, jossa ei saa olla tarttuvia taskuja tai ulokkeita, jotka
     voivat takertua johonkin tai joista hyppääjä voi vahingossa ottaa
     kiinni kahvoista kiinni ottaessaan. Haalarin alle puetaan säähän
     sopiva vaatetus, joka ei haittaa liikkumista.
-- Sormikkaat ovat pakolliset oppilailla. Niiden on oltava lämpimät,
+-   Sormikkaat ovat pakolliset oppilailla. Niiden on oltava lämpimät,
     mutta ei liian paksut eikä liukkaat.
-- Kengät, joiden on oltava hyppytoimintaan soveltuvat (ei
+-   Kengät, joiden on oltava hyppytoimintaan soveltuvat (ei
     koukkuja tms.).
-- Korkeusmittari, joka nollataan maassa. Mittari kiinnitetään
+-   Korkeusmittari, joka nollataan maassa. Mittari kiinnitetään
     rintahihnaan tai käteen.
-- Koukkupuukkoa käytetään takertumien selvittämiseen sotkeutumis-
+-   Koukkupuukkoa käytetään takertumien selvittämiseen sotkeutumis-
     tai törmäämistilanteissa.
-- Pelastusliivi puetaan koulutuspäällikön harkinnan mukaan, jos
+-   Pelastusliivi puetaan koulutuspäällikön harkinnan mukaan, jos
     hyppypaikalla on ilmeinen hukkumisvaara.
 
 Hypyn aikana mukana ei saa olla mitään tarpeetonta (esimerkiksi avaimet,
 kynä tai matkapuhelin). Lisäksi aina hyppäämään tultaessa on oltava
 mukana hyppypäiväkirja.
 
- Hyppyvarusteiden käsittely  
-----------------------------
+## Hyppyvarusteiden käsittely  
 
 Suojaa varjoa auringonvalolta, kosteudelta ja likaantumiselta. Nosta
 valjaita olkahihnoista ja varo tarttumasta aukaisukahvoihin sekä
@@ -119,27 +115,19 @@ pakkaustarkistuksista pidetään kirjaa. Varavarjon saa pakata vain siihen
 koulutuksen saanut henkilö. Varusteet palautetaan aina hypyn jälkeen
 omille paikoilleen.
 
- 3X3 -tarkastus  
-----------------
+## 3X3 -tarkastus  
+
 
 Peruskoulutusvaiheessa oppilaalle opetetaan varusteiden perusteellinen
 tarkastus, mutta itseaukaisuvaiheessa varjon perustarkastus voidaan
 tiivistää 3X3 -tarkastukseen (kolme kolmea -tarkastus):
 
 1.  Tarkastetaan, että solkia on kiinni kolme:
-
     -   Vasemman jalkahihnan solki
-
     -   Oikean jalkahihnan solki
-
     -   Rintahihnan solki
-
 2.  Tarkastetaan, että kahvoja on kolme ja ne ovat kiinni:
-
     -   Päävarjon avauskahva
-
     -   Päävarjon irtipäästöpampula
-
     -   Varavarjon avauskahva
-
 3.  Tarkastetaan, että kolmirengaslukot ovat kiinni ja oikein.
