@@ -1,17 +1,13 @@
 # Free-hyppääminen
 
 Freehyppyjen tarkoituksena on perehtyä vapaan lentämisen alkeisiin.
-Harjoitushyppyjä ei saa ottaa liian vakavasti, sillä tarkoitus on antaa
-joitakin vinkkejä siitä, miten jatkossa kannattaa harjoitella
-perusasennosta poistumista. Freekoulutushyppyjen tarkoitus ei niinkään
-ole opettaa jotain yksittäistä lentoasentoa, vaan tutustuttaa oppilas
-lentämiseen erilaisissa asennoissa, oppia hallitsemaan vartaloaan
-muussakin asennossa kuin perusasennossa sekä oppia palautumaan
-yllättävistä asennoista stabiiliin perusasentoon. Ensimmäinen vaihe
-freelentämisen harjoittelussa on vatsallaan pysyminen. Kun tämä
+Harjoitushyppyjä ei saa ottaa liian vakavasti, sillä tarkoitus on antaa joitakin vinkkejä siitä, miten jatkossa kannattaa harjoitella
+perusasennosta poistumista. Freekoulutushyppyjen tarkoitus ei niinkään ole opettaa jotain yksittäistä lentoasentoa, vaan tutustuttaa oppilas lentämiseen erilaisissa asennoissa, oppia hallitsemaan vartaloaan muussakin asennossa kuin perusasennossa sekä oppia palautumaan yllättävistä asennoista stabiiliin perusasentoon.
+
+Ensimmäinen vaihe freelentämisen harjoittelussa on vatsallaan pysyminen. Kun tämä
 hallitaan, voidaan ruveta harjoittelemaan muissa asennoissa lentämistä.
-Seuraavissa teoriaosuuksissa käydään läpi muutamia freeperusasentoja ja
--liikkeitä sekä annetaan perusteet niiden harjoitteluun.
+
+Seuraavissa teoriaosuuksissa käydään läpi muutamia freeperusasentoja ja -liikkeitä sekä annetaan perusteet niiden harjoitteluun.
 
  ## Sittis  
 
@@ -22,16 +18,11 @@ vinkkejä asentoon siirtymiseen.
 ## Stand up  
 
 
-Kun pysytään istuallaan vapaapudotuksessa, on siitä helppo harjoitella
-seisovaa asentoa eli stand upia. Stand upissa hyppääjä putoaa erittäin
-suurella nopeudella (korkeuden tarkkailu) seisovassa asennossa kädet
-sivuille ojennettuina.
+Kun pysytään istuallaan vapaapudotuksessa, on siitä helppo harjoitella seisovaa asentoa eli stand upia. Stand upissa hyppääjä putoaa erittäin suurella nopeudella (korkeuden tarkkailu) seisovassa asennossa kädet sivuille ojennettuina.
 
 Siirtyminen sittiksestä stand upiin tapahtuu seuraavasti:
 - Tarkastetaan korkeus ja viedään jalat alas yhteen.
-- Pidetään katse edelleen horisontissa tai hivenen sen alapuolella. Ei
-    katsota missään tapauksessa suoraan alaspäin jalkoihin, sillä se
-    aiheuttaa muutoksen vartalolinjassa.
+- Pidetään katse edelleen horisontissa tai hivenen sen alapuolella. Ei katsota missään tapauksessa suoraan alaspäin jalkoihin, sillä se aiheuttaa muutoksen vartalolinjassa.
 
 Pidetään stand upia muutama sekunti ja siirrytään takaisin sittikseen.
 
