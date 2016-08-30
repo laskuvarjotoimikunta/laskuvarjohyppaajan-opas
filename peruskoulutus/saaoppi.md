@@ -67,7 +67,9 @@ Lentosääsanomia saadaan mm. seuraavasti:
 METAR-sanoma on ilmaliikenteen käyttöön tarkoitettu sääsanoma, joka laaditaan lentopaikan sääasemalla. Metar kertoo lentoasemalla vallitsevan säätilan. Metareita laaditaan pääsääntöisesti kaikilla
 lentopaikoilla, joille on säännöllistä liikennettä. Suomessa Metar luodaan näiltä lentoasemilta 30 minuutin välein, 20 minuuttia ja 50 minuuttia yli jokaisen tunnin.
 
+```
 EFTU 231250Z 27006KT 9999 SCT055 FEW080 08/04 Q1015
+```
 
 Tämä viesti voidaan jakaa osioihin ja tulkita sen perusteella. Metar-viestin pääosiot ovat:
 
@@ -132,29 +134,20 @@ Koodisana CAVOK on lyhenne englannin kielen sanoista ”Ceiling And Visibility O
 
 Suomi on GAFOR-alue-ennusteiden osalta jaettu kolmeen osaan. GAFOR-sanomassa käytetään samoja lyhenteitä kuin METAR-sanomassa. Hyppääjien kannalta kiinnostavinta GAFOR-sanomassa on tuuliennusteet sekä 2000 ft että 5000 ft korkeudelle. Näitä tuulitietoja voidaan käyttää uloshyppypaikan määrityksessä.
 
+```
 FBFI42 EFRO 121000
-
 GA-FCST FOR AREAS 21/25 VALID 0312 UTC
-
 WX AURINKOISTA JA PILVETÖNTÄ.
-
 PÄIVÄN MITTAAN ODOTETTAVISSA
-
 HELLELÄMPÖTILOJA KOKO ALUEELLA.
-
 WINDS
-
 SFC 21/23 270-310 / 05-10 KT 24/25 010-030 / 03-06 KT
-
 2000 FT 300-320 / 15-20 KT
-
 5000 FT 330 / 25 KT
-
 0-C LEVEL FL120
-
 ICE NIL TURB NIL
-
 GAFOR EFRO 1218 BBBB 21/25 O
+```
 
 Esimerkkipauksessa kyse on Itä-Suomen alue-ennusteesta.
 
