@@ -198,11 +198,7 @@ hyppykorkeus, jos varjo avataan 1000 metrin korkeudessa. Putoamisnopeus
 riippuu mm. hyppääjän massasta, asennosta, vaatetuksesta ja
 hyppykorkeudesta.
 
-Kaikilla oppilaskoulutushypyillä varjo on avattava aina viimeistään 1000
-metrin korkeudessa. Jos avaus jostain syystä tapahtuu alle 800 metrin
-korkeudessa, on asiasta ilmoitettava heti kouluttajalle. Jos käytössä on
-FXC-12000-automaattilaukaisin, on se todennäköisesti herkistynyt ja
-saattaa seuraavalla hypyllä avata varavarjon virheellisesti.
+Oppilaskoulutushypyillä varjon avaustoimenpiteet aloitetaan viimeistään 1200 metrin korkeudessa. Mikäli avaus tapahtuu matalammalla, siitä on ilmoitettava kouluttajalle.
 
 ###  Korkeusmittarin käyttö vapaassa  
 
