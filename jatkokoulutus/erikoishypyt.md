@@ -22,11 +22,8 @@ kelpoisuusvaatimukset* mukaan yöhypyt sallittuja seuraavin ehdoin:
 - hyppääjällä on suunnattava valolaite laskuvarjon tarkastamiseksi
 - maalialue on valaistu
 
-Yö määritellään ilmailumääräysten mukaan (OPS M1-1) seuraavasti:
-”Auringon laskun ja nousun välinen aika silloin, kun valaisematonta
-kohdetta (savupiippua, mastoa, tms.) ei selvästi voida erottaa 8
-kilometrin etäisyydeltä. Epäselvissä tapauksissa katsotaan yön
-vallitsevan”.
+Yö määritellään eurooppalaisten lentosääntöjen mukaan (SERA artikla 2, kohta 97) seuraavasti:
+”Aika iltahämärän päättymisestä aamuhämärän alkamiseen. Hämärä päättyy illalla, kun auringon keskipiste on 6 astetta horisontin alapuolella ja alkaa aamulla, kun auringon keskipiste on 6 astetta horisontin alapuolella”.
 
 Myös lentäminen yöllä on rajoitetumpaa kuin päivällä. Lentäjällä täytyy
 olla yölentokelpuutus ja koneen mittarivarustus täytyy olla riittävä.
@@ -100,7 +97,7 @@ veneessä oleva henkilö auttaa vedessä olevan hyppääjän veneeseen.
 Kalustoa valittaessa on otettava huomioon, että kaikki
 automaattilaukaisimet ja korkeusmittarit eivät kestä vettä (jos
 hyppykorkeus vesihypyllä ei ylitä 1500 metriä, visuaalinen
-korkeusmittari ei ole pakollinen varuste). ZP-kangas on sinänsä melko
+korkeusmittari ei ole pakollinen varuste). Huomioi mahdollinen RSL! ZP-kangas on sinänsä melko
 kutistumatonta, mutta varjon valmistuksessa käytetyt vahvikenauhat eivät
 välttämättä säilytä mittojaan kuivuttuaan, jolloin varjon ominaisuudet
 huonontuvat.
@@ -232,18 +229,18 @@ Ilmailuliitto ry:ltä.
 
 Virallisia SM-lajeja ovat tällä hetkellä konventionaalisissa lajeissa
 taitohyppy, tarkkuushyppy, joukkuetarkkuus ja yleismestaruus.
-FS-hypyissä kilpaillaan 4 ja 8 henkilön joukkueissa. FS:ssä hypätään
+FS-hypyissä kilpaillaan 4 ja 8 henkilön joukkueissa sekä VFS-hypyissä. FS:ssä hypätään
 myös Intermediate-sarjassa, jossa hyppääjien kokemustaso on rajoitettu.
 CF-puolella kilpaillaan neljän hengen kierrossa. Artistic-lajeista
 Freestyle (kahden hengen joukkue) ja Freefly (kolmen hengen joukkue)
-ovat SM-lajeja.
+ovat SM-lajeja. Freeflyingissä kilpaillaan myös Intermediate-sarjassa. Canopy piloting (pituus-, tarkkuus- ja
+nopeuslaskeutumiset) ja liitohyppääminen ovat SM-lajien uusimmat tulokkaat.
 
 SM-tasolla on järjestetty myös Para-Ski-kilpailuja. Kilpailuissa on
 ollut kaksi lajia, joissa on yhdistetty tarkkuushyppy kaltevaan
 rinteeseen sekä suurpujottelu tai murtomaahiihto (Nordic Para-Ski).
 
-Epävirallisia lajeja ovat mm. canopy piloting (pituus tarkkuus- ja
-nopeuslaskeutumiset), blade running (varjolla lennetään alas jyrkkää
+Epävirallisia lajeja ovat mm. blade running (varjolla lennetään alas jyrkkää
 rinnettä pujotellen korkeiden viirien välistä) ja FS-hypyissä
 esimerkiksi 16-way, 20-way ja nopeustähti. CF:ssä kilpaillaan myös 8
 hengen nopeusmuodostelma sekä 2 ja 4 hyppääjän sekvenssissä.
@@ -280,7 +277,7 @@ Speed skydiving on uusimpia kilpailulajeja. Nimi voidaan kääntää vaikka
 nopeushypyksi. Siinä tavoite on yksinkertainen: saavuttaa mahdollisimman
 suuri nopeus vapaapudotuksen aikana.
 
-Tällä hetkellä nopeimmat hyppääjät pystyvät putoamaan yli 500 kilometrin
+Tällä hetkellä nopeimmat hyppääjät pystyvät putoamaan yli 600 kilometrin
 tuntinopeudella.
 
 Lajin on tehnyt mahdolliseksi mikroprosessoripohjaisten korkeusmittarien
@@ -403,6 +400,10 @@ suoritus tuomarien arvostelua varten. Lisäksi esimerkiksi eri
 hyppytapahtumissa hypätään isoja kuvia, joissa mukana saattaa olla 10–50
 hyppääjää.
 
+VFS (Vertical Formation Skydiving) on laskuvarjourheilun uusimpia lajeja. Se on yhdistelmä kuviohypystä (FS) ja freeflyingista. Samoin kuin kuviohypyssä, joukkue koostuu neljästä hyppääjästä ja kuvaajasta, jotka tekevät ennalta määrättyjä kuvioita hypyn aikana. Tavoitteena on saada aikaan mahdollisimman monta kuviota 35 sekunnin aikana. Yhdestä oikein suoritetusta kuviosta saa yhden pisteen. 
+
+Freeflyingia laji muistuttaa siinä, että FS:stä poiketen liikutaan kaikissa mahdollisissa lentoasennoissa. Riippuen tehtävästä kuviosta lennetään joko pää alaspäin, normaalissa pystyasennossa pää ylöspäin, istuvassa asennossa, vatsallaan tai erilaisina yhdistelminä ja välimuotoina näistä kaikista.
+
 ### Liitohyppääminen  
 
 
@@ -410,14 +411,12 @@ Liitohyppäämiseen käytetään liitopukua, jonka avulla hyppääjät pystyvät
 yli kaksinkertaistamaan vapaapudotusajan sekä myös lentämään
 vapaapudotuksen aikana pitkiäkin matkoja. Hyvä liitohyppääjä pystyy
 lentämään 3 kilometrin vapaapudotuksen aikana 7–8 kilometrin vaakamatkan
-ja saavuttamaan yli 150 km/h vaakanopeuden.
+ja saavuttamaan yli 200 km/h vaakanopeuden.
 
-Liitohyppäämisessä ei tällä hetkellä maailmassa kilpailla eikä siihen
-ole kehitetty mitään sääntöjä. Liitopuvulla lentäminen vaikuttaa
+Liitohyppäämisessä kilpaillaan mm. lajissa nimeltään Acrobatic Wingsuit. Liitopuvulla lentäminen vaikuttaa
 huomattavasti vapaapudotusnopeuteen ja vaatii hyvää kehonhallintaa
 vapaapudotuksen aikana. Liitohyppäämisen aloittaminen Suomessa vaatii
-vähintään C-lisenssin sekä lajioppaassa määritellyt vähimmäistaidot ja
--kokemuksen.
+vähintään A-lisenssin, hyppykokemuksen mukaisen liitopuvun ja koulutuksen sekä lajioppaassa määritellyt vähimmäistaidot.
 
 ### Taitohyppy  
 
@@ -447,7 +446,7 @@ nimenomaan tarkkuushyppyyn suunniteltuja ja eroavat muista, niin
 suurelta kooltaan kuin siipiprofiililtaan ja lento-ominaisuuksiltaankin.
 
 Taito- ja tarkkuushyppyä yhdessä kutsutaan konventionaalisiksi lajeiksi.
-Usein taito- ja tarkkuushyppy kulkevatkin käsi kädessä, ja kilpailuihin
+Usein taito- ja tarkkuushyppy kulkevat käsi kädessä, ja kilpailuihin
 tähtäävä hyppääjä harjoittelee molempia lajeja. Kilpailuissa jaetaan
 myös yleismestaruusmitalit, jonka tulokset lasketaan konventionaalisten
 lajien sijoitusten mukaan.
