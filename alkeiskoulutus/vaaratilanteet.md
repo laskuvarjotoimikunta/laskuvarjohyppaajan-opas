@@ -52,7 +52,9 @@ Jos jäät roikkumaan koneeseen päävarjostasi, huomaat sen siitä, että
 roikut olkalukoista päävarjon kantohihnojen välityksellä. Yritä ottaa
 taivutettu asento jotta et pyöri ja voit varmistaa mistä olet kiinni.
 Varmistu, että olet hinauksessa vain olkalukkojen välityksellä jonka
-jälkeen tee varavarjotoimenpiteet.
+jälkeen tee varavarjotoimenpiteet. (\[paavarjon-vajaatoiminnot-varavarjon-kaytto\] s.)
+
+Jos roikut koneesta PL-hihnan varassa, ota rauhallisesti. ODOTA, että hyppymestari katkaisee pakkolaukaisuhihnan. Tee sen jälkeen varavarjotoimenpiteet. HUOM! PL-hihnan katkaisuun voi kulua aikaa, jos sinut pitää saada paremmalle uloshyppypaikalle.
 
  Sotkeutuminen punoksiin  
 =========================
