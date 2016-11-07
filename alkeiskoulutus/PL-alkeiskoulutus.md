@@ -251,7 +251,7 @@ Itseaukaisun (IA) tavoitteena on oppia avaamaan laskuvarjo itse. Lisäksi
 on tunnettava vapaapudotuksen perusteet, osattava poistaa turbulenssi ja
 osattava pakata itseaukaisuvarjo. Tässä vaiheessa on myös kerrattava
 varavarjotoimenpiteet ja toiminta apuvarjon yhdyspunoksen tai
-kantopunoksen kiinnitarttumistilanteissa.
+kantopunoksen kiinnitarttumistilanteissa. Lue myös s.12 3.6 Avaaminen ja kysy hyppymestariltasi, miten hätähyppy muuttuu.
 
 Itseaukaisuihin pääsy vaatii vähintään kuusi pakkolaukaisuhyppyä, joista
 kolmella on suoritettu hyväksytty harjoitusveto. Koulutuksen sekä maa-
@@ -411,14 +411,8 @@ Tämä on ensimmäinen hyppysi, jossa vapaapudotusvauhti kasvaa
 maksimiinsa. Oikea, stabiili ja symmetrinen asento ja hyvä taivutus
 takaavat hyvän suorituksen.
 
-Avaustoimenpiteet aloitetaan 1200 metrin korkeudessa mittarin mukaan.
+Avaustoimenpiteet aloitetaan 1300 metrin korkeudessa mittarin mukaan.
 Laskemisella säilytetään ajantaju.
-
-###  Oppilaan toiminta  
-- Kertaa suoritus mielessäsi
-- Keskity suoritukseesi
-- 3X3 -tarkastus ennen hyppyä
-    (\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ###  Oppimistavoitteet  
 
@@ -432,7 +426,7 @@ Laskemisella säilytetään ajantaju.
 ###  Hyppylennolla  
 - Kertaa suoritus mielessäsi
 - Keskity suoritukseesi
-- 3X3 -tarkastus ennen hyppyä
+- 3X3 -tarkastus ennen hyppyä (\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ###  Hypyn kulku  
 
@@ -453,7 +447,7 @@ TAIVUTA
 :   \
     Vapaapudotusvauhti on maksimissa, rentouta asentoa.\
 
-1200 metriä
+1300 metriä
 
 :   \
     Aloita avaustoimenpiteet.\
