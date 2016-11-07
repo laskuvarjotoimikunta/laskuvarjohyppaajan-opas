@@ -3,8 +3,7 @@ koulutusohjelmat, ohjeet ja tiedotteet on laadittu luomaan selvät
 pelisäännöt lajin harrastamiseksi sekä ehkäisemään onnettomuuksia.
 Trafin hyväksymien ilmailumääräysten ja -tiedotusten lisäksi Suomen
 Ilmailuliitto ry on laatinut hyppääjille koulutusohjelmat ja
-tomintaohjeet. Lisäksi Ilmailuliiton Laskuvarjotoimikunta ja sen
-komiteat julkaisevat ohjeita, suosituksia ja tiedotteita, jotka on myös
+toimintaohjeet. Lisäksi Ilmailuliiton Laskuvarjotoimikunta julkaisee ohjeita, suosituksia ja tiedotteita, jotka on myös
 huomioitava.
 
 Ohjeen tai vastaavan ja määräyksen ollessa ristiriidassa on määräys aina
@@ -28,12 +27,7 @@ koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä.
  Ilmailumääräykset ja -tiedotukset  {#maaraykset-lait-ja-ohjeet-ilmailumaaraykset-ja-tiedotukset}
 ===================================
 
--   GEN T1-1, 6.2.2009, Ilmailuhallinnon ilmailumääräys- ja
-    tiedotusjärjestelmä
-
 -   OPS M6-1, 9.7.2010, Laskuvarjohyppytoiminta
-
--   PEL T4-3, 18.1.2007, Lääkkeet ja ilmailu
 
 <http://www.trafi.fi/ilmailu/saadokset/ilmailumaarayskokoelma>
 
