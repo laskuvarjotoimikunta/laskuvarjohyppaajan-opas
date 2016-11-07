@@ -411,7 +411,7 @@ Tämä on ensimmäinen hyppysi, jossa vapaapudotusvauhti kasvaa
 maksimiinsa. Oikea, stabiili ja symmetrinen asento ja hyvä taivutus
 takaavat hyvän suorituksen.
 
-Avaustoimenpiteet aloitetaan 1200 metrin korkeudessa mittarin mukaan.
+Avaustoimenpiteet aloitetaan 1300 metrin korkeudessa mittarin mukaan.
 Laskemisella säilytetään ajantaju.
 
 ###  Oppilaan toiminta  
@@ -453,7 +453,7 @@ TAIVUTA
 :   \
     Vapaapudotusvauhti on maksimissa, rentouta asentoa.\
 
-1200 metriä
+1300 metriä
 
 :   \
     Aloita avaustoimenpiteet.\
