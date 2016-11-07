@@ -8,21 +8,21 @@ Selkälennossa rintahihnassa oleva korkeusmittari ei välttämättä näytä oik
 
 Harjoittele suorituksen vaiheet:
 
-1. Käännetään asento kyljelleen käyttämällä kättä vartalossa
-2. Taivutetaan samalla asento väärinpäin, istuma-asentoon, jalat koukistettuina
-3. Lennetään muutama sekunti selällään (huomioidaan korkeus)
-4. Käännetään asento perusasentoon taivuttamalla
+1. Käännetään asento kyljelleen käyttämällä kättä vartalossa.
+2. Taivutetaan samalla asento väärinpäin, istuma-asentoon, jalat koukistettuina.
+3. Lennetään muutama sekunti selällään (huomioidaan korkeus).
+4. Käännetään asento perusasentoon taivuttamalla.
 
 ### Oppimistavoitteet
 
-1. Pääsy perusasennosta selkälentoon
-2. Asennon hallinta selällään (pieni kääntyminen ok, lattakierre ei)
+1. Pääsy perusasennosta selkälentoon.
+2. Asennon hallinta selällään (pieni kääntyminen ok, lattakierre ei).
 
 ### Hyppylennolla
 
-1. Kertaa suoritus mielessäsi
-2. Keskity suoritukseesi
-3. 3X3 -tarkastus ennen hyppyä
+1. Kertaa suoritus mielessäsi.
+2. Keskity suoritukseesi.
+3. 3X3 -tarkastus ennen hyppyä TODO:CRESSREF(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.).
 
 ### Hypyn kulku
 
@@ -39,7 +39,7 @@ Harjoittele suorituksen vaiheet:
 
         Lopeta työskentely ja valmistaudu päävarjon avaamiseen.
 
-**1200 metriä**
+**1300 metriä**
 
         Aloita avaustoimenpiteet.
 
@@ -65,15 +65,15 @@ Liuku tehdään seuraavasti:
 
 ### Oppimistavoitteet
 
-1. Liu’u sovittuun suuntaan ja pysy suunnassa
-2. Liuku liikkuu eteenpäin
-3. Liuku ei nyöki
+1. Liu’u sovittuun suuntaan ja pysy suunnassa.
+2. Liuku liikkuu eteenpäin.
+3. Liuku ei nyöki.
 
 ### Hyppylennolla
 
-* Kertaa suoritus mielessäsi
-* Keskity suoritukseesi
-* 3X3 -tarkastus ennen hyppyä
+* Kertaa suoritus mielessäsi.
+* Keskity suoritukseesi.
+* 3X3 -tarkastus ennen hyppyä TODO:CRESSREF(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.).
 
 ### Hypyn kulku
 
@@ -90,7 +90,7 @@ Liuku tehdään seuraavasti:
 
         Lopeta työskentely ja valmistaudu päävarjon avaamiseen.
 
-**1200 metriä**
+**1300 metriä**
 
         Aloita avaustoimenpiteet.
 
@@ -102,24 +102,25 @@ FS-liuku on liikesarja, joka suoritetaan jokaisen FS-hypyn lopuksi. Liikesarjass
 
 FS-liuku sisältää seuraavan liikesarjan:
 
-1. Purkumerkki
-2. Käännös 180°
-3. Muutaman sekunnin liuku
-4. Ilmatilan tarkastus
-5. Avausmerkki
-6. Harjoitusveto
+1. Korkeuden tarkastaminen
+2. Purkumerkki
+3. Käännös 180°
+4. Muutaman sekunnin liuku
+5. Ilmatilan tarkastus
+6. Avausmerkki
+7. Harjoitusveto
 
 ### Oppimistavoitteet
 
-1. Tee kaikki FS-liukuun liittyvät merkit ja tarkastukset
-2. Tee liuku, joka liikkuu eteenpäin
-3. Käännös on 180° ja liuku pysyy suunnassa
+1. Tee kaikki FS-liukuun liittyvät merkit ja tarkastukset.
+2. Tee liuku, joka liikkuu eteenpäin.
+3. Käännös on 180° ja liuku pysyy suunnassa.
 
 ### Hyppylennolla
 
-* Kertaa suoritus mielessäsi
-* Keskity suoritukseesi
-* 3X3 -tarkastus ennen hyppyä
+* Kertaa suoritus mielessäsi.
+* Keskity suoritukseesi.
+* 3X3 -tarkastus ennen hyppyä TODO:CRESSREF(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.).
 
 ### Hypyn kulku
 
@@ -136,6 +137,6 @@ FS-liuku sisältää seuraavan liikesarjan:
 
         Lopeta työskentely ja valmistaudu päävarjon avaamiseen.
 
-**1200 metriä**
+**1300 metriä**
 
         Aloita avaustoimenpiteet.
