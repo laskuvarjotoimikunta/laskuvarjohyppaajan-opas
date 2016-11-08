@@ -57,7 +57,7 @@ Tynnyri on freeasentojen perusliike, sillä isommilla freekuvilla purun jälkeen
 
 ## Liuku
 
-Liu’un tavoitteena on liikkua vaakatasossa mahdollisimman kauaksi muihin hyppääjiin nähden samalla, kun pudotaan alaspäin. Liuku ei ole siis syöksyä tai tikkaamista. FS-liukuun kuuluvat myös purkumerkki, 180° käännös, liuku vapaaseen suuntaan, liu’un jälkeinen ilmatilan tarkastus sekä avausmerkki ja harjoitusveto. Putoamisnopeus voi kasvaa liu’un aikana. Korkeuden tarkkailu on tärkeää, sillä liu’un pysäytys vaatii myös aikansa. Varjon avaamista suoraan liu’usta ei suositella. Hyvä liuku on ensiarvoisen tärkeä taito laskuvarjohyppääjällä, sillä ainoastaan hyvällä liu’ulla pystyy varmistamaan riittävän välimatkan muihin hyppääjiin purun jälkeen! Liuku tehdään seuraavasti:
+Liu’un tavoitteena on liikkua vaakatasossa mahdollisimman kauaksi muihin hyppääjiin nähden samalla, kun pudotaan alaspäin. Liuku ei ole siis syöksyä tai tikkaamista. FS-liukuun kuuluvat myös korkeuden tarkastus, purkumerkki, 180° käännös, liuku vapaaseen suuntaan, liu’un jälkeinen ilmatilan tarkastus sekä avausmerkki ja harjoitusveto. Putoamisnopeus voi kasvaa liu’un aikana. Korkeuden tarkkailu on tärkeää, sillä liu’un pysäytys vaatii myös aikansa. Varjon avaamista suoraan liu’usta ei suositella. Hyvä liuku on ensiarvoisen tärkeä taito laskuvarjohyppääjällä, sillä ainoastaan hyvällä liu’ulla pystyy varmistamaan riittävän välimatkan muihin hyppääjiin purun jälkeen! Liuku tehdään seuraavasti:
 
 1. Otetaan kiintopiste edestä, maasta.
 2. Oikaistaan jalat.
