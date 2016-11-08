@@ -16,7 +16,7 @@ kerhoon.
 
 Jokaisella hyppylennolla tulee olla vähintään A-lisenssin omaava
 tehtäväänsä nimetty pokanvanhin, joka vastaa pokansa toiminnasta
-kokonaisuudessaan. Oppilaita pudottava kouluttaja toimii
+kokonaisuudessaan. Oppilaita pudottava kouluttaja toimii usein
 pokanvanhimpana. Mikäli kouluttaja poistuu koneesta ennen viimeistä
 linjaa, tulee pokaan olla nimetty pokanvanhin myös hyppylennon
 loppuajaksi.
