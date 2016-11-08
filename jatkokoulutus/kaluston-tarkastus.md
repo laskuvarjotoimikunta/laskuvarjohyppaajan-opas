@@ -36,7 +36,7 @@ verrattava kalustoon:
     kalustomestari B tai C. Kalustomestari B:n tai C:n on tarkastettava
     päävarjo myös uuteen reppu-valjasyhdistelmään ennen kuin päävarjolla
     voidaan hypätä.
-- Varavarjon pakannut henkilö merkitsee aina laitekorttiin varavarjoon
+- Varavarjon saa pakata kalustomestarit A, B ja C. Varavarjon pakannut henkilö merkitsee aina laitekorttiin varavarjoon
     tehtävät toimenpiteet kuten pakkaukset ja
     käytönjälkeiset tarkastukset.
 - Päävarjon pakkausmerkinnäksi riittää hyppypäiväkirjamerkintä.
