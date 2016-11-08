@@ -28,7 +28,7 @@ Olet voinut jo pitkään haaveilla laskuvarjohyppäämisestä tai saada idean va
 
 ## Suomen Ilmailuliitto
 
-Vuonna 1919 perustettu Suomen Ilmailuliitto ry (SIL) on eri harrasteilmailulajeja edustavien ilmailukerhojen keskusjärjestö. Ilmailuliitossa on yli 200 (2014) jäsenkerhoa, joista pääasiassa laskuvarjohyppäämistä harrastavia kerhoja on 15.
+Vuonna 1919 perustettu Suomen Ilmailuliitto ry (SIL) on eri harrasteilmailulajeja edustavien ilmailukerhojen keskusjärjestö. Ilmailuliitossa on yli 200 (2016) jäsenkerhoa, joista pääasiassa laskuvarjohyppäämistä harrastavia kerhoja on 14.
 
 Organisaatio, joka antaa koulusta, on sitoutunut noudattamaan Ilmailuliiton hyväksymiä ohjeita. Suomen Ilmailuliitossa laskuvarjourheilua koskevien
 asioiden asiantuntijaelin on luottamushenkilöistä koostuva Laskuvarjotoimikunta,
@@ -48,7 +48,7 @@ päin muun muassa
 * Myöntämällä SIL-laskuvarjohyppylisenssit
 * Osallistumalla laskuvarjourheilua koskevien määräysten ja ohjeiden valmisteluun
 
-Ilmailu-lehteä Ilmailuliitto on julkaissut jo vuodesta 1938 alkaen. Lehti ilmestyy 10 kertaa vuodessa ja käsittelee Ilmailuliiton omien harrastealojen lisäksi liikenne- ja sotilasilmailua sekä lentoturvallisuuteen liittyviä aiheita.
+Ilmailu-lehteä Ilmailuliitto on julkaissut jo vuodesta 1938 alkaen. Lehti ilmestyy 8 kertaa vuodessa ja käsittelee Ilmailuliiton omien harrastealojen lisäksi liikenne- ja sotilasilmailua sekä lentoturvallisuuteen liittyviä aiheita.
 
 SIL:n kotisivuilta osoitteesta [www.ilmailu.fi](http://www.ilmailu.fi) saat halutessasi lisätietoja.
 
@@ -56,7 +56,7 @@ SIL:n kotisivuilta osoitteesta [www.ilmailu.fi](http://www.ilmailu.fi) saat halu
 Vuosittain laskuvarjohyppäämisessä sattuu jonkin verran loukkaantumisia. Tyypillinen
 vamma on nilkan nyrjähtäminen tai murtuminen huonosti suoritetussa alastulossa. 
 
-Suomessa on sattunut vuodesta 1962 lähtien 25 kuolemaan johtanutta onnettomuutta    (2013). Kokonaishyppymäärä vuodesta 1962 vuoteen 2013 on noin 1 650 000 hyppyä. Vuosittain Suomessa hypätään n. 50 000 hyppyä.
+Suomessa on sattunut vuodesta 1962 lähtien 27 kuolemaan johtanutta onnettomuutta    (2016). Kokonaishyppymäärä vuodesta 1962 vuoteen 2016 on noin 1 790 000 hyppyä. Vuosittain Suomessa hypätään n. 45 000 hyppyä.
 
 Laskuvarjohyppääjä hyppää aina omalla vastuullaan. Kerholla on kolmannelle osapuolelle aiheutetun vahingon korvaava vastuuvakuutus, joka korvaa vain, jos kerho on syyllistynyt virheeseen. Jos oppilas toimii virheellisesti ja aiheuttaa vahinkoa itselleen tai jollekin muulle, hänen on itse vastattava vahingoista. Liittymällä Suomen Ilmailuliittoon saat vakuutuksen, joka sisältää kolmannen osapuolen vastuuvakuutuksen sekä tapaturmavakuutuksen.
 
