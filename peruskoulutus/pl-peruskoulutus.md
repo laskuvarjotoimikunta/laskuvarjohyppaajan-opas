@@ -2,7 +2,7 @@
 
 ## 15”
 
-Avaustoimenpiteet aloitetaan 1200 metrin korkeudessa mittarin mukaan. Vapaapudotusaika on noin 15 sekuntia. Lisää tästä lähin avaustoimenpiteisiisi avausmerkki, jolla ilmoitat muille avaavasi
+Avaustoimenpiteet aloitetaan 1300 metrin korkeudessa mittarin mukaan. Vapaapudotusaika on noin 15 sekuntia. Lisää tästä lähin avaustoimenpiteisiisi avausmerkki, jolla ilmoitat muille avaavasi
 varjosi, eli heilauta käsiäsi ristiin pääsi edessä.
 
 ### Oppimistavoitteet
@@ -24,7 +24,7 @@ varjosi, eli heilauta käsiäsi ristiin pääsi edessä.
         Rentouta asento uloshypyn jälkeen
         Tarkkaile korkeutta
 
-**1200 metriä**
+**1300 metriä**
 
         Aloita avaustoimenpiteet: Näytä avausmerkki.
 
@@ -93,7 +93,7 @@ Tavoitteena on oppia uloshyppy suorana, eli suoraan koneen sisältä ilmavirtaan
         Asennon käännyttyä vaakatasoon (tyypillisesti noin 5 sekunnin jälkeen) ota perusasento
         Tarkkaile korkeutta
 
-**1200 metriä**
+**1300 metriä**
 
         Aloita avaustoimenpiteet.
 
@@ -138,7 +138,7 @@ Koneesta sukelletaan ulos ja pidetään suunta.
         Asennon käännyttyä vaakatasoon (tyypillisesti noin 5 sekunnin jälkeen) ota perusasento
         Tarkkaile korkeutta
 
-**1200 metriä**
+**1300 metriä**
 
         Aloita avaustoimenpiteet.
 
@@ -162,7 +162,7 @@ Pidä taivutus koko käännöksen ajan. Tarkkaile korkeutta.
 
 * Kertaa suoritus mielessäsi
 * Keskity suoritukseesi
-* 3X3 -tarkastus ennen hyppyä
+* 3X3 -tarkastus ennen hyppyä TODO:CROSSREFERENCE(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ### Hypyn kulku
 
@@ -177,7 +177,7 @@ Pidä taivutus koko käännöksen ajan. Tarkkaile korkeutta.
 
         Lopeta työskentely ja valmistaudu päävarjon avaamiseen.
 
-**1200 metriä**
+**1300 metriä**
 
         Aloita avaustoimenpiteet.
 
@@ -216,7 +216,7 @@ Kädet pidetään perusasennossa suorina, hieman sivuille käännettyinä. Jalat
 
 * Kertaa suoritus mielessäsi.
 * Keskity suoritukseesi.
-* 3X3 -tarkastus ennen hyppyä.
+* 3X3 -tarkastus ennen hyppyä. TODO:CRESSREF(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ### Hypyn kulku
 
@@ -234,6 +234,6 @@ Kädet pidetään perusasennossa suorina, hieman sivuille käännettyinä. Jalat
 
         Lopeta työskentely ja valmistaudu päävarjon avaamiseen.
 
-**1200 metriä**
+**1300 metriä**
 
         Aloita avaustoimenpiteet.
