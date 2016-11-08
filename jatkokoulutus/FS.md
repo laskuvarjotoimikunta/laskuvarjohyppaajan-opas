@@ -28,8 +28,7 @@ tarkoitukselliset liikkeet voivat olla niin nopeita ja rajuja, että
 kovaa kypärää tarvitaan suojaamaan päätä esimerkiksi toisen jaloilta.
 
 Vastuu korkeuden tarkkailusta ja purkamisesta kuuluu kaikille.
-Oppilas-FS-hypyillä purkukorkeus on vähintään 1600 metriä, ja ainakin
-kahdella ensimmäisellä hypyllä 1800 metriä. Hypyn purkaminen oikeassa
+Oppilas-FS-hypyillä purkukorkeus on vähintään 1600 metriä, ja ainakin ensimmäisellä hypyllä 1800 metriä. Hypyn purkaminen oikeassa
 korkeudessa on oppilaan tehtävä. Purkumerkki näytetään selvästi, jonka
 jälkeen käännytään ja liu’utaan vapaaseen ilmatilaan. On tärkeää
 opetella hyvä, kantava liuku heti alusta lähtien, koska se vähentää
