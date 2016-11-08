@@ -1,4 +1,4 @@
-# Free-hyppääminen
+# Freehyppääminen
 
 Freehyppyjen tarkoituksena on perehtyä vapaan lentämisen alkeisiin.
 Harjoitushyppyjä ei saa ottaa liian vakavasti, sillä tarkoitus on antaa joitakin vinkkejä siitä, miten jatkossa kannattaa harjoitella
@@ -54,7 +54,7 @@ ja kääntämällä kyynärvarret 90 astetta kyynärpäistä eteenpäin.
 Freehyppyjen turvallisuuteen liittyviä asioita on lueteltu seuraavassa:
 - Tarkkaillaan korkeutta, sillä monissa freeasennoissa putoamisvauhti
     on erittäin kova.
-- Lopetetaan harjoittelu viimeistään 1400 metrin korkeudessa ja
+- Lopetetaan harjoittelu viimeistään 1600 metrin korkeudessa ja
     palataan perusasentoon.
 - Selällään tai istualtaan lennettäessä saattaa rintahihnassa oleva
     korkeusmittari näyttää väärin. Käsimittarin käyttäminen
