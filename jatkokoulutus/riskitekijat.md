@@ -10,8 +10,8 @@ käytetään hyväksi uusien onnettomuuksien ehkäisemisessä.
 Onnettomuustutkintakeskus julkaisee omista tutkinnoistaan
 tutkintaselostuksen, jossa on kaikille hyppääjille hyödyllistä
 luettavaa. Myös poliisitutkimuksien selostukset pyritään
-mahdollisuuksien mukaan julkaisemaan. Lisäksi Laskuvarjotoimikunnan
-Koulutus- ja turvallisuuskomitea julkaisee Turvallisuustiedotteita,
+mahdollisuuksien mukaan julkaisemaan. Lisäksi Laskuvarjotoimikunta
+julkaisee Turvallisuustiedotteita,
 joissa käsitellään turvallisuuteen liittyviä asioita.
 
 Hyvin yleistä onnettomuuksissa on, että tapahtumalle ei ole olemassa
@@ -124,7 +124,7 @@ onnettomuustilanteessa) on seuraava:
         eivät yhdenmukaistuisi. **Tärkeintä, että medialle ei puhu kuin
         kriisitiedotuksesta vastaava henkilö!!**
 
-    -   Ilmoittaudutaan kotiin, jos joku kuollut (sana leviää nopeasti)
+    -   Ilmoittaudutaan kotiin, jos joku on kuollut (sana leviää nopeasti)
 
     -   Kerhon puhelimet (numerot julkisesti saatavilla)
         otetaan haltuun. Vain se vastaa, joka tietää, mitä saa kertoa
@@ -164,7 +164,7 @@ onnettomuustilanteessa) on seuraava:
 ## Ensiapu  
 
 
-Hätäensiavulla tarkoitetaan sitä välitöntä ensiapua, jolla pelastetaan
+Hätäensiapu on välitöntä ensiapua, jolla pelastetaan
 potilaan henki. Hätäensiavun tarkoituksena on palauttaa ja ylläpitää
 elintärkeät toiminnot siihen asti, kunnes potilas saadaan hoitoon.
 Hätäensiapu aloitetaan onnettomuuspaikalla, ensimmäisenä paikalla olevan
@@ -292,7 +292,7 @@ Muistetaan aina sokin vaara ja annetaan sokin oireenmukainen ensiapu:
 
 Jos laskuvarjohypyn yhteydessä sattuu sellainen vaaratilanne, jossa
 hyppääjän tai ilmaliikenteen turvallisuus on ollut uhattuna, on
-tapahtuneesta viipymättä tehtävä kirjallinen selonteko SIL:lle.
+tapahtuneesta viipymättä tehtävä kirjallinen selonteko (nettilomake) SIL:lle.
 Tapauksia, joista ilmoitus on aina tehtävä, ovat mm. seuraavat:
 - kaikki hypyt, joissa on käytetty varavarjoa,
 - kaikki tapaukset, joissa on sattunut lääkäri- tai sairaalahoitoon
@@ -308,14 +308,14 @@ lisätietoja vaaratilanneilmoituksen tekemisestä.
 ## Harjoitus  
 
 1.  Tutustutaan Vaaratilanneilmoitukseen ja sen täyttöön. Lomake
-    löytyy mm. Koulutus- ja turvallisuuskomitean nettisivuilta.
-    <http://www.ilmailuliitto.fi/fi/suomen_ilmailuliitto/materiaalipankki/vaaratilanneilmoitus_hyppytoiminnassa>
+    löytyy Laskuvarjotoimikunnan nettisivuilta.
+    <http://vtr.laskuvarjotoimikunta.fi/>
 
 2.  Selvitetään, missä kerholla säilytetään turvallisuuspäällikön
     kokoamaa hyppyturvallisuuteen liittyvää materiaalia.
 
-3.  Tutustutaan kerholla olevaan SIL ry:n ohjeeseen
-    Toiminta onnettomuustilanteessa.
+3.  Tutustutaan kerholla olevaan SIL ry:n ohjeeseen Kriisitiedotus ja 
+    toiminta onnettomuustilanteessa.
 
 4.  Tutustutaan kerhon omiin ohjeisiin toiminnasta vaara-
     ja onnettomuustilanteessa.
