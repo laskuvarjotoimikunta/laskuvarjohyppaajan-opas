@@ -198,7 +198,7 @@ hyppykorkeus, jos varjo avataan 1000 metrin korkeudessa. Putoamisnopeus
 riippuu mm. hyppääjän massasta, asennosta, vaatetuksesta ja
 hyppykorkeudesta.
 
-Oppilaskoulutushypyillä varjon avaustoimenpiteet aloitetaan viimeistään 1200 metrin korkeudessa. Mikäli avaus tapahtuu matalammalla, siitä on ilmoitettava kouluttajalle.
+Oppilaskoulutushypyillä varjon avaustoimenpiteet aloitetaan viimeistään 1000 metrin korkeudessa. Mikäli avaus tapahtuu matalammalla, siitä on ilmoitettava kouluttajalle.
 
 ###  Korkeusmittarin käyttö vapaassa  
 
@@ -354,13 +354,12 @@ apuvarjo avaa päävarjon repun jonka jälkeen avausjärjestelmä vetää
 sisäpussin ulos repusta. Punokset alkavat purkautua kumilenkeistään.
 Kupu tulee ulos sisäpussista ja alkaa kehittyä keskeltä. Slider liukuu
 punoksia pitkin alas hidastaen kuvun aukeamista. Sinun tehtäväksesi jää
-varjon tarkastaminen ja sen lopullinen avaaminen.
+varjon tarkastaminen ja tarvittaessa sen selvittäminen.
 
 Kun olet päässyt laskemisessa 105:een, tarkasta varjo. Varjo LENTÄÄ, kun
 
 -   Kupu on säännöllisen muotoinen
--   Punokset ovat kireällä
--   Slider on suorakaiteen muotoinen.
+-   Punokset ovat kireällä.
 
 Tarkastettuasi varjon vie kädet takimmaisille kantohihnoille. Jos
 punokset ovat kierteellä, avaa ne potkimalla ja levittämällä
@@ -519,7 +518,7 @@ lennetään,
 
 ###  Laskeutumiskuvio  
 
-Laskeutumiskuvio kannattaa lentää varjo puolijarrutuksessa.
+Laskeutumiskuvio lennetään täysliidossa.
 Puolijarrutustilassa lennettäessä maanopeus on pienempi, varjo kääntyy
 nopeammin sekä vajoaa käännöksissä vähemmän kuin täysliidossa.
 
@@ -561,7 +560,7 @@ laskeutumiskuviossa.
 
 1.  **Suora finaali** (tärkeintä on, ettei varjo ole
     laskeuduttaessa käännöksessä)
-2.  Tee **loppuveto** aina vähintään puolijarrutustilaan
+2.  Tee **loppuveto** ja pidä hyvä alastuloasento
 3.  Pyri laskeutumaan **vastatuuleen**, esteettömälle alueelle
 
 Muista aina laskeutumisen tärkeysjärjestys, se auttaa sinua laskeutumaan
@@ -572,7 +571,6 @@ turvallisesti!
 Ollessasi finaalissa noin 50 metrin korkeudessa ota hyvä alastuloasento:
 
 -   Kädet ohjauslenkeissä
--   Leuka kiinni rinnassa ja hampaat yhdessä
 -   Polvet joustavasti hiukan koukussa ja **tiukasti** yhdessä
 -   Jalkaterät 45° etenemissuunnasta sivulle ja **tiukasti** yhdessä
 -   Jalkapohjat samalla tasolla ja maanpinnan suuntaiset.
@@ -581,9 +579,8 @@ Ollessasi finaalissa noin 50 metrin korkeudessa ota hyvä alastuloasento:
 
 ![image](/kuvat/Loppuveto.png)
 
-Samalla kun otat alastuloasennon, siirrä ohjauslenkit korvien tasalle.
 Kun korkeutta on 2-3 metriä, tee loppuveto painamalla ohjauslenkit
-terävästi täysjarrutustilaan. Ensimmäisillä kolmella hypyllä sinulla on
+terävästi täysjarrutustilaan ja paina leuka kiinni rintaasi. Ensimmäisillä kolmella hypyllä sinulla on
 radio, josta kuulet ohjeita esimerkiksi seuraavasti:
 
 -   1. hyppy - ohjeita ohjailuun ja laskeutuminen ohjatusti
