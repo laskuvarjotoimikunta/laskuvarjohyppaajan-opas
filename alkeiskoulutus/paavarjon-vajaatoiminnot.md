@@ -11,7 +11,6 @@ täyttää lentävän laskuvarjon kriteerit:
 
 -   Kupu on säännöllisen muotoinen.
 -   Punokset ovat kireällä.
--   Slider on suorakaiteen muotoinen.
 
 Muista aina tarkkailla korkeutta, jotta voit tarvittaessa ajoissa
 suorittaa varavarjotoimenpiteet.
@@ -28,7 +27,7 @@ Tee varavarjotoimenpiteet!
 
 -   Punokset ovat kireällä
 
--   Slider on suorakaiteen muotoinen ja alhaalla.
+-   Slider on alhaalla.
 
 ### Lentää - Selvitä  
 
