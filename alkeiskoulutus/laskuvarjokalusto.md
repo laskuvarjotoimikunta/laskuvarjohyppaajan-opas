@@ -48,9 +48,9 @@ on varmistaa varavarjon avautuminen päävarjon irrottua valjaista.
 Järjestelmä liittää päävarjon kantohihnan ja varavarjon
 aukaisujärjestelmän yhteen. Hyppääjän on mahdollista vapauttaa
 varavarjon pakkolaukaisuhihna avaamalla päävarjon kantohihnaan kytketty
-pikalukko.
+pikalukko. Se vapautetaan esimerkiksi laskeuduttaessa veteen (\[vaaratilanteet-laskeutuminen-veteen\] s.)
 
-Kun päävarjon kantohihnat ovat päävarjon irtipäästön jälkeen irronneet
+Kun päävarjon kantohihnat ovat päävarjon irtipäästön (\[paavarjon-vajaatoiminnot-varavarjon-kaytto\] s.) jälkeen irronneet
 kolmirengaslukoista, päävarjo vetää irrotessaan varavarjon
 pakkolaukaisuhihnasta ja avaa varavarjon. Varavarjon pakkolaukaisuhihna
 on kuitenkin vain apuväline. Hyppääjän on aina avattava varavarjo
@@ -73,7 +73,7 @@ koko ajan oltava JUMP-asennossa. On olemassa kaksi tilannetta, joissa
 FXC:n JUMP/OFF-nuppi käännetään OFF-asentoon:
 
 -   Koneella alas tultaessa hyppymestarin käskystä
--   Laskeuduttaessa veteen
+-   Laskeuduttaessa veteen (\[vaaratilanteet-laskeutuminen-veteen\] s.)
 
 ![image](/kuvat/AAD-Cypres.jpg)
 
