@@ -1,13 +1,8 @@
 # Määräykset, lait ja ohjeet
 
 Laskuvarjotoimintaa ja -hyppääjiä koskevat lait, asetukset, määräykset,
-koulutusohjelmat, ohjeet ja tiedotteet on laadittu luomaan selvät
-pelisäännöt lajin harrastamiseksi sekä ehkäisemään onnettomuuksia.
-Trafin hyväksymien ilmailumääräysten ja -tiedotusten lisäksi Suomen
-Ilmailuliitto ry on laatinut hyppääjille koulutusohjelmat ja
-tomintaohjeet. Lisäksi Ilmailuliiton Laskuvarjotoimikunta ja sen
-komiteat julkaisevat ohjeita, suosituksia ja tiedotteita, jotka on myös
-huomioitava.
+koulutusohjelmat, ohjeet ja tiedotteet on laadittu luomaan selvät pelisäännöt lajin harrastamiseksi sekä ehkäisemään onnettomuuksia.
+Trafin hyväksymien ilmailumääräysten ja -tiedotusten lisäksi Suomen Ilmailuliitto ry on laatinut hyppääjille koulutusohjelmat ja toimintaohjeet. Lisäksi Ilmailuliiton Laskuvarjotoimikunta julkaisee ohjeita, suosituksia ja tiedotteita, jotka on myös huomioitava.
 
 Ohjeen tai vastaavan ja määräyksen ollessa ristiriidassa on määräys aina
 se asiakirja, jota noudatetaan. Kuitenkin ohjeessa tai muussa
@@ -37,8 +32,7 @@ koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä.
 
 ## SIL ry:n ohjeet  
 
-- Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset,
-    20.4.2014
+- Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset, 20.4.2014
 
 <http://laskuvarjotoimikunta.fi/materiaalipankki/koulutus-ja-turvallisuus/lisenssihyppaajan-dokumentteja>
 
