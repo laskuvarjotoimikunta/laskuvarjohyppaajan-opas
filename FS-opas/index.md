@@ -37,4 +37,8 @@ IPC:n julkaisemasta Dive poolista.
 - 2003 suomalainen naisjoukkue Zooey sijoittui 8. sijalle naisten
     sarjassa MM-kisoissa Ranskassa
 - 2004 maailman ennätys 357-way, Thaimaa
+- 2005 Suomen ennätys 58-way, Kolomna Venäjä 
 - 2006 maailman ennätys 400-way, Thaimaa
+- 2009 Suomen ennätys 63-way, Empuria Brava Espanja
+- 2010 Pro-Team teki Suomen ennätyksen 42 pistettä kilpailuhypyllä
+- 2013 Suomen naisten ennätys 42-way
