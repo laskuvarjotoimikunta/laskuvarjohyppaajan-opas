@@ -153,7 +153,7 @@ varavarjokahvojen päälle.
 
 Hyppääjä voi hypätä erilaisten lisävarusteiden kanssa, seuraavassa
 muutamia ominaispiirteitä:
-- Liitopuku: Liitopuvulla hyppääminen vaatii joko C-lisenssin ja
+- Liitopuku: Liitopuvulla hyppääminen vaatii joko A-, B- tai C-lisenssin ja
     koulutuksen tai D-lisenssin. Lue lisää asiasta Liitohyppyoppaasta.
 - Savut, liput ja viirit: Näytöshypyillä saattaa joskus tulla tarpeen
     käyttää esimerkiksi savuja, lippuja tai viirejä lisäämään
