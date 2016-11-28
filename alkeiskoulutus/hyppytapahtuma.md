@@ -399,12 +399,12 @@ Aloita ohjaaminen ja käännä varjo tarvittaessa vastatuuleen.
 
 **Puolijarrutustila**
 
-> Vedä/nosta ohjauslenkit hartioiden korkeudelle. Varjo jarruttaa.\
+> Vedä/nosta ohjauslenkit hartioiden korkeudelle. Varjo jarruttaa. Puolijarrutustilassa lennettäessä maanopeus on pienempi kuin täysliidossa.\
 
 **Täysjarrutus**
 
 > Vedä ohjauslenkit noin lantion tasalle. Varjo jarruttaa
-    voimakkaasti.\
+    voimakkaasti. Täysjarrutustilassa lennettäessä maanopeus on pienempi kuin puolijarrutustilassa.\
 
 **Sakkaus**
 
@@ -519,8 +519,6 @@ lennetään,
 ###  Laskeutumiskuvio  
 
 Laskeutumiskuvio lennetään täysliidossa.
-Puolijarrutustilassa lennettäessä maanopeus on pienempi, varjo kääntyy
-nopeammin sekä vajoaa käännöksissä vähemmän kuin täysliidossa.
 
 Myötätuuliosa aloitetaan 300 metrin korkeudessa tuulen yläpuolelta
 (aloituspiste riippuu tuulen voimakkuudesta). Myötätuuliosa lennetään
