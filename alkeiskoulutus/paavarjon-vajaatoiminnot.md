@@ -106,4 +106,5 @@ Tärkeät korkeudet:
 8.  Taivuta.
 9.  Pidä vv-kahva kädessä tai päästä irti (kerhokohtainen)
 
-to do: ![image](/kuvat/VVkaavio.pdf)
+[image](/kuvat/Toimintakaavio lentää ei lennä_2016.JPG
+)
