@@ -54,5 +54,4 @@
    * [Laskeutumisvirheet](kuvunkasittelyopas/laskeutumisvirheet.md)
    * [Kuvunkäsittelyharjoitukset](kuvunkasittelyopas/kuvunkasittelyharjoitukset.md)
    * [Kuvunkäsittely: Loppusanat](kuvunkasittelyopas/loppusanat.md)
-* [Liitteet](liitteet/index.md)
 
