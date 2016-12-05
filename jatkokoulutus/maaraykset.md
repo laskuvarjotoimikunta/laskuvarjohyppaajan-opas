@@ -23,10 +23,7 @@ koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä.
 
 ## Ilmailumääräykset ja -tiedotukset  
 
-- GEN T1-1, 6.2.2009, Ilmailuhallinnon ilmailumääräys- ja
-    tiedotusjärjestelmä
 - OPS M6-1, 9.7.2010, Laskuvarjohyppytoiminta
-- PEL T4-3, 18.1.2007, Lääkkeet ja ilmailu
 
 <http://www.trafi.fi/ilmailu/saadokset/ilmailumaarayskokoelma>
 
