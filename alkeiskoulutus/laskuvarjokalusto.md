@@ -33,9 +33,9 @@ tarvittaessa on tehtävä maahantulokierähdys.
 
 ![](/kuvat/Osat_wings_2016.png)
 
-![Valjaat](/kuvat/Reppu-nova.pdf)
+![Valjaat](/kuvat/Novarepputakaa_2016.png)
 
-![image](/kuvat/Reppu-pl.pdf)
+![image](/kuvat/PLrepputakaa_2016_png)
 
 ## Lisälaitteet  
 
