@@ -31,7 +31,7 @@ tarvittaessa on tehtävä maahantulokierähdys.
 
 ### Reppu-valjasyhdistelmä  
 
-![](/kuvat/osat_wings_2016.gif)
+![](/kuvat/Osat_wings_2016.png)
 
 ![Valjaat](/kuvat/Reppu-nova.pdf)
 
