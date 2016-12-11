@@ -35,7 +35,7 @@ tarvittaessa on tehtävä maahantulokierähdys.
 
 ![Valjaat](/kuvat/Novarepputakaa_2016.png)
 
-![image](/kuvat/PLrepputakaa_2016_png)
+![image](/kuvat/PLrepputakaa_2016.png)
 
 ## Lisälaitteet  
 
