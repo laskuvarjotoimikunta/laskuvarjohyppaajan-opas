@@ -346,7 +346,7 @@ nähdä, tehdään varavarjotoimenpiteet heti.
 
 ![image](/kuvat/Selka-turbulenssi.png)
 
-### Varjon avautuminen ja lentokuntoon saattaminen  
+### Varjon avautuminen ja tarkastaminen  
 
 Pakkolaukaisujärjestelmässä koneesta irtautuessa
 pakkolaukaisujärjestelmä ja vastaavasti NOVA:ssa ilmavirtaan heitetty
