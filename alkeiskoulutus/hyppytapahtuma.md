@@ -346,7 +346,7 @@ nähdä, tehdään varavarjotoimenpiteet heti.
 
 ![image](/kuvat/Selka-turbulenssi.png)
 
-### Varjon avautuminen ja tarkastaminen  
+### Varjon avautuminen, tarkastaminen ja tarvittaessa selvittäminen
 
 Pakkolaukaisujärjestelmässä koneesta irtautuessa
 pakkolaukaisujärjestelmä ja vastaavasti NOVA:ssa ilmavirtaan heitetty
@@ -377,7 +377,7 @@ yläasentoon. Pumppauksen voit toistaa useampia kertoja (SELVITÄ).
 Mikäli varjo EI LENNÄ tai EI SELVIÄ, siirry välittömästi
 varavarjotoimenpiteisiin.
 
-Kun olet suorittanut varjon lopullisen avaamisen, tarkasta seuraavat
+Kun olet tarkastanut ja tarvittaessa selvittänyt varjon, tarkasta seuraavat
 asiat:
 
 -   ILMATILA (myös kierteiden avauksen ja pumppauksen aikana, väistä
