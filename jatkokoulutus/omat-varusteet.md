@@ -82,7 +82,7 @@ tarkoituksena on avata varavarjon reppu päävarjon irrottua valjaista.
 Järjestelmä liittää päävarjon kantohihnan ja varavarjon
 aukaisujärjestelmän yhteen. RSL on hyvä apuväline, joka voi pelastaa
 hengen esimerkiksi matalan päävarjon irtipäästön jälkeen.
-Oppilasvarjoissa sekä A- ja B-lisenssihyppääjille RSL on pakollinen
+Oppilasvarjoissa sekä A- ja B-lisenssihyppääjillä RSL on pakollinen
 varuste.
 
 RSL-järjestelmää kehittyneempi on päävarjoavusteinen varavarjon 
