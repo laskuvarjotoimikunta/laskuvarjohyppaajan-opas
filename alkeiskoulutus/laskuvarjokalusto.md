@@ -9,7 +9,7 @@ varjoa: pää- ja varavarjo. Molemmat näistä ovat liitovarjoja, jotka ovat
 muodoltaan siiven kaltaisia. Niiden liitosuhde on noin 3:1, eli
 liitäessään kolme metriä eteenpäin varjo vajoaa metrin.
 
-![Wings-reppuvaljasyhdistelmä hyppääjän päällä](/kuvat/Reppu-valjas-etu.png)
+![Wings-reppuvaljasyhdistelmä hyppääjän päällä](/kuvat/Reppu-valjas-etu_16.png)
 
 ###  Päävarjo  
 
