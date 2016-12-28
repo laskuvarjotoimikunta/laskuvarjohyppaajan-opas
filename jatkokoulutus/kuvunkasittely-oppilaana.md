@@ -220,9 +220,7 @@ ennalta päätettyyn suuntaan. Huomioidaan, kuinka ilmanopeus kasvaa ja
 korkeus vähenee nopeasti. Huomioidaan kuinka paljon aikaisemmin käännös
 täytyy lopettaa, että pysäytys tapahtuu valittuun suuntaan, ja kuinka
 suuri vastaliike täytyy tehdä, että käännös pysähtyy. Seurataan
-korkeuden menetystä käännösten aikana. (HUOM. Jos varjossa on FXC-12000
-tai oppilas-Cypres, ei poraamista saa tehdä alle 600 metrin korkeudessa,
-koska varavarjon automaattilaukaisin voi toimia).
+korkeuden menetystä käännösten aikana.
 
 Valmistaudutaan alastulokuvioon ja tehdään oikeaoppinen loppuveto
 täysiliidosta.
