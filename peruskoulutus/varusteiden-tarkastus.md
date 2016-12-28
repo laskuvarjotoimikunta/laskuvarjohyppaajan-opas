@@ -10,8 +10,8 @@ aina. Koneessa on syytä tarkkailla myös muiden hyppääjien hyppyvarusteita. A
 
 Varusteet jokainen hyppääjä valitsee itse painonsa, kokemuksensa sekä kouluttajan ohjeet huomioon ottaen. Varusteita valittaessa on huomioitava seuraavaa:
 
-* Henkilökohtaisen vaatetuksen on oltava vuodenaikaan ja säähän sovelias. Hyppyvaatteiden on oltava lämpimiä, mutta samalla myös joustavia. Turha ja liika vaatetus vaikeuttaa suoritusta sekä jäykistää ja hiostuttaa.
-* Varjokokonaisuuden ja automaattilaukaisimen asiakirjat on tarkastettava. Pakkausten on oltava alle 12 kk ikäiset ja määräaikaistarkastusten on oltava voimassa. Oppilaspäävarjo sekä varavarjo ja reppu-valjasyhdistelmä tarkastetaan vuoden välein. Automaattilaukaisimet tarkastetaan ja huolletaan 1–4 vuoden välein laitteesta riippuen.
+* Henkilökohtaisen vaatetuksen on oltava vuodenaikaan ja säähän sovelias. Hyppyvaatteiden on oltava lämpimiä, mutta samalla myös joustavia. Turha ja liika vaatetus vaikeuttaa suoritusta sekä jäykistää ja hiostaa.
+* Varjokokonaisuuden asiakirjat/laitekortit on tarkastettava. Päävarjon määräaikaistarkastuksen, varavarjon pakkauksen sekä varavarjon ja valjaiden määräaikaistarkastuksen ja automaattilaukaisimen tarkastus tulee olla voimassa valmistajan ohjeiden, SIL:n laskuvarjokaluston huolto-ohjeen ja OPS M6-1 mukaisesti.
 * Varusteet ovat ulkoisesti ehjät ja siistit. Varavarjon vaijerista ja irtipäästökaapeleista tarkastetaan myös niiden vapaa kulku suojaputkissa.
 * Automaattilaukaisin säädetään tai se käynnistetään.
 * Muista hypyllä tarvittavista varusteista tarkastetaan korkeusmittarin, kypärän, suojalasien, koukkupuukon, haalarin, sormikkaiden, kenkien ja pelastusliivien(tarvittaessa) kunto, toimivuus ja soveltuvuus laskuvarjohyppykäyttöön. Varusteissa ei saa olla ulokkeita tai osia, jotka voivat tarttua kiinni.
