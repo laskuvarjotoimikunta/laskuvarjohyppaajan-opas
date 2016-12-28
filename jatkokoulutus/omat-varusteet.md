@@ -7,8 +7,8 @@ alkeispallovarjoilla. 1980-luvulla oppilaat käyttivät tehovarjoja ja
 kokeneemmat hyppääjät liitovarjoja. 1990-luvun alussa oppilasvarjoissa
 siirryttiin F-111-kankaisiin sekä suuriin, korkeaprofiilisiin varjoihin
 kuten Manta ja Raider. 1990-luvun lopulla ja 2000-luvun alussa alettiin
-käyttää ZP-kankaisia, lievästi elliptisiä oppilasvarjoja (esim.
-Navigator, Skymaster). Ne ovat kevyempiä ohjata ja säilyttävät
+käyttää ZP-kankaisia, lievästi elliptisiä oppilasvarjoja (esimerkiksi
+Navigator ja Skymaster). Ne ovat kevyempiä ohjata ja säilyttävät
 lento-ominaisuutensa pidempään kuin edeltäjänsä.
 
 Kelpoisuushyppääjien käyttämät varjot ovat vuosien kuluessa kehittyneet
@@ -64,35 +64,37 @@ ovat seuraavia:
 ## Muut varusteet  
 
 
-AAD (Automatic Activation Device) eli varavarjon automaattilaukaisin on
-oppilasvarjoissa sekä A- ja B-lisenssin hyppääjillä pakollinen varuste
-ja on nykyään vakiovaruste lähes kaikissa uusissa Suomeen tilattavissa
+AAD (Automatic Activation Device), varavarjon automaattilaukaisin on
+oppilasvarjoissa sekä A- ja B-lisenssin hyppääjillä pakollinen varuste.
+Se on nykyään vakiovaruste lähes kaikissa uusissa Suomeen tilattavissa
 varjopaketeissa. AAD:n käyttö kaikessa hyppäämisessä on erittäin
 suositeltavaa.
 
-Uusimmilla ja nopeimmilla varjoilla on hetkellisesti saavutettu
-pystynopeuksia, jotka ylittävät AAD:n virittymiskynnyksen (esimerkiksi
+Nopeimmilla varjoilla on hetkellisesti saavutettu pystynopeuksia, 
+jotka ylittävät AAD:n virittymiskynnyksen (esimerkiksi
 expert-Cypresilla 35 m/s). AAD:n aktivoituminen vauhditetussa
 laskeutumisessa ei kuitenkaan ole mahdollista kuin suurilla
 siipikuormilla. AAD on pelastanut maailmalla jo satoja hyppääjiä. SIL on
 luetteloinut Suomessa käyttöön soveltuvat automaattilaukaisimet.
 
 RSL (Reserve Static Line) tarkoittaa varavarjon pakkolaukaisuhihnaa. Sen
-tarkoituksena on varmistaa varavarjon avautuminen päävarjon irrottua
-valjaista. Järjestelmä liittää päävarjon kantohihnan ja varavarjon
+tarkoituksena on avata varavarjon reppu päävarjon irrottua valjaista. 
+Järjestelmä liittää päävarjon kantohihnan ja varavarjon
 aukaisujärjestelmän yhteen. RSL on hyvä apuväline, joka voi pelastaa
 hengen esimerkiksi matalan päävarjon irtipäästön jälkeen.
 Oppilasvarjoissa sekä A- ja B-lisenssihyppääjille RSL on pakollinen
 varuste.
 
-RSL-järjestelmään on saatavissa myös MARD-modifikaatio (Main assisted
-reserve deployment). MARD-järjestelmässä irti päästetty päävarjo avustaa
-varavarjon avautumista. Tämä nopeuttaa varavarjon avautumista
-ratkaisevasti. Tilanteissa, joissa irti päästetty päävarjo ei pysty
-nopeuttamaan varavarjon avautumista, RSL toimii normaalisti.
-MARD-järjestelmät ovat valmistajakohtaisia (esim. DRD, Reserve boost ja
-Skyhook), eikä niitä välttämättä ole saatavilla kaikkiin valjaisiin.
-RSL:n hihnan tulee olla kytkettynä, jotta MARD voi toimia.
+RSL-järjestelmää kehittyneempi on päävarjoavusteinen varavarjon 
+avausjärjestelmä, MARD (Main assisted reserve deployment). MARD-järjestelmässä 
+irti päästetty avautunut päävarjo aukaisee varavarjon repun ja 
+vetää varavarjon sisäpussin ulos repusta. Tämä nopeuttaa varavarjon 
+avautumista. Jos päävarjo on repussa, pakkolaukaisuhihnaan ei tule vetoa ja 
+varavarjo on avattava vetämällä kahvasta. MARD-järjestelmät ovat 
+valmistajakohtaisia (esim. DRD, Reserve boost, Skyhook, Air Anchor ja Trap System),
+eikä niitä välttämättä ole saatavilla kaikkiin valjaisiin.
+Pakkolaukaisuhihnan tulee olla kytkettynä, jotta varavarjon pakkolaukaisujärjestelmä
+voi toimia.
 
 Kypärän/suojapäähineen käyttö on pakollista D-lisenssiin asti. Myös
 D-lisenssihyppääjät käyttävät yleensä hypätessään kovaa kypärää. Jos
