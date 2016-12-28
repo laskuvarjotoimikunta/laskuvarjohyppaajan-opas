@@ -42,7 +42,7 @@ ohjeiden mukaan. Toiminta koneessa pakkolaskussa on kerho/konekohtainen.
 
 Kun kone on maassa ja pysähtynyt, on tulipalovaaran takia poistuttava
 nopeasti. Loukkaantuneita autetaan mahdollisuuksien mukaan. Hätähypyssä
-ja pakkolaskussa on muistettava, että lentäjä on koneen päällikkö mutta
+ja pakkolaskussa on muistettava, että lentäjä on koneen päällikkö, mutta
 hyppääjien johtaja on hyppymestari. Oppilaille ohjeet tulevat **aina**
 hyppymestarilta. Tärkeintä on toimia rauhallisesti käskyjen mukaan.
 
