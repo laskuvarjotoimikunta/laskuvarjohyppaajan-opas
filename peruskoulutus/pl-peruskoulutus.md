@@ -83,7 +83,7 @@ Tavoitteena on oppia uloshyppy suorana, eli suoraan koneen sisältä ilmavirtaan
 
 * Kertaa suoritus mielessäsi
 * Keskity suoritukseesi
-* 3X3 -tarkastus ennen hyppyä TODO:CROSSREF(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
+* 3X3 -tarkastus ennen hyppyä TODO:CROSSREFERENCE(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ### Hypyn kulku
 
@@ -127,7 +127,7 @@ Koneesta sukelletaan ulos ja pidetään suunta.
 
 * Kertaa suoritus mielessäsi
 * Keskity suoritukseesi
-* 3X3 -tarkastus ennen hyppyä TODO:CRESSREF(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
+* 3X3 -tarkastus ennen hyppyä TODO:CROSSREFERENCE(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ### Hypyn kulku
 
@@ -216,7 +216,7 @@ Kädet pidetään perusasennossa suorina, hieman sivuille käännettyinä. Jalat
 
 * Kertaa suoritus mielessäsi.
 * Keskity suoritukseesi.
-* 3X3 -tarkastus ennen hyppyä. TODO:CRESSREF(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
+* 3X3 -tarkastus ennen hyppyä. TODO:CRESSREFERENCE(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ### Hypyn kulku
 
