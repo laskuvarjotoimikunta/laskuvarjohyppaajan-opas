@@ -180,7 +180,7 @@ suorittaa turvallisesti eikä ajauduta pois kenttäalueelta. Alle 600
 metrin korkeudessa valmistaudutaan laskeutumiskuvion lentämiseen.
 Silloin ei kannata ohjailla aggressiivisesti, koska varjoon voi 
 tulla vajaatoiminta, esimerkiksi lineover tai kierrettä. Matalalla 
-aikaa varjon selvittämiseen tai varavarjotoimenpiteisiin on vähän.
+aikaa varjon selvittämiseen ja varavarjotoimenpiteisiin on vähän.
 
 Hyppyohjelman suorittaminen jatkokoulutuksessa kuuluu koulutusohjelmaan. 
 Kuvunkäsittelyhypyillä ei tehdä vapaapudotussuorituksia.
