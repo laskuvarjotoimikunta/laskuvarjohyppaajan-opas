@@ -28,7 +28,8 @@ hyppymestari antaa hyppääjille komennon HÄTÄHYPPY! Komennolla OVELLE!
 siirrytään etuilematta ovelle ja komennolla MENE! poistutaan
 välittömästi. Hätähyppyä jatketaan, kunnes kaikki ovat hypänneet tai
 hyppymestari komentaa SEIS, PAKKOLASKU! Tällöin loput koneessa olevat
-valmistautuvat pakkolaskuun.
+valmistautuvat pakkolaskuun. Toiminta koneessa hätähypyllä on 
+kerho/konekohtainen.
 
  Pakkolasku  
 ------------
@@ -37,7 +38,7 @@ Hyppytoiminnassa lennetään yleensä niin lähellä kenttää, että hyppykone
 pystyy liitämään takaisin esimerkiksi moottorihäiriön sattuessa. Tällöin
 hyppymestari ilmoittaa asiasta komennolla PAKKOLASKU!
 Automaattilaukaisin käännetään tällöin OFF-asentoon ja toimitaan
-ohjeiden mukaan.
+ohjeiden mukaan. Toiminta koneessa pakkolaskussa on kerho/konekohtainen.
 
 Kun kone on maassa ja pysähtynyt, on tulipalovaaran takia poistuttava
 nopeasti. Loukkaantuneita autetaan mahdollisuuksien mukaan. Hätähypyssä
@@ -54,7 +55,10 @@ taivutettu asento jotta et pyöri ja voit varmistaa mistä olet kiinni.
 Varmistu, että olet hinauksessa vain olkalukkojen välityksellä jonka
 jälkeen tee varavarjotoimenpiteet. (\[paavarjon-vajaatoiminnot-varavarjon-kaytto\] s.)
 
-Jos roikut koneesta PL-hihnan varassa, ota rauhallisesti. ODOTA, että hyppymestari katkaisee pakkolaukaisuhihnan. Tee sen jälkeen varavarjotoimenpiteet. HUOM! PL-hihnan katkaisuun voi kulua aikaa, jos sinut pitää saada paremmalle uloshyppypaikalle.
+Jos roikut koneesta PL-hihnan varassa, ota rauhallisesti. ODOTA, että 
+hyppymestari katkaisee pakkolaukaisuhihnan. Tee sen jälkeen varavarjotoimenpiteet. 
+HUOM! PL-hihnan katkaisuun voi kulua aikaa, jos sinut pitää saada 
+paremmalle uloshyppypaikalle.
 
  Sotkeutuminen punoksiin  
 =========================
@@ -199,7 +203,7 @@ Laskeudu mieluummin metsään kuin veteen. Joutuessasi laskeutumaan veteen
 pyri niin lähelle rantaa kuin mahdollista. Veteen laskeutuessasi toimi
 seuraavasti:
 - Vapauta varavarjon pakkolaukaisuhihna
-- Käännä FXC OFF-asentoon
+- Käännä FXC (jos sellainen on) OFF-asentoon
 - Löysää rintahihna
 - Ota alastuloasento
 - Tee loppuveto ennen veteen tuloa.
