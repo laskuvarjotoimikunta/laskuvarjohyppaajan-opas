@@ -13,7 +13,7 @@ liitäessään kolme metriä eteenpäin varjo vajoaa metrin.
 
 ###  Päävarjo  
 
-![Päävarjon osat](/kuvat/Paavarjon-osat.jpg)
+![Päävarjon osat: 1. Kupu 2. Tunnelipari 3. Kuvun takahelma 4. Stabilisaattori 5. Kantopunokset 6. Ohjauspunokset 7. Slider 8. Kantohihnat 9. Apuvarjo](/kuvat/Paavarjon-osat.jpg)
 
 Päävarjo, joka koostuu kuvusta, punoksista ja sliderista, on
 kantohihnojen välityksellä kiinni valjaissa kolmirengaslukkojen avulla.
@@ -31,11 +31,11 @@ tarvittaessa on tehtävä maahantulokierähdys.
 
 ### Reppu-valjasyhdistelmä  
 
-![Valjaat edestä](/kuvat/Osat_wings_2016.png)
+![1. Varjon pystyhihnojen säätösoljet 2. Päävarjon irtipäästöpampula 3. Varavarjon avauskahva 4. Rintahihna 5. Varavarjon pakkolaukaisuhihna 6. Koukkupuukko (sijainti voi vaihdella) 7. Kolmirengasolkalukot 8. Automaattilaukaisimen käyttöyksikkö](/kuvat/Osat_wings_2016.png)
 
-![Valjaat (nova)](/kuvat/Novarepputakaa_2016.png)
+![10. Päävarjon apuvarjo 11. Päävarjon reppu 12. Varavarjon reppu 13. Päävarjon läppä 14. Päävarjon avauskahva hyppymestarille (NOVA-kahva)](/kuvat/Novarepputakaa_2016.png)
 
-![Valjaat (PL-avaus)](/kuvat/PLrepputakaa_2016.png)
+![10. PL-hihna 11. Päävarjon reppu 12. Varavarjon reppu 13. Päävarjon läppä](/kuvat/PLrepputakaa_2016.png)
 
 ## Lisälaitteet  
 
