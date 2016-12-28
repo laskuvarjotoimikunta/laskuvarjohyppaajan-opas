@@ -30,6 +30,7 @@ koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä.
 ## SIL ry:n ohjeet  
 
 - Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset, 20.4.2014
+- Laskuvarjokaluston huolto-ohje, 18.11.2015
 
 <http://laskuvarjotoimikunta.fi/materiaalipankki/koulutus-ja-turvallisuus/lisenssihyppaajan-dokumentteja>
 
