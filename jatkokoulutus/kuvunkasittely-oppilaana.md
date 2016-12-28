@@ -177,11 +177,13 @@ tehtyjä jyrkkiä käännöksiä.
 Hyppyohjelman läpivienti edellyttää sopivat sääolosuhteet myös yli 600
 metrin korkeudessa, jotta käännökset, sakkauskokeilut jne. voidaan
 suorittaa turvallisesti eikä ajauduta pois kenttäalueelta. Alle 600
-metrin ei tehdä ääriohjausliikkeitä. FXC-12000 ja oppilas-Cypres voivat
-toimia, mikäli varjon varassa porataan tai tehdään voimakkaita
-käännöksiä alle 600 metrin korkeudessa. Hyppyohjelman suorittaminen
-jatkokoulutuksessa kuuluu koulutusohjelmaan. Kuvunkäsittelyhypyillä ei
-tehdä vapaapudotussuorituksia.
+metrin korkeudessa valmistaudutaan laskeutumiskuvion lentämiseen.
+Silloin ei kannata ohjailla aggressiivisesti, koska varjoon voi 
+tulla vajaatoiminta, esimerkiksi lineover tai kierrettä. Matalalla 
+aikaa varjon selvittämiseen tai varavarjotoimenpiteisiin on vähän.
+
+Hyppyohjelman suorittaminen jatkokoulutuksessa kuuluu koulutusohjelmaan. 
+Kuvunkäsittelyhypyillä ei tehdä vapaapudotussuorituksia.
 
 ## Hyppy 1  
 
