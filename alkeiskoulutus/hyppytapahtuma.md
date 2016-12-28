@@ -573,7 +573,7 @@ Ollessasi finaalissa noin 50 metrin korkeudessa ota hyvä alastuloasento:
 -   Jalkaterät 45° etenemissuunnasta sivulle ja **tiukasti** yhdessä
 -   Jalkapohjat samalla tasolla ja maanpinnan suuntaiset.
 
-<img src="/kuvat/Alastuloasento_16.jpeg" align=right>
+<img src="/kuvat/Alastuloasento_16.jpg" align=right>
 
 ![image](/kuvat/Loppuveto.png)
 
