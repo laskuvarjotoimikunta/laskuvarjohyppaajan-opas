@@ -31,11 +31,11 @@ tarvittaessa on tehtävä maahantulokierähdys.
 
 ### Reppu-valjasyhdistelmä  
 
-![](/kuvat/Osat_wings_2016.png)
+![Valjaat edestä](/kuvat/Osat_wings_2016.png)
 
-![Valjaat](/kuvat/Novarepputakaa_2016.png)
+![Valjaat (nova)](/kuvat/Novarepputakaa_2016.png)
 
-![image](/kuvat/PLrepputakaa_2016.png)
+![Valjaat (PL-avaus)](/kuvat/PLrepputakaa_2016.png)
 
 ## Lisälaitteet  
 
@@ -50,22 +50,22 @@ aukaisujärjestelmän yhteen. Hyppääjän on mahdollista vapauttaa
 varavarjon pakkolaukaisuhihna avaamalla päävarjon kantohihnaan kytketty
 pikalukko. Se vapautetaan esimerkiksi laskeuduttaessa veteen (\[vaaratilanteet-laskeutuminen-veteen\] s.)
 
-Kun päävarjon kantohihnat ovat päävarjon irtipäästön (\[paavarjon-vajaatoiminnot-varavarjon-kaytto\] s.) jälkeen irronneet
+Kun päävarjon kantohihnat ovat päävarjon irtipäästön 
+(\[paavarjon-vajaatoiminnot-varavarjon-kaytto\] s.) jälkeen irronneet
 kolmirengaslukoista, päävarjo vetää irrotessaan varavarjon
 pakkolaukaisuhihnasta ja avaa varavarjon. Varavarjon pakkolaukaisuhihna
-on kuitenkin vain apuväline. Hyppääjän on aina avattava varavarjo
-vetämällä varavarjon kahvasta!
+on kuitenkin vain apuväline. Se ei avaa varavarjoa, jos päävarjoa ei ole
+avattu. Hyppääjän on aina avattava varavarjo vetämällä varavarjon kahvasta!
 
-![image](/kuvat/Kolmirengaslukko.jpg)
+![Kolmirengaslukko](/kuvat/Kolmirengaslukko.jpg)
 
-![image](/kuvat/Kolmirengaslukko-auki.jpeg)
+![Kolmirengaslukko on aukaistu. Päävarjon kantohihna vetää irrotessaan varavarjon pakkolaukaisuhihnasta.](/kuvat/Kolmirengaslukko-auki.jpeg)
 
 Toinen lisälaite varavarjon aukaisuun on automaattilaukaisin (Automatic
-Activation Device, AAD). Käytössä on kahta eri tyyppiä: mekaaninen (FXC)
-ja elektroninen (Cypres ja Vigil). Laitteiden tarkoitus on avata
-varavarjo, jos hyppääjä putoaa liian kovalla vauhdilla liian matalalla.
-Molemmat laitteet on säädetty toimimaan määrätyssä korkeudessa (n. 300
-m).
+Activation Device, AAD). Käytössä on kahta eri tyyppiä: elektroninen
+(Cypres ja Vigil) ja mekaaninen (FXC). Laitteiden tarkoitus on avata 
+varavarjo, jos hyppääjä putoaa liian kovalla vauhdilla liian matalalla. 
+Molemmat laitteet on säädetty toimimaan määrätyssä korkeudessa (n. 300 m).
 
 Oppilaan ollessa kyseessä vain hyppymestarilla on oikeus säätää
 automaattilaukaisinta. FXC:n säätölaitteessa on JUMP/OFF-nuppi, jonka on
@@ -75,7 +75,7 @@ FXC:n JUMP/OFF-nuppi käännetään OFF-asentoon:
 -   Koneella alas tultaessa hyppymestarin käskystä
 -   Laskeuduttaessa veteen (\[vaaratilanteet-laskeutuminen-veteen\] s.)
 
-![image](/kuvat/AAD-Cypres.jpg)
+![Cypres-automaattilaukaisimen käyttöyksikkö](/kuvat/AAD-Cypres.jpg)
 
 ## Muut hyppytoiminnassa käytettävät varusteet  
 
