@@ -399,12 +399,12 @@ Aloita ohjaaminen ja käännä varjo tarvittaessa vastatuuleen.
 
 **Puolijarrutustila**
 
-> Vedä/nosta ohjauslenkit hartioiden korkeudelle. Varjo jarruttaa. Puolijarrutustilassa lennettäessä maanopeus on pienempi kuin täysliidossa.\
+> Vedä/nosta ohjauslenkit hartioiden korkeudelle. Varjo jarruttaa. Puolijarrutustilassa lennettäessä maanopeus on pienempi kuin täysliidossa.
 
 **Täysjarrutus**
 
 > Vedä ohjauslenkit noin lantion tasalle. Varjo jarruttaa
-    voimakkaasti. Täysjarrutustilassa lennettäessä maanopeus on pienempi kuin puolijarrutustilassa.\
+    voimakkaasti. Täysjarrutustilassa lennettäessä maanopeus on pienempi kuin puolijarrutustilassa.
 
 **Sakkaus**
 
