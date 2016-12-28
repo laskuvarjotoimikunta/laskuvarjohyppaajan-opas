@@ -22,8 +22,8 @@ verrattava kalustoon:
     vertailuun ja merkin löytämiseen on hyvä pyytää apua kerhon
     kalustohenkilöiltä tai hyppymestareilta.
 - Tunniste- ja rekisteröintitiedot ovat luettavissa laitekortista.
-- Varjon omistajan vaihdoksesta tekee vanha omistaja
-    merkinnän laitekorttiin.
+- Varjon omistajan vaihdoksesta kannattaa tehdä
+    merkintä laitekorttiin.
 - Varjoihin ja reppu-valjasyhdistelmään tehdyt tarkastukset, huollot,
     korjaukset sekä lentokelpoisuusmääräysten edellyttämät työt
     näkyvät laitekortista. Seuraavan tarkastuksen ajankohta kannattaa
@@ -46,8 +46,8 @@ verrattava kalustoon:
 - Ostettaessa pelkästään vara- tai päävarjoa tai valjaita on
     huomioitava, että pää- ja varavarjo sisältävät connectorilenkit,
     kantopunokset, sliderin ja itse varjon. Reppu-valjasyhdistelmään
-    kuuluvat apuvarjo yhdyspunoksineen, kantohihnat sekä päävarjon ja
-    varavarjon sisäpussi.
+    kuuluvat apuvarjo yhdyspunoksineen, ohjauslenkit, kantohihnat sekä päävarjon ja
+    varavarjon sisäpussit.
 
 Käytettyä tai uutta varjokokonaisuutta ostettaessa on harkittava
 tarkkaan, mitkä ovat omat lajimieltymykset ja mikä on todellinen
@@ -74,24 +74,24 @@ kulumiset ovat näkyvimpiä ja yleisimpiä käytöstä johtuvia kulumisen
 kohteita. Varjokokonaisuuden kulumiseen vaikuttavia asioita ja
 seurattavia kohteita:
 - Punokset kuluvat nopeasti kuluneiden sliderin renkaiden takia.
-    Punossetti kestää yleensä 500–700 hyppyä. Punosten epätasainen
-    kutistuminen aiheutuu sliderin tuottamasta kitkalämmöstä ja
-    huonontaa varjon lento- ja avautumisominaisuuksia.
+  Punossetti kestää yleensä 300–500 hyppyä. Punosten epätasainen
+  kutistuminen aiheutuu sliderin tuottamasta kitkalämmöstä ja
+  huonontaa varjon lento- ja avautumisominaisuuksia.
 - Avausjärjestelmään sekä kupuun tulee palamisreikiä huolimattoman
-    pakkauksen vuoksi. Valmistajan ohjeiden mukainen pakkaus
-    säästää kupua.
+  pakkauksen vuoksi. Valmistajan ohjeiden mukainen pakkaus
+  säästää kupua.
 - Ompeleet ja varjokangas kuluvat lian ja roskien vaikutuksesta.
 - Valjaiden kulumista ja likaantumista lisää ilman
-    pakkausalustaa pakkaaminen.
+  pakkausalustaa pakkaaminen.
 - Kuluvia osia, kuten ohjauspunosten alapäitä, paineentasausaukkojen
-    reunoja, avausjärjestelmän osia, sliderin renkaita sekä mahdollisia
-    tarroja on tarkkailtava ja niiden vaihdattaminen tai korjauttaminen
-    kannattaa suorittaa ajoissa muiden osien säilymiseksi.
+  reunoja, avausjärjestelmän osia, sliderin renkaita sekä mahdollisia
+  tarroja on tarkkailtava ja niiden vaihdattaminen tai korjauttaminen
+  kannattaa suorittaa ajoissa muiden osien säilymiseksi.
 
 Määräaikaistarkastusten yhteydessä suoritettavat korjaukset ja osien
 vaihdot voivat tuntua kalliilta, mutta ne takaavat varjokokonaisuuden
 toimivuuden ja hyppyturvallisuuden. Korjaukset ja vaihdot saa suorittaa
-vain kalustomestari B tai C pätevyytensä mukaisesti.
+kalustomestari A, B tai C pätevyytensä mukaisesti.
 
 ## Huolto  
 
@@ -99,29 +99,27 @@ vain kalustomestari B tai C pätevyytensä mukaisesti.
 Päivittäiseen kalustohuoltoon kuuluu
 - kierteiden poisto ohjauspunoksista ja yhdyspunoksesta
 - päävarjon luupin kunnon ja pituuden tarkastus ja tarvittaessa vaihto
-    uuteen
+  uuteen
 - irtohiekan ja muun mahdollisen lian poistaminen päävarjosta
-    ravistamalla takahelmasta
+  ravistamalla takahelmasta
 - sisäpussin kuminauhojen vaihtaminen ehjiin ja valjaskuminauhojen
-    kunnon tarkastaminen
+  kunnon tarkastaminen
 - repun ja valjaiden puhdistus irtoliasta tarvittaessa esimerkiksi
-    juuriharjalla
+  juuriharjalla
 - varusteiden kuivaus tarvittaessa sekä oikea säilytys suojassa
-    valolta, lialta ja kosteudelta.
+  valolta, lialta ja kosteudelta.
 
 Varusteiden huollossa ja säilyttämisessä on huomioitava myös seuraavat
 seikat:
 - Kuvun ja valjaiden pesua kannattaa välttää. Pakottavissa tilanteissa
-    pesu on mahdollinen, mutta asiassa kannattaa kääntyä kalustohenkilön
-    puoleen turvallisen pesutavan selvittämiseksi.
+  pesu on mahdollinen, mutta asiassa kannattaa kääntyä kalustohenkilön
+  puoleen turvallisen pesutavan selvittämiseksi.
 - Ei säilytetä varjoa auton takakontissa ilman varjokassia.
 - Luupin on oltava ehjä ja oikean pituinen.
 - Kerhon säilytystilat on pidettävä kuivina, eikä niissä saa säilyttää
-    mitään syövyttäviä tai paloarkoja aineita.
+  mitään syövyttäviä tai paloarkoja aineita.
 - Varjoa säilytetään talven yli kotona kuivassa ja pimeässä paikassa.
-    Kuiva varjo voi olla sisäpussissaan, mutta varavarjon jousiapuvarjo
-    on hyvä vapauttaa, mikäli säilytys on pitempiaikaista.
-
+   
 Kun kalusto on kunnossa, voidaan hypätä turvallisesti. Kalusto
 huolletaan itse päivittäin ja toimitetaan kalustohenkilölle heti, jos
 siinä epäillään vähäistäkin kulumista tai vikaa. Tarkastamattomalla ja
