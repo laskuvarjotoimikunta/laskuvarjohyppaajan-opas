@@ -312,6 +312,11 @@ tasossa, freeflyssa lennetään kolmiulotteisesti. Nimensä mukaisesti kyse
 on vapaasta lentämisestä, joten vain mielikuvitus on rajana hyppyjä
 suunniteltaessa.
 
+Kilpailuissa freeflying hypätään kolmen hengen joukkueilla, joissa yksi
+hyppääjä kuvaa kahden muun suorituksia osallistuen samalla myös itse
+suorituksiin. Hypyllä hyppääjät ottavat erilaisia otteita toisistaan ja
+lentelevät erilaisia kuvioita toisiinsa nähden.
+
 ### Freestyle  
 
 
@@ -326,11 +331,6 @@ toinen hyppääjä kuvaa freestylehyppääjän suorituksen. Suorituksessa
 arvosteltavia ominaisuuksia ovat ohjelman taiteellisuus, vaikeusaste,
 liikkeiden puhtaus ja kuvaajan työskentely. Kilpailuhypyt hypätään 4000
 metrin korkeudesta ja työskentelyaika on 45 sekuntia.
-
-Kilpailuissa freefly:ta hypätään kolmen hengen joukkueilla, joissa yksi
-hyppääjä kuvaa kahden muun suorituksia osallistuen samalla myös itse
-suorituksiin. Hypyllä hyppääjät ottavat erilaisia otteita toisistaan ja
-lentelevät erilaisia kuvioita toisiinsa nähden.
 
 ### Kupukuviohyppääminen  
 
