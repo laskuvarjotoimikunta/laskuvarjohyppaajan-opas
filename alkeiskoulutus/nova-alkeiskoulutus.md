@@ -19,7 +19,7 @@ annettava uudelleen.
 ----------------------------
 
 Ulos hypätessä taivuta lantiosta, siirrä kädet ja jalat oikeaan asentoon
-ja pidä katse koneessa niin kauan kuin mahdollista. Pyri rentoutumaan
+ja pidä katse ylhäällä niin kauan kuin mahdollista. Pyri rentoutumaan
 puhaltamalla ulos hengittäessä suun kautta ja pidä leuka ylhäällä.
 Kuvittele puskevasi lantiota ilman halki.
 
@@ -29,7 +29,7 @@ Laskettuasi 105:een aloita ja suorita omatoimisesti tarkkailukehä:
 
 1.  MAA
 
-    -   Siirrä katseesi 45° kulmassa alaspäin ja valitse jokin iso ja
+    -   Siirrä katseesi horisonttiin. Valitse jokin iso ja
         helposti löydettävä kiintopiste
 
 2.  MITTARI
@@ -68,14 +68,13 @@ toimenpiteet ääneen.
 
 2.  TARTU
 
-    -   Pidä katse ylhäällä. Siirrä vasen käsi pääsi yläpuolelle siten,
-        että peukalo koskettaa päätäsi (otsaa) kämmenen ollessa auki.
-        Siirrä oikea kätesi päävarjon avauskahvalle kämmen auki. Käsien
+    -   Pidä katse ylhäällä. Siirrä vasen käsi otsan korkeudelle,
+        niin että näet peukalosi. Siirrä oikea kätesi päävarjon avauskahvalle kämmen auki. Käsien
         liikkeiden on tapahduttava symmetrisesti, samalla tasolla
         ja yhdenaikaisesti. Vain kädet liikkuvat. Pään tai muun vartalon
         asento ei muutu.
 
-    -   Kosketa kahvaa ja paina mieleesi kahvan paikka. On tärkeää
+    -   Kosketa kahvaa kämmenellä ja paina mieleesi kahvan paikka. On tärkeää
         tuntea selvästi, missä se on.
 
 3.  VEDÄ
@@ -133,9 +132,8 @@ huomattavasti oppimistasi.
     -   a\. TAIVUTA taivutus säilyy. Katse eteenpäin leuka ylhäällä.
 
     -   b\. TARTU säilytä taivutus, kun siirrät samanaikaisesti oikean käden
-        kämmen auki päävarjon avauskahvalle ja siirrä vasen käsi pääsi
-        yläpuolelle siten, että peukalo koskettaa päätäsi (otsaa)
-        kämmen avattuna. Paina tarkasti mieleesi kahvan paikka. Molemmat kädet
+        kämmen auki päävarjon avauskahvalle ja vasemman käden otsan korkeudelle,
+        niin että näet peukalosi. Paina tarkasti mieleesi kahvan paikka. Molemmat kädet
         pysyvät samassa tasossa. Vain kädet liikkuvat, ei pää eikä muu
         vartalon osa. Katse eteenpäin leuka ylhäällä.
 
@@ -164,7 +162,7 @@ oppimistavoitteisiin tarkasti HM:n kanssa.
 
 2.  Korkeuden tarkkailu
 
-3.  Avausmerkki 1600 m (±300m) ja avaus
+3.  Avaustoimenpiteet 1600 m (±300m) ja avaus
 
 ###  Hyppylennolla  
 - Katso laskeutumisalue ja oikea laskeutumissuunta yli 600
@@ -179,7 +177,7 @@ oppimistavoitteisiin tarkasti HM:n kanssa.
                     3 Harjoitusvetoa
                     Tarkkailukehä
                     MAA - MITTARI
-  **1600 m**        Avausmerkki ja avaus
+  **1600 m**        Avaustoimenpiteet ja avaus
 
 
 
@@ -197,7 +195,7 @@ päästäkseen seuraavalle tasolle.
 2.  Harjoittele stabiilia asentoa esim. rullalaudoilla.
 
 3.  Harjoittele kaikkia vapaassa tehtäviä liikkeitä kuten
-    aikaisemmilla tunneilla.
+    aikaisemmilla kerroilla.
 
 4.  Harjoittele harjoitusvetoa kuten oikeaa avausta.
 
@@ -207,6 +205,8 @@ päästäkseen seuraavalle tasolle.
 
 7.  Osallistu itse aikaisempaa enemmän varusteiden tarkistukseen
     ja sovittamiseen.
+  
+8.  Itsenäisempi, turvallinen varjon ohjailu  
 
 ###  Oppimistavoitteet  
 
@@ -215,9 +215,7 @@ päästäkseen seuraavalle tasolle.
 2.  Stabiilin vapaapudotusasennon säilyttäminen koko hypyn ajan,
     sisältäen jalkojen hallinnan
 
-3.  Avausmerkki 1600 m (±150 m) ja itsenäinen avaus
-
-4.  Itsenäisempi, turvallinen varjon ohjailu
+3.  Avaustoimenpiteet 1600 m (±300m) ja itsenäinen avaus
 
 ###  Hyppylennolla  
 
@@ -241,7 +239,7 @@ päästäkseen seuraavalle tasolle.
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
                     90° oikea
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1600 m**        Avausmerkki ja avaus
+  **1600 m**        Avaustoimenpiteet ja avaus
 
 
 
@@ -265,10 +263,10 @@ JALAT, RENTOUTA) ja tason mukaisessa korkeudessa tee avausmerkki ja avaa
 päävarjo normaalisti. Älä tee muita suorituksia.
 
 Jos et avauksessa löydä päävarjon kahvaa, yritä toisen kerran, mutta jos
-et **heti** löydä kahvaa, tee varavarjotoimenpiteet.
+et löydä kahvaa, tee varavarjotoimenpiteet.
 
 Jos et avauksessa jaksa vetää päävarjon kahvasta (tiukka kahva), yritä
-toisen kerran, mutta jos et silloinkaan **heti** saa varjoa auki, tee
+toisen kerran, mutta jos et silloinkaan saa varjoa auki, tee
 varavarjotoimenpiteet.
 
 ###  Oppilaan toiminta.  
@@ -296,7 +294,7 @@ varavarjotoimenpiteet.
 
 3.  Tarkoituksettomien käännösten pysäyttäminen
 
-4.  Avausmerkki 1600 m (±150m), stabiili itsenäinen avustamaton avaus
+4.  Avaustoimenpiteet 1600 m (±150m), stabiili itsenäinen avustamaton avaus
     ilman NHM:n otetta oppilaasta
 
 5.  Itsenäinen, turvallinen varjon ohjailu
@@ -325,7 +323,7 @@ varavarjotoimenpiteet.
                     Harjoitusvetoja kunnes OK
                     Stabiili itsenäinen vapaapudotus
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1600 m**        Avausmerkki ja avaus
+  **1600 m**        Avaustoimenpiteet ja avaus
 
 
 
@@ -360,7 +358,7 @@ päästäkseen seuraavalle tasolle.
 
 4.  Vähintään kaksi hallittua 90° käännöstä (±20°)
 
-5.  Avausmerkki 1500 m (±150 m), stabiili itsenäinen avustamaton avaus
+5.  Avaustoimenpiteet 1500 m (±150 m), stabiili itsenäinen avustamaton avaus
 
 ###  Hyppylennolla  
 
@@ -389,7 +387,7 @@ päästäkseen seuraavalle tasolle.
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
   **2000 m**        Ei käännöksiä
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1500 m**        Avausmerkki ja avaus
+  **1500 m**        Avaustoimenpiteet ja avaus
 
 
 
@@ -418,7 +416,7 @@ päästäkseen seuraavalle tasolle.
 
 2.  Yhä stabiilimpi vapaapudotus
 
-3.  Avausmerkki 1500 m (±150 m), stabiili suunnassa pysyvä itsenäinen
+3.  Avaustoimenpiteet 1500 m (±150 m), stabiili suunnassa pysyvä itsenäinen
     avustamaton avaus
 
 4.  Tee varjon varassa 90° käännöksiä takimmaisista kantohihnoista
@@ -450,7 +448,7 @@ päästäkseen seuraavalle tasolle.
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
   **2000 m**        Ei käännöksiä
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1500 m**        Avausmerkki ja avaus
+  **1500 m**        Avaustoimenpiteet ja avaus
 
 
 
@@ -470,19 +468,15 @@ päästäkseen seuraavalle tasolle.
 
 3.  Harjoittele takavoltin tekniikkaa ja stabiloimista.
 
-4.  Delta-asento ja liukuminen.
-
 ###  Oppimistavoitteet  
 
 1.  Itsenäinen, avustamaton uloshyppy
 
 2.  Asennon stabilointi epästabiilista viidessä sekunnissa
 
-3.  Liuku (suunta säilyttäen)
+3.  Avaustoimenpiteet 1400 m (±150 m) ja avaus
 
-4.  Avausmerkki 1300 m (±150 m) ja avaus
-
-5.  Oikeaoppiset lähestymis- ja laskeutumiskuviot
+4.  Oikeaoppiset lähestymis- ja laskeutumiskuviot
 
 ###  Hyppylennolla  
 
@@ -509,9 +503,9 @@ päästäkseen seuraavalle tasolle.
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
                     Takavoltti
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **Yli 2000 m**    Lentokentän paikallistaminen ja liuku
+  **2000 m**        Lentokentän paikallistaminen ja keskittyminen avaustoimenpiteisiin
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1300 m**        Avausmerkki ja avaus
+  **1400 m**        Avaustoimenpiteet ja avaus
 
 
 
@@ -531,8 +525,6 @@ avaus, sekä ohjaaminen.
 
 2.  Harjoittele etuvoltin tekniikkaa.
 
-3.  Harjoittele vaakasuunnassa liikkuvaa liukua.
-
 ###  Oppimistavoitteet  
 
 1.  Tarkista ilmatila, pilvet, huomioi exit-väli
@@ -541,7 +533,7 @@ avaus, sekä ohjaaminen.
 
 3.  Asennon stabilointi suoritusten aikana viidessä sekunnissa
 
-4.  Avausmerkki 1300 m (±150 m) ja avaus
+4.  Avaustoimenpiteet 1400 m (±150 m) ja avaus
 
 5.  Turvallinen varjon käsittely
 
@@ -568,13 +560,13 @@ avaus, sekä ohjaaminen.
                     Takavoltti
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
                     360° Vasen / Oikea
-  **Yli 2000 m**    Liuku
+  **2000 m**        Lentokentän paikallistaminen ja keskittyminen avaustoimenpiteisiin
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1300 m**        Avausmerkki ja avaus
+  **1400 m**        Avaustoimenpiteet ja avaus
 
 
 
- 15” - Lyhyt vapaa  
+ Taso 8 - 15” lyhyt vapaa  
 -------------------
 
 Yksi novahyppymestari koneessa.
@@ -590,19 +582,19 @@ stabiili avaus.
 
 ###  Oppimistavoitteet  
 
-1.  Tarkista ilmatila, pilvet ja huomioi exit-väli
+1.  Tarkista uloshyppypaikka, ilmatila, pilvet ja huomioi exit-väli
 
 2.  Suora uloshyppy
 
 3.  15” vapaapudotus koko ajan korkeutta tarkkaillen
 
-4.  Avausmerkki 1200 m ja avaus
+4.  Avaustoimenpiteet 1400 m ja avaus
 
 ###  Hyppylennolla  
 
 1.  Tarkista omat varusteesi
 
-2.  Tarkista ilmatila, pilvet ja huomioi exit-väli
+2.  Tarkista uloshyppypaikka, ilmatila, pilvet ja huomioi exit-väli
 
 ###  Ohjailu ja laskeutuminen  
 
@@ -616,4 +608,4 @@ stabiili avaus.
   **1800-2500 m**   Suora uloshyppy
   ----------------- ----------------------
                     Mittari
-  **1200 m**        Avausmerkki ja avaus
+  **1400 m**        Avausmerkki ja avaus
