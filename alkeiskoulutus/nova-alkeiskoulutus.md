@@ -132,8 +132,8 @@ huomattavasti oppimistasi.
     -   a\. TAIVUTA taivutus säilyy. Katse eteenpäin leuka ylhäällä.
 
     -   b\. TARTU säilytä taivutus, kun siirrät samanaikaisesti oikean käden
-        kämmen auki päävarjon avauskahvalle ja vasemman käden otsan korkeudelle,
-        niin että näet peukalosi. Paina tarkasti mieleesi kahvan paikka. Molemmat kädet
+        kämmen auki päävarjon avauskahvalle ja vasemman käden otsan korkeudelle
+        niin, että näet peukalosi. Paina tarkasti mieleesi kahvan paikka. Molemmat kädet
         pysyvät samassa tasossa. Vain kädet liikkuvat, ei pää eikä muu
         vartalon osa. Katse eteenpäin leuka ylhäällä.
 
