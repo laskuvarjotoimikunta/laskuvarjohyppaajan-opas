@@ -1,4 +1,4 @@
-PL-Alkeiskoulutuksen suoritukset
+PL-alkeiskoulutuksen suoritukset
 ================================
 
  Pakkolaukaisu  
@@ -43,13 +43,13 @@ hyppymestarin johdolla.
 Oppilaan on saavutettava välttämättömät oppimistavoitteet hyväksytysti
 jotta hyppysuoritus voidaan hyväksyä.
 
-1.  Rintamasuunta kohti suhteellista ilmavirtaa uloshypyssä
+1.  Rintamasuunta kohti suhteellista ilmavirtaa uloshypyssä.
 
-2.  Stabiili, symmetrinen uloshyppyasento
+2.  Stabiili, symmetrinen uloshyppyasento.
 
-3.  Ajankulun arvioiminen laskemalla (3. hyppy)
+3.  Ajankulun arvioiminen laskemalla (3. hyppy).
 
-4.  Hyppymestarin tai koneen näkeminen (3. hyppy)
+4.  Hyppymestarin tai koneen näkeminen (3. hyppy).
 
 ###  Hyppylennolla  
 
