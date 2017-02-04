@@ -67,6 +67,8 @@ Lentosääsanomia saadaan mm. seuraavasti:
 METAR-sanoma on ilmaliikenteen käyttöön tarkoitettu sääsanoma, joka laaditaan lentopaikan sääasemalla. Metar kertoo lentoasemalla vallitsevan säätilan. Metareita laaditaan pääsääntöisesti kaikilla
 lentopaikoilla, joille on säännöllistä liikennettä. Suomessa Metar luodaan näiltä lentoasemilta 30 minuutin välein, 20 minuuttia ja 50 minuuttia yli jokaisen tunnin.
 
+![**X.X:** Nämä pyöristetyt muunnoksen tulee osata hyppytoiminnassa. 1 jalka = 0,3048 m.](/kuvat/Metrit-jaloiksi-taulukko.png)
+
 ```
 EFTU 231250Z 27006KT 9999 SCT055 FEW080 08/04 Q1015
 ```
