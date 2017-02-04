@@ -566,9 +566,9 @@ Kun korkeutta on 2-3 metriä, tee loppuveto painamalla ohjauslenkit
 terävästi täysjarrutustilaan ja paina leuka kiinni rintaasi. Ensimmäisillä kolmella hypyllä sinulla on
 radio, josta kuulet ohjeita esimerkiksi seuraavasti:
 
--    1. hyppy - ohjeita ohjailuun ja laskeutuminen ohjatusti.
--    2. hyppy - ohjeet tarvittaessa ja laskeutuminen ohjatusti.
--    3. hyppy - ohjeet vain tarvittaessa.
+1. hyppy - ohjeita ohjailuun ja laskeutuminen ohjatusti.
+2. hyppy - ohjeet tarvittaessa ja laskeutuminen ohjatusti.
+3. hyppy - ohjeet vain tarvittaessa.
 
 Kun olet noin puiden latvojen tasolla, maa näyttää hyökkäävän silmille.
 Älä säikähdä, vaan keskity oikeaan alastuloasentoon ja loppuvedon
