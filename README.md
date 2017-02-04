@@ -11,7 +11,7 @@ Ilmailuliiton ohjeet, jotka lajin harrastajat ovat kehittäneet vuosikymmenten s
 Yleensä ongelmat johtuvat hyppääjän tekemistä virheistä. Laskuvarjohyppääjän koulutusohjelma on osa Suomen Ilmailuliitto ry:n (SIL) valvomaa ja hyväksymää koulutustoimintaa, joka on samanlaisena käytössä koko maassa. Kaikki kouluttajat
 ovat hyppymestareita, vapaapudotuskouluttajia tai muuten kokeneita hyppääjiä. 
 
-Suurin osa laskuvarjoharrastustoiminnasta, mukaan lukien koulutus, tapahtuu kerhoissa ympäri maata. Suomessa on myös kaupallisia yrityksiä,jotka toimivat lajin parissa.
+Suurin osa laskuvarjoharrastustoiminnasta, mukaan lukien koulutus, tapahtuu kerhoissa ympäri maata. Suomessa on myös kaupallisia yrityksiä, jotka toimivat lajin parissa.
 
 Kurssin aikana käydään läpi kaikki hypyn vaiheet, jotta pystyisit suoriutumaan niistä itsenäisesti ja ennen kaikkea turvallisesti, unohtamatta
 hauskuutta. Kaikki kurssilla käsiteltävät asiat on osattava, jotta hyppy onnistuisi. 
@@ -31,22 +31,21 @@ Olet voinut jo pitkään haaveilla laskuvarjohyppäämisestä tai saada idean va
 Vuonna 1919 perustettu Suomen Ilmailuliitto ry (SIL) on eri harrasteilmailulajeja edustavien ilmailukerhojen keskusjärjestö. Ilmailuliitossa on yli 200 (2016) jäsenkerhoa, joista pääasiassa laskuvarjohyppäämistä harrastavia kerhoja on 14.
 
 Organisaatio, joka antaa koulusta, on sitoutunut noudattamaan Ilmailuliiton hyväksymiä ohjeita. Suomen Ilmailuliitossa laskuvarjourheilua koskevien
-asioiden asiantuntijaelin on luottamushenkilöistä koostuva Laskuvarjotoimikunta,
+asioiden asiantuntijaelin on luottamushenkilöistä koostuva Laskuvarjotoimikunta.
 
 Laskuvarjotoimikunta hoitaa kalustoon, kilpailuasioihin, hyppyturvallisuuteen
-ja -koulutukseen liittyviä asioita.Laskuvarjotoimikunta koostuu rivihyppääjistä, jotka haluavat edistää harrastusta ja sen tarpeita Suomessa. Käytännön
+ja -koulutukseen liittyviä asioita. Laskuvarjotoimikunta koostuu rivihyppääjistä, jotka haluavat edistää harrastusta ja sen tarpeita Suomessa. Käytännön
 toimintaa koordinoi liiton toimisto Helsinki-Malmin lentoasemalla.
 
-Ilmailu on ilmailuviranomaisen valvomaa toimintaa. Suomen Ilmailuliitto antaa jäsenilleen omia ohjeistuksia ja toimii etujärjestönä viranomaisiin
-päin muun muassa
+Ilmailu on ilmailuviranomaisen valvomaa toimintaa. Suomen Ilmailuliitto antaa jäsenilleen omia ohjeistuksia ja toimii etujärjestönä viranomaisiin päin muun muassa
 
-* Avustamalla asiantuntijana Trafia laskuvarjohyppytoiminnassa
-* Laatimalla laskuvarjourheilua koskevat koulutusohjelmat ja tiedottamalla niistä jäsenistölleen
-* Valvomalla jäsenorganisaatioiden koulutustoimintaa
-* Laatimalla laskuvarjohyppytoimintatilastoja
-* Kokoamalla ja analysoimalla onnettomuus- ja vaaratilanneselvityksiä
-* Myöntämällä SIL-laskuvarjohyppylisenssit
-* Osallistumalla laskuvarjourheilua koskevien määräysten ja ohjeiden valmisteluun
+* Avustamalla asiantuntijana Trafia laskuvarjohyppytoiminnassa.
+* Laatimalla laskuvarjourheilua koskevat koulutusohjelmat ja tiedottamalla niistä jäsenistölleen.
+* Valvomalla jäsenorganisaatioiden koulutustoimintaa.
+* Laatimalla laskuvarjohyppytoimintatilastoja.
+* Kokoamalla ja analysoimalla onnettomuus- ja vaaratilanneselvityksiä.
+* Myöntämällä SIL-laskuvarjohyppylisenssit.
+* Osallistumalla laskuvarjourheilua koskevien määräysten ja ohjeiden valmisteluun.
 
 Ilmailu-lehteä Ilmailuliitto on julkaissut jo vuodesta 1938 alkaen. Lehti ilmestyy 8 kertaa vuodessa ja käsittelee Ilmailuliiton omien harrastealojen lisäksi liikenne- ja sotilasilmailua sekä lentoturvallisuuteen liittyviä aiheita.
 
@@ -56,7 +55,7 @@ SIL:n kotisivuilta osoitteesta [www.ilmailu.fi](http://www.ilmailu.fi) saat halu
 Vuosittain laskuvarjohyppäämisessä sattuu jonkin verran loukkaantumisia. Tyypillinen
 vamma on nilkan nyrjähtäminen tai murtuminen huonosti suoritetussa alastulossa. 
 
-Suomessa on sattunut vuodesta 1962 lähtien 27 kuolemaan johtanutta onnettomuutta    (2016). Kokonaishyppymäärä vuodesta 1962 vuoteen 2016 on noin 1 790 000 hyppyä. Vuosittain Suomessa hypätään n. 45 000 hyppyä.
+Suomessa on sattunut vuodesta 1962 lähtien 27 kuolemaan johtanutta onnettomuutta (2016). Kokonaishyppymäärä vuodesta 1962 vuoden 2016 loppuun mennessä on noin 1 780 000 hyppyä. Vuosittain Suomessa hypätään n. 45 000 hyppyä.
 
 Laskuvarjohyppääjä hyppää aina omalla vastuullaan. Kerholla on kolmannelle osapuolelle aiheutetun vahingon korvaava vastuuvakuutus, joka korvaa vain, jos kerho on syyllistynyt virheeseen. Jos oppilas toimii virheellisesti ja aiheuttaa vahinkoa itselleen tai jollekin muulle, hänen on itse vastattava vahingoista. Liittymällä Suomen Ilmailuliittoon saat vakuutuksen, joka sisältää kolmannen osapuolen vastuuvakuutuksen sekä tapaturmavakuutuksen.
 
@@ -79,7 +78,7 @@ Kurssilla täytetään laskuvarjohyppääjän terveydentilavakuutus. 60 vuotta t
 Alkeiskurssi antaa valmiudet suorittaa turvallisesti ensimmäisen laskuvarjohypyn sekä pohjan perus- ja jatkokoulutukselle. Tiivis koulutusohjelma vaatii sinulta aktiivisuutta sekä opetettujen asioiden kertaamista. Kuuntele, kysy
 ja selvitä. 
 
-Ensimmäisen hyppysi suoritat joko pakkolaukaisuhyppynä 1000 metristä tai novakoulutuksessa itseaukaisuhyppynä 2700-4000 metrin korkeudesta. Sitä ennen sinun tulee suorittaa kirjallinen koe sekä käytännön kokeet uloshypystä, maahantulokierähdyksestä ja varavarjon käytöstä. Tämän jälkeen olet valmis suorittamaan laskuvarjohyppyjä hyppymestarin valvonnassa. 
+Ensimmäisen hyppysi suoritat joko pakkolaukaisuhyppynä 1000 metristä tai novakoulutuksessa itseaukaisuhyppynä 2700 - 4000 metrin korkeudesta. Sitä ennen sinun tulee suorittaa kirjallinen koe sekä käytännön kokeet uloshypystä, maahantulokierähdyksestä ja varavarjon käytöstä. Tämän jälkeen olet valmis suorittamaan laskuvarjohyppyjä hyppymestarin valvonnassa. 
 
 Hyppymestari valvoo ja arvioi kaikki suorituksesi sekä tekee niistä merkinnän hyppypäiväkirjaasi joko hyväksyen tai hyläten suorituksesi. Jälkimmäinen vaihtoehto merkitsee uutta yritystä ennen eteenpäin pääsyä. Aina ennen uutta suoritusta sinun tulee saada koulutus hyppymestarilta. Tässä oppaassa on materiaali, jota tulet käyttämään kaikissa kolmessa koulutusvaiheessa.
 
@@ -88,7 +87,7 @@ Alkeiskoulutuksen tavoitteena on oppia toimimaan lentokoneessa, suorittaa uloshy
 
 ### Peruskoulutus
 
-Peruskoulutuksen tavoitteena on oppia stabiili vapaapudotus yhdessä erilaisten liikkeiden ja liikesarjojen kanssa. Ohjelmassa on käännöksiä, voltteja ja selällään lentämistä. Tämän jälkeen teet teoria- sekä varusteiden tarkastuskokeen. Lisäksi kertaat vaaratilanteet ja varavarjotoimenpiteet, jonka jälkeen siirryt jatkokoulutukseen.
+Peruskoulutuksen tavoitteena on oppia stabiili vapaapudotus yhdessä erilaisten liikkeiden ja liikesarjojen kanssa. Ohjelmassa on käännöksiä, voltteja ja selällään lentämistä. Tämän jälkeen teet teoria- sekä varusteiden tarkastuskokeen. Lisäksi kertaat vaaratilanteet ja varavarjotoimenpiteet, jonka jälkeen siirryt jatkokoulutukseen. Hyppymestarin lisäksi sinua voi nyt kouluttaa myös vapaapudotuskouluttaja (VPK).
 
 ### Jatkokoulutus
 
@@ -102,4 +101,4 @@ Koko oppilasaika päättyy kokeiden lisäksi koehyppyyn, jossa osoitat osaavasi 
 
 Itsenäisen hyppääjän kelpoisuuden saamisen jälkeen voit hakea A-lisenssiä Suomen Ilmailuliitosta.
 
-A-lisenssihyppääjällä on oikeus Ilmailulain, Ilmailumääräysten, SIL:n ohjeiden ja kerhon määräyksien rajoissa itsenäiseen hyppytoimintaan. Lisäksi SIL:n myöntämä lisenssi helpottaa hyppäämistä ulkomailla.
+A-lisenssihyppääjällä on oikeus Ilmailulain, ilmailumääräysten, SIL:n ohjeiden ja kerhon määräyksien rajoissa itsenäiseen hyppytoimintaan. Lisäksi SIL:n myöntämä lisenssi helpottaa hyppäämistä ulkomailla.
