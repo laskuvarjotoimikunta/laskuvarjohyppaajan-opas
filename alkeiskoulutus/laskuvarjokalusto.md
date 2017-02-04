@@ -33,7 +33,7 @@ tarvittaessa on tehtävä maahantulokierähdys.
 
 ![1. Varjon pystyhihnojen säätösoljet 2. Päävarjon irtipäästöpampula 3. Varavarjon avauskahva 4. Rintahihna 5. Varavarjon pakkolaukaisuhihna 6. Koukkupuukko (sijainti voi vaihdella) 7. Kolmirengasolkalukot 8. Automaattilaukaisimen käyttöyksikkö](/kuvat/Osat_wings_2016.png)
 
-![10. Päävarjon apuvarjo 11. Päävarjon reppu 12. Varavarjon reppu 13. Päävarjon läppä 14. Päävarjon avauskahva hyppymestarille (NOVA-kahva)](/kuvat/Novarepputakaa_2016.png)
+![10. Päävarjon avauskahva 11. Päävarjon reppu 12. Varavarjon reppu 13. Päävarjon läppä 14. Päävarjon avauskahva hyppymestarille (NOVA-kahva)](/kuvat/Novarepputakaa_2016.png)
 
 ![10. PL-hihna 11. Päävarjon reppu 12. Varavarjon reppu 13. Päävarjon läppä](/kuvat/PLrepputakaa_2016.png)
 
@@ -115,12 +115,12 @@ pakkaustarkistuksista pidetään kirjaa. Varavarjon saa pakata vain siihen
 koulutuksen saanut henkilö. Varusteet palautetaan aina hypyn jälkeen
 omille paikoilleen.
 
-## 3X3 -tarkastus  
+## 3 x 3 -tarkastus  
 
 
 Peruskoulutusvaiheessa oppilaalle opetetaan varusteiden perusteellinen
 tarkastus, mutta itseaukaisuvaiheessa varjon perustarkastus voidaan
-tiivistää 3X3 -tarkastukseen (kolme kolmea -tarkastus):
+tiivistää 3 x 3 -tarkastukseen (kolme kolmea -tarkastus):
 
 1.  Tarkastetaan, että solkia on kiinni kolme:
     -   Vasemman jalkahihnan solki
@@ -130,4 +130,4 @@ tiivistää 3X3 -tarkastukseen (kolme kolmea -tarkastus):
     -   Päävarjon avauskahva
     -   Päävarjon irtipäästöpampula
     -   Varavarjon avauskahva
-3.  Tarkastetaan, että kolmirengaslukot ovat kiinni ja oikein.
+3.  Tarkastetaan, että kolmirengaslukot ja RSL ovat kiinni ja oikein.
