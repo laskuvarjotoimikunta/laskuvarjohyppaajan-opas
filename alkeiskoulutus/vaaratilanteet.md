@@ -14,7 +14,7 @@ varjon avautuminen sekä ilmoitetaan asiasta hyppymestarille.
 Koneen lentäessä ovi auki on mahdollista, että reppu aukeaa ja varjo
 joutuu ilmavirtaan. Jos varjo purkautuu koneen sisällä ja ilmavirta
 tarttuu siihen, varjo voi vetää hyppääjän ulos. Tällaisessa tilanteessa
-sekä lentokone että hyppääjä voivat vahingoittua.
+sekä lentokone että hyppääjä todennäköisesti vaurioituvat.
 
 Jos reppusi aukeaa ovella ja varjo karkaa ovesta ulos, hyppää ulos
 asennosta välittämättä. Tällaisessa tapauksessa hyppymestari auttaa
@@ -36,9 +36,8 @@ kerho/konekohtainen.
 
 Hyppytoiminnassa lennetään yleensä niin lähellä kenttää, että hyppykone
 pystyy liitämään takaisin esimerkiksi moottorihäiriön sattuessa. Tällöin
-hyppymestari ilmoittaa asiasta komennolla PAKKOLASKU!
-Automaattilaukaisin käännetään tällöin OFF-asentoon ja toimitaan
-ohjeiden mukaan. Toiminta koneessa pakkolaskussa on kerho/konekohtainen.
+hyppymestari ilmoittaa asiasta komennolla PAKKOLASKU!. Tällöin toimitaan
+hyppymestareiden ohjeiden mukaan. Toiminta koneessa pakkolaskussa on kerho/konekohtainen.
 
 Kun kone on maassa ja pysähtynyt, on tulipalovaaran takia poistuttava
 nopeasti. Loukkaantuneita autetaan mahdollisuuksien mukaan. Hätähypyssä
@@ -51,8 +50,8 @@ hyppymestarilta. Tärkeintä on toimia rauhallisesti käskyjen mukaan.
 
 Jos jäät roikkumaan koneeseen päävarjostasi, huomaat sen siitä, että
 roikut olkalukoista päävarjon kantohihnojen välityksellä. Yritä ottaa
-taivutettu asento jotta et pyöri ja voit varmistaa mistä olet kiinni.
-Varmistu, että olet hinauksessa vain olkalukkojen välityksellä jonka
+taivutettu asento, jotta et pyöri ja voit varmistaa mistä olet kiinni.
+Varmistu, että olet hinauksessa vain olkalukkojen välityksellä, jonka
 jälkeen tee varavarjotoimenpiteet. (\[paavarjon-vajaatoiminnot-varavarjon-kaytto\] s.)
 
 Jos roikut koneesta PL-hihnan varassa, ota rauhallisesti. ODOTA, että 
@@ -122,7 +121,7 @@ alastulossa ja valmistaudu kovaan alastuloon.
 
 **Älä päästä päävarjoa irti!**
 
-to do: ![image](/kuvat/2-kupua-biplane.jpeg)
+![Varjot peräkkäin](/kuvat/2-kupua-biplane.jpeg)
 
 ###  Varjot vierekkäin (side-by-side)  
 
@@ -132,7 +131,7 @@ ohjausliikkeillä takimmaisista kantohihnoista. Älä avaa puolijarruja.
 
 **Älä päästä päävarjoa irti!**
 
-to do: ![image](/kuvat/2-kupua-sidebyside.jpeg)
+![Varjot vierekkäin](/kuvat/2-kupua-sidebyside.jpeg)
 
 ###  Varjot sivuilla, vajoavat nopeasti (downplane)  
 
@@ -141,7 +140,7 @@ vierekkäin -muodostelmaan.
 
 **Päästä päävarjo irti!**
 
-![image](/kuvat/2-kupua-downplane.jpeg)
+![Varjot sivuilla](/kuvat/2-kupua-downplane.jpeg)
 
  Törmääminen varjon varassa  
 ----------------------------
@@ -158,10 +157,10 @@ törmäämistä, minimoi törmäysvauhti jarruttamalla voimakkaasti sekä
 käperry *palloksi.* Varoita toista hyppääjää huutamalla.
 
 Sotkeutumistilanteessa:
-- Tarkkaile korkeutta, sillä päätökset on tehtävä riittävän korkealla
-- Keskustele aina kaverisi kanssa siitä, mitä aiotte tehdä
-- Varmista, että olet irti punoksista/kuvusta (käytä
-    tarvittaessa koukkupuukkoa) ennen varavarjotoimenpiteitä.
+- Tarkkaile korkeutta, sillä päätökset on tehtävä riittävän korkealla.
+- Keskustele aina kaverisi kanssa siitä, mitä aiotte tehdä.
+- Varmista, että olet irti punoksista/kuvusta (käytä tarvittaessa 
+ koukkupuukkoa) ennen varavarjotoimenpiteitä.
 
 Jos ylempi varjo lentää ja alempi on sotkeutunut, voi alempi hyppääjä
 tehdä varavarjotoimenpiteet ja ylempi yleensä laskeutua päävarjollaan.
@@ -202,27 +201,27 @@ suunnan osoittimia.
 Laskeudu mieluummin metsään kuin veteen. Joutuessasi laskeutumaan veteen
 pyri niin lähelle rantaa kuin mahdollista. Veteen laskeutuessasi toimi
 seuraavasti:
-- Vapauta varavarjon pakkolaukaisuhihna
-- Käännä FXC (jos sellainen on) OFF-asentoon
-- Löysää rintahihna
-- Ota alastuloasento
+- Vapauta varavarjon pakkolaukaisuhihna.
+- Käännä FXC (jos sellainen on) OFF-asentoon.
+- Löysää rintahihna.
+- Ota alastuloasento.
 - Tee loppuveto ennen veteen tuloa.
 
 Vedessä:
-- Tukahduta varjo tarvittaessa tekemällä päävarjon irtipäästö
+- Tukahduta varjo tarvittaessa tekemällä päävarjon irtipäästö.
 - Avaa hihnat ja ui eroon varjosta.
 
  Laskeutuminen puuhun/metsään  
 ------------------------------
 
 Puuhun tai metsään laskeutuessasi toimi seuraavasti:
-- Vältä yksittäisiä ja korkeita puita
-- Ota alastuloasento ja vedä polvet ylös suojaamaan alavartaloa
-- Tee loppuveto puiden latvoihin sekä pidä kyynärpäät kyljissä kiinni
+- Vältä yksittäisiä ja korkeita puita.
+- Ota alastuloasento ja vedä polvet ylös suojaamaan alavartaloa.
+- Tee loppuveto puiden latvoihin sekä pidä kyynärpäät kyljissä kiinni.
 - Valmistaudu tulemaan maahan asti ja pura alastuloasento vasta, kun
     liike loppuu.
 
-Jos jäät puuhun roikkumaan, älä pudottaudu korkealta, vaan odota apua.
+Jos jäät puuhun roikkumaan, älä pudottaudu, vaan ota kiinni puusta ja odota apua.
 
 Suuri vaakanopeus aiheuttaa enemmän kolhuja kuin suuri vajoamisnopeus.
 Loppuvedon tekeminen puiden latvoihin on turvallisempaa kuin puita päin
@@ -232,22 +231,22 @@ lentäminen.
 ------------------------------
 
 Jos joudut laskeutumaan sähkölinjoihin, niin
-- Heitä mahdollisesti käsissäsi olevat kahvat pois
-- Ohjaa varjoa loppuun saakka
-- Ota alastuloasento ja tee loppuveto linjoihin
-- Estä johtimien meno jalkojen väliin tai kainaloihin
-- Jos varjo jää kiinni, **älä yritä irrottaa sitä**
+- Heitä mahdollisesti käsissäsi olevat kahvat pois.
+- Ohjaa varjoa loppuun saakka.
+- Ota alastuloasento ja tee loppuveto linjoihin.
+- Estä johtimien meno jalkojen väliin tai kainaloihin.
+- Jos varjo jää kiinni, **älä yritä irrottaa sitä**.
 - Odota apua.
 
  Laskeutuminen katolle  
 -----------------------
 
 Mikäli joudut laskeutumaan katolle, toimi seuraavasti:
-- Ota alastuloasento
-- Tee loppuveto katolle
+- Ota alastuloasento.
+- Tee loppuveto katolle.
 - Tukahduta varjo välittömästi ja tee tarvittaessa päävarjon
-    irtipäästö
-- Tartu kiinni kattorakenteista
+    irtipäästö.
+- Tartu kiinni kattorakenteista.
 - Odota apua.
 
  Kiinteään esteeseen törmääminen  
@@ -255,9 +254,9 @@ Mikäli joudut laskeutumaan katolle, toimi seuraavasti:
 
 Näitä ovat esimerkiksi seinät, autot, pylväät ja aidat. Jos osut
 kiinteään esteeseen,
-- Tee loppuveto ennen törmäystä
-- Ota isku vastaan jaloilla
-- Valmistaudu maahantuloon
+- Tee loppuveto ennen törmäystä.
+- Ota isku vastaan jaloilla.
+- Valmistaudu maahantuloon.
 
 Hyvän alastuloasennon merkitys korostuu, jos joudut laskeutumaan muualle
 kuin maalialueelle.
