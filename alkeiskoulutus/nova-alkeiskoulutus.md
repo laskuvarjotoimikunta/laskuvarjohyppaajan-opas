@@ -1,14 +1,14 @@
-NOVA-Alkeiskoulutuksen suoritukset
+NOVA-alkeiskoulutuksen suoritukset
 ==================================
 
 
 
 NOVA-koulutusohjelmassa oppilaalle annetaan henkilökohtaista koulutusta.
-Tasokoulutus koostuu seitsemästä erilaisesta tasosta. Jokaisella
-tasohypyllä on mukana vähintään yksi novahyppymestari. Tasokoulutuksessa
-edetään omaa tahtia. Jokaisella hypyllä hyödynnetään edellisten tasojen
-osaamista, joten oppilaan on suoritettava kukin taso hyväksytysti ennen
-etenemistä.
+Tasokoulutus koostuu kahdeksasta erilaisesta tasosta. Jokaisella
+tasohypyllä on mukana vähintään yksi novahyppymestari. Tasolla 8 hyppymestari 
+seuraa suorituksesi koneesta. Tasokoulutuksessa edetään omaa tahtia. 
+Jokaisella hypyllä hyödynnetään edellisten tasojen osaamista, joten 
+oppilaan on suoritettava kukin taso hyväksytysti ennen etenemistä.
 
 Oppilaan on saavutettava välttämättömät oppimistavoitteet hyväksytysti
 päästäkseen seuraavalle tasolle. Jos ensimmäisen hypyn koulutuksesta on
@@ -158,11 +158,11 @@ oppimisesi, sekä se, pääsetkö seuraavalle tasolle. Tutustu
 oppimistavoitteisiin tarkasti HM:n kanssa.
 
 1.  Stabiilin vapaapudotusasennon löytäminen viimeistään 10 sekuntia
-    ennen avauskorkeutta
+    ennen avauskorkeutta.
 
-2.  Korkeuden tarkkailu
+2.  Korkeuden tarkkailu.
 
-3.  Avaustoimenpiteet 1600 m (±300m) ja avaus
+3.  Avaustoimenpiteet 1600 m (±300m) ja avaus.
 
 ###  Hyppylennolla  
 - Katso laskeutumisalue ja oikea laskeutumissuunta yli 600
@@ -206,16 +206,16 @@ päästäkseen seuraavalle tasolle.
 7.  Osallistu itse aikaisempaa enemmän varusteiden tarkistukseen
     ja sovittamiseen.
   
-8.  Itsenäisempi, turvallinen varjon ohjailu  
+8.  Itsenäisempi, turvallinen varjon ohjailu.  
 
 ###  Oppimistavoitteet  
 
-1.  Stabiili vapaapudotusasento viimeistään 10 sekuntia UH:n jälkeen
+1.  Stabiili vapaapudotusasento viimeistään 10 sekuntia UH:n jälkeen.
 
 2.  Stabiilin vapaapudotusasennon säilyttäminen koko hypyn ajan,
-    sisältäen jalkojen hallinnan
+    sisältäen jalkojen hallinnan.
 
-3.  Avaustoimenpiteet 1600 m (±300m) ja itsenäinen avaus
+3.  Avaustoimenpiteet 1600 m (±300m) ja itsenäinen avaus.
 
 ###  Hyppylennolla  
 
@@ -253,10 +253,10 @@ päästäkseen seuraavalle tasolle.
 
 Jos tasoilla 3-7 et näe kumpaakaan hyppymestaria, voit jatkaa hyppyä,
 mikäli kaikki alla olevat ehdot täyttyvät:
-- Tiedät korkeutesi
-- Et pyöri mihinkään suuntaan
-- Et ole selälläsi
-- Tilanne tuntuu kaiken kaikkiaan olevan hallinnassa
+- Tiedät korkeutesi.
+- Et pyöri mihinkään suuntaan.
+- Et ole selälläsi.
+- Tilanne tuntuu kaiken kaikkiaan olevan hallinnassa.
 
 Tarkkaile korkeutta koko ajan n. 5 s välein (MAA, MITTARI, TAIVUTA,
 JALAT, RENTOUTA) ja tason mukaisessa korkeudessa tee avausmerkki ja avaa
@@ -288,16 +288,16 @@ varavarjotoimenpiteet.
 
 ###  Oppimistavoitteet  
 
-1.  Ilmatilan tarkistus ennen uloshyppyä
+1.  Ilmatilan tarkistus ennen uloshyppyä.
 
-2.  Stabiili itsenäinen vapaapudotus viimeistään 5 sekuntia UH:n jälkeen
+2.  Stabiili itsenäinen vapaapudotus viimeistään 5 sekuntia UH:n jälkeen.
 
-3.  Tarkoituksettomien käännösten pysäyttäminen
+3.  Tarkoituksettomien käännösten pysäyttäminen.
 
 4.  Avaustoimenpiteet 1600 m (±150m), stabiili itsenäinen avustamaton avaus
-    ilman NHM:n otetta oppilaasta
+    ilman NHM:n otetta oppilaasta.
 
-5.  Itsenäinen, turvallinen varjon ohjailu
+5.  Itsenäinen, turvallinen varjon ohjailu.
 
 ###  Hyppylennolla  
 
@@ -345,20 +345,20 @@ päästäkseen seuraavalle tasolle.
 3.  Tarkista ilmatila ja pilvet ennen uloshyppyä ja huomioi riittävä
     exit-väli edelliseen ryhmään.
 
-4.  Tarkista varusteet ennen UH:ta
+4.  Tarkista varusteet ennen UH:ta.
     (\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ###  Oppimistavoitteet  
 
-1.  Ilmatilan ja pilvien tarkistus ja exit-väli
+1.  Ilmatilan ja pilvien tarkistus ja exit-väli.
 
-2.  Omien varusteiden tarkastus (maassa ja koneessa)
+2.  Omien varusteiden tarkastus (maassa ja koneessa).
 
-3.  Stabiili vapaapudotusasento
+3.  Stabiili vapaapudotusasento.
 
-4.  Vähintään kaksi hallittua 90° käännöstä (±20°)
+4.  Vähintään kaksi hallittua 90° käännöstä (±20°).
 
-5.  Avaustoimenpiteet 1500 m (±150 m), stabiili itsenäinen avustamaton avaus
+5.  Avaustoimenpiteet 1500 m (±150 m), stabiili itsenäinen avustamaton avaus.
 
 ###  Hyppylennolla  
 
@@ -412,21 +412,21 @@ päästäkseen seuraavalle tasolle.
 
 ###  Oppimistavoitteet  
 
-1.  Vähintään kaksi hallittua 360° käännöstä (±45°)
+1.  Vähintään kaksi hallittua 360° käännöstä (±45°).
 
-2.  Yhä stabiilimpi vapaapudotus
+2.  Yhä stabiilimpi vapaapudotus.
 
 3.  Avaustoimenpiteet 1500 m (±150 m), stabiili suunnassa pysyvä itsenäinen
-    avustamaton avaus
+    avustamaton avaus.
 
 4.  Tee varjon varassa 90° käännöksiä takimmaisista kantohihnoista
-    puolijarrut kiinni sekä avattuina
+    puolijarrut kiinni sekä avattuina.
 
 ###  Hyppylennolla  
 
 1.  Tarkistat ilmatilan, pilvet ja huomioit exit-välin.
 
-2.  Tarkastat itse varusteet ennen uloshyppyä
+2.  Tarkastat itse varusteet ennen uloshyppyä.
 
 ###  Ohjailu ja laskeutuminen  
 
@@ -462,37 +462,37 @@ päästäkseen seuraavalle tasolle.
 
 ###  Oppilaan toiminta.  
 
-1.  Toista aikaisemmilla tasoilla opitut asiat
+1.  Toista aikaisemmilla tasoilla opitut asiat.
 
-2.  Harjoittele suoran uloshypyn asentoa ja tekniikkaa
+2.  Harjoittele suoran uloshypyn asentoa ja tekniikkaa.
 
 3.  Harjoittele takavoltin tekniikkaa ja stabiloimista.
 
 ###  Oppimistavoitteet  
 
-1.  Itsenäinen, avustamaton uloshyppy
+1.  Itsenäinen, avustamaton uloshyppy.
 
-2.  Asennon stabilointi epästabiilista viidessä sekunnissa
+2.  Asennon stabilointi epästabiilista viidessä sekunnissa.
 
-3.  Avaustoimenpiteet 1400 m (±150 m) ja avaus
+3.  Avaustoimenpiteet 1400 m (±150 m) ja avaus.
 
-4.  Oikeaoppiset lähestymis- ja laskeutumiskuviot
+4.  Oikeaoppiset lähestymis- ja laskeutumiskuviot.
 
 ###  Hyppylennolla  
 
 1.  Käy uudelleen lävitse toiminta kuten kaikilla
     aikaisemmilla tasoilla.
 
-2.  Ilmatilan tarkistus, pilvet, exit-välin huomioiminen
+2.  Ilmatilan tarkistus, pilvet, exit-välin huomioiminen.
 
-3.  Tee stabiili, suora uloshyppy ilman HM:n apua
+3.  Tee stabiili, suora uloshyppy ilman HM:n apua.
 
 ###  Ohjailu ja laskeutuminen  
 
 1.  Pyri laskeutumaan korkeintaan 25 m:n päähän määrätyn alastuloalueen
-    keskustasta
+    keskustasta.
 
-2.  Tee oikeaoppiset lähestymis- ja laskeutumiskuviot
+2.  Tee oikeaoppiset lähestymis- ja laskeutumiskuviot.
 
 ###  Hypyn kulku  
 
@@ -527,28 +527,28 @@ avaus, sekä ohjaaminen.
 
 ###  Oppimistavoitteet  
 
-1.  Tarkista ilmatila, pilvet, huomioi exit-väli
+1.  Tarkista ilmatila, pilvet, huomioi exit-väli.
 
-2.  Sukellusuloshyppy josta stabiili asento viidessä sekunnissa
+2.  Sukellusuloshyppy josta stabiili asento viidessä sekunnissa.
 
-3.  Asennon stabilointi suoritusten aikana viidessä sekunnissa
+3.  Asennon stabilointi suoritusten aikana viidessä sekunnissa.
 
-4.  Avaustoimenpiteet 1400 m (±150 m) ja avaus
+4.  Avaustoimenpiteet 1400 m (±150 m) ja avaus.
 
-5.  Turvallinen varjon käsittely
+5.  Turvallinen varjon käsittely.
 
 ###  Hyppylennolla  
 
-1.  Tarkista ilmatila, pilvet ja huomioi exit-väli
+1.  Tarkista ilmatila, pilvet ja huomioi exit-väli.
 
-2.  Tarkista omat varusteesi
+2.  Tarkista omat varusteesi.
 
 ###  Ohjailu ja laskeutuminen  
 
 1.  Pyri laskeutumaan korkeintaan 25 metrin päähän määrätyn
-    alastuloalueen keskustasta
+    alastuloalueen keskustasta.
 
-2.  Näytä, miten ohjaat varjoasi turvallisesti
+2.  Näytä, miten ohjaat varjoasi turvallisesti.
 
 ###  Hypyn kulku  
 
@@ -582,26 +582,26 @@ stabiili avaus.
 
 ###  Oppimistavoitteet  
 
-1.  Tarkista uloshyppypaikka, ilmatila, pilvet ja huomioi exit-väli
+1.  Tarkista uloshyppypaikka, ilmatila, pilvet ja huomioi exit-väli.
 
-2.  Suora uloshyppy
+2.  Suora uloshyppy.
 
-3.  15” vapaapudotus koko ajan korkeutta tarkkaillen
+3.  15” vapaapudotus koko ajan korkeutta tarkkaillen.
 
-4.  Avaustoimenpiteet 1400 m ja avaus
+4.  Avaustoimenpiteet 1400 m ja avaus.
 
 ###  Hyppylennolla  
 
-1.  Tarkista omat varusteesi
+1.  Tarkista omat varusteesi.
 
-2.  Tarkista uloshyppypaikka, ilmatila, pilvet ja huomioi exit-väli
+2.  Tarkista uloshyppypaikka, ilmatila, pilvet ja huomioi exit-väli.
 
 ###  Ohjailu ja laskeutuminen  
 
 1.  Pyri laskeutumaan korkeintaan 25 metrin päähän määrätyn
-    alastuloalueen keskustasta
+    alastuloalueen keskustasta.
 
-2.  Näytä, miten ohjaat varjoasi turvallisesti
+2.  Näytä, miten ohjaat varjoasi turvallisesti.
 
 ###  Hypyn kulku  
 
