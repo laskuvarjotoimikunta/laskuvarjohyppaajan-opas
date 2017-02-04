@@ -102,7 +102,7 @@ ei lennä, tee varavarjotoimenpiteet. Tasoilla 1-2 VV-HM pitää sinusta
 kiinni varjon avautumiseen asti ja tasoilla 3-7 HM varmistaa
 avautumisen.
 
- Taso 1 - Tottuminen vapaapudotukseen  
+ Taso 1 - tottuminen vapaapudotukseen  
 --------------------------------------
 
 Kaksi novahyppymestaria, kolmella ensimmäisellä hypyllä radio.
@@ -181,7 +181,7 @@ oppimistavoitteisiin tarkasti HM:n kanssa.
 
 
 
- Taso 2 - Asennon hallinta  
+ Taso 2 - asennon hallinta  
 ---------------------------
 
 Kaksi novahyppymestaria, kolmella ensimmäisellä hypyllä radio. Oppilaan
@@ -243,7 +243,7 @@ päästäkseen seuraavalle tasolle.
 
 
 
- Taso 3 - Stabiili vapaapudotus  
+ Taso 3 - stabiili vapaapudotus  
 --------------------------------
 
 Kaksi novahyppymestaria, kolmella ensimmäisellä hypyllä radio.
@@ -327,7 +327,7 @@ varavarjotoimenpiteet.
 
 
 
- Taso 4 - Käännökset 90°  
+ Taso 4 - käännökset 90°  
 -------------------------
 
 Yksi novahyppymestari.
@@ -391,7 +391,7 @@ päästäkseen seuraavalle tasolle.
 
 
 
- Taso 5 - Käännökset 360°  
+ Taso 5 - käännökset 360°  
 --------------------------
 
 Yksi novahyppymestari.
@@ -452,7 +452,7 @@ päästäkseen seuraavalle tasolle.
 
 
 
- Taso 6 - Irtiuloshyppy  
+ Taso 6 - irtiuloshyppy  
 ------------------------
 
 Yksi novahyppymestari.
@@ -509,7 +509,7 @@ päästäkseen seuraavalle tasolle.
 
 
 
- Taso 7 - Puolisarja  
+ Taso 7 - puolisarja  
 ---------------------
 
 Yksi novahyppymestari.
