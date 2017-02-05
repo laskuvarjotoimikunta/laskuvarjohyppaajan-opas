@@ -5,7 +5,7 @@ koko koulutusajan. Tavoitteena on paikallisten olosuhteiden tunteminen niin, ett
 
 ## Tuuli
 
-Tuulet rajoittavat hyppäämistä, sillä tuulen voimistuessa voimistuvatmyös pyörteet. Tuulen voimistuessa myös uloshyppypaikan määrittäminen käy vaativammaksi ja ohjaaminen sekä laskeutuminen vaikeutuvat. Laskuvarjohyppääjien tuulirajat määrittävät toiminnalliset rajat, mutta joskus pyörteet voivat olla vaarallisen voimakkaita, vaikka tuulen voimakkuus ei olisikaan yli sallitun. Tuulen suunta eli se suunta mistä päin tuulee ja voimakkuus on tunnettava sekä pinta- että ylätuulten osalta. Tuulen nopeus metreinä sekunnissa saadaan solmuista kertomalla 0,51:llä. Laskuissa kertoimena on helpointa käyttää arvoa 0,5. On syytä muistaa, että jos tuulen nopeus on 16 solmua, se on yli 8 m/s (8,23 m/s). (Samoin 22 kt on 11,32 m/s.) Pintatuuli on tuuli, joka vaikuttaa maanpinnassa (maatuuli). Ylätuulet ovat tuulia, jotka vaikuttavat hyppykorkeuksissa. Pinta- ja ylätuulten suunnan ero on pohjoisella pallonpuoliskolla tyypillisesti oikealle noin 30° maan pyörimisliikkeen takia. Tuulen suunta voi vaihdella kerroksittain. Käsitteellä tuulen yläpuolella tarkoitetaan aluetta laskeutumisalueelta uloshyppypaikalle päin. Vastaavasti käsite tuulen alapuolella tarkoittaa aluetta maalipisteestä poispäin uloshyppypaikkaan nähden. Tuulen nopeus kasvaa ylöspäin mentäessä, maan kitkan pienetessä. Vaikka maassa olisi tyyntä,
+Tuulet rajoittavat hyppäämistä, sillä tuulen voimistuessa voimistuvat myös pyörteet. Tuulen voimistuessa myös uloshyppypaikan määrittäminen käy vaativammaksi ja ohjaaminen sekä laskeutuminen vaikeutuvat. Laskuvarjohyppääjien tuulirajat määrittävät toiminnalliset rajat, mutta joskus pyörteet voivat olla vaarallisen voimakkaita, vaikka tuulen voimakkuus ei olisikaan yli sallitun. Tuulen suunta eli se suunta mistä päin tuulee ja voimakkuus on tunnettava sekä pinta- että ylätuulten osalta. Tuulen nopeus metreinä sekunnissa saadaan solmuista kertomalla 0,51:llä. Laskuissa kertoimena on helpointa käyttää arvoa 0,5. On syytä muistaa, että jos tuulen nopeus on 16 solmua, se on yli 8 m/s (8,23 m/s). (Samoin 22 kt on 11,32 m/s.) Pintatuuli on tuuli, joka vaikuttaa maanpinnassa (maatuuli). Ylätuulet ovat tuulia, jotka vaikuttavat hyppykorkeuksissa. Pinta- ja ylätuulten suunnan ero on pohjoisella pallonpuoliskolla tyypillisesti oikealle noin 30° maan pyörimisliikkeen takia. Tuulen suunta voi vaihdella kerroksittain. Käsitteellä tuulen yläpuolella tarkoitetaan aluetta laskeutumisalueelta uloshyppypaikalle päin. Vastaavasti käsite tuulen alapuolella tarkoittaa aluetta maalipisteestä poispäin uloshyppypaikkaan nähden. Tuulen nopeus kasvaa ylöspäin mentäessä, maan kitkan pienetessä. Vaikka maassa olisi tyyntä,
 heti maanpinnan yläpuolella voi tuulla rajusti. Säärintamat (ukkonen) voimistavat tuulia ja lämpötilaerot alueittain (maastoerot) aiheuttavat äkillisiä tuulen suunnan ja voimakkuuden muutoksia. Meren läheisyydessä tuuli voi muuttua kesällä aamupäivällä ja illansuussa täysin päinvastaiseksi (merituuli-ilmiö). Tyynellä hypättäessä loppujarrutuksen oikea ajoittaminen voi olla vaikeaa.
 
 ### Tuulirajat
@@ -49,7 +49,7 @@ pyörteen vaikutuksesta. Pyörteitä voi välttää laskeutumalla tarpeeksi kaua
 
 ### Lämpötila
 
-Ilman lämpötila laskee ylöspäin mennessä n. 6,5 °C / 1000 m. Arvo on epätarkka ja siihen vaikuttavat inversiot, säärintamat sekä ilmanpaineen paikalliset vaihtelut. Laskuvarjohyppääjän kannattaa käyttää hanskoja, kun lämpötila hypyn aikana laskee alle nollan. Oppilailla käsineet ovat pakolliset. Vaikka maassa olisikin lämmintä, hyppykorkeudella voi olla jo pakkasta. Jos maassa on +10 °C lämmintä, voi kahden kilometrin hyppykorkeudella olla jo pakkasta. Jos maassa on +10 °C, lämpötila on kahden kilometrin korkeudessa tyypillisesti noin –3 °C. On huomioitava, että kolmen kilometrin korkeudessa on usein pakkasta.
+Ilman lämpötila laskee ylöspäin mennessä n. 6,5 °C / 1000 m. Arvo on epätarkka ja siihen vaikuttavat inversiot (ilman lämpötilan kohoaminen ylemmäs mentäessä), säärintamat sekä ilmanpaineen paikalliset vaihtelut. Laskuvarjohyppääjän kannattaa käyttää sormikkaita, kun lämpötila hypyn aikana laskee alle nollan. Oppilailla sormikkaat ovat pakolliset. Vaikka maassa olisikin lämmintä, hyppykorkeudella voi olla jo pakkasta. Jos maassa on +10 °C lämmintä, voi kahden kilometrin hyppykorkeudella olla jo pakkasta. Jos maassa on +10 °C, lämpötila on kahden kilometrin korkeudessa tyypillisesti noin –3 °C. On huomioitava, että kolmen kilometrin korkeudessa on usein pakkasta.
 
 ### Käytännössä
 
@@ -70,13 +70,13 @@ lentopaikoilla, joille on säännöllistä liikennettä. Suomessa Metar luodaan 
 ![**X.X:** Nämä pyöristetyt muunnoksen tulee osata hyppytoiminnassa. 1 jalka = 0,3048 m.](/kuvat/Metrit-jaloiksi-taulukko.png)
 
 ```
-EFTU 231250Z 27006KT 9999 SCT055 FEW080 08/04 Q1015
+EFOU 051250Z 27006KT 9999 SCT055 FEW080 08/04 Q1015
 ```
 
 Tämä viesti voidaan jakaa osioihin ja tulkita sen perusteella. Metar-viestin pääosiot ovat:
 
-* EFTU Sääasema lentopaikan ICAO-koodilla; Eurooppa, Finland, Turku
-* 231250Z Aika (UTC) Päivä kuluvaa kuukautta sekä kellonaika UTC-ajassa ilmaistuna
+* EFOU Sääasema lentopaikan ICAO-koodilla; Eurooppa, Finland, Oulu
+* 051250Z Aika (UTC) Päivä kuluvaa kuukautta sekä kellonaika UTC-ajassa ilmaistuna
 * 27006KT Tuulen suunta asteina ja nopeus solmuina, 270 astetta, 3 m/s
 * 9999 Näkyvyys metreinä, yli 10 km
 * SCT055 Pilvien määrä sekä korkeus
@@ -98,10 +98,11 @@ Esimerkkejä vallitsevan sään ilmoittamisesta:
 
 * TS: ukkosta ilman sadetta
 * TSRA: ukkosta ja vesisadetta
-* -RABR: heikkoa vesisadetta ja utua
+* +VCSH: kentän lähistöllä voimakkaita sadekuuroja
+* -RA BR: heikkoa vesisadetta ja utua
 * FG: sumua
 * MIFG: matalaa sumua
-* -DZBR: heikkoa tihkusadetta ja utua
+* -DZ BR: heikkoa tihkusadetta ja utua
 
 Metar-sanomassa pilven alaraja ilmoitetaan lyhennetysti jättämällä korkeuden kaksi viimeistä nollaa pois. Esimerkiksi pilven alaraja 300 ft kirjoitetaan METARissa 003, 3000 ft kirjoitetaan 030 ja 30000 ft
 kirjoitetaan 300. Korkeus ilmoitetaan maanpinnasta.
@@ -130,53 +131,53 @@ Koodisana CAVOK on lyhenne englannin kielen sanoista ”Ceiling And Visibility O
 
 * Näkyvyys on 10 km tai enemmän.
 * Alueella ei ole pilviä 1500 m (5000 ft) alapuolella eikä CB- tai TCU-pilviä havaita.
-* Ei esiinny merkittäviä sääilmiöitä kuten ukkosta, sadetta tai sumua.
+* Ei esiinny merkittäviä sääilmiöitä, kuten ukkosta, sadetta tai sumua.
 
 ### GAFOR-sanomat
 
 Suomi on GAFOR-alue-ennusteiden osalta jaettu kolmeen osaan. GAFOR-sanomassa käytetään samoja lyhenteitä kuin METAR-sanomassa. Hyppääjien kannalta kiinnostavinta GAFOR-sanomassa on tuuliennusteet sekä 2000 ft että 5000 ft korkeudelle. Näitä tuulitietoja voidaan käyttää uloshyppypaikan määrityksessä.
 
 ```
-FBFI42 EFRO 121000
-GA-FCST FOR AREAS 21/25 VALID 0312 UTC
+FBFI42 EFRO 051000
+GA-FCST FOR AREAS 30/39 VALID 0312 UTC
 WX AURINKOISTA JA PILVETÖNTÄ.
 PÄIVÄN MITTAAN ODOTETTAVISSA
 HELLELÄMPÖTILOJA KOKO ALUEELLA.
 WINDS
-SFC 21/23 270-310 / 05-10 KT 24/25 010-030 / 03-06 KT
+SFC 30/33 270-310 / 05-10 KT 34/39 010-030 / 03-06 KT
 2000 FT 300-320 / 15-20 KT
 5000 FT 330 / 25 KT
 0-C LEVEL FL120
 ICE NIL TURB NIL
-GAFOR EFRO 1218 BBBB 21/25 O
+GAFOR EFRO 1218 BBBB 30/39 O
 ```
 
-Esimerkkipauksessa kyse on Itä-Suomen alue-ennusteesta.
+Esimerkkipauksessa kyse on Pohjois-Suomen alue-ennusteesta.
 
-Sanoma on voimassa alueilla 21-25 (Utin lentokenttä sijaitsee alueella 22), ja aikavälillä 3.00-12.00 UTC-aikaa. GAFORit laaditaan joka vuorokausi samoille yhdeksän tunnin aikaväleille, joten 0312-sanoma on
-siis aamu/päiväennuste, ja 1221-sanoma on iltapäivä/iltaennuste.
+Sanoma on voimassa alueilla 30–39 (Oulun lentokenttä sijaitsee alueella 30), ja aikavälillä 3.00-12.00 UTC-aikaa. GAFORit laaditaan joka vuorokausi samoille yhdeksän tunnin aikaväleille, joten 0312-sanoma on
+siis aamu/päiväennuste, ja 1221-sanoma on iltapäivä/iltaennuste. Alueelle 30/39 laaditaan myös 2103-sanoma, yöennuste.
 
 WX (Weather eXplanation, sään kuvaus)- tunnuksesta eteenpäin kuvataan parilla-kolmella rivillä selkeästi sanoman voimassaoloaikana vallitseva tai lähitunteina odotettavissa oleva sää. Joskus WX-osassa kerrotaan myös seuraavan päivän ennuste.
 
-Tuulitietojen alkaminen ilmaistaan sanomassa tunnuksella WINDS (tuulet). Mikäli kerrostuulien yhteydessä ei ole erillistä alueisiin jakoa, lukee WINDS-tunnuksen perässä monesti 21/25, jolloin kaikki tiedot koskevat koko Itä-Suomen aluetta. Tuulitiedot on aina jaettu kolmeen osaan, eli on ilmoitettu tuulet:
+Tuulitietojen alkaminen ilmaistaan sanomassa tunnuksella WINDS (tuulet). Mikäli kerrostuulien yhteydessä ei ole erillistä alueisiin jakoa, lukee WINDS-tunnuksen perässä monesti 30/39, jolloin kaikki tiedot koskevat koko Pohjois-Suomen aluetta. Tuulitiedot on aina jaettu kolmeen osaan, eli on ilmoitettu tuulet:
 
 * Maanpinnan läheisyydessä (SFC, surface)
 * 2000 jalan (600 metrin) korkeudella
 * 5000 jalan (1500 metrin) korkeudella.
 
-Eri kerroksien tuulitiedot on toisinaan jaettu alueisiin, kuten tässä maatuuliosa. Maatuuliennusteen (SFC) ensimmäinen osa koskee tässä tapauksessa alueita 21/23 eli alueita 21, 22 ja 23. Aluemäärityksen
+Eri kerroksien tuulitiedot on toisinaan jaettu alueisiin, kuten tässä maatuuliosa. Maatuuliennusteen (SFC) ensimmäinen osa koskee tässä tapauksessa alueita 30/32 eli alueita 30, 31 ja 32. Aluemäärityksen
 jälkeen ilmoitetaan tuulen suunnan vaihteluväli asteina. 270-310 tarkoittaa siis, että tuulen suunta vaihtelee välillä 270 ja 310 astetta. Kautta-viivan jälkeen annetaan tuulen nopeus tai nopeuden
-vaihteluväli solmuina (KT, knots). 05-10 KT tarkoittaa siis, että tuulen keskimääräinen voimakkuus on 5 - 10 solmua (2,5 - 5 metriä sekunnissa). Nämä lukemat eivät kerro maatuulen huippuarvoista, jotka saadaan selville kerhon tuulimittarilla tai sääasemalta.
+vaihteluväli solmuina (KT, knots). 05–10 KT tarkoittaa siis, että tuulen keskimääräinen voimakkuus on 5 – 10 solmua (2,5 – 5 metriä sekunnissa). Nämä lukemat eivät kerro maatuulen huippuarvoista, jotka saadaan selville kerhon tuulimittarilla tai sääasemalta.
 
-Maatuulikoodin toinen osa 24/25 010-030 / 03-06 KT kertoo vastaavat tiedot alueille 24 ja 25.
+Maatuulikoodin toinen osa 33/39 010–030 / 03-06 KT kertoo vastaavat tiedot alueille 33–39.
 
-2000 FT:n (600 metriä) tuulitiedoissa ei ole tällä kertaa erillistä alueisiin jakoa, jolloin ne koskevat koko Itä-Suomen aluetta. 2000 FT 300-320 / 15-20 KT tarkoittaa siis, että 600 metrin korkeudessa tuulen
-suunta vaihtelee välillä 300-320 astetta, ja voimakkuus välillä 15-20 solmua (7,5 - 10 metriä sekunnissa).
+2000 FT:n (600 metriä) tuulitiedoissa ei ole tällä kertaa erillistä alueisiin jakoa, jolloin ne koskevat koko Itä-Suomen aluetta. 2000 FT 300–320 / 15–20 KT tarkoittaa siis, että 600 metrin korkeudessa tuulen
+suunta vaihtelee välillä 300-320 astetta, ja voimakkuus välillä 15–20 solmua (7,5 – 10 metriä sekunnissa).
 
 5000 FT 330 / 25 KT tarkoittaa, että 1500 metrin korkeudessa tuulee suunnasta 330 astetta 25 solmun voimakkuudella (12,5 metriä sekunnissa).
 
 SFC-, 2000 ft- ja 5000 ft-tuulitiedoilla voi yleensä riittävällä tarkkuudella määritellä jopa 4000 m:n UH-paikan. Erityisesti 5000 ft:n tuulitietoja voidaan käyttää ajautuman laskemiseen korkeusvälillä noin
-1000-4000 m, sillä noilla korkeuksilla ei juurikaan ole tuuliolosuhteisiin vaikuttavia häiriötekijöitä.
+1000–4000 m, sillä noilla korkeuksilla ei juurikaan ole tuuliolosuhteisiin vaikuttavia häiriötekijöitä.
 
 Satunnaisesti GAFORin tuulitiedoissa mukana oleva BECMG-lyhenne (Becoming, tulossa) kellonaika- ja tuulitietoineen tarkoittaa, että sanoman voimassaoloaikana on odotettavissa merkittäviä tuulen suunnan
 tai nopeuden muutoksia. Tämä saattaa merkitä esimerkiksi säärintaman lähestymistä, ja tällöin GAFORista luettaviin tuulitietoihin tulee suhtautua kriittisesti.
@@ -184,6 +185,8 @@ tai nopeuden muutoksia. Tämä saattaa merkitä esimerkiksi säärintaman lähes
 0-C LEVEL-tunnuksella alkava rivi kertoo, missä korkeudessa lämpötila vaihtuu pakkasen puolelle ylöspäin mentäessä. Korkeus on ilmaistu kolmella numerolla lentopintana (FL, Flight Level), joka on lentoliikenteessä käytetty ilmanpaineesta riippuva suhteellinen korkeus. Korkeus voidaan kuitenkin tässä tapauksessa karkeasti muuttaa metreiksi ottamatta huomioon ilmanpaineen vaikutusta. Tällä kertaa lämpötilan nollaraja on siis suunnilleen korkeudella 120 sataa eli 12000 jalkaa (3660 metriä). Yksi jalka on 0,3048 metriä. Talvella nollarajatiedolla ei yleensä ole merkitystä, sillä lämpötila on monesti pakkasen puolella heti maanpinnasta lähtien. Tällöin 0-C LEVELin jälkeen saattaa lukea esim. NIL (No information, ei tietoa), NEAR SFC (lähellä maanpintaa) tai GND (Ground, maanpinnan tasalla).
 
 GAFOR-sanoman parilla viimeisellä rivillä kerrotaan esimerkiksi jäätämisestä ja yläkerrosten turbulenssista, sekä esitetään lyhyt koodi lentosääluokista.
+
+Lisämateriaalia säästä ja ilmailusta on Trafin nettisivuilla: https://www.trafi.fi/ilmailu/harrasteilmailun_turvallisuus/koulutusmateriaalia_ja_ohjeita.
 
 ### Harjoitus
 
