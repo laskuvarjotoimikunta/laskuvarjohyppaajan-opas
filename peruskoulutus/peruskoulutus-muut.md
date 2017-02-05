@@ -22,17 +22,17 @@ Harjoittele suorituksen vaiheet:
 
 1. Kertaa suoritus mielessäsi.
 2. Keskity suoritukseesi.
-3. 3X3 -tarkastus ennen hyppyä TODO:CRESSREF(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.).
+3. 3 x 3 -tarkastus ennen hyppyä. TODO:CRESSREF(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.).
 
 ### Hypyn kulku
 
 **TAIVUTA**
 
         Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä taivutus.
-        Rentouta asento uloshypyn jälkeen
-        Ota ensin perusasento ja käänny tämän jälkeen selälleen
-        Tarkkaile korkeutta
-        Muutaman sekunnin jälkeen käännä asento takaisin mahalleen perusasentoon
+        Rentouta asento uloshypyn jälkeen.
+        Ota ensin perusasento ja käänny tämän jälkeen selälleen.
+        Tarkkaile korkeutta.
+        Muutaman sekunnin jälkeen käännä asento takaisin mahalleen perusasentoon.
         Mikäli korkeutta on vielä yli 1800 metriä, toista harjoitus.
 
 **1800 metriä**
@@ -45,7 +45,7 @@ Harjoittele suorituksen vaiheet:
 
 ## Liuku
 
-Liu’un tavoitteena on liikkua vaakatasossa mahdollisimman kauaksi muihin hyppääjiin nähden samalla, kun pudotaan alaspäin. Liuku ei ole siis syöksyä tai tikkaamista. Putoamisnopeus voi kasvaa liu’un aikana.
+Liu’un tavoitteena on liikkua vaakatasossa mahdollisimman kauaksi muihin hyppääjiin nähden samalla, kun pudotaan alaspäin. Liuku ei ole siis syöksyä tai tikkaamista (= pystysyöksy). Putoamisnopeus voi kasvaa liu’un aikana.
 Korkeuden tarkkailu on tärkeää, sillä liu’un pysäytys vaatii myös aikansa. Varjon avaamista suoraan liu’usta ei suositella. Hyvä liuku on ensiarvoisen tärkeä taito laskuvarjohyppääjällä, sillä ainoastaan
 hyvällä liu’ulla pystyy varmistamaan riittävän välimatkan muihin hyppääjiin purun jälkeen.
 
@@ -55,9 +55,9 @@ Liuku tehdään seuraavasti:
 2. Oikaistaan jalat nilkkoja myöten.
 3. Viedään kädet sivuille taakse, lähelle vartaloa.
 4. Painetaan olkapäät alas eteen.
-5. Ohjataan liukusuuntaa kämmenillä
+5. Ohjataan liukusuuntaa kämmenillä.
 6. Tarkkaillaan korkeutta, muita hyppääjiä sekä liu’utaan kohti kiintopistettä.
-7. Palautetaan perusasento rauhallisesti ottamalla ensin taivutus ja sen jälkeen kädet ja jalat perusasentoon
+7. Palautetaan perusasento rauhallisesti ottamalla ensin taivutus ja sen jälkeen kädet ja jalat perusasentoon.
 
 ### Oppilaan toiminta
 
@@ -73,17 +73,17 @@ Liuku tehdään seuraavasti:
 
 * Kertaa suoritus mielessäsi.
 * Keskity suoritukseesi.
-* 3X3 -tarkastus ennen hyppyä TODO:CRESSREF(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.).
+* 3 x 3 -tarkastus ennen hyppyä. TODO:CRESSREF(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.).
 
 ### Hypyn kulku
 
 **TAIVUTA**
 
         Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä taivutus.
-        Rentouta asento uloshypyn jälkeen
-        Käänny liukusuuntaan, ota liukuasento ja liu’u noin 5 sekuntia
-        Pysäytä liuku
-        Tarkkaile korkeutta
+        Rentouta asento uloshypyn jälkeen.
+        Käänny liukusuuntaan, ota liukuasento ja liu’u noin 5 sekuntia.
+        Pysäytä liuku.
+        Tarkkaile korkeutta.
         Mikäli korkeutta on vielä jäljellä, käänny 180° ja toista liuku.
 
 **1600 metriä**
@@ -102,13 +102,13 @@ FS-liuku on liikesarja, joka suoritetaan jokaisen FS-hypyn lopuksi. Liikesarjass
 
 FS-liuku sisältää seuraavan liikesarjan:
 
-1. Korkeuden tarkastaminen
-2. Purkumerkki
-3. Käännös 180°
-4. Muutaman sekunnin liuku
-5. Ilmatilan tarkastus
-6. Avausmerkki
-7. Harjoitusveto
+1. Korkeuden tarkastaminen.
+2. Purkumerkki.
+3. Käännös 180°.
+4. Muutaman sekunnin liuku.
+5. Ilmatilan tarkastus.
+6. Avausmerkki.
+7. Harjoitusveto.
 
 ### Oppimistavoitteet
 
@@ -120,17 +120,17 @@ FS-liuku sisältää seuraavan liikesarjan:
 
 * Kertaa suoritus mielessäsi.
 * Keskity suoritukseesi.
-* 3X3 -tarkastus ennen hyppyä TODO:CRESSREF(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.).
+* 3 x 3 -tarkastus ennen hyppyä. TODO:CRESSREF(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.).
 
 ### Hypyn kulku
 
 **TAIVUTA**
 
         Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä taivutus.
-        Rentouta asento uloshypyn jälkeen
-        Ota maasta/horisontista kiintopiste ja aloita FS-liuku
-        Tee liikesarja ja päätä liike harjoitusvetoon
-        Tarkista korkeus
+        Rentouta asento uloshypyn jälkeen.
+        Ota maasta/horisontista kiintopiste ja aloita FS-liuku.
+        Tee liikesarja ja päätä liike harjoitusvetoon.
+        Tarkista korkeus.
         Mikäli korkeutta on vielä jäljellä, toista FS-liuku.
 
 **1600 metriä**
