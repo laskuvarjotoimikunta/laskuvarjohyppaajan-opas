@@ -36,14 +36,14 @@ varjomallit ovat soveltuvia
 - alkeis- ja peruskoulutuksessa oppilaiden käyttöön
 - jatkokoulutuksessa oppilaiden käyttöön
     (koulutuspäällikön/apulaiskoulutuspäällikön suostumuksella)
-- itsenäisillä lisenssihyppääjillä
+- itsenäisille lisenssihyppääjille.
 
 SIL on määritellyt hyppääjille siipikuormarajat (katso siipikuorman
 määrittely) kokemuksen mukaan seuraavasti:
-- alkeis- ja peruskoulutusvaihe &lt; 1,1 lbs/ft².
+- alkeis- ja peruskoulutusvaihe &lt; 1,1 lbs/ft²
 - jatkokoulutusvaihe sekä A- ja B-lisenssit &lt; 1,34 lbs/ft².
 
-Koulutus- ja turvallisuuskomitea suosittelee jatkokoulutusvaiheen
+Laskuvarjotoimikunta suosittelee jatkokoulutusvaiheen
 oppilaille ja ensimmäistä varjoaan hankkiville hyppääjille korkeintaan
 1,1 siipikuormaa.
 
@@ -59,7 +59,7 @@ ovat seuraavia:
 - lisävarusteet (tukahdutettava slider ja tukahtuva apuvarjo) vaativat
     huolellisuutta pakkaamisessa ja lentämisessä.
 
-![image](/kuvat/MARD.jpg)
+![21.1: MARD-järjestelmä voi nopeuttaa varavarjon avautumista. (kuva: UPT)](/kuvat/MARD.jpg)
 
 ## Muut varusteet  
 
@@ -74,7 +74,7 @@ Nopeimmilla varjoilla on hetkellisesti saavutettu pystynopeuksia,
 jotka ylittävät AAD:n virittymiskynnyksen (esimerkiksi
 expert-Cypresilla 35 m/s). AAD:n aktivoituminen vauhditetussa
 laskeutumisessa ei kuitenkaan ole mahdollista kuin suurilla
-siipikuormilla. AAD on pelastanut maailmalla jo satoja hyppääjiä. SIL on
+siipikuormilla. AAD on pelastanut maailmalla jo tuhansia hyppääjiä. SIL on
 luetteloinut Suomessa käyttöön soveltuvat automaattilaukaisimet.
 
 RSL (Reserve Static Line) tarkoittaa varavarjon pakkolaukaisuhihnaa. Sen
@@ -89,11 +89,11 @@ RSL-järjestelmää kehittyneempi on päävarjoavusteinen varavarjon
 avausjärjestelmä, MARD (Main assisted reserve deployment). MARD-järjestelmässä 
 irti päästetty avautunut päävarjo aukaisee varavarjon repun ja 
 vetää varavarjon sisäpussin ulos repusta. Tämä nopeuttaa varavarjon 
-avautumista. Jos päävarjo on repussa, pakkolaukaisuhihnaan ei tule vetoa ja 
+avautumista. Jos päävarjo on repussa, varavarjon pakkolaukaisuhihnaan ei tule vetoa ja 
 varavarjo on avattava vetämällä kahvasta. MARD-järjestelmät ovat 
 valmistajakohtaisia (esim. DRD, Reserve boost, Skyhook, Air Anchor ja Trap System),
 eikä niitä välttämättä ole saatavilla kaikkiin valjaisiin.
-Pakkolaukaisuhihnan tulee olla kytkettynä, jotta varavarjon pakkolaukaisujärjestelmä
+Varavarjon pakkolaukaisuhihnan tulee olla kytkettynä, jotta järjestelmä
 voi toimia.
 
 Kypärän/suojapäähineen käyttö on pakollista D-lisenssiin asti. Myös
@@ -124,9 +124,7 @@ myös tallentaa tietoa esimerkiksi hyppykorkeudesta, vapaapudotusajasta
 ja -nopeudesta sekä avauskorkeudesta.
 
 Äänikorkeusmittarit ovat hyvin luotettavia ja ne ovat hyödyllisiä
-lisävarusteita lähes kaikessa hyppäämisessä. Eritoten freehyppäämisessä,
-kameran tai muun lisälaitteen kanssa hypätessä äänikorkeusmittari on
-liki pakollinen varuste. Äänikorkeusmittari on kuitenkin vain
+lisävarusteita lähes kaikessa hyppäämisessä. Äänikorkeusmittari on kuitenkin vain
 varmistusväline, korkeutta on jokaisella hypyllä tarkkailtava myös
 visuaalisesta mittarista.
 
@@ -155,21 +153,20 @@ varavarjokahvojen päälle.
 
 Hyppääjä voi hypätä erilaisten lisävarusteiden kanssa, seuraavassa
 muutamia ominaispiirteitä:
-- Liitopuku: Liitopuvulla hyppääminen vaatii joko A-, B- tai C-lisenssin ja
-    koulutuksen tai D-lisenssin. Lue lisää asiasta Liitohyppyoppaasta.
+- Liitopuku: Liitopuvun käyttö edellyttää D-lisenssiä. Myös A-, B- ja C-lisenssihyppääjä voi käyttää liitopukua, mikäli hänellä on SIL:n nimeämän tai valmistajan hyväksymän liitopukukouluttajan antama koulutustodistus. Liitopuvulla hypättäessä on noudatettava liitopukuvalmistajan asettamia pukukohtaisia kokemussuosituksia. Lue lisää asiasta Liitohyppyoppaassa.
 - Savut, liput ja viirit: Näytöshypyillä saattaa joskus tulla tarpeen
     käyttää esimerkiksi savuja, lippuja tai viirejä lisäämään
     näytöksen näyttävyyttä. Hypättäessä lipun tai viirin kanssa tulee
     aina miettiä, onko lippu tai viiri *vapaapudotukseen oleellisesti
     vaikuttava varuste*, jolloin sen kanssa hyppääminen
-    vaatii D-lisenssin. Savujen, lippujen ja viirien virittely vaatii
+    vaatii C-lisenssin. Savujen, lippujen ja viirien virittely vaatii
     paljon kokemusta, joten pyydä apua kokeneemmilta hyppääjiltä.
     Savujen käytöstä on aina sovittava lentäjän (lennonjohdon) kanssa.
 - Skysurf: Lautahyppääminen vaatii joko C-lisenssin ja
     koulutuspäällikölle annettavat käytännön taitonäytteet, joilla
     osoitetaan, että omataan lautahyppäämiseen tarvittavat perustaidot
     tai D-lisenssin. Lue lisää asiasta Skysurf-alkeisoppaasta.
-- Spaceball: Spaceballin kanssa hyppääminen on Suomessa kiellettyä.
+- Spaceball: Spaceballin (= lyijyllä tms. täytetty pallo) kanssa hyppääminen on Suomessa kiellettyä.
 
  ## Harjoitus ja harjoitushypyt  
 
