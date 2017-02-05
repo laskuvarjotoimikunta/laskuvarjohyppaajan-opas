@@ -16,10 +16,9 @@ verrattava kalustoon:
 - Varjon ja valjaiden tyypin, sarjanumeroiden ja valmistusmerkintöjen
     eli tunnistetietojen on täsmättävä laitekortissa oleviin. Kupujen
     tunnistetiedot löytyvät kuvun takahelmassa olevasta varoituslapusta.
-    Valjaissa tunnistetiedot on yleensä merkitty joko varavarjon
-    kantohihnassa tai repun niskassa ommeltuna olevaan merkkiin. Merkin
-    sijainti vaihtelee repun valmistajan mukaan. Tunnistetietojen
-    vertailuun ja merkin löytämiseen on hyvä pyytää apua kerhon
+    Valjaissa tunnistetiedot on yleensä merkitty varavarjon
+    kantohihnassa. Merkin sijainti vaihtelee repun valmistajan mukaan. 
+    Tunnistetietojen vertailuun ja merkin löytämiseen on hyvä pyytää apua kerhon
     kalustohenkilöiltä tai hyppymestareilta.
 - Tunniste- ja rekisteröintitiedot ovat luettavissa laitekortista.
 - Varjon omistajan vaihdoksesta kannattaa tehdä
@@ -36,10 +35,10 @@ verrattava kalustoon:
     kalustomestari B tai C. Kalustomestari B:n tai C:n on tarkastettava
     päävarjo myös uuteen reppu-valjasyhdistelmään ennen kuin päävarjolla
     voidaan hypätä.
-- Varavarjon saa pakata kalustomestarit A, B ja C. Varavarjon pakannut henkilö merkitsee aina laitekorttiin varavarjoon
-    tehtävät toimenpiteet kuten pakkaukset ja
+- Varavarjon saa pakata kalustomestarit A, B tai C. Varavarjon pakannut 
+ henkilö merkitsee aina laitekorttiin varavarjoon tehtävät toimenpiteet kuten pakkaukset ja
     käytönjälkeiset tarkastukset.
-- Päävarjon pakkausmerkinnäksi riittää hyppypäiväkirjamerkintä.
+- Päävarjon pakkausmerkinnäksi itsenäisellä hyppääjällä riittää hyppypäiväkirjamerkintä.
 - Automaattilaukaisimen laitekortista selviää laitteen
     tunnistetietojen lisäksi huoltotilanne ja mahdollinen pariston
     vaihdon ajankohta.
@@ -105,7 +104,7 @@ Päivittäiseen kalustohuoltoon kuuluu
 - sisäpussin kuminauhojen vaihtaminen ehjiin ja valjaskuminauhojen
   kunnon tarkastaminen
 - repun ja valjaiden puhdistus irtoliasta tarvittaessa esimerkiksi
-  juuriharjalla
+  pehmeällä harjalla tai pölynimurilla
 - varusteiden kuivaus tarvittaessa sekä oikea säilytys suojassa
   valolta, lialta ja kosteudelta.
 
@@ -114,7 +113,7 @@ seikat:
 - Kuvun ja valjaiden pesua kannattaa välttää. Pakottavissa tilanteissa
   pesu on mahdollinen, mutta asiassa kannattaa kääntyä kalustohenkilön
   puoleen turvallisen pesutavan selvittämiseksi.
-- Ei säilytetä varjoa auton takakontissa ilman varjokassia.
+- Ei säilytetä varjoa ilman varjokassia.
 - Luupin on oltava ehjä ja oikean pituinen.
 - Kerhon säilytystilat on pidettävä kuivina, eikä niissä saa säilyttää
   mitään syövyttäviä tai paloarkoja aineita.
