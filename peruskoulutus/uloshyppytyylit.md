@@ -1,6 +1,6 @@
 # Uloshyppytyylit
 
-Uloshyppy ja ensimmäiset 1-2 sekuntia vapaapudotusta ovat ensimmäisillä hypyillä tyypillisesti sellaisia, että hyppääjä ei muista niistä mitään. Kokemuksen karttuessa ajantaju alkaa säilymään koko hyppysuorituksen ajan. Erityisesti hyppyuran alkuvaiheessa hyvä uloshyppy on yhtä kuin hyvä hyppy. Myöhemmin uloshypyn onnistuminen korostuu sekä muodostelmahypyillä että matalilla hypyillä (lyhyet vapaat). Uloshyppytyylistä riippumatta perusperiaate on hyödyntää suhteellista ilmavirtaa halutun asennon ja suunnan saamiseksi ja säilyttämiseksi.
+Uloshyppy ja ensimmäiset 1-2 sekuntia vapaapudotusta ovat ensimmäisillä hypyillä tyypillisesti sellaisia, että hyppääjä ei muista niistä mitään. Kokemuksen karttuessa ajantaju alkaa säilymään koko hyppysuorituksen ajan. Huomioi, että ajantaju voi kadota tehdessäsi vaativaa suoritusta tai keskittyessäsi poistamaan jotakin ongelmaa. Erityisesti hyppyuran alkuvaiheessa hyvä uloshyppy on yhtä kuin hyvä hyppy. Myöhemmin uloshypyn onnistuminen korostuu sekä muodostelmahypyillä että matalilla hypyillä (lyhyet vapaat). Uloshyppytyylistä riippumatta perusperiaate on hyödyntää suhteellista ilmavirtaa halutun asennon ja suunnan saamiseksi ja säilyttämiseksi.
 
 Uloshyppy on aina arvioitava suoritus ja sen tärkeimmät tekijät ovat ilmavirran suunnan huomioiminen sekä ponnistuksen suunta. Uloshyppyyn on varattava myös aina riittävästi aikaa, mikä on huomioitava
 uloshyppypaikkaa määriteltäessä. Tavoitteena on hallita kaikki uloshyppytyylit rutiinitasolla ja muistaa koko hyppysuoritus heti uloshypystä maahantuloon asti.
@@ -56,26 +56,22 @@ uloshyppypaikkaa määriteltäessä. Tavoitteena on hallita kaikki uloshyppytyyl
 
 ### Streevakone
 
-1. Oikea jalka astimelle, varpaat peräsimen suuntaan.
+1. Oikea jalka astimelle.
 2. Kädet oviaukon reunalle.
 3. Kohottaudutaan (varoen repun osumista koneeseen) koneen ulkopuolelle.
-4. Käännytään koneen peräsintä kohti.
-5. Sukelletaan ilmavirran suuntaan taaksepäin, rinta ilmavirtaan.
-6. Taivutus, pää taakse, jalat koukkuun taakse ja kädet eteen leveälle.
-7. Sitä mukaan kun asento kääntyy vaakatasoon (tyypillisesti noin 5 sekunnin jälkeen) otetaan perusasento.
+4. Ponnistetaan perusasennossa ilmavirtaan siiven suuntaisesti, rinta suhteelliseen ilmavirtaan.
+5. Asento kääntyy vaakatasoon tyypillisesti noin 5 sekunnin jälkeen.
 
 ### Muut koneet
 
 1.  Siirrytään oviaukolle (varoen repun osumista koneeseen) kyykkyyn tai seisaalleen.
-2.  Sukelletaan ilmavirran suuntaan taaksepäin, rinta ilmavirtaan.
-3.  Taivutus, pää taakse, jalat koukkuun taakse ja kädet eteen leveälle.
-4.  Sitä mukaan kun asento kääntyy vaakatasoon (tyypillisesti noin 5 sekunnin jälkeen) otetaan perusasento.
+2.  Ponnistetaan perusasennossa ilmavirtaan siiven suuntaisesti, rinta suhteelliseen ilmavirtaan.
+3.  Asento kääntyy vaakatasoon tyypillisesti noin 5 sekunnin jälkeen.
 
 ### Ongelmat
 
-1.  Ponnistus sivulle aiheuttaa kaatumisen kyljelleen.
-2.  Rintamasuunnan ollessa muutoin kuin ilmavirtaan, asento kaatuu.
-3.  Epäsymmetrinen raajojen asento aiheuttaa kääntymistä, voltin tai syöksyn.
+1.  Rintamasuunnan ollessa muutoin kuin ilmavirtaan, asento kaatuu.
+2.  Epäsymmetrinen raajojen asento aiheuttaa kääntymistä, voltin tai syöksyn.
 
 ## Ryhmäuloshyppy
 
