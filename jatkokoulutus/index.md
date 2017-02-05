@@ -14,7 +14,7 @@ Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
 - 5 ryhmähyppyä
 - 3 kuvunkäsittelyhyppyä (29.1 s.119). 
     Jos oppilas ottaa käyttöön omat varusteet tai käyttää varjoa, jota ei
-    ole tarkoitettu alkeis- tai peruskoulutukseen, suoritetaan
+    ole tarkoitettu alkeis- tai peruskoulutukseen, tehdään
     kuvunkäsittelyhypyt ennen muita suorituksia.
 - Vapaavalintaisia hyppyjä siten, että A-lisenssiin vaadittavat 25
     itseavaushyppyä saadaan täyteen. Kokeillaan freehyppäämistä
