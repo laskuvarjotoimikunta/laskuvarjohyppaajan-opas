@@ -177,8 +177,10 @@ muutamia ominaispiirteitä:
 2.  Suoritetaan sopivan siipikuorman arviointi ja päävarjon koon ja
     tyypin valinta sekä pohditaan varuste- ja varjovaihtoehtoja
     huomioiden mahdolliset rajoitukset.
+    
+3.  Tutustu LT:n sivuilla oleviin kalustoa koskeviin asiakirjoihin. 
 
-3.  Harjoitellaan ja kerrataan koulutushypyillä tehtävät suoritukset.
+4.  Harjoitellaan ja kerrataan koulutushypyillä tehtävät suoritukset.
 
-4.  Annetaan näyte hyppymestarille varjon avautumisen jälkeisistä
+5.  Annetaan näyte hyppymestarille varjon avautumisen jälkeisistä
     toimenpiteistä ja toiminnasta törmäämistilanteessa.
