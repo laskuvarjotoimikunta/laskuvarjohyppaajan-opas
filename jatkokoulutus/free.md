@@ -36,14 +36,14 @@ käpertyy osittain palloksi, eli vetää jalat sisään ja koukistaa käsiä
 kyynärvarsista 90 asteen kulmaan eteenpäin, jolloin asento kääntyy
 putoamaan hieman selälleen takapainoisesti takapuoli maata kohti. Tällä
 asennolla koetetaan pitää sama putoamisvauhti kuin useimmilla
-freekuvilla. Recovery positionin käyttäminen lisää turvallisuutta, kun
+freekuvilla. Palloasennon käyttäminen lisää turvallisuutta, kun
 ilmassa on useampia freehyppääjiä. Jos sittiksen kaatuessa hyppääjä
 stabiloi itsensä suoraan perusasentoon mahalleen, hänen vauhtinsa
 hidastuu huomattavasti, ja tämä lisää törmäysriskiä. Oppilassuorituksena
-recovery positionia on hyvä alkaa harjoitella heti alusta alkaen:
-sittiksen / muun freeliikkeen kaatuessa otetaan recovery position ja
+palloasentoa on hyvä alkaa harjoitella heti alusta alkaen:
+sittiksen / muun freeliikkeen kaatuessa otetaan palloasento ja
 pyritään palautumaan siitä takaisin sittikseen painamalla jalkoja
-ilmavirtaan ja levittämällä asento sittikseen. Recovery positionia
+ilmavirtaan ja levittämällä asento sittikseen. Palloasentoa
 voidaan harjoitella esimerkiksi menemällä kyykkyyn ja painamalla
 rintakehä reisiä vasten ja samanaikaisesti ottamalla käsiä hieman sisään
 ja kääntämällä kyynärvarret 90 astetta kyynärpäistä eteenpäin.
