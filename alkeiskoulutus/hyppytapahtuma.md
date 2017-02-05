@@ -22,7 +22,7 @@ Ennen koneelle menoa hyppymestari tarkastaa, että varusteet on puettu
 oikein päälle. Tarkastuksen jälkeen varusteita **ei saa säätää** ilman
 hyppymestarin lupaa! Vallitsevan tuulen mukainen ohjauskuvio käydään vielä
 läpi ennen koneelle menoa. Oppilaat saavat mennä koneelle vain hyppymestarin
-johdolla.
+johdolla. Konetta lähestytään aina takakautta.
 
 ###  Toiminta koneessa  
 
