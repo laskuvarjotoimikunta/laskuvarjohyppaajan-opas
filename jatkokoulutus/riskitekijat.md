@@ -29,10 +29,10 @@ laskuvarjourheilussa ovat esimerkiksi
     hyppytausta
 - liika yrittäminen kokemuksen ollessa vähäinen
 - välinpitämättömyys muista hyppääjistä ja näyttämisen tarve
-- väärä uloshyppypaikka.
+- väärä uloshyppypaikka
 - matalat purut ja aukaisut sekä lyhyt liuku tai puutteellinen
     liukutekniikka
-- puutteellinen ilmatilan tarkkailu varjon varassa ja laskeuduttaessa.
+- puutteellinen ilmatilan tarkkailu varjon varassa ja laskeuduttaessa
 - rajut ohjausliikkeet ja käännökset matalalla sekä liian vaativa
     varjo taitoihin nähden.
 
@@ -78,7 +78,7 @@ laiminlyönti.
 
 
 Onnettomuuden tapahduttua keskeytetään hyppytoiminta välittömästi ja
-toimitaan SIL ry:n ohjeen Toiminta onnettomuustilanteessa mukaan.
+toimitaan SIL ry:n ohjeen Kriisiviestintä ja toiminta onnettomuustilanteessa mukaan.
 Kuolemantapauksissa ja vakavissa loukkaantumisissa onnettomuutta
 tutkimaan voidaan asettaa tutkintalautakunta, joka saavuttuaan paikalle
 ottaa johdon. Jos tutkintalautakuntaa ei aseteta, hoitaa poliisi
@@ -96,9 +96,9 @@ yhdistysten kanssa. Kerhon turvallisuuspäällikkö vastaa siitä, että
 hyppytoimintaan ja hyppyturvallisuuteen liittyvät määräykset, ohjeet ja
 tiedotteet ovat kaikkien hyppääjien saatavilla.
 
-Toiminta onnettomuuspaikalla (katso lisätietoja ohjeesta Toiminta
+Toiminta onnettomuuspaikalla (katso lisätietoja ohjeesta Kriisiviestintä ja toiminta
 onnettomuustilanteessa) on seuraava:
-- Hyppytoiminta keskeytetään
+- Hyppytoiminta keskeytetään.
 - Ilmoitukset:
 
     -   Hätäkeskus 112
@@ -133,33 +133,33 @@ onnettomuustilanteessa) on seuraava:
 
 ### Onnettomuuspaikalla 
 
-- Estetään lisäonnettomuuksien synty (tie tai lähiympäristö)
-- Annetaan ensiapu
-- Eristetään alue ja estetään turhien jälkien syntyminen
+- Estetään lisäonnettomuuksien synty (tie tai lähiympäristö).
+- Annetaan ensiapu.
+- Eristetään alue ja estetään turhien jälkien syntyminen.
 - Loukkaantuneen varusteet pyritään pitämään mahdollisimman
-    alkuperäisessä tilassa, jos mahdollista
+    alkuperäisessä tilassa, jos mahdollista.
 - Kuolemaan johtaneissa onnettomuuksissa uhria ja varusteita ei
-    saa siirtää. Uhri peitetään tarvittaessa
+    saa siirtää. Uhri peitetään tarvittaessa.
 - Otetaan onnettomuuspaikasta maastoon sidottuja valokuvia ja/tai
-    videokuvaa
+    videokuvaa.
 - Järjestetään pelastushenkilökunnan sekä viranomaisten opastus
-    onnettomuuspaikalle
+    onnettomuuspaikalle.
 
 ### Tiedottaminen 
 
 - Tiedottamisen on oltava niukkaa. Ei soiteta itse minnekään. Jos
     tiedotusvälineistä soitetaan, kerrotaan vain, että a) onnettomuus on
-    tapahtunut ja b) tiedottamisesta vastaa nimetty henkilö
+    tapahtunut ja b) tiedottamisesta vastaa nimetty henkilö.
 - Onnettomuuden uhrin nimeä ei saa julkaista, ennen kuin uhrin
     omaisille on mennyt tieto tapahtuneesta ja he ovat antaneet
-    siihen luvan. Kerholaiset eivät saa kertoa nimeä ulkopuolisille
+    siihen luvan. Kerholaiset eivät saa kertoa nimeä ulkopuolisille.
 - Onnettomuuteen johtaneista syistä ei saa esittää minkäänlaisia
-    arvioita
+    arvioita.
 - Onnettomuudesta ei saa keskustella missään julkisessa paikassa, ei
     ravintoloisissa, ei busseissa, ei saunassa eikä missään, missä on
-    ulkopuolisia kuulijoita
-- Täytetään ja lähetetään vaaratilanneraportti (tätä voi
-    täydentää myöhemmin)
+    ulkopuolisia kuulijoita.
+- Täytetään ja lähetetään turvallisuusilmoitus (tätä voi
+    täydentää myöhemmin).
 
 ## Ensiapu  
 
@@ -287,7 +287,7 @@ Muistetaan aina sokin vaara ja annetaan sokin oireenmukainen ensiapu:
     seikkojen takia kannattaa käydä lääkärissä mahdollisimman pian
     tapaturman sattumisen jälkeen.)
 
-## Vaaratilanneilmoitus  
+## Turvallisuusilmoitus  
 
 
 Jos laskuvarjohypyn yhteydessä sattuu sellainen vaaratilanne, jossa
@@ -307,7 +307,7 @@ lisätietoja vaaratilanneilmoituksen tekemisestä.
 
 ## Harjoitus  
 
-1.  Tutustutaan Vaaratilanneilmoitukseen ja sen täyttöön. Lomake
+1.  Tutustutaan Turvallisuusilmoitukseen ja sen täyttöön. Lomake
     löytyy Laskuvarjotoimikunnan nettisivuilta.
     <http://vtr.laskuvarjotoimikunta.fi/>
 
