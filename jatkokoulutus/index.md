@@ -12,7 +12,7 @@ kuvunkäsittelyyn ja tarkkuuslaskeutumisiin.
 
 Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
 - 5 ryhmähyppyä
-- 3 kuvunkäsittelyhyppyä
+- 3 kuvunkäsittelyhyppyä (29.1 s.119) 
     Jos oppilas ottaa käyttöön omat varusteet tai käyttää varjoa, jota ei
     ole tarkoitettu alkeis- tai peruskoulutukseen, suoritetaan
     kuvunkäsittelyhypyt ennen muita suorituksia.
@@ -28,12 +28,10 @@ Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
 
  ## Muut suoritukset  
 
-- 5 tarkkuuslaskeutumista hyppysuoritusten yhteydessä, laskeutuminen
-    25 metrin säteelle kouluttajan osoittamasta paikasta.
-- Pakkaustaidonnäyte (Voidaan suorittaa koulutusorganisaatiosta
-    riippuen myös aikaisemmassa vaiheessa.)
-- Oppilasvarjon pakkaustarkastusnäyte.
-- A-lisenssin teoriakoe. Kokeessa on tulee osata kaikki tähän mennessä
+- 5 paikammääritystä, joilla tarkkuuslaskeutuminen hyppysuoritusten yhteydessä, laskeutuminen
+    25 metrin säteelle kouluttajan määräämästä pisteestä.
+- Käytännönkoe oppilaspäävarjon pakkaamisesta ja tarkastuksesta.
+- A-lisenssin teoriakoe. Kokeessa tulee osata kaikki tähän mennessä
     luettu ja harjoiteltu sekä laskuvarjohyppäämistä koskevat lait,
     määräykset ja ohjeet.
 
@@ -42,4 +40,4 @@ Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
 
 Jos jatkokoulutuksen aikana oppilaalle tulee 30 vrk tai sitä pidempi
 hyppytauko, hänen on hypättävä totutteluhyppynä 15” ennen seuraavaa
-ohjelman mukaista hyppyä. Hyppymestari voi määrätä muitakin suorituksia.
+ohjelman mukaista hyppyä. Hyppymestari voi määrätä muunkin suorituksen.
