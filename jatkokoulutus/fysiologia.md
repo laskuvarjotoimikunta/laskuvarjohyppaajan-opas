@@ -52,11 +52,11 @@ ja koordinaatiokyky heikkenee.
 Hapenpuutteen oireiden ilmenemisnopeuteen ja vaikeusasteeseen
 vaikuttavat
 
-1.  Aika, jonka kuluessa happivajaus on syntynyt
+1.  Aika, jonka kuluessa happivajaus on syntynyt.
 
-2.  Happivajauksen aste
+2.  Happivajauksen aste.
 
-3.  Aika, jonka hapenpuute kestää
+3.  Aika, jonka hapenpuute kestää.
 
 4.  Henkilökohtaiset ominaisuudet, kuten ruumiinrakenne,
     mahdolliset sairaudet.
@@ -65,7 +65,7 @@ Hapenpuutteen vaarallisuus piilee siinä, että oireita on vähän eikä
 niitä aina havaita ajoissa.
 
 Hapen saantiin on aina suhtauduttava vakavasti, kun hyppykorkeus on yli
-kolme kilometriä. Lisähappea tarvitaan määräysten mukaan kuitenkin vasta
+kolme kilometriä. Lisähappea tarvitaan määräysten mukaan kuitenkin vasta NCO!!!!
 yli neljän kilometrin hyppykorkeuksissa. Happivajetta voidaan ehkäistä
 istumalla rauhalliseti paikallaan koneessa uloshyppyyn asti sekä
 pukeutumalla lämpimästi.
