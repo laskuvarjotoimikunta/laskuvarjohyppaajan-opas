@@ -107,7 +107,7 @@ Tärkeät korkeudet:
     molemmin käsin.
 7.  Murra tarra ja vedä kädet suoriksi alaviistoon.
 8.  Taivuta.
-9.  Pidä vv-kahva kädessä tai päästä irti (kerhokohtainen).
+9.  Pidä varavarjokahva kädessä tai päästä irti (kerhokohtainen).
 
 ![](/kuvat/Toimintakaavio lentää ei lennä_2016.png
 )
