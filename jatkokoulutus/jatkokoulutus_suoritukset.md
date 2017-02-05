@@ -12,9 +12,9 @@ ryhmähyppäämisen osa-alueet:
 - Toiminta maassa, lentokoneessa ja uloshypyssä.
 - Toiminta vapaapudotuksessa, muodostelman lähestyminen ja otteiden
     ottaminen turvallisesti.
-- Purku ja liuku (oikeaan suuntaan ja riittävän tehokkaasti)
+- Purku ja liuku (oikeaan suuntaan ja riittävän tehokkaasti).
 
-    -   Purku kahdella ensimmäisellä hypyllä 1800 metrissä, seuraavilla
+    -   Purku ainakin ensimmäisellä hypyllä 1800 metrissä, seuraavilla
         vähintään 1600 metrissä
 - Aloita avaustoimenpiteet 1200 metrin korkeudessa.
 - Kaikkia ryhmähyppyjä yhdistää seuraava toimintajärjestys
@@ -33,8 +33,8 @@ ryhmähyppäämisen osa-alueet:
         -   Ota ote.
 
 ###  Oppilaan toiminta  
-- UH-harjoittelu, otteet ja ovelle asettautuminen
-- Hypyn harjoittelu maassa
+- UH-harjoittelu, otteet ja ovelle asettautuminen.
+- Hypyn harjoittelu maassa.
 
 ###  Oppimistavoitteet  
 
@@ -107,8 +107,8 @@ tehdään.
 
 Kuvunkäsittelyhypyt on hypättävä ennen muita suorituksia, jos oppilas
 saa jatkokoulutuksessa luvan käyttää omia varusteita tai kerhon
-varusteita, joita ei ole hyväksytty alkeis- / peruskoulutuskäyttöön
-- Hyppykorkeus on 2000 metriä, josta hypätään 8-10 s vapaa.
+varusteita, joita ei ole hyväksytty alkeis- / peruskoulutuskäyttöön.
+- Hyppykorkeus on vähintään 2000 metriä, josta hypätään 8-10 s. vapaa.
 - Vapaapudotussuorituksia ei tehdä samalla hypyllä.
 
 ###  Oppilaan toiminta  
@@ -117,8 +117,8 @@ varusteita, joita ei ole hyväksytty alkeis- / peruskoulutuskäyttöön
 - Määritä UH-paikka. (aika varjon varassa pidempi?)
 
 ###  Oppimistavoitteet  
-- Oppia käsittelemään varjoa kantohihnoista
-- Oppia käsittelemään varjoa eri jarrutustiloissa
+- Oppia käsittelemään varjoa kantohihnoista.
+- Oppia käsittelemään varjoa eri jarrutustiloissa.
 - Oppia erilaisia loppuvetotapoja.
 
 ###  Hyppylennolla  
@@ -144,7 +144,7 @@ hyppääjänä.
 
 ###  Oppilaan toiminta  
 
-Hän valmistelee pokan kaikilta osin pokan vanhimman roolissa:
+Hän valmistelee pokan kaikilta osin pokanvanhimman roolissa:
 - huolehtii varusteistaan
 - valitsee ja suunnittelee turvallisen hypyn
 - päättää pokassa olevien uloshyppyjärjestyksen
@@ -158,17 +158,17 @@ jälkeen hän toimii itsenäisenä hyppääjänä.
 
 ###  Oppimistavoitteet  
 
-1.  Kykenee huolehtimaan itsenäisesti varusteistaan
+1.  Kykenee huolehtimaan itsenäisesti varusteistaan.
 
-2.  Pystyy päättelemään turvallisen uloshyppyjärjestyksen
+2.  Pystyy päättelemään turvallisen uloshyppyjärjestyksen.
 
-3.  Kykenee määrittämään sopivan linjan ja UH-paikan koko pokalle
+3.  Kykenee määrittämään sopivan linjan ja UH-paikan koko pokalle.
 
-4.  Suoriutuu kokemukseensa nähden sopivasta hyppysuorituksesta
+4.  Suoriutuu kokemukseensa nähden sopivasta hyppysuorituksesta.
 
 ###  Hyppylennolla  
-- Varmistaa koneen lastauksen oikeassa järjestyksessä
-- Määrittää UH-paikan
+- Varmistaa koneen lastauksen oikeassa järjestyksessä.
+- Määrittää UH-paikan.
 
 ###  Hypyn kulku  
 
