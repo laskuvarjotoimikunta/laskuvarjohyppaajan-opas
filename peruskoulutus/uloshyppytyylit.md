@@ -1,6 +1,6 @@
 # Uloshyppytyylit
 
-Uloshyppy ja ensimmäiset 1-2 sekuntia vapaapudotusta ovat ensimmäisillä hypyillä tyypillisesti sellaisia, että hyppääjä ei muista niistä mitään. Kokemuksen karttuessa ajantaju alkaa säilymään koko hyppysuorituksen ajan. Huomioi, että ajantaju voi kadota tehdessäsi vaativaa suoritusta tai keskittyessäsi poistamaan jotakin ongelmaa. Erityisesti hyppyuran alkuvaiheessa hyvä uloshyppy on yhtä kuin hyvä hyppy. Myöhemmin uloshypyn onnistuminen korostuu sekä muodostelmahypyillä että matalilla hypyillä (lyhyet vapaat). Uloshyppytyylistä riippumatta perusperiaate on hyödyntää suhteellista ilmavirtaa halutun asennon ja suunnan saamiseksi ja säilyttämiseksi.
+Uloshyppy ja ensimmäiset 1–2 sekuntia vapaapudotusta ovat ensimmäisillä hypyillä tyypillisesti sellaisia, että hyppääjä ei muista niistä mitään. Kokemuksen karttuessa ajantaju alkaa säilymään koko hyppysuorituksen ajan. Huomioi, että ajantaju voi kadota tehdessäsi vaativaa suoritusta tai keskittyessäsi poistamaan jotakin ongelmaa. Erityisesti hyppyuran alkuvaiheessa hyvä uloshyppy on yhtä kuin hyvä hyppy. Myöhemmin uloshypyn onnistuminen korostuu sekä muodostelmahypyillä että matalilla hypyillä (lyhyet vapaat). Uloshyppytyylistä riippumatta perusperiaate on hyödyntää suhteellista ilmavirtaa halutun asennon ja suunnan saamiseksi ja säilyttämiseksi.
 
 Uloshyppy on aina arvioitava suoritus ja sen tärkeimmät tekijät ovat ilmavirran suunnan huomioiminen sekä ponnistuksen suunta. Uloshyppyyn on varattava myös aina riittävästi aikaa, mikä on huomioitava
 uloshyppypaikkaa määriteltäessä. Tavoitteena on hallita kaikki uloshyppytyylit rutiinitasolla ja muistaa koko hyppysuoritus heti uloshypystä maahantuloon asti.
@@ -87,7 +87,7 @@ Hyppääminen muista ilma-aluksista kuten helikoptereista, kuumailmapalloista jn
 
 ## Harjoitus
 
-1.  Katsotaan eri uloshyppyjä Oppilaan Opas-videolta kouluttajan kanssa.
+1.  Katsotaan eri uloshyppyjä Oppilaan Opas -videolta kouluttajan kanssa.
 2.  Mietitään kouluttajan kanssa miten hyppääjä/hyppääjät hyödyntävät suhteellista ilmavirtaa kussakin uloshyppytyylissä.
 3.  Harjoitellaan omalla hyppykoneella/konemallilla kouluttajan mallisuoritusten mukaan eri uloshyppyjä.
 4.  Omatoiminen harjoittelu koneella/konemallilla ja näyte hyppymestarille suorasta ja sukellusuloshypystä.
