@@ -10,7 +10,7 @@ Viallista tai märkää varjoa ei saa pakata! Varjo pakataan kuivalla ja
 puhtaalla alustalla. Pakkauskirja esitäytetään valmiiksi. Kun varjo pakataan 
 oikein, se toimii ja säilyy ehjänä ja käyttökelpoisena pidempään. 
 Pakkaajan on oltava huolellinen, mutta vastuu pakkauksesta on aina
-pakkaustarkastajalla. Tarkastuksen saa suorittaa A-D-lisenssihyppääjä. 
+pakkaustarkastajalla. Tarkastuksen saa suorittaa A–D-lisenssihyppääjä. 
 Pakkaustarkastuksesta on muistettava, että se on aina opetus- 
 ja oppimistapahtuma.
 
@@ -19,7 +19,7 @@ Pystypakkaus I tarkastusvaiheeseen suoritetaan seuraavasti:
 Tarkistetaan ohjauspunosten selvyys koko matkalta ohjauslenkistä kuvun
 takahelmaan, poistetaan kierteet ohjauspunoksista ja kiinnitetään
 puolijarrut. Nostetaan kupu olkapäälle, laitetaan 9 tunnelin suuta
-polvien väliin, viikataan A B C- ja D-punosryhmien välistä kankaat
+polvien väliin, viikataan A-, B-, C- ja D-punosryhmien välistä kankaat
 sivulle stabilisaattoriväleihin. Taitellaan kuvun takahelma
 ohjauspunosten välistä sivulle, muiden punosryhmien päälle, lasketaan
 slider tähden muotoon stabilisaattorien kovikkeita vasten.
@@ -50,8 +50,8 @@ I tarkastusvaiheen tarkastaja vastaa siitä, että
 
 Tarkastuksen on oltava yksityiskohtainen, jotta pakkausta ei tarvitse
 keskeyttää myöhemmin puutteen tai vian takia. Tämän jälkeen tarkastaja
-kuittaa ensimmäisen tarkastusvaiheen pakkauskirjanpitoon todeten samalla
-esitäytettyjen pakkaustietojen paikkansapitävyyden.
+kuittaa tunnistettavasti ensimmäisen tarkastusvaiheen pakkauskirjanpitoon 
+todeten samalla esitäytettyjen pakkaustietojen paikkansapitävyyden.
 
 Pakkaus II tarkastusvaiheeseen suoritetaan seuraavasti:
 - Asetetaan takahelman keskiosa ylös (warning label / keskimerkki)
@@ -95,7 +95,7 @@ II tarkastusvaiheen tarkastaja vastaa seuraavista asioista:
     -   Viimeistellään pakkaus siistiksi. PL-hihna taitellaan
         lenkkeihinsä ja viedään varjo paikoilleen.
 
-Tämän jälkeen tarkastaja kuittaa toisen tarkastusvaiheen
+Tämän jälkeen tarkastaja kuittaa tunnistettavasti toisen tarkastusvaiheen
 pakkauskirjanpitoon.
 
 ## Harjoitus
@@ -103,5 +103,5 @@ pakkauskirjanpitoon.
 1. Harjoitellaan oppilaspäävarjon pakkaustarkastuksen tekemistä
     jokaisella pakkauskerralla tämän koulutuksen jälkeen.
 
-2.  Huomioidaan tarkastuksissa olevat erot eri avausjärjestelmillä
+2. Huomioidaan tarkastuksissa olevat erot eri avausjärjestelmillä
     olevissa varjoissa: pakkolaukaisu, jousi- ja HD-apuvarjo.
