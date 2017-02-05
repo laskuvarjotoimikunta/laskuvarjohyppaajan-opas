@@ -9,7 +9,7 @@ Käytä tasokoulutuksessa opittuja asioita: suora uloshyppy, asennon stabilointi
 ### Oppimistavoitteet
 
 1. Stabiili asento 5 sekunnissa
-2. Avaustoimenpiteet oikeaan aikaan (7-10 s uloshypystä)
+2. Avaustoimenpiteet oikeaan aikaan (7–10 s uloshypystä)
 
 ### Hyppylennolla
 
@@ -23,7 +23,7 @@ Tarkista omat varusteesi, ilmatila, pilvet ja huomioi mahdollinen exit-väli.
         Rentouta asento uloshypyn jälkeen
         Tarkkaile korkeutta
 
-**8-SEKUNTIA**
+**8 SEKUNTIA**
 
         Aloita avaustoimenpiteet: Näytä avausmerkki.
 
@@ -46,7 +46,7 @@ Tarkista omat varusteesi, ilmatila, pilvet ja huomioi mahdollinen exit-väli.
 
 **102..104**
 
-        Varjo avautuu ja tehdään sen lopullinen avaaminen.
+        Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.
 
 **105**
 
@@ -60,7 +60,7 @@ Käytä tasokoulutuksessa opittuja asioita: suora uloshyppy, asennon stabilointi
 
 ### Oppimistavoitteet
 
-1.  Avaustoimenpiteet stabiilista asennosta oikeaan aikaan. (4-7 s uloshypystä)
+1.  Avaustoimenpiteet stabiilista asennosta oikeaan aikaan. (4–7 s uloshypystä)
 
 ### Hyppylennolla
 
@@ -74,7 +74,7 @@ Tarkista omat varusteesi, ilmatila, pilvet ja huomioi mahdollinen exit-väli.
         Rentouta asento uloshypyn jälkeen
         Tarkkaile korkeutta
 
-**5-SEKUNTIA**
+**5 SEKUNTIA**
 
         Aloita avaustoimenpiteet: Näytä avausmerkki.
 
@@ -97,7 +97,7 @@ Tarkista omat varusteesi, ilmatila, pilvet ja huomioi mahdollinen exit-väli.
 
 **102..104**
 
-        Varjo avautuu ja tehdään sen lopullinen avaaminen.
+        Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.
 
 **105**
 
