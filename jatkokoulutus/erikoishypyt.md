@@ -2,7 +2,7 @@
 
 A-lisenssin saamisen jälkeen on mahdollista laajentaa hyppykokemustaan
 alkamalla harjoitella valitsemiaan hyppylajeja. Kokemuksen karttuessa
-voi hypätä myös erilaisia hyppyjä. Näitä ovat esimerkiksi yö vesi- tai
+voi hypätä myös erilaisia hyppyjä. Näitä ovat esimerkiksi yö-, vesi- tai
 näytöshypyt. Tällaiset erikoisuudet tuovat vaihtelua normaaliin
 hyppytoimintaan, mutta edellyttävät huolellisen ja asiantuntevan
 valmistautumisen. SIL:n ohjeet asettavat osalle erikoishypyistä kokemus-
@@ -59,7 +59,7 @@ huomioon varjoa valittaessa.
 
 Hyppyyn valmistautuminen alkaa huolellisella suunnittelulla. Hyppääjien
 on tutustuttava hyppyalueeseen päiväsaikaan. Varjon aukaisua ja
-VV-toimenpiteitä on syytä harjoitella.
+varavarjotoimenpiteitä on syytä harjoitella.
 
 Sääolosuhteet ja ennusteet täytyy tutkia huolella. Tuulen suunta muuttuu
 usein auringon laskun jälkeen. Valojen toiminta ja kiinnitys on
@@ -100,7 +100,7 @@ veneessä oleva henkilö auttaa vedessä olevan hyppääjän veneeseen.
 Kalustoa valittaessa on otettava huomioon, että kaikki
 automaattilaukaisimet ja korkeusmittarit eivät kestä vettä (jos
 hyppykorkeus vesihypyllä ei ylitä 1500 metriä, visuaalinen
-korkeusmittari ei ole pakollinen varuste). Huomioi mahdollinen RSL! 
+korkeusmittari ei ole pakollinen varuste). Irrota mahdollinen RSL! 
 ZP-kangas on sinänsä melko kutistumatonta, mutta varjon valmistuksessa 
 käytetyt vahvikenauhat eivät välttämättä säilytä mittojaan kuivuttuaan, 
 jolloin varjon ominaisuudet huonontuvat.
@@ -131,7 +131,7 @@ tai pienen yleisön eteen. Näytöshypyt voivat olla tilattuja (esimerkiksi
 perhetapahtumat, yleisötapahtumat jne.) tai hyppyorganisaation esittelyä
 muulle yleisölle.
 
-Näytöshyppytoiminnassa on noudatettava SIL:n *Toiminnallisia ohjeita*.
+Näytöshyppytoiminnassa on noudatettava SIL:n *Toiminnallisia ohjeita ja kelpoisuusvaatimuksia*.
 Tässä ohjeessa on käsitelty mm. näytöshyppyorganisaatio, luvat,
 ilmoitukset, ehdot, näytöshyppyalue ja -olosuhteet.
 
@@ -157,12 +157,12 @@ suurimpia tapahtumia ovat olleet Pimp My Fly (Utti), Freefly Playdate
 (Oripää) ja Sunset Boogie (Alavus). Virossa järjestetään
 vuosittain Parasummer, johon osallistuu myös paljon suomalaisia.
 
-Ruotsissa järjestettiin 1982 - 2004 yksitoista kertaa Hercules-boogie,
+Ruotsissa järjestettiin 1982–2004 yksitoista kertaa Hercules-boogie,
 jossa oli käytössä Ruotsin Ilmavoimien C-130 Hercules kuljetuskoneita.
 Osallistujia oli satoja hyppääjiä ympäri maailmaa. Näiden koneiden
 saatavuus hyppykäyttöön on vähentynyt merkittävästi eikä koneita
-Ruotsissa ole enää siviilihyppykäytössä. Suomessa järjestettiin
-Hercules-leiri 1997.
+Ruotsissa ole enää siviilihyppykäytössä. Suomessa järjestettiin v. 1997 Oulussa
+Hercules-leiri. Leirillä hypättiin 100-way FS-muodostelma.
 
 Kun kiinnostava tapahtuma on löytynyt, kannattaa aluksi selvittää
 mahdolliset hyppykokemusrajat ja noudattaa niitä. Tapahtumissa hypätään
@@ -209,7 +209,7 @@ sisäänkirjoittautumisen yhteydessä. Ennen hyppytapahtumaan lähtöä on
 huolehdittava, että tarvittavat asiapaperit ovat mukana: lisenssi,
 hyppypäiväkirja, varjokirjat ja mahdolliset vakuutuspaperit. On myös
 tarkastettava, että lisenssi, kaikki kaluston tarkastukset ja
-pakkausjaksot (huom. varavarjon pakkausjaksot saattavat olla boogieissa
+pakkausjaksot (huom. varavarjon pakkausjaksot saattavat olla ulkomailla
 tiukemmat kuin kotimaassa) ovat voimassa ja kalusto on hyvässä kunnossa.
 Erityisesti avausjärjestelmään kiinnitetään boogieissa huomiota.
 Luuppien kunto ja tiukkuus sekä apuvarjon taskun tiukkuus tarkistetaan.
@@ -237,8 +237,8 @@ FS:ssä hypätään myös Intermediate-sarjassa, jossa sääntöjä on helpotett
 kokemattomampia hyppääjiä varten. CF-puolella kilpaillaan nykyisin 
 kahden hengen sekvenssissä. Artistic-lajeista Freestyle (kahden hengen 
 joukkue) ja Freefly (kolmen hengen joukkue) ovat SM-lajeja. 
-Freeflyingissä kilpaillaan myös aloittelijoille sopivassa Intermediate-
-sarjassa. Canopy piloting (pituus-, tarkkuus- ja nopeuslaskeutumiset) 
+Freeflyingissä kilpaillaan myös aloittelijoille sopivassa Intermediate-sarjassa.
+Canopy piloting (pituus-, tarkkuus- ja nopeuslaskeutumiset) 
 -harrastajia on Suomessa vähän, joten SM-kisojakin on järjestetty 
 harvakseltaan. Liitohyppääminen (liitopukuhyppääminen, WS) on uusin 
 SM-kilpailulaji. Siinä on kaksi kilpailumuotoa, 3 hengen joukkuelaji 
