@@ -53,11 +53,27 @@ TODO:Takavoltin suoritus, kuva pdf muodossa, joten ei toimi tässä
 
 ## Tynnyri
 
-Tynnyri on freeasentojen perusliike, sillä isommilla freekuvilla purun jälkeen liu’uttaessa voidaan tekemällä liu’usta tynnyri tarkastaa vapaa ilmatila ennen avausta. Tynnyrissä on tarkoitus kääntyä vatsaltaan kyljen kautta selälleen ja siitä edelleen täysi kierros takaisin mahalleen. Tynnyri tehdään perusasennosta viemällä toinen käsi vartalon lähelle tai alle ja samalla kääntämällä vartaloa samaan suuntaan vaaka-akselin ympäri. Asennon käännyttyä selälleen jatketaan liikettä kääntymällä toisen kyljen kautta ympäri takaisin perusasentoon.
+Tynnyrissä on tarkoitus kääntyä vatsaltaan kyljen kautta selälleen 
+ja siitä edelleen täysi kierros takaisin mahalleen. Tynnyri tehdään 
+perusasennosta viemällä toinen käsi vartalon lähelle tai alle ja 
+samalla kääntämällä vartaloa samaan suuntaan vaaka-akselin ympäri. 
+Asennon käännyttyä selälleen jatketaan liikettä kääntymällä toisen 
+kyljen kautta ympäri takaisin perusasentoon.
 
 ## Liuku
 
-Liu’un tavoitteena on liikkua vaakatasossa mahdollisimman kauaksi muihin hyppääjiin nähden samalla, kun pudotaan alaspäin. Liuku ei ole siis syöksyä tai tikkaamista. FS-liukuun kuuluvat myös korkeuden tarkastus, purkumerkki, 180° käännös, liuku vapaaseen suuntaan, liu’un jälkeinen ilmatilan tarkastus sekä avausmerkki ja harjoitusveto. Putoamisnopeus voi kasvaa liu’un aikana. Korkeuden tarkkailu on tärkeää, sillä liu’un pysäytys vaatii myös aikansa. Varjon avaamista suoraan liu’usta ei suositella. Hyvä liuku on ensiarvoisen tärkeä taito laskuvarjohyppääjällä, sillä ainoastaan hyvällä liu’ulla pystyy varmistamaan riittävän välimatkan muihin hyppääjiin purun jälkeen! Liuku tehdään seuraavasti:
+Liu’un tavoitteena on liikkua vaakatasossa mahdollisimman kauaksi 
+muihin hyppääjiin nähden samalla, kun pudotaan alaspäin. Liuku 
+ei ole siis syöksyä tai tikkaamista (= pystysyöksy). FS-liukuun 
+kuuluvat myös korkeuden tarkastus, purkumerkki, 180° käännös, 
+liuku vapaaseen suuntaan, liu’un jälkeinen ilmatilan tarkastus 
+sekä avausmerkki ja harjoitusveto. Putoamisnopeus voi kasvaa 
+liu’un aikana. Korkeuden tarkkailu on tärkeää, sillä liu’un 
+pysäytys vaatii myös aikansa. Varjon avaamista suoraan liu’usta 
+ei suositella. Hyvä liuku on ensiarvoisen tärkeä taito 
+laskuvarjohyppääjällä, sillä ainoastaan hyvällä liu’ulla 
+pystyy varmistamaan riittävän välimatkan muihin hyppääjiin 
+purun jälkeen! Liuku tehdään seuraavasti:
 
 1. Otetaan kiintopiste edestä, maasta.
 2. Oikaistaan jalat.
