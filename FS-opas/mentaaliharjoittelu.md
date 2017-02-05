@@ -22,7 +22,7 @@ laudoille tai konemallille. Mielikuvan hypystä tulee olla selkeä ja
 toimiva ennen koneeseen menoa, sillä jos hypyn mieltämisessä tai
 muistamisessa on ongelmia, niin ongelmat todennäköisesti tulevat esiin
 myös itse hypyllä. Koneessa hyppy kannattaa käydä muutaman kerran läpi
-mielessä, lähinnä muistutukseksi - ei niinkään enää oppimismielessä.
+mielessä, lähinnä muistutukseksi – ei niinkään enää oppimismielessä.
 Hyppyä ei kuitenkaan kannata stressata liikaa, jotta ei aiheuta
 itselleen ylivirittynyttä oloa.
 
