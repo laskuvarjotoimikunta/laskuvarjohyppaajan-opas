@@ -38,7 +38,7 @@ seuraavat asiat:
 * Kypärä ja sormikkaat ovat puettuna päälle ja hyppylasit kiristettyinä hyppykireyteen.
 * Varavarjon pakkolaukaisuhihnan lukko on kiinni ja paikoillaan.
 * Korkeusmittari näyttää oikein ja on luettavissa. Automaattilaukaisin FXC-12000 on JUMP-asennossa.
-* Irtipäästöpampula, varavarjonkahva ja päävarjon avauskahva ovat paikallaan sekä näkyvissä (pois lukien BOC eli repun pohjassa sijaitseva avauskahva, jonka pitää olla esteettömästi saatavilla, tarkista sijainti koskettamalla BOC-avauskahvaa).
+* Päävarjon avauskahva, irtipäästöpampula ja varavarjonkahva ovat paikallaan sekä näkyvissä (pois lukien BOC eli repun pohjassa sijaitseva avauskahva, jonka pitää olla esteettömästi saatavilla, tarkista sijainti koskettamalla BOC-avauskahvaa).
 * Rinta- ja reisihihnat ovat kireällä ja mahdolliset lukot ovat kiinni.
 * Hyppykaveri tarkastaa takaa, että pää- ja varavarjon läpät ovat kiinni. Pinnitarkastus suoritetaan, jos läppä tai läpät ovat auenneet. Tarraläpän alla oleva pinni on hyvä tarkastaa aina.
 
