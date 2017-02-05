@@ -4,9 +4,12 @@ PL-alkeiskoulutuksen suoritukset
  Pakkolaukaisu  
 ---------------
 
-Ensimmäiset hyppysi ovat pakkolaukaisuhyppyjä. Irtautuessasi koneesta
-pakkolaukaisujärjestelmä avaa päävarjon repun ja vetää sisäpussin ulos
-repusta.
+Ensimmäiset hyppysi ovat pakkolaukaisuhyppyjä. Koneesta irtautuessa
+pakkolaukaisujärjestelmä avaa päävarjon repun, jonka jälkeen avausjärjestelmä 
+vetää sisäpussin ulos repusta. Punokset alkavat purkautua kumilenkeistään.
+Kupu tulee ulos sisäpussista ja alkaa kehittyä keskeltä. Slider liukuu
+punoksia pitkin alas hidastaen kuvun aukeamista. Sinun tehtäväksesi jää
+varjon tarkastaminen ja tarvittaessa sen selvittäminen.
 
 ###  Oppilaan toiminta  
 
@@ -36,11 +39,11 @@ Ennen koneelle menoa hyppymestari tarkastaa, että varusteet on puettu
 oikein päälle. Tarkastuksen jälkeen varusteita ei saa säätää ilman
 hyppymestarin lupaa. Vallitsevan tuulen mukainen ohjauskuvio käydään
 vielä läpi ennen koneelle menoa. Oppilaat saavat mennä koneelle vain
-hyppymestarin johdolla.
+hyppymestarin johdolla. Konetta lähestytään aina takakautta.
 
 ###  Oppimistavoitteet  
 
-Oppilaan on saavutettava välttämättömät oppimistavoitteet hyväksytysti
+Oppilaan on saavutettava välttämättömät oppimistavoitteet hyväksytysti,
 jotta hyppysuoritus voidaan hyväksyä.
 
 1.  Rintamasuunta kohti suhteellista ilmavirtaa uloshypyssä.
@@ -55,7 +58,7 @@ jotta hyppysuoritus voidaan hyväksyä.
 
 Kone kuormataan yleensä käänteisessä järjestyksessä eli se, joka menee
 koneeseen ensimmäisenä hyppää viimeisenä (poikkeuksena hyppymestari).
-Varo varusteiden tarttumista koneessa oleviin ulokkeisiin aina koneessa
+Varo varusteiden tarttumista koneessa oleviin ulokkeisiin aina koneessa LISÄÄ PAINOPISTEASIA!!!
 liikkuessasi. Suojaa erityisesti varjojen aukaisukahvoja. Jos takerrut
 kiinni johonkin, älä revi väkisin vaan ilmoita hyppymestarille. Vältä
 turhaa liikkumista. Pidä mahdolliset istuinvyöt kiinni, kunnes
@@ -82,7 +85,7 @@ Lähestyttäessä suunniteltua hyppypaikkaa koneen ovi aukaistaan.
 
 :   \
     Pidetään taivutus ja asento.\
-    Varjo avautuu ja tehdään sen lopullinen avaaminen.\
+    Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.\
 
 <!-- -->
 
@@ -156,14 +159,14 @@ harjoitusvetohyppyjä.
 
 ###  Oppimistavoitteet  
 
-1.  Rintamasuunta kohti suhteellista ilmavirtaa uloshypyssä
+1.  Rintamasuunta kohti suhteellista ilmavirtaa uloshypyssä.
 
-2.  Stabiili, symmetrinen uloshyppyasento
+2.  Stabiili, symmetrinen uloshyppyasento.
 
-3.  Kädet liikkuvat symmetrisesti avausliikkeessä
+3.  Kädet liikkuvat symmetrisesti avausliikkeessä.
 
 4.  HV-kahvan vetäminen onnistuu noin 2-4 sekunnin sisällä uloshypystä
-    (selkeä taivutusvaihe ennen vetoa)
+    (selkeä taivutusvaihe ennen vetoa).
 
 ###  Hyppylennolla  
 
@@ -179,7 +182,7 @@ lentäjä, mutta sinun päällikkösi on hyppymestari.
 
 ###  Hypyn kulku  
 
-![image](/kuvat/Harjoitusveto.png)
+![Symmetrinen avausliike](/kuvat/Harjoitusveto.png)
 
 TAIVUTA (101)
 
@@ -190,14 +193,14 @@ TAIVUTA (101)
 TARTU (102)
 
 :   \
-    vasen käsi kypärän päälle eteen vartalon normaaliksi jatkeeksi ja
-    oikea käsi kahvalle, tiukka ote\
+    Vasen käsi kypärän päälle eteen vartalon normaaliksi jatkeeksi ja
+    oikea käsi kahvalle, tiukka ote.\
 
 VEDÄ (103)
 
 :   \
-    veto kahvasta putken tai taskun suuntaan\
-    asennon palautus X:ään tai deltaan.\
+    Veto kahvasta putken tai taskun suuntaan.\
+    Asennon palautus X:ään tai deltaan.\
 
 101
 
@@ -209,7 +212,7 @@ VEDÄ (103)
 102…104
 
 :   \
-    Varjo avautuu ja tehdään sen lopullinen avaaminen.\
+    Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.\
 
 <!-- -->
 
@@ -242,7 +245,6 @@ harjoitusvetokahva pois ja tehdään varavarjotoimenpiteet.
 
 2.  Annetaan näyte hyppymestarille.
 
-to do (mitä nämä ovat useammassa kohtaa?): 
 
  Itseaukaisu 3”  
 ----------------
@@ -251,7 +253,8 @@ Itseaukaisun (IA) tavoitteena on oppia avaamaan laskuvarjo itse. Lisäksi
 on tunnettava vapaapudotuksen perusteet, osattava poistaa turbulenssi ja
 osattava pakata itseaukaisuvarjo. Tässä vaiheessa on myös kerrattava
 varavarjotoimenpiteet ja toiminta apuvarjon yhdyspunoksen tai
-kantopunoksen kiinnitarttumistilanteissa. Lue myös s.12 3.6 Avaaminen ja kysy hyppymestariltasi, miten hätähyppy muuttuu.
+kantopunoksen kiinnitarttumistilanteissa. Lue myös s.12 3.6 Avaaminen ja 
+kysy hyppymestariltasi, miten hätähyppy muuttuu.
 
 Itseaukaisuihin pääsy vaatii vähintään kuusi pakkolaukaisuhyppyä, joista
 kolmella on suoritettu hyväksytty harjoitusveto. Koulutuksen sekä maa-
@@ -262,7 +265,7 @@ hypätään samana tai seuraavana kalenterivuorokautena.
 Asennon (X ja taivutus tai delta ja taivutus) ja ajantajun säilyminen
 sekä korkeuden tarkkailu ovat tärkeitä kaikilla itseaukaisuhypyillä.
 - 3” veto 103:lla
-- 5” veto 105:llä
+- 5” veto 105:llä.
 
 ###  Oppimistavoitteet  
 
@@ -274,15 +277,7 @@ sekä korkeuden tarkkailu ovat tärkeitä kaikilla itseaukaisuhypyillä.
 
 ###  Hyppylennolla  
 
-Varo varusteiden tarttumista koneessa oleviin ulokkeisiin aina koneessa
-liikkuessasi. Suojaa erityisesti varjojen aukaisukahvoja. Jos takerrut
-kiinni johonkin, älä revi väkisin vaan ilmoita asiasta hyppymestarille.
-Vältä turhaa liikkumista. Pidä mahdolliset istuinvyöt kiinni, kunnes
-hyppymestari aukaisee ne tai antaa luvan aukaisuun. Jos lennon aikana
-huomaat omissa tai muiden varusteissa jotain poikkeavaa, ilmoita siitä
-heti hyppymestarille. Keskity omaan hyppyysi. Huomioi muut koneessa
-olijat äläkä häiritse heidän keskittymistään. Koneen päällikkö on
-lentäjä, mutta sinun päällikkösi on hyppymestari.
+Toiminta kuten aiemmin, muista suojata päävarjon avauskahvaa.
 
 ###  Hypyn kulku  
 
@@ -295,14 +290,14 @@ TAIVUTA (101)
 TARTU (102)
 
 :   \
-    vasen käsi kypärän päälle eteen vartalon normaaliksi jatkeeksi ja
-    oikea käsi kahvalle, tiukka ote\
+    Vasen käsi kypärän päälle eteen vartalon normaaliksi jatkeeksi ja
+    oikea käsi kahvalle, tiukka ote.\
 
 VEDÄ (103)
 
 :   \
-    veto kahvasta putken tai taskun suuntaan\
-    asennon palautus X:ään tai deltaan.\
+    Veto kahvasta putken tai taskun suuntaan.\
+    Asennon palautus X:ään tai deltaan.\
 
 101 
 
@@ -312,7 +307,7 @@ VEDÄ (103)
 102..104 
 
 :   \
-    Varjo avautuu ja tehdään sen lopullinen avaaminen.\
+    Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.\
 
 105 
 
@@ -342,9 +337,9 @@ säilyttävä paremmin.
     avaa päävarjo.
 
 ###  Hyppylennolla  
-- Kertaa suoritus mielessäsi
-- Keskity suoritukseesi
-- 3X3 -tarkastus ennen hyppyä
+- Kertaa suoritus mielessäsi.
+- Keskity suoritukseesi.
+- 3 x 3 -tarkastus ennen hyppyä.
     (\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ###  Hypyn kulku  
@@ -374,14 +369,14 @@ TAIVUTA (103)
 TARTU (104)
 
 :   \
-    vasen käsi kypärän päälle eteen vartalon normaaliksi jatkeeksi ja
-    oikea käsi kahvalle, tiukka ote\
+    Vasen käsi kypärän päälle eteen vartalon normaaliksi jatkeeksi ja
+    oikea käsi kahvalle, tiukka ote.\
 
 VEDÄ (105)
 
 :   \
-    veto kahvasta putken tai taskun suuntaan\
-    asennon palautus X:ään tai deltaan.\
+    Veto kahvasta putken tai taskun suuntaan.\
+    Asennon palautus X:ään tai deltaan.\
 
 101 
 
@@ -391,7 +386,7 @@ VEDÄ (105)
 102..104 
 
 :   \
-    Varjo avautuu ja tehdään sen lopullinen avaaminen.\
+    Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.\
 
 105 
 
@@ -424,9 +419,9 @@ Laskemisella säilytetään ajantaju.
 3.  Siirry UH-asennosta hypyn aikana perusasentoon.
 
 ###  Hyppylennolla  
-- Kertaa suoritus mielessäsi
-- Keskity suoritukseesi
-- 3X3 -tarkastus ennen hyppyä (\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
+- Kertaa suoritus mielessäsi.
+- Keskity suoritukseesi.
+- 3 x 3 -tarkastus ennen hyppyä. (\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ###  Hypyn kulku  
 
@@ -477,7 +472,7 @@ VEDÄ
 102..104 
 
 :   \
-    Varjo avautuu ja tehdään sen lopullinen avaaminen.\
+    Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.\
 
 105 
 
