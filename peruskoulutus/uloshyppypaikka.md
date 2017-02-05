@@ -78,7 +78,7 @@ Pienillä hyppykoneilla linja ajetaan yleensä vastatuuleen laskeutumisalueen yl
 
 Linjan pituudelle ei ole yhtä oikeaa lukua, mutta sitä voidaan arvioida esim. seuraavasti.
 
-*Laskuvarjon liitosuhde on välillä 3:1 ja 2:1. Jos hyppääjän varjo on auki 800 metrin korkeudessa ja hyppääjä aloittaa laskeutumiskuvion 300 metrin korkeudessa, hyppääjä voi lentää varjolla arviolta (500 m \* 2,5) n. 1300 metrin matkan.*
+Laskuvarjon liitosuhde on välillä 3:1 ja 2:1. Jos hyppääjän varjo on auki 800 metrin korkeudessa ja hyppääjä aloittaa laskeutumiskuvion 300 metrin korkeudessa, hyppääjä voi lentää varjolla arviolta (500 m * 2,5) n. 1300 metrin matkan.
 
 Tämän varsin konservatiivisen esimerkin mukaan linjan ensimmäinen ryhmä voisi siis poistua koneesta 1300 metriä ennen määritettyä UH-paikkaa ja viimeinen ryhmä 1300 metriä määritetyn pisteen jälkeen. Todellisuudessa linjan pituus voi vaihdella linjan suunnan, laskeutumisalueen, avauskorkeuksien jne. mukaan. Mitä kauempana oikeasta UH-paikasta hypätään, sitä suurempi on riski, että epätarkka tuuliennuste, sääolosuhteiden muutos, matala avaus tai varavarjon käyttö johtaa hyppääjän laskeutumiseen laskeutumisalueen ulkopuolelle.
 
@@ -124,20 +124,20 @@ Varusteet on aina tarkastettava ennen uloshyppyä.
 
 ## Uloshyppyjärjestys
 
-Ennen koneeseen nousemista tulee pokalle määrittää uloshyppyjärjestys ja koneeseen noustaan yleensä käänteisessä järjestyksessä. Ylätuulet vaikuttavat pidempään hitaammin putoaviin hyppääjiin sekä ryhmiin ja näin nämä ajautuvat vapaapudotuksessa enemmän kuin nopeammin putoavat hyppääjät sekä ryhmät. Suuremmat muodostelmat putoavat hitaammin kuin pienet muodostelmat ja yksittäiset hyppääjät. Uloshyppyjärjestykseen vaikuttaa siten myös ryhmän koko. Hitaammin putoavat hyppääjät ja ryhmät
+Ennen koneeseen nousemista tulee pokalle määrittää uloshyppyjärjestys ja koneeseen noustaan yleensä käänteisessä järjestyksessä. Ylätuulet vaikuttavat pidempään hitaammin putoaviin hyppääjiin sekä ryhmiin ja näin nämä ajautuvat vapaapudotuksessa enemmän kuin nopeammin putoavat hyppääjät sekä ryhmät. Uloshyppyjärjestykseen vaikuttaa myös ryhmän koko. Hitaammin putoavat hyppääjät ja ryhmät
 hyppäävät ennen nopeammin putoavia hyppääjiä ja ryhmiä. Oikealla uloshyppyjärjestyksellä saadaan lisää etäisyyttä hyppääjien ja ryhmien välille ennen purkukorkeutta ja avauksia.
 
 Uloshyppyjärjestys on yleensä seuraava:
 
-* Isot FS-muodostelmat
-* Pienet FS-muodostelmat
-* Yksittäiset mahallaan hyppääjät
-* Isot free-muodostelmat
-* Pienet free-muodostelmat
-* Yksittäiset free-hyppääjät
-* Tandemit
-* Liukuhyppääjät
-* Liitopukuhyppääjät
+* Isot FS-muodostelmat.
+* Pienet FS-muodostelmat.
+* Yksittäiset mahallaan hyppääjät.
+* Isot free-muodostelmat.
+* Pienet free-muodostelmat.
+* Yksittäiset free-hyppääjät.
+* Tandemit.
+* Liukuhyppääjät.
+* Liitopukuhyppääjät.
 
 Uloshyppyjärjestykseen vaikuttaa myös avauskorkeus. Normaalia korkeammalla avaavat hyppääjät hyppäävät linjan viimeisinä ennen liitopukuhyppääjiä. Pokan suunnittelussa onkin huomioitava esimerkiksi
 kupumuodostelma- ja liitopukuhyppääjät siten, etteivät he aiheuta vaaraa muille.
