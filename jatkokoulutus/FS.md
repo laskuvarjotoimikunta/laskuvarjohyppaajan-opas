@@ -28,7 +28,7 @@ tarkoitukselliset liikkeet voivat olla niin nopeita ja rajuja, että
 kovaa kypärää tarvitaan suojaamaan päätä esimerkiksi toisen jaloilta.
 
 Vastuu korkeuden tarkkailusta ja purkamisesta kuuluu kaikille.
-Oppilas-FS-hypyillä purkukorkeus on vähintään 1600 metriä, ja ainakin ensimmäisellä hypyllä 1800 metriä. Hypyn purkaminen oikeassa
+Oppilas-FS -hypyillä purkukorkeus on vähintään 1600 metriä, ja ainakin ensimmäisellä hypyllä 1800 metriä. Hypyn purkaminen oikeassa
 korkeudessa on oppilaan tehtävä. Purkumerkki näytetään selvästi, jonka
 jälkeen käännytään ja liu’utaan vapaaseen ilmatilaan. On tärkeää
 opetella hyvä, kantava liuku heti alusta lähtien, koska se vähentää
@@ -61,15 +61,14 @@ Kaikki liikkeet aloitetaan perusasennosta, *boxista*.
 ## Liikkuminen vaakatasossa  
 
 
-Liikkuminen eteenpäin tapahtuu ojentamalla jalkoja suoremmiksi. Liikettä
-voi tehostaa siirtämällä samanaikaisesti käsiä kyynärpäistä taaksepäin.
+Liikkuminen eteenpäin tapahtuu ojentamalla jalkoja suoremmiksi.
 
-![image](/kuvat/Asento-liikeeteen.png)
+![18.1: Liikkuminen eteen](/kuvat/Asento-liikeeteen.png)
 
 Liikkuminen taaksepäin tapahtuu työntämällä käsiä eteenpäin ja
 koukistamalla samanaikaisesti polvia.
 
-![image](/kuvat/Asento-liiketaakse.png)
+![18.2: Liikkuminen taakse](/kuvat/Asento-liiketaakse.png)
 
 ## Liikkuminen alas- ja ylöspäin  
 
@@ -80,9 +79,9 @@ Pystysuoraan liikkumiseen käytetään taivutuksen lisäämistä (alaspäin
 suuntautuva liike) tai negatiivista taivutusta (ylöspäin suuntautuva
 liike, kupitus).
 
-![image](/kuvat/Asento-liikeylos.png)
+![18.3: Liikkuminen ylös](/kuvat/Asento-liikeylos.png)
 
-![image](/kuvat/Asento-liikealas.png)
+![18.4: Liikkuminen alas](/kuvat/Asento-liikealas.png)
 
 ## Käännökset  
 
@@ -107,7 +106,8 @@ toiseen suuntaan ennen perusasennon palauttamista.
 
 
 Otteita otettaessa on aina oltava samalla tasolla sen kanssa, josta
-otteita otetaan. Otteet otetaan joko ranteista tai gripeistä. Otteen on
+otteita otetaan. Otteet otetaan joko ranteista tai gripeistä (FS-haalarin 
+otetta helpottava paksunnos). Otteen on
 oltava napakka, mutta siinä ei saa olla vetoa. Ote on muodostelman
 viimeistelyä/kasaamista, eli hetkellinen pysäytys ennen muodostelman
 purkua, josta jatketaan seuraavaan muodostelmaan. Otteessa ei roikuta,
@@ -130,7 +130,7 @@ sekä tarkastetaan korkeus. Lennetään kuviossa oikein. Kun pari antaa
 merkin, päästetään otteet. Pari odottaa 2 sekuntia ja liikkuu muutaman
 metrin taaksepäin. Toistetaan liike eteenpäin.
 
-![image](/kuvat/FS-1.png)
+![18.5: FS-hyppy 1](/kuvat/FS-1.png)
 
 ### Hyppy 2: Liikkuminen eteen- ja taaksepäin  
 
@@ -141,7 +141,7 @@ Lennetään kuviossa oikein. Tarkastetaan korkeus ja päästetään otteet kun
 vetoa ei ole. Odotetaan 2 sekuntia ja liikutaan muutama metri
 taaksepäin. Toistetaan eteen – taakse -liikettä.
 
-![image](/kuvat/FS-2.png)
+![18.6: FS-hyppy 2](/kuvat/FS-2.png)
 
 ### Hyppy 3: Liikkuminen ylös- ja alaspäin  
 
@@ -156,7 +156,7 @@ etäisyyden hypyn aikana muutamassa metrissä, jotta voidaan kupitettaessa
 kääntää päätä alaspäin ja silti pitää katsekontakti pariin. Pidetään
 asento koko ajan symmetrisenä. Toistetaan liikettä.
 
-![image](/kuvat/FS-3.png)
+![18.7: FS-hyppy 3](/kuvat/FS-3.png)
 
  ### Hyppy 4: Pystysuora liikkuminen yhdistettynä eteenpäin liikkeeseen  
 
@@ -171,7 +171,7 @@ liikkumaan pystysuoraan samalle tasolle parin kanssa ja vasta sitten
 eteenpäin otetta varten. Pidetään katsekontakti pariin koko ajan.
 Toistetaan liikettä.
 
-![image](/kuvat/FS-4.png)
+![18.8: FS-hyppy 4](/kuvat/FS-4.png)
 
  ### Hyppy 5: 90° käännös  
 
@@ -189,7 +189,7 @@ ensin oikea liike ja vasta sitten otetaan otteet. Kun otetaan ote,
 varmistetaan, että se on kevyt ja että lennetään paikalla eikä otteessa
 roikuta. Toistetaan liikettä.
 
-![image](/kuvat/FS-5.png)
+![18.9: FS-hyppy 5](/kuvat/FS-5.png)
 
 ### Hyppy 6: 180° käännös  
 
@@ -204,7 +204,7 @@ mennä yli halutun astemäärän. Jos ajaudutaan sivuttain poispäin parista,
 niin käännytään välittömästi paria kohti ja jatketaan käännöksiä toiseen
 suuntaan. Toistetaan liikettä.
 
-![image](/kuvat/FS-6.png)
+![18.10: FS-hyppy 6](/kuvat/FS-6.png)
 
 ### Hyppy 7: 360° käännös  
 
@@ -218,7 +218,7 @@ lennetään vierekkäin samalla tasolla. Muistetaan, että liike tulee
 hidastaa hyvissä ajoin, jottei kääntyminen mene yli halutun astemäärän.
 Toistetaan liikettä.
 
-![image](/kuvat/FS-7.png)
+![18.11: FS-hyppy 7](/kuvat/FS-7.png)
 
  ### Hyppy 8: Liikkuminen sivuttain  
 
@@ -230,7 +230,7 @@ oikealle vartalonmitan verran, pysäytetään ja otetaan ote. Liikutaan
 vasemmalle kahden vartalonmitan verran, pysäytetään ja otetaan ote.
 Toistetaan liikettä.
 
-![image](/kuvat/FS-8.png)
+![18.12: FS-hyppy 8](/kuvat/FS-8.png)
 
 ### Hyppy 9: Lähestyminen sivuttain  
 
@@ -243,4 +243,4 @@ sivuttain parin luo. Pari antaa merkin ja irrottaa otteet. Muistetaan
 käyttää koko vartaloa sivuttain liikkeessä. Pyritään tekemään käännökset
 aina rauhallisesti, jotta ei käännytä yli. Toistetaan liikettä.
 
-![image](/kuvat/FS-9.png)
+![18.13: FS-hyppy 9](/kuvat/FS-9.png)
