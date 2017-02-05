@@ -44,9 +44,8 @@ s.) (\[fs-kuviohyppaaminen\] s.)
 Mantis on vapaapudotusasento, joka nykyisin on FS-hyppäämisen
 perusasento. Mantis mahdollistaa lyhyemmät, nopeammat ja
 aggressiivisemmat liikkeet kuin box. Erotuksena boxiin mantiksessa kädet
-ovat rinnan tasolla ja kyynärpäät alhaalla, polvet saavat roikkua.
-Asentoa muokkaa ilmavirta, eikä taivuttamista ja/tai lantion työntämistä
-alas tarvita.
+ovat rinnan tasolla ja kyynärpäät alhaalla. Asentoa muokkaa ilmavirta, 
+eikä taivuttamista ja/tai lantion työntämistä alas tarvita.
 
 Mantiksen etuja boxiin verrattuna ovat lyhyemmät välimatkat hyppääjien
 välillä, parempi katsekontakti, helpompi otteiden ottaminen ja se, että
@@ -54,7 +53,7 @@ pienetkin liikkeet ovat tehokkaita. Käsillä työskennellään boxiin
 verrattuna luonnollisemmassa asennossa, kun kädet ovat ylävartalon
 edessä.
 
-![image](/kuvat/Mantis.png)
+![32.1: Mantis-asento](/kuvat/Mantis.png)
 
  Mantiksen harjoittelu  
 -----------------------
