@@ -11,7 +11,7 @@ lentää puolijarruilla, jotta tuulen vaihteluihin voidaan reagoida.
 Perusosa ajetaan siten, että finaaliin (tuulilinjalle) käännytään
 tuulesta riippuen 50–100 metriä maalin takana. Finaali aloitetaan noin
 100 metrin korkeudesta. Finaalin alussa säädetään lähestymiskulma
-oikeaksi joko jarruttamalla tai nostamalla. S-mutkia ei saa tehdä
+oikeaksi joko jarruttamalla tai nostamalla ohjauslenkkejä. S-mutkia ei saa tehdä
 etenkään, jos ilmassa on muitakin hyppääjiä. Valmistautuminen
 loppuvetoon aloitetaan 30–50 metrin korkeudessa, jolloin viimeistään
 tulee jarrutusta keventää eli käsiä nostaa ylemmäs. Ohjauslenkkejä ei
@@ -65,7 +65,7 @@ lentää turvallisesti niissä olosuhteissa, jotka valmistajan ja
 määräysten mukaan mahdollistavat hyppäämisen. Ääriolosuhteet ja
 maksimiohjausliikkeet eivät sovi yhteen.
 
-Ääriolosuhteita ja asioita, joita tulisi välttää, ovat
+Vältettäviä ääriolosuhteita ja asioita ovat
 - kova tuuli, erityisesti puuskainen ja turbulenttinen keli
 - toisen jättövirtauksessa lentäminen
 - pienet laskeutumisalueet
@@ -184,6 +184,10 @@ aikaa varjon selvittämiseen ja varavarjotoimenpiteisiin on vähän.
 
 Hyppyohjelman suorittaminen jatkokoulutuksessa kuuluu koulutusohjelmaan. 
 Kuvunkäsittelyhypyillä ei tehdä vapaapudotussuorituksia.
+
+Jos oppilas ottaa käyttöön omat varusteet tai käyttää varjoa, 
+jota ei ole tarkoitettu alkeis- tai peruskoulutukseen, tehdään 
+kuvunkäsittelyhypyt ennen muita suorituksia.
 
 ## Hyppy 1  
 
