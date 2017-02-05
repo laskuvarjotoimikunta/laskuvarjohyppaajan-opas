@@ -60,12 +60,12 @@ Toimittaessa muulla kuin kerhon koneella on syytä huomioida seuraavaa:
 ilma-aluksen lentokäsikirjassa tai sen liitteessä on oltava
 - hyväksyntä siitä, että koneella voidaan lentää ilman ovea tai ovi
     voidaan avata lennon aikana
-- laskuvarjohyppytoimintaan tarvittavat ohjeet
+- laskuvarjohyppytoimintaan tarvittavat ohjeet.
 
 Lisäksi koneessa on oltava puukko tai vastaava teräase lentäjän ja
 hyppääjien saatavilla. Jos koneessa on yli 10 hyppääjää, kaikkien on
 käytettävä istuinvöitä. Yhdessä lentäjän kanssa on myös syytä tarkastaa,
-ettei poka ylitä koneen painorajoja.
+ettei poka ylitä koneen painorajoja. PAINOPISTEASIA TÄHÄN.
 
 Maalialueen pitää olla hyppytoimintaan soveltuvassa kunnossa. Lisäksi
 tuulen suuntaa ja voimakkuutta osoittavan välineistön toiminta ja kunto
