@@ -253,7 +253,7 @@ Kiinteään esteeseen törmääminen
 ---------------------------------
 
 Näitä ovat esimerkiksi seinät, autot, pylväät ja aidat. Jos osut
-kiinteään esteeseen,
+kiinteään esteeseen, niin
 - Tee loppuveto ennen törmäystä.
 - Ota isku vastaan jaloilla.
 - Valmistaudu maahantuloon.
