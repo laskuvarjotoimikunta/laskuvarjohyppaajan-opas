@@ -2,7 +2,7 @@
 
 Varjo ei välttämättä ole aina avautumisen jälkeen täysin kehittynyt vaan
 vaatii selvittämistä: kierteiden poiston ja/tai pumppausta
-(\[hyppytapahtuma-varjon-avautuminen-ja-lentokuntoon-saattaminen\] s.).
+(\[hyppytapahtuma-varjon-avautuminen-ja-lentokuntoon-saattaminen\] s.XX).
 Molemmat ovat aivan normaaleja toimenpiteitä varsinkin
 pakkolaukaisuhypyillä (syynä esimerkiksi huono uloshyppy tai lentokoneen
 alhainen ilmanopeus). Varjo lentää, vaikka punoksissa on kierrettä,
@@ -18,7 +18,7 @@ suorittaa varavarjotoimenpiteet.
 **Jos et osaa päättää, lentääkö päävarjo vai ei, se EI LENNÄ!** =&gt;
 Tee varavarjotoimenpiteet!
 
-### Lentää, Täysin kehittynyt  
+### Lentää, täysin kehittynyt  
 
 
 ![](/kuvat/Vajaatoiminnot-Lentaa-Taysin-kehittynyt.png)
@@ -29,7 +29,7 @@ Tee varavarjotoimenpiteet!
 
 -   Slider on alhaalla.
 
-### Lentää - Selvitä  
+### Lentää – Selvitä  
 
 
 #### Slider ylhäällä 
@@ -92,7 +92,7 @@ Tärkeät korkeudet:
 
 >Tämän korkeuden alapuolella ei suositella päävarjon irtipäästöä        (esimerkiksi törmättyäsi toiseen hyppääjään), sillä varavarjo ei välttämättä ehdi avautua. Mikäli joudut tilanteeseen, jossa sinulla on korkeutta alle 300 metriä ja päävarjosi ei lennä, avaa suoraan varavarjo tekemättä päävarjon irtipäästöä (kohdat 6-9 alla).
 
-![image](/kuvat/VV_1.jpg) ![image](/kuvat/VV_2.jpg)
+![4.1. Varavarjotoimenpiteet](/kuvat/VV_1.jpg) ![](/kuvat/VV_2.jpg)
 
 
 ####  Varavarjotoimenpiteet  
