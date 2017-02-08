@@ -33,11 +33,11 @@ Vuonna 1919 perustettu Suomen Ilmailuliitto ry (SIL) on eri harrasteilmailulajej
 Organisaatio, joka antaa koulusta, on sitoutunut noudattamaan Ilmailuliiton hyväksymiä ohjeita. Suomen Ilmailuliitossa laskuvarjourheilua koskevien
 asioiden asiantuntijaelin on luottamushenkilöistä koostuva Laskuvarjotoimikunta.
 
-Laskuvarjotoimikunta hoitaa kalustoon, kilpailuasioihin, hyppyturvallisuuteen
-ja -koulutukseen liittyviä asioita. Laskuvarjotoimikunta koostuu rivihyppääjistä, jotka haluavat edistää harrastusta ja sen tarpeita Suomessa. Käytännön
+Laskuvarjotoimikunta (LT) hoitaa kalustoon, kilpailuasioihin, hyppyturvallisuuteen
+ja -koulutukseen sekä hyppylentotoimintaan liittyviä asioita. Laskuvarjotoimikunta koostuu rivihyppääjistä, jotka haluavat edistää harrastusta ja sen tarpeita Suomessa. Käytännön
 toimintaa koordinoi liiton toimisto Helsinki-Malmin lentoasemalla.
 
-Ilmailu on ilmailuviranomaisen valvomaa toimintaa. Suomen Ilmailuliitto antaa jäsenilleen omia ohjeistuksia ja toimii etujärjestönä viranomaisiin päin muun muassa
+Ilmailu on ilmailuviranomaisen valvomaa toimintaa. Suomen Ilmailuliitto antaa jäsenilleen omia ohjeistuksia ja toimii etujärjestönä viranomaisiin päin (Liikenteen turvallisuusvirasto Trafi) muun muassa:
 
 * Avustamalla asiantuntijana Trafia laskuvarjohyppytoiminnassa.
 * Laatimalla laskuvarjourheilua koskevat koulutusohjelmat ja tiedottamalla niistä jäsenistölleen.
@@ -60,15 +60,13 @@ Suomessa on sattunut vuodesta 1962 lähtien 27 kuolemaan johtanutta onnettomuutt
 Laskuvarjohyppääjä hyppää aina omalla vastuullaan. Kerholla on kolmannelle osapuolelle aiheutetun vahingon korvaava vastuuvakuutus, joka korvaa vain, jos kerho on syyllistynyt virheeseen. Jos oppilas toimii virheellisesti ja aiheuttaa vahinkoa itselleen tai jollekin muulle, hänen on itse vastattava vahingoista. Liittymällä Suomen Ilmailuliittoon saat vakuutuksen, joka sisältää kolmannen osapuolen vastuuvakuutuksen sekä tapaturmavakuutuksen.
 
 Normaalit vapaa-ajan tapaturmavakuutukset eivät yleensä korvaa laskuvarjohypyllä tapahtunutta vahinkoa, koska hyppääminen kuuluu vakuutusyhtiöiden vaaralliseksi luokittelemiin lajeihin. Mikäli vakuutuksen halutaan korvaavan
-myös laskuvarjohypyillä tapahtuneet onnettomuudet, on vakuutukseen otettava lisä-
-suoja. Lisävakuutuksen voi ottaa omalta vakuutusyhtiöltä tai hyödyntää Suomen Ilmailuliitto ry:n vakuutuksia koskevia etuja. Katso lisätietoja
+myös laskuvarjohypyillä tapahtuneet onnettomuudet, on vakuutukseen otettava lisäsuoja. Lisävakuutuksen voi ottaa omalta vakuutusyhtiöltä tai hyödyntää Suomen Ilmailuliitto ry:n vakuutuksia koskevia etuja. Katso lisätietoja
 vakuutuksien ehdoista ja korvaussummista Hyvä hyppykurssilainen -esitteestä. Lisätietoja saa myös kouluttajilta ja Ilmailuliiton
 puhelinnumerosta [(09) 350 9340](tel:+35893509340). Suosittelemme laskuvarjotoiminnan kattavan vakuutuksen hankkimista.
 
 ## Terveydentilavaatimukset
-Hyppääminen on urheilua ja vaatii fyysistä ja henkistä kuntoa sekä normaalia terveyttä. Sairaudet, jotka aiheuttavat edes hetkellistä tajuttomuutta
-tai toimintakyvyn menetystä, tai vaativat jatkuvaa lääkitystä, estävät hyppää-
-misen. 
+Hyppääminen on urheilua ja vaatii fyysistä ja henkistä kuntoa sekä normaalia terveyttä. Sairaudet, jotka aiheuttavat edes hetkellistä 
+tajuttomuutta tai toimintakyvyn menetystä tai vaativat jatkuvaa lääkitystä, estävät hyppäämisen. 
 
 Kurssilla täytetään laskuvarjohyppääjän terveydentilavakuutus. 60 vuotta täyttäneeltä henkilöltä vaaditaan myös lääkärintodistus. Koulutusorganisaatio voi tarvittaessa vaatia jäseneltään lääkärintodistuksen osoituksena hyppäämiseen riittävästä terveydentilasta.
 
@@ -78,11 +76,12 @@ Kurssilla täytetään laskuvarjohyppääjän terveydentilavakuutus. 60 vuotta t
 Alkeiskurssi antaa valmiudet suorittaa turvallisesti ensimmäisen laskuvarjohypyn sekä pohjan perus- ja jatkokoulutukselle. Tiivis koulutusohjelma vaatii sinulta aktiivisuutta sekä opetettujen asioiden kertaamista. Kuuntele, kysy
 ja selvitä. 
 
-Ensimmäisen hyppysi suoritat joko pakkolaukaisuhyppynä 1000 metristä tai novakoulutuksessa itseaukaisuhyppynä 2700 - 4000 metrin korkeudesta. Sitä ennen sinun tulee suorittaa kirjallinen koe sekä käytännön kokeet uloshypystä, maahantulokierähdyksestä ja varavarjon käytöstä. Tämän jälkeen olet valmis suorittamaan laskuvarjohyppyjä hyppymestarin valvonnassa. 
+Ensimmäisen hyppysi suoritat joko pakkolaukaisuhyppynä 1000 metristä tai novakoulutuksessa itseaukaisuhyppynä 2700–4000 metrin korkeudesta. Sitä ennen sinun tulee suorittaa kirjallinen koe sekä käytännön kokeet uloshypystä, maahantulokierähdyksestä ja varavarjon käytöstä. Tämän jälkeen olet valmis suorittamaan laskuvarjohyppyjä hyppymestarin valvonnassa. 
 
 Hyppymestari valvoo ja arvioi kaikki suorituksesi sekä tekee niistä merkinnän hyppypäiväkirjaasi joko hyväksyen tai hyläten suorituksesi. Jälkimmäinen vaihtoehto merkitsee uutta yritystä ennen eteenpäin pääsyä. Aina ennen uutta suoritusta sinun tulee saada koulutus hyppymestarilta. Tässä oppaassa on materiaali, jota tulet käyttämään kaikissa kolmessa koulutusvaiheessa.
 
 ### Alkeiskoulutus
+
 Alkeiskoulutuksen tavoitteena on oppia toimimaan lentokoneessa, suorittaa uloshyppy, hallittu itsenäinen vapaapudotus, varjon avaaminen ja ohjaaminen itsenäisesti laskeutumisalueelle, sekä turvallinen laskeutuminen. Alkeiskoulutuksen päätteeksi suoritetaan teoriakoe.
 
 ### Peruskoulutus
