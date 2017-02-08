@@ -84,11 +84,11 @@ Varavarjon käyttö
 
 Tärkeät korkeudet:
 
-**600 m **
+**600 m**
 
 >Tähän asti voit selvittää päävarjoa eli poistaa kierteitä, pumpata slideriä alas ja reunatunneleita auki. Jos yritykset eivät onnistu 600 metriin mennessä, tee varavarjotoimenpiteet.
 
-**300 m **
+**300 m**
 
 >Tämän korkeuden alapuolella ei suositella päävarjon irtipäästöä        (esimerkiksi törmättyäsi toiseen hyppääjään), sillä varavarjo ei välttämättä ehdi avautua. Mikäli joudut tilanteesesen, jossa sinulla on korkeutta alle 300 metriä ja päävarjosi ei lennä, avaa suoraan varavarjo tekemättä päävarjon irtipäästöä (kohdat 6–9 alla).
 
