@@ -90,7 +90,7 @@ Tärkeät korkeudet:
 
 **300 m **
 
->Tämän korkeuden alapuolella ei suositella päävarjon irtipäästöä        (esimerkiksi törmättyäsi toiseen hyppääjään), sillä varavarjo ei välttämättä ehdi avautua. Mikäli joudut tilanteeseen, jossa sinulla on korkeutta alle 300 metriä ja päävarjosi ei lennä, avaa suoraan varavarjo tekemättä päävarjon irtipäästöä (kohdat 6-9 alla).
+>Tämän korkeuden alapuolella ei suositella päävarjon irtipäästöä        (esimerkiksi törmättyäsi toiseen hyppääjään), sillä varavarjo ei välttämättä ehdi avautua. Mikäli joudut tilanteesesen, jossa sinulla on korkeutta alle 300 metriä ja päävarjosi ei lennä, avaa suoraan varavarjo tekemättä päävarjon irtipäästöä (kohdat 6–9 alla).
 
 ![4.1. Varavarjotoimenpiteet](/kuvat/VV_1.jpg) ![](/kuvat/VV_2.jpg)
 
@@ -109,5 +109,4 @@ Tärkeät korkeudet:
 8.  Taivuta.
 9.  Pidä varavarjokahva kädessä tai päästä irti (kerhokohtainen).
 
-![](/kuvat/Toimintakaavio lentää ei lennä_2016.png
-)
+![](/kuvat/Toimintakaavio lentää ei lennä_2016.png)
