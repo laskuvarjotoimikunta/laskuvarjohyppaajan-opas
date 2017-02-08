@@ -123,11 +123,11 @@ tarkastus, mutta itseaukaisuvaiheessa varjon perustarkastus voidaan
 tiivistää 3 x 3 -tarkastukseen (kolme kolmea -tarkastus):
 
 1.  Tarkastetaan, että solkia on kiinni kolme:
-    -   Vasemman jalkahihnan solki
-    -   Oikean jalkahihnan solki
-    -   Rintahihnan solki
+    -   vasemman jalkahihnan solki
+    -   oikean jalkahihnan solki
+    -   rintahihnan solki.
 2.  Tarkastetaan, että kahvoja on kolme ja ne ovat kiinni:
-    -   Päävarjon avauskahva
-    -   Päävarjon irtipäästöpampula
-    -   Varavarjon avauskahva
+    -   päävarjon avauskahva
+    -   päävarjon irtipäästöpampula
+    -   varavarjon avauskahva.
 3.  Tarkastetaan, että kolmirengaslukot ja RSL ovat kiinni ja oikein.
