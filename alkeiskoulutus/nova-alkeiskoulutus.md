@@ -30,7 +30,7 @@ Laskettuasi 105:een aloita ja suorita omatoimisesti tarkkailukehä:
 1.  MAA
 
     -   Siirrä katseesi horisonttiin. Valitse jokin iso ja
-        helposti löydettävä kiintopiste
+        helposti löydettävä kiintopiste.
 
 2.  MITTARI
 
@@ -94,15 +94,15 @@ samalla tavalla kuin harjoitusveto. Erona on vain se, että apuvarjon
 kahvasta tartutaan kunnolla kiinni ja apuvarjo heitetään reippaasti
 ilmavirtaan. Varjon ei siis pidä olla auki heti 1600 metrissä.
 
-TAIVUTA - TARTU - VEDÄ
+TAIVUTA – TARTU – VEDÄ
 
 Tämän jälkeen laske ääneen 101, 102…105, jonka jälkeen tarkistat varjon
 ja suoritat mahdolliset selvitystoimenpiteet. Mikäli varjo ei selviä tai
-ei lennä, tee varavarjotoimenpiteet. Tasoilla 1-2 VV-HM pitää sinusta
-kiinni varjon avautumiseen asti ja tasoilla 3-7 HM varmistaa
+ei lennä, tee varavarjotoimenpiteet. Tasoilla 1–2 VV-HM pitää sinusta
+kiinni varjon avautumiseen asti ja tasoilla 3–7 HM varmistaa
 avautumisen.
 
- Taso 1 - tottuminen vapaapudotukseen  
+ Taso 1 – tottuminen vapaapudotukseen  
 --------------------------------------
 
 Kaksi novahyppymestaria, kolmella ensimmäisellä hypyllä radio.
@@ -110,9 +110,9 @@ Kaksi novahyppymestaria, kolmella ensimmäisellä hypyllä radio.
 Jos näet vain yhden hyppymestarin, seuraa hänen ohjeitaan ja jatka
 hyppysuoritusta normaalisti ohjelman mukaan. Tasoilla 1 ja 2 **et** saa
 olla yksin vapaapudotuksessa. Jos et näe kumpaakaan hyppymestaria, avaa
-varjo välittömästi eli TAIVUTA-TARTU-VEDÄ 101..105 ja tarkista varjo.
+varjo välittömästi eli TAIVUTA–TARTU–VEDÄ 101..105 ja tarkista varjo.
 
-###  Oppilaan toiminta.  
+###  Oppilaan toiminta  
 
 Harjoittele 1. tason kulku (ja myöhemmin kaikki muut tasot)
 mahdollisimman hyvin etukäteen, sillä se helpottaa ja nopeuttaa
@@ -120,7 +120,7 @@ huomattavasti oppimistasi.
 
 ###  Ensimmäiseen hyppyysi valmistautuminen  
 
-1.  Näytä, miten koneen ovelle siirrytään hyppyasentoon.
+1.  Näytä miten koneen ovelle siirrytään hyppyasentoon.
 
 2.  Esitä oikea hallittu uloshyppy mukaan lukien laskeminen.
 
@@ -162,7 +162,7 @@ oppimistavoitteisiin tarkasti HM:n kanssa.
 
 2.  Korkeuden tarkkailu.
 
-3.  Avaustoimenpiteet 1600 m (±300m) ja avaus.
+3.  Avaustoimenpiteet 1600 m (± 300 m) ja avaus.
 
 ###  Hyppylennolla  
 - Katso laskeutumisalue ja oikea laskeutumissuunta yli 600
@@ -171,33 +171,33 @@ oppimistavoitteisiin tarkasti HM:n kanssa.
 
 ###  Hypyn kulku  
 
-  **2700-4000 m**   Rento taivutettu UH
+  **2700–4000 m**   Rento taivutettu UH
   ----------------- ----------------------
                     Tarkkailukehä
-                    3 Harjoitusvetoa
+                    3 harjoitusvetoa
                     Tarkkailukehä
                     MAA - MITTARI
   **1600 m**        Avaustoimenpiteet ja avaus
 
 
 
- Taso 2 - asennon hallinta  
+ Taso 2 – asennon hallinta  
 ---------------------------
 
 Kaksi novahyppymestaria, kolmella ensimmäisellä hypyllä radio. Oppilaan
 on saavutettava välttämättömät oppimistavoitteet hyväksytysti
 päästäkseen seuraavalle tasolle.
 
-###  Oppilaan toiminta.  
+###  Oppilaan toiminta  
 
-1.  Käy läpi I-tasolla opitut tiedot ja taidot.
+1.  Käy läpi tasolla I opitut tiedot ja taidot.
 
-2.  Harjoittele stabiilia asentoa esim. rullalaudoilla.
+2.  Harjoittele stabiilia asentoa esimerkiksi rullalaudoilla.
 
 3.  Harjoittele kaikkia vapaassa tehtäviä liikkeitä kuten
     aikaisemmilla kerroilla.
 
-4.  Harjoittele harjoitusvetoa kuten oikeaa avausta.
+4.  Harjoittele harjoitusvetoa, kuten oikeaa avausta.
 
 5.  Näytä maalialue ja käy läpi ennalta suunniteltu ohjauskuvio.
 
@@ -210,12 +210,12 @@ päästäkseen seuraavalle tasolle.
 
 ###  Oppimistavoitteet  
 
-1.  Stabiili vapaapudotusasento viimeistään 10 sekuntia UH:n jälkeen.
+1.  Stabiili vapaapudotusasento viimeistään 10 sekuntia uloshypyn jälkeen.
 
 2.  Stabiilin vapaapudotusasennon säilyttäminen koko hypyn ajan,
     sisältäen jalkojen hallinnan.
 
-3.  Avaustoimenpiteet 1600 m (±300m) ja itsenäinen avaus.
+3.  Avaustoimenpiteet 1600 m (± 300 m) ja itsenäinen avaus.
 
 ###  Hyppylennolla  
 
@@ -228,7 +228,7 @@ päästäkseen seuraavalle tasolle.
 
 ###  Hypyn kulku  
 
-  **2700-4000 m**   Rento, taivutettu uloshyppy
+  **2700–4000 m**   Rento, taivutettu uloshyppy
   ----------------- ----------------------------------------
                     Tarkkailukehä
                     Harjoitusvetoja kunnes OK
@@ -239,11 +239,11 @@ päästäkseen seuraavalle tasolle.
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
                     90° oikea
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1600 m**        Avaustoimenpiteet ja avaus
+  **1600 m**        Avaustoimenpiteet ja avaus.
 
 
 
- Taso 3 - stabiili vapaapudotus  
+ Taso 3 – stabiili vapaapudotus  
 --------------------------------
 
 Kaksi novahyppymestaria, kolmella ensimmäisellä hypyllä radio.
@@ -251,7 +251,7 @@ Kaksi novahyppymestaria, kolmella ensimmäisellä hypyllä radio.
 Oppilaan on saavutettava välttämättömät oppimistavoitteet hyväksytysti
 päästäkseen seuraavalle tasolle.
 
-Jos tasoilla 3-7 et näe kumpaakaan hyppymestaria, voit jatkaa hyppyä,
+Jos tasoilla 3–7 et näe kumpaakaan hyppymestaria, voit jatkaa hyppyä,
 mikäli kaikki alla olevat ehdot täyttyvät:
 - Tiedät korkeutesi.
 - Et pyöri mihinkään suuntaan.
@@ -269,14 +269,14 @@ Jos et avauksessa jaksa vetää päävarjon kahvasta (tiukka kahva), yritä
 toisen kerran, mutta jos et silloinkaan saa varjoa auki, tee
 varavarjotoimenpiteet.
 
-###  Oppilaan toiminta.  
+###  Oppilaan toiminta  
 
 1.  Kuvaile ja esitä käytännössä tiedot ja taidot, jotka on opittu
     aikaisempien hyppyjen yhteydessä.
 
-2.  Harjoitteleilmatilan tarkistusta HM:n avustuksella.
+2.  Harjoittele ilmatilan tarkastamista HM:n avustuksella.
 
-3.  Harjoittele maassa tekniikkaa jolla käännyt tarvittaessa selältään
+3.  Harjoittele maassa tekniikkaa, jolla käännyt tarvittaessa selältään
     oikein päin.
 
 4.  Näytä millä tekniikalla suunta säilytetään vapaapudotuksessa.
@@ -288,14 +288,14 @@ varavarjotoimenpiteet.
 
 ###  Oppimistavoitteet  
 
-1.  Ilmatilan tarkistus ennen uloshyppyä.
+1.  Ilmatilan tarkastus ennen uloshyppyä.
 
-2.  Stabiili itsenäinen vapaapudotus viimeistään 5 sekuntia UH:n jälkeen.
+2.  Stabiili itsenäinen vapaapudotus viimeistään 5 sekuntia uloshypyn jälkeen.
 
 3.  Tarkoituksettomien käännösten pysäyttäminen.
 
-4.  Avaustoimenpiteet 1600 m (±150m), stabiili itsenäinen avustamaton avaus
-    ilman NHM:n otetta oppilaasta.
+4.  Avaustoimenpiteet 1600 m (± 150 m), stabiili itsenäinen avustamaton avaus
+    ilman HM:n otetta oppilaasta.
 
 5.  Itsenäinen, turvallinen varjon ohjailu.
 
@@ -317,17 +317,17 @@ varavarjotoimenpiteet.
 
 ###  Hypyn kulku  
 
-  **2700-4000 m**   Rento taivutettu UH
+  **2700–4000 m**   Rento taivutettu UH
   ----------------- ----------------------------------------
                     Tarkkailukehä
                     Harjoitusvetoja kunnes OK
                     Stabiili itsenäinen vapaapudotus
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1600 m**        Avaustoimenpiteet ja avaus
+  **1600 m**        Avaustoimenpiteet ja avaus.
 
 
 
- Taso 4 - käännökset 90°  
+ Taso 4 – käännökset 90°  
 -------------------------
 
 Yksi novahyppymestari.
@@ -335,7 +335,7 @@ Yksi novahyppymestari.
 Oppilaan on saavutettava välttämättömät oppimistavoitteet hyväksytysti
 päästäkseen seuraavalle tasolle.
 
-###  Oppilaan toiminta.  
+###  Oppilaan toiminta  
 
 1.  Osaat tehdä varusteiden tarkastuksen maassa ja ennen koneelle menoa.
     (\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
@@ -356,9 +356,9 @@ päästäkseen seuraavalle tasolle.
 
 3.  Stabiili vapaapudotusasento.
 
-4.  Vähintään kaksi hallittua 90° käännöstä (±20°).
+4.  Vähintään kaksi hallittua 90° käännöstä (± 20°).
 
-5.  Avaustoimenpiteet 1500 m (±150 m), stabiili itsenäinen avustamaton avaus.
+5.  Avaustoimenpiteet 1500 m (± 150 m), stabiili itsenäinen avustamaton avaus.
 
 ###  Hyppylennolla  
 
@@ -372,12 +372,12 @@ päästäkseen seuraavalle tasolle.
 
 1.  Toimi aiemmin opitulla tavalla.
 
-2.  Pyri laskeutumaan korkeintaan 50 m päähän kohteesta mahdollisimman
+2.  Pyri laskeutumaan korkeintaan 50 metrin päähän kohteesta mahdollisimman
     vähin ohjein.
 
 ###  Hypyn kulku  
 
-  **2700-4000 m**   Rento taivutettu UH
+  **2700–4000 m**   Rento taivutettu UH
   ----------------- -------------------------------------------------------------------
                     Tarkkailukehä (HM siirtyy oppilaan eteen)
                     Lupa käännökseen (oppilas nyökkää HM:lle, HM vastaa nyökkäämällä)
@@ -391,7 +391,7 @@ päästäkseen seuraavalle tasolle.
 
 
 
- Taso 5 - käännökset 360°  
+ Taso 5 – käännökset 360°  
 --------------------------
 
 Yksi novahyppymestari.
@@ -399,24 +399,24 @@ Yksi novahyppymestari.
 Oppilaan on saavutettava välttämättömät oppimistavoitteet hyväksytysti
 päästäkseen seuraavalle tasolle.
 
-###  Oppilaan toiminta.  
+###  Oppilaan toiminta  
 
 1.  Näytä, että osaat oikeaoppisesti tarkastaa ja säätää varusteet.
 
 2.  Harjoittele koko hyppytapahtuman kulku käytännössä.
 
-3.  Tarkistat ilmatilan, pilvet ja huomioit exit-välin
+3.  Tarkistat ilmatilan, pilvet ja huomioit exit-välin.
 
 4.  Tarkastat automaattisesti itse varusteet ennen uloshyppyä.
     (\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ###  Oppimistavoitteet  
 
-1.  Vähintään kaksi hallittua 360° käännöstä (±45°).
+1.  Vähintään kaksi hallittua 360° käännöstä (± 45°).
 
 2.  Yhä stabiilimpi vapaapudotus.
 
-3.  Avaustoimenpiteet 1500 m (±150 m), stabiili suunnassa pysyvä itsenäinen
+3.  Avaustoimenpiteet 1500 m (± 150 m), stabiili suunnassa pysyvä itsenäinen
     avustamaton avaus.
 
 4.  Tee varjon varassa 90° käännöksiä takimmaisista kantohihnoista
@@ -438,7 +438,7 @@ päästäkseen seuraavalle tasolle.
 
 ###  Hypyn kulku  
 
-  **2700-4000 m**   Rento taivutettu UH
+  **2700–4000 m**   Rento taivutettu UH
   ----------------- -------------------------------------------------------------------
                     Tarkkailukehä (HM siirtyy oppilaan eteen)
                     Lupa käännökseen (oppilas nyökkää HM:lle, HM vastaa nyökkäämällä)
@@ -448,11 +448,11 @@ päästäkseen seuraavalle tasolle.
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
   **2000 m**        Ei käännöksiä
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1500 m**        Avaustoimenpiteet ja avaus
+  **1500 m**        Avaustoimenpiteet ja avaus.
 
 
 
- Taso 6 - irtiuloshyppy  
+ Taso 6 – irtiuloshyppy  
 ------------------------
 
 Yksi novahyppymestari.
@@ -460,7 +460,7 @@ Yksi novahyppymestari.
 Oppilaan on saavutettava välttämättömät oppimistavoitteet hyväksytysti
 päästäkseen seuraavalle tasolle.
 
-###  Oppilaan toiminta.  
+###  Oppilaan toiminta  
 
 1.  Toista aikaisemmilla tasoilla opitut asiat.
 
@@ -474,7 +474,7 @@ päästäkseen seuraavalle tasolle.
 
 2.  Asennon stabilointi epästabiilista viidessä sekunnissa.
 
-3.  Avaustoimenpiteet 1400 m (±150 m) ja avaus.
+3.  Avaustoimenpiteet 1400 m (± 150 m) ja avaus.
 
 4.  Oikeaoppiset lähestymis- ja laskeutumiskuviot.
 
@@ -489,14 +489,14 @@ päästäkseen seuraavalle tasolle.
 
 ###  Ohjailu ja laskeutuminen  
 
-1.  Pyri laskeutumaan korkeintaan 25 m:n päähän määrätyn alastuloalueen
+1.  Pyri laskeutumaan korkeintaan 25 metrin päähän määrätyn alastuloalueen
     keskustasta.
 
 2.  Tee oikeaoppiset lähestymis- ja laskeutumiskuviot.
 
 ###  Hypyn kulku  
 
-  **2700-4000 m**   Suora uloshyppy
+  **2700–4000 m**   Suora uloshyppy
   ----------------- ----------------------------------------
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
                     Tynnyri
@@ -505,11 +505,11 @@ päästäkseen seuraavalle tasolle.
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
   **2000 m**        Lentokentän paikallistaminen ja keskittyminen avaustoimenpiteisiin
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1400 m**        Avaustoimenpiteet ja avaus
+  **1400 m**        Avaustoimenpiteet ja avaus.
 
 
 
- Taso 7 - puolisarja  
+ Taso 7 – puolisarja  
 ---------------------
 
 Yksi novahyppymestari.
@@ -519,7 +519,7 @@ mahdollisimman itsenäisesti ja osoittaa hallitsevasi hyppäämiseen
 liittyvät turvallisuustekijät, kuten stabiili vapaapudotus ja varjon
 avaus, sekä ohjaaminen.
 
-###  Oppilaan toiminta.  
+###  Oppilaan toiminta  
 
 1.  Harjoittele sukellusuloshypyn asentoa ja tekniikkaa.
 
@@ -533,7 +533,7 @@ avaus, sekä ohjaaminen.
 
 3.  Asennon stabilointi suoritusten aikana viidessä sekunnissa.
 
-4.  Avaustoimenpiteet 1400 m (±150 m) ja avaus.
+4.  Avaustoimenpiteet 1400 m (± 150 m) ja avaus.
 
 5.  Turvallinen varjon käsittely.
 
@@ -552,7 +552,7 @@ avaus, sekä ohjaaminen.
 
 ###  Hypyn kulku  
 
-  **2700-4000 m**   Sukellusuloshyppy
+  **2700–4000 m**   Sukellusuloshyppy
   ----------------- ----------------------------------------
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
                     Etuvoltti
@@ -562,11 +562,11 @@ avaus, sekä ohjaaminen.
                     360° Vasen / Oikea
   **2000 m**        Lentokentän paikallistaminen ja keskittyminen avaustoimenpiteisiin
                     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1400 m**        Avaustoimenpiteet ja avaus
+  **1400 m**        Avaustoimenpiteet ja avaus.
 
 
 
- Taso 8 - 15” lyhyt vapaa  
+ Taso 8 – 15” lyhyt vapaa  
 -------------------
 
 Yksi novahyppymestari koneessa.
@@ -574,7 +574,7 @@ Yksi novahyppymestari koneessa.
 Tämä on alkeiskoulutuksen viimeinen hyppy ja ensimmäinen hyppysi
 matalammasta hyppykorkeudesta. Hyppymestari ei enää hyppää mukanasi.
 
-###  Oppilaan toiminta.  
+###  Oppilaan toiminta  
 
 Toista tasokoulutuksessa oppimasi asiat: irtiuloshyppy eli suora
 uloshyppy, asennon stabilointi uloshypyn jälkeen, korkeuden tarkkailu ja
@@ -605,7 +605,7 @@ stabiili avaus.
 
 ###  Hypyn kulku  
 
-  **1800-2500 m**   Suora uloshyppy
+  **1800–2500 m**   Suora uloshyppy
   ----------------- ----------------------
                     Mittari
-  **1400 m**        Avausmerkki ja avaus
+  **1400 m**        Avausmerkki ja avaus.
