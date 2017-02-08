@@ -514,7 +514,7 @@ päästäkseen seuraavalle tasolle.
 
 Yksi novahyppymestari.
 
-Tämä on viimeinen tasohyppysi. Tällä tasolla sinun tulisi toimia
+Tämä on viimeinen tasohyppysi, jolla hyppymestari hyppää kanssasi. Tällä tasolla sinun tulisi toimia
 mahdollisimman itsenäisesti ja osoittaa hallitsevasi hyppäämiseen
 liittyvät turvallisuustekijät, kuten stabiili vapaapudotus ja varjon
 avaus, sekä ohjaaminen.
