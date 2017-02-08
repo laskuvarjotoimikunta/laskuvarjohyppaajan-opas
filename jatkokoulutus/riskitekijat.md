@@ -296,9 +296,9 @@ Jos laskuvarjohyppytoiminnan yhteydessä sattuu sellainen vaaratilanne, jossa hy
 - Kaikki tapaukset, joissa on sattunut loukkaantumisia.
 - Kaikki tapaukset, joissa varjon toiminta on ollut epänormaali (vajaatoiminta).
 
-Ilmoitus on laadittava mahdollisimman pian tapahtuman jälkeen. Tämä ilmoitus ei kuitenkaan vapauta tekemästä ilmoitusta ilmailun onnettomuuksista, vakavista vaaratilanteista ja poikkeamista ilmailuohjeen GEN T1-4 mukaisesti. Lisäksi tandemhypyillä sattuneista vaaratilanteista on tehtävä ilmoitus tandemlaskuvarjon valmistajalle ja tandemeksaminaattorille.
+Ilmoitus on laadittava mahdollisimman pian tapahtuman jälkeen. Tämä ilmoitus ei kuitenkaan vapauta tekemästä ilmoitusta ilmailun onnettomuuksista, vakavista vaaratilanteista ja poikkeamista ilmailuohjeen GEN T1-4 mukaisesti.
 
-Ilmoitus tehdään sähköisellä SIL:n lomakkeella Turvallisuusilmoitus laskuvarjohyppytoiminnassa. Oppilaskoulutushypyillä sattuneista vaaratilanteista tekee ilmoituksen vastaava kouluttaja tai kyseisen koulutusorganisaation koulutuspäällikkö. Muilla hypyillä sattuneista vaaratilanteista tekee ilmoituksen ensisijaisesti asianomainen hyppääjä itse. Sen voi tehdä myös organisaation turvallisuuspäällikkö. Tarpeen vaatiessa ilmoituksen voivat tehdä myös muut kuin edellä mainitut henkilöt. Ilmoituksen tekemisestä lähtee sähköposti-ilmoitus organisaation määrittämille henkilöille, joita ovat ainakin turvallisuuspäällikkö.
+Ilmoitus tehdään sähköisellä SIL:n lomakkeella Turvallisuusilmoitus laskuvarjohyppytoiminnassa. Oppilaskoulutushypyillä sattuneista vaaratilanteista ilmoituksen tekee kouluttajasi tai kerhosi koulutuspäällikkö yhdessä sinun kanssasi. Muilla hypyillä sattuneista vaaratilanteista tekee ilmoituksen ensisijaisesti asianomainen hyppääjä itse. Sen voi tehdä myös organisaation turvallisuuspäällikkö. Tarpeen vaatiessa ilmoituksen voivat tehdä myös muut kuin edellä mainitut henkilöt. Ilmoituksen tekemisestä lähtee sähköposti-ilmoitus organisaation määrittämille henkilöille, joita ovat ainakin turvallisuuspäällikkö.
 
 Ilmoituksen tarkoituksena on saattaa SIL:n, organisaation ja alan harrastajien tietoon turvallisuutta vaarantaneet tapaukset. Tietojen saanti turvallisuutta vaarantaneista tapauksista auttaa osaltaan parannusten aikaansaamista varusteissa, menetelmissä ja koulutuksessa.
 
