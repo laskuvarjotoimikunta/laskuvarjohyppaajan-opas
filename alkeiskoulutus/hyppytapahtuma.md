@@ -52,7 +52,7 @@ koneeseen) ovelle uloshyppyasentoon. Komennolla MENE! ponnistetaan irti
 koneesta, otetaan hyvä taivutus ja delta-asento sekä aletaan laskea.
 Rintamasuunnan on pysyttävä koko ajan suoraan koneen lentosuuntaan.
 
-![**3.1:** Hyppääjä on siirtymässä ovelle uloshyppyasentoon.](/kuvat/206UH1.jpeg)
+![**3.1: Hyppääjä on siirtymässä ovelle uloshyppyasentoon.](/kuvat/206UH1.jpeg)
 
 Uloshypyssä maa vetää helposti katsetta puoleensa. Jos katsoo maahan
 eikä koneeseen, taivutus todennäköisesti kääntyy väärin päin. Ihmisen
