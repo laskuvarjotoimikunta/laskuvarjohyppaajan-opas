@@ -195,7 +195,7 @@ lähtiessäsi esimerkiksi se, missä suunnassa aurinko on, kun olet
 kääntynyt vastatuuleen. Liput, viirit ja savut ovat myös hyviä tuulen
 suunnan osoittimia.
 
- Laskeutuminen veteen  
+Laskeutuminen veteen  
 ----------------------
 
 Laskeudu mieluummin metsään kuin veteen. Joutuessasi laskeutumaan veteen
@@ -211,7 +211,7 @@ Vedessä:
 - Tukahduta varjo tarvittaessa tekemällä päävarjon irtipäästö.
 - Avaa hihnat ja ui eroon varjosta.
 
- Laskeutuminen puuhun/metsään  
+Laskeutuminen puuhun/metsään  
 ------------------------------
 
 Puuhun tai metsään laskeutuessasi toimi seuraavasti:
@@ -227,7 +227,7 @@ Suuri vaakanopeus aiheuttaa enemmän kolhuja kuin suuri vajoamisnopeus.
 Loppuvedon tekeminen puiden latvoihin on turvallisempaa kuin puita päin
 lentäminen.
 
- Laskeutuminen sähkölinjoihin  
+Laskeutuminen sähkölinjoihin  
 ------------------------------
 
 Jos joudut laskeutumaan sähkölinjoihin, niin
@@ -238,7 +238,7 @@ Jos joudut laskeutumaan sähkölinjoihin, niin
 - Jos varjo jää kiinni, **älä yritä irrottaa sitä**.
 - Odota apua.
 
- Laskeutuminen katolle  
+Laskeutuminen katolle  
 -----------------------
 
 Mikäli joudut laskeutumaan katolle, toimi seuraavasti:
@@ -249,7 +249,7 @@ Mikäli joudut laskeutumaan katolle, toimi seuraavasti:
 - Tartu kiinni kattorakenteista.
 - Odota apua.
 
- Kiinteään esteeseen törmääminen  
+Kiinteään esteeseen törmääminen  
 ---------------------------------
 
 Näitä ovat esimerkiksi seinät, autot, pylväät ja aidat. Jos osut
