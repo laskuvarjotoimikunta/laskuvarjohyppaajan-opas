@@ -110,7 +110,7 @@ Kaksi novahyppymestaria, kolmella ensimmäisellä hypyllä radio.
 Jos näet vain yhden hyppymestarin, seuraa hänen ohjeitaan ja jatka
 hyppysuoritusta normaalisti ohjelman mukaan. Tasoilla 1 ja 2 **et** saa
 olla yksin vapaapudotuksessa. Jos et näe kumpaakaan hyppymestaria, avaa
-varjo välittömästi eli TAIVUTA–TARTU–VEDÄ 101..105 ja tarkista varjo.
+varjo välittömästi eli TAIVUTA–TARTU–VEDÄ 101...105 ja tarkista varjo.
 
 ###  Oppilaan toiminta  
 
