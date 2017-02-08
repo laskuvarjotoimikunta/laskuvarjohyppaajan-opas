@@ -3,14 +3,14 @@
 Alkeisoppilaan kelpoisuus on voimassa vuoden myöntämispäivämäärästä. Jos kelpoisuus vanhenee, oppilaan tulee uusia teoriakoe ja käytännön näytteet ennen hyppäämistä. Varavarjonkäyttönäyte on voimassa 2 kuukautta. Oppilaan on saavutettava jokaisella hyppysuorituksella välttämättömät oppimistavoitteet hyväksytysti, jotta suoritus voidaan hyväksyä.
 
 ## Hyppysuoritukset, NOVA
-* Taso 1 - tottuminen vapaapudotukseen LISÄÄ KAPPALEET JA SIVUNUMEROT
-* Taso 2 - asennon hallinta
-* Taso 3 - stabiili vapaapudotus
-* Taso 4 - käännökset 90°
-* Taso 5 - käännökset 360°
-* Taso 6 - irtiuloshyppy
-* Taso 7 - puolisarja
-* Taso 8 - 15” lyhyt vapaa (” = sekunti)
+* Taso 1 – tottuminen vapaapudotukseen LISÄÄ KAPPALEET JA SIVUNUMEROT
+* Taso 2 – asennon hallinta
+* Taso 3 – stabiili vapaapudotus
+* Taso 4 – käännökset 90°
+* Taso 5 – käännökset 360°
+* Taso 6 – irtiuloshyppy
+* Taso 7 – puolisarja
+* Taso 8 – 15” lyhyt vapaa (” = sekunti)
 
 ## Hyppysuoritukset, PL
 * 3 pakkolaukaisua LISÄÄ KAPPALEET JA SIVUNUMEROT
