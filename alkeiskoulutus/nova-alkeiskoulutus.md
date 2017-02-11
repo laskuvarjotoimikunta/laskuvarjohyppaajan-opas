@@ -171,13 +171,13 @@ oppimistavoitteisiin tarkasti HM:n kanssa.
 
 ###  Hypyn kulku  
 
-  **2700–4000 m**   Rento taivutettu UH
-  ----------------- ----------------------
-                    Tarkkailukehä
-                    3 harjoitusvetoa
-                    Tarkkailukehä
-                    MAA - MITTARI
-  **1600 m**        Avaustoimenpiteet ja avaus
+  |2700–4000 m|   Rento taivutettu UH|
+ | -- | -- | -- |
+ |--                |Tarkkailukehä|
+ |--                |3 harjoitusvetoa|
+ |--                |Tarkkailukehä|
+ |--                |MAA - MITTARI|
+ |            1600 m|Avaustoimenpiteet ja avaus|
 
 
 
