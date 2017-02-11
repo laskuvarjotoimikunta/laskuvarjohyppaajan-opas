@@ -141,39 +141,39 @@ kovalla äänellä:
 
 **TARKISTUS SISÄÄN**
 
-> Tällä varmistat sisällä olevan hyppymestarin valmiuden. Ollessaan valmis hän nyökkää ja voit jatkaa eteenpäin. Pidä katseesi
+- Tällä varmistat sisällä olevan hyppymestarin valmiuden. Ollessaan valmis hän nyökkää ja voit jatkaa eteenpäin. Pidä katseesi
 hyppymestarissa niin kauan, kunnes hän antaa merkin ravistamalla tai
 nyökkäämällä.
 
-> Tämän jälkeen tarkista ulkona olevan hyppymestarin valmius. Siirrä
+- Tämän jälkeen tarkista ulkona olevan hyppymestarin valmius. Siirrä
 katseesi olkapääsi yli ulos hyppymestariin ja sano kovalla äänellä:
 
 **TARKISTUS ULOS**
 
-> Tällä varmistat ulkona olevan hyppymestarin valmiuden. Ollessaan
+- Tällä varmistat ulkona olevan hyppymestarin valmiuden. Ollessaan
 valmis jän nyökkää ja voit jatkaa eteenpäin. Pidä katseesi
 hyppymestarissa niin kauan, kunnes hän antaa merkin ravistamalla tai
 nyökkäämällä.
 
-> Kun olet varmistanut hyppymestareiden valmiuden, voit aloittaa rytmikkään
+- Kun olet varmistanut hyppymestareiden valmiuden, voit aloittaa rytmikkään
 uloshyppylaskennan ääneen. Laskenta voi vaihdella käytetyn konetyypin
 mukaan.
 
 **SIIPI**
 
-> Siirrä ja pidä katseesi siivessä (tai vastaavassa kiintopisteessä).
+- Siirrä ja pidä katseesi siivessä (tai vastaavassa kiintopisteessä).
 
 **YLÖS** (tai ULOS)
 
-> Liikuta vartaloasi ylöspäin (tai ulospäin).
+- Liikuta vartaloasi ylöspäin (tai ulospäin).
 
 **ALAS** (tai SISÄÄN)
 
-> Liikuta vartaloasi alaspäin (tai sisäänpäin).
+- Liikuta vartaloasi alaspäin (tai sisäänpäin).
 
 **TAIVUTA**
 
-> Ponnista sivuttain ulospäin, ota hyvä taivutus sekä siirrä välittömästi kädet ja jalat symmetrisesti vapaapudotusasentoon. Pidä katseesi koneessa mahdollisimman pitkään koko uloshypyn ajan, sillä se edesauttaa hyvää uloshyppyä. Laske myös ääneen 105 saakka ja aloita hypyn kulku.
+- Ponnista sivuttain ulospäin, ota hyvä taivutus sekä siirrä välittömästi kädet ja jalat symmetrisesti vapaapudotusasentoon. Pidä katseesi koneessa mahdollisimman pitkään koko uloshypyn ajan, sillä se edesauttaa hyvää uloshyppyä. Laske myös ääneen 105 saakka ja aloita hypyn kulku.
 
 Laskeminen on tärkeää opetella heti alusta, sillä se on käytännössä
 ainoa tapa säilyttää ajantaju tässä vaiheessa hyppyuraa. Laskeminen
@@ -378,21 +378,21 @@ Aloita ohjaaminen ja käännä varjo tarvittaessa vastatuuleen.
 
 **Täysliito** 
 
->Nosta ohjauslenkit täysin ylös. Varjo saavuttaa suurimman
+- Nosta ohjauslenkit täysin ylös. Varjo saavuttaa suurimman
     vaakanopeuden ja lentää parhaiten vastatuuleen.
 
 **Puolijarrutustila**
 
-> Vedä/nosta ohjauslenkit hartioiden korkeudelle. Varjo jarruttaa. Puolijarrutustilassa lennettäessä maanopeus on pienempi kuin täysliidossa.
+- Vedä/nosta ohjauslenkit hartioiden korkeudelle. Varjo jarruttaa. Puolijarrutustilassa lennettäessä maanopeus on pienempi kuin täysliidossa.
 
 **Täysjarrutus**
 
-> Vedä ohjauslenkit noin lantion tasalle. Varjo jarruttaa
+- Vedä ohjauslenkit noin lantion tasalle. Varjo jarruttaa
     voimakkaasti. Täysjarrutustilassa lennettäessä maanopeus on pienempi kuin puolijarrutustilassa.
 
 **Sakkaus**
 
-> Jos ohjauslenkkejä painetaan vielä täysjarrutustilaa alemmaksi,
+- Jos ohjauslenkkejä painetaan vielä täysjarrutustilaa alemmaksi,
     varjo lakkaa lentämästä. Sakkauksessa varjon vajoamisnopeus kasvaa,
     joten varo sakkaamasta varjoasi matalalla. Varjo palautetaan
     sakkaustilasta nostamalla ohjauslenkkejä rauhallisesti 10–20 cm.
@@ -402,9 +402,8 @@ Kokeile varjon eri lentotiloja, mutta muista, että kaikki ohjauskokeilut
 tulee tehdä yli 600 metrissä.
 
 
-| ![Täysliito](/kuvat/Lentotila-taysi.jpeg) | ![Puolijarrutus](/kuvat/Lentotila-puoli.jpeg) | ![Täysjarrutus](/kuvat/Lentotila-jarru.jpeg) |
-| -- | -- | -- |
-| Täysliito | Puolijarrutus | Täysjarrutus |
+| ![3.8. Täysliito](/kuvat/Lentotila-taysi.jpeg) | ![3.9. Puolijarrutus](/kuvat/Lentotila-puoli.jpeg) | ![3.10. Täysjarrutus](/kuvat/Lentotila-jarru.jpeg) |
+
 
 
 ###  Ilma- ja maanopeus  
