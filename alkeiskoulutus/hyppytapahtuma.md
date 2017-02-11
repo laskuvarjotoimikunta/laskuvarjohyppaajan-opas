@@ -404,7 +404,7 @@ tulee tehdä yli 600 metrissä.
 
 | ![3.8. Täysliito](/kuvat/Lentotila-taysi.jpeg) | ![3.9. Puolijarrutus](/kuvat/Lentotila-puoli.jpeg) | ![3.10. Täysjarrutus](/kuvat/Lentotila-jarru.jpeg) |
 
-
+| Täysliito | Puolijarrutus | Täysjarrutus |
 
 ###  Ilma- ja maanopeus  
 
