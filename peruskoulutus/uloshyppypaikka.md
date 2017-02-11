@@ -64,7 +64,7 @@ Ajautumaksi vapaassa saadaan 400 metriä. Uloshyppypaikka sijaitsee siis 0,4 kil
 
 Uloshyppypaikka valitaan ajautuman verran tuulen yläpuolelta laskeutumisalueeseen nähden. Lentäjälle ja muille hyppääjille näytetään paikka koneessa olevalta kartalta tai kerrotaan paikka sanallisesti.
 
-![Uloshyppypaikan määrittäminen korkeammalta hypättäessä](/kuvat/Paikanmaaritys.jpeg)
+![12.1. Uloshyppypaikan määrittäminen korkeammalta hypättäessä](/kuvat/Paikanmaaritys.jpeg)
  
 ## Linjan määritys
 
