@@ -176,5 +176,4 @@ Suoritetaan suunniteltu hyppy korkeutta aktiivisesti tarkkaillen. Varjon
 varassa huomioidaan muut ilmassa olevat hyppääjät ja vältetään ruuhkaa
 laskeutumisessa.
 
-![29.1. Ohjeellinen luettelo koehypyllä huomioitavista
-asioista](Koehyppylomake.png)
+![29.1. Ohjeellinen luettelo koehypyllä huomioitavista asioista](/kuvat/Koehyppylomake.png)
