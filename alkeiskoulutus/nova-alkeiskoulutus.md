@@ -379,7 +379,7 @@ päästäkseen seuraavalle tasolle.
 
   |2700–4000 m|   Rento taivutettu UH|
    | -- | -- |
-    |                ||Tarkkailukehä (HM siirtyy oppilaan eteen)|
+    |                |Tarkkailukehä (HM siirtyy oppilaan eteen)|
   |               |   Lupa käännökseen (oppilas nyökkää HM:lle, HM vastaa nyökkäämällä)|
   |                 | 90° vasen|
   |                 | MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
