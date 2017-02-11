@@ -21,7 +21,7 @@ Tee varavarjotoimenpiteet!
 ### Lentää, täysin kehittynyt  
 
 
-![](/kuvat/Vajaatoiminnot-Lentaa-Taysin-kehittynyt.png)
+![](/kuvat/Vajaatoiminnot-Lentaa-Taysin-kehittynyt.jpg)
 
 -   Kupu on säännöllisen muotoinen.
 
@@ -48,14 +48,14 @@ Tee varavarjotoimenpiteet!
 
 #### Reunatunnelit tukossa ja slider ylhäällä 
 
-![](/kuvat/Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla.png)
+![](/kuvat/Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla.jpg)
 
 -   Pumppaa slider alas ja tunnelit auki.
 -   Tarkkaile korkeutta.
 
 #### Reunatunneli tukossa, slider ylhäällä ja kierrettä punoksissa 
 
-![](/kuvat/Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla-ja-kierteita.png)
+![](/kuvat/Vajaatoiminnot-Lentaa-Reunatunnelit-tukossa-ja-slider-ylhaalla-ja-kierteita.jpg)
 
 -   Levitä kantohihnoja, potki kierre auki, pumppaa slider alas ja
     tunneli auki.
@@ -73,11 +73,17 @@ Tee varavarjotoimenpiteet!
 
 #### Esimerkkejä vajaatoiminnoista 
 
-![](/kuvat/Vajaatoiminnot-line-over.png)
+![](/kuvat/Vajaatoiminnot-line-over.jpg)
 
 -   Tee varavarjotoimenpiteet.
 
-LISÄÄ KUVIA!
+![](/kuvat/Vajaatoiminnot-bag_lock.jpg)
+
+-   Tee varavarjotoimenpiteet.
+
+![](/kuvat/Vajaatoiminnot-streamer.jpg)
+
+-   Tee varavarjotoimenpiteet.
 
 Varavarjon käyttö  
 -------------------
