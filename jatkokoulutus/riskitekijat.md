@@ -314,7 +314,7 @@ Toiminnasta onnettomuustilanteessa on kerrottu ilmailuohjeessa GEN T1-4 ja SIL:n
 
 1.  Tutustutaan Turvallisuusilmoitukseen ja sen täyttöön. Lomake
     löytyy Laskuvarjotoimikunnan nettisivuilta.
-    <http://vtr.laskuvarjotoimikunta.fi/>
+    [vtr.laskuvarjotoimikunta.fi](http://vtr.laskuvarjotoimikunta.fi)
 
 2.  Selvitetään, missä kerholla säilytetään turvallisuuspäällikön
     kokoamaa hyppyturvallisuuteen liittyvää materiaalia.
