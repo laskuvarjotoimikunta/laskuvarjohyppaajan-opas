@@ -28,20 +28,20 @@ Harjoittele suorituksen vaiheet:
 
 **TAIVUTA**
 
-        Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä taivutus.
-        Rentouta asento uloshypyn jälkeen.
-        Ota ensin perusasento ja käänny tämän jälkeen selälleen.
-        Tarkkaile korkeutta.
-        Muutaman sekunnin jälkeen käännä asento takaisin mahalleen perusasentoon.
-        Mikäli korkeutta on vielä yli 1800 metriä, toista harjoitus.
+-        Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä taivutus.
+-        Rentouta asento uloshypyn jälkeen.
+-        Ota ensin perusasento ja käänny tämän jälkeen selälleen.
+-        Tarkkaile korkeutta.
+-        Muutaman sekunnin jälkeen käännä asento takaisin mahalleen perusasentoon.
+-        Mikäli korkeutta on vielä yli 1800 metriä, toista harjoitus.
 
 **1800 metriä**
 
-        Lopeta työskentely ja valmistaudu päävarjon avaamiseen.
+-        Lopeta työskentely ja valmistaudu päävarjon avaamiseen.
 
 **1300 metriä**
 
-        Aloita avaustoimenpiteet.
+-        Aloita avaustoimenpiteet.
 
 ## Liuku
 
@@ -79,20 +79,20 @@ Liuku tehdään seuraavasti:
 
 **TAIVUTA**
 
-        Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä taivutus.
-        Rentouta asento uloshypyn jälkeen.
-        Käänny liukusuuntaan, ota liukuasento ja liu’u noin 5 sekuntia.
-        Pysäytä liuku.
-        Tarkkaile korkeutta.
-        Mikäli korkeutta on vielä jäljellä, käänny 180° ja toista liuku.
+-        Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä taivutus.
+-        Rentouta asento uloshypyn jälkeen.
+-        Käänny liukusuuntaan, ota liukuasento ja liu’u noin 5 sekuntia.
+-        Pysäytä liuku.
+-        Tarkkaile korkeutta.
+-        Mikäli korkeutta on vielä jäljellä, käänny 180° ja toista liuku.
 
 **1600 metriä**
 
-        Lopeta työskentely ja valmistaudu päävarjon avaamiseen.
+-        Lopeta työskentely ja valmistaudu päävarjon avaamiseen.
 
 **1300 metriä**
 
-        Aloita avaustoimenpiteet.
+-        Aloita avaustoimenpiteet.
 
 ## FS-liuku
 
@@ -126,17 +126,17 @@ FS-liuku sisältää seuraavan liikesarjan:
 
 **TAIVUTA**
 
-        Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä taivutus.
-        Rentouta asento uloshypyn jälkeen.
-        Ota maasta/horisontista kiintopiste ja aloita FS-liuku.
-        Tee liikesarja ja päätä liike harjoitusvetoon.
-        Tarkista korkeus.
-        Mikäli korkeutta on vielä jäljellä, toista FS-liuku.
+-        Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi hyvä taivutus.
+-        Rentouta asento uloshypyn jälkeen.
+-        Ota maasta/horisontista kiintopiste ja aloita FS-liuku.
+-        Tee liikesarja ja päätä liike harjoitusvetoon.
+-        Tarkista korkeus.
+-        Mikäli korkeutta on vielä jäljellä, toista FS-liuku.
 
 **1600 metriä**
 
-        Lopeta työskentely ja valmistaudu päävarjon avaamiseen.
+-        Lopeta työskentely ja valmistaudu päävarjon avaamiseen.
 
 **1300 metriä**
 
-        Aloita avaustoimenpiteet.
+-        Aloita avaustoimenpiteet.
