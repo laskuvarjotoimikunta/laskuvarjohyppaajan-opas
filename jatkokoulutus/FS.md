@@ -63,12 +63,12 @@ Kaikki liikkeet aloitetaan perusasennosta, *boxista*.
 
 Liikkuminen eteenpäin tapahtuu ojentamalla jalkoja suoremmiksi.
 
-![18.1: Liikkuminen eteen](/kuvat/Asento-liikeeteen.png)
+![18.1. Liikkuminen eteen](/kuvat/Asento-liikeeteen.png)
 
 Liikkuminen taaksepäin tapahtuu työntämällä käsiä eteenpäin ja
 koukistamalla samanaikaisesti polvia.
 
-![18.2: Liikkuminen taakse](/kuvat/Asento-liiketaakse.png)
+![18.2. Liikkuminen taakse](/kuvat/Asento-liiketaakse.png)
 
 ## Liikkuminen alas- ja ylöspäin  
 
@@ -79,9 +79,9 @@ Pystysuoraan liikkumiseen käytetään taivutuksen lisäämistä (alaspäin
 suuntautuva liike) tai negatiivista taivutusta (ylöspäin suuntautuva
 liike, kupitus).
 
-![18.3: Liikkuminen ylös](/kuvat/Asento-liikeylos.png)
+![18.3. Liikkuminen ylös](/kuvat/Asento-liikeylos.jpg)
 
-![18.4: Liikkuminen alas](/kuvat/Asento-liikealas.png)
+![18.4. Liikkuminen alas](/kuvat/Asento-liikealas.png)
 
 ## Käännökset  
 
@@ -130,7 +130,7 @@ sekä tarkastetaan korkeus. Lennetään kuviossa oikein. Kun pari antaa
 merkin, päästetään otteet. Pari odottaa 2 sekuntia ja liikkuu muutaman
 metrin taaksepäin. Toistetaan liike eteenpäin.
 
-![18.5: FS-hyppy 1](/kuvat/FS-1.png)
+![18.5. FS-hyppy 1](/kuvat/FS-1.png)
 
 ### Hyppy 2: Liikkuminen eteen- ja taaksepäin  
 
@@ -141,7 +141,7 @@ Lennetään kuviossa oikein. Tarkastetaan korkeus ja päästetään otteet kun
 vetoa ei ole. Odotetaan 2 sekuntia ja liikutaan muutama metri
 taaksepäin. Toistetaan eteen – taakse -liikettä.
 
-![18.6: FS-hyppy 2](/kuvat/FS-2.png)
+![18.6. FS-hyppy 2](/kuvat/FS-2.png)
 
 ### Hyppy 3: Liikkuminen ylös- ja alaspäin  
 
@@ -156,7 +156,7 @@ etäisyyden hypyn aikana muutamassa metrissä, jotta voidaan kupitettaessa
 kääntää päätä alaspäin ja silti pitää katsekontakti pariin. Pidetään
 asento koko ajan symmetrisenä. Toistetaan liikettä.
 
-![18.7: FS-hyppy 3](/kuvat/FS-3.png)
+![18.7. FS-hyppy 3](/kuvat/FS-3.png)
 
  ### Hyppy 4: Pystysuora liikkuminen yhdistettynä eteenpäin liikkeeseen  
 
@@ -171,7 +171,7 @@ liikkumaan pystysuoraan samalle tasolle parin kanssa ja vasta sitten
 eteenpäin otetta varten. Pidetään katsekontakti pariin koko ajan.
 Toistetaan liikettä.
 
-![18.8: FS-hyppy 4](/kuvat/FS-4.png)
+![18.8. FS-hyppy 4](/kuvat/FS-4.png)
 
  ### Hyppy 5: 90° käännös  
 
@@ -189,7 +189,7 @@ ensin oikea liike ja vasta sitten otetaan otteet. Kun otetaan ote,
 varmistetaan, että se on kevyt ja että lennetään paikalla eikä otteessa
 roikuta. Toistetaan liikettä.
 
-![18.9: FS-hyppy 5](/kuvat/FS-5.png)
+![18.9. FS-hyppy 5](/kuvat/FS-5.png)
 
 ### Hyppy 6: 180° käännös  
 
@@ -204,7 +204,7 @@ mennä yli halutun astemäärän. Jos ajaudutaan sivuttain poispäin parista,
 niin käännytään välittömästi paria kohti ja jatketaan käännöksiä toiseen
 suuntaan. Toistetaan liikettä.
 
-![18.10: FS-hyppy 6](/kuvat/FS-6.png)
+![18.10. FS-hyppy 6](/kuvat/FS-6.png)
 
 ### Hyppy 7: 360° käännös  
 
@@ -218,7 +218,7 @@ lennetään vierekkäin samalla tasolla. Muistetaan, että liike tulee
 hidastaa hyvissä ajoin, jottei kääntyminen mene yli halutun astemäärän.
 Toistetaan liikettä.
 
-![18.11: FS-hyppy 7](/kuvat/FS-7.png)
+![18.11. FS-hyppy 7](/kuvat/FS-7.png)
 
  ### Hyppy 8: Liikkuminen sivuttain  
 
@@ -230,7 +230,7 @@ oikealle vartalonmitan verran, pysäytetään ja otetaan ote. Liikutaan
 vasemmalle kahden vartalonmitan verran, pysäytetään ja otetaan ote.
 Toistetaan liikettä.
 
-![18.12: FS-hyppy 8](/kuvat/FS-8.png)
+![18.12. FS-hyppy 8](/kuvat/FS-8.png)
 
 ### Hyppy 9: Lähestyminen sivuttain  
 
