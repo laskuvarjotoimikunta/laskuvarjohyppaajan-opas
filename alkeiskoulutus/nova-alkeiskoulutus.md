@@ -609,4 +609,3 @@ stabiili avaus.
    | -- | -- |
   |               |  Mittari|
   |**1400 m**      |  Avausmerkki ja avaus.|
-   | -- | |
