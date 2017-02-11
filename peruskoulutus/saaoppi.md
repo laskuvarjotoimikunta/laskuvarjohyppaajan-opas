@@ -154,7 +154,7 @@ GAFOR EFRO 1218 BBBB 30/39 O
 
 Esimerkkipauksessa kyse on Pohjois-Suomen alue-ennusteesta.
 
-Sanoma on voimassa alueilla 30–39 (Oulun lentokenttä sijaitsee alueella 30), ja aikavälillä 3.00-12.00 UTC-aikaa. GAFORit laaditaan joka vuorokausi samoille yhdeksän tunnin aikaväleille, joten 0312-sanoma on
+Sanoma on voimassa alueilla 30–39 (Oulun lentokenttä sijaitsee alueella 30), ja aikavälillä 3.00–12.00 UTC-aikaa. GAFORit laaditaan joka vuorokausi samoille yhdeksän tunnin aikaväleille, joten 0312-sanoma on
 siis aamu/päiväennuste, ja 1221-sanoma on iltapäivä/iltaennuste. Alueelle 30/39 laaditaan myös 2103-sanoma, yöennuste.
 
 WX (Weather eXplanation, sään kuvaus)- tunnuksesta eteenpäin kuvataan parilla-kolmella rivillä selkeästi sanoman voimassaoloaikana vallitseva tai lähitunteina odotettavissa oleva sää. Joskus WX-osassa kerrotaan myös seuraavan päivän ennuste.
