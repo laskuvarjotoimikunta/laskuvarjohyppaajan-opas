@@ -59,7 +59,7 @@ ovat seuraavia:
 - lisävarusteet (tukahdutettava slider ja tukahtuva apuvarjo) vaativat
     huolellisuutta pakkaamisessa ja lentämisessä.
 
-![21.1: MARD-järjestelmä voi nopeuttaa varavarjon avautumista. (kuva: UPT)](/kuvat/MARD.jpg)
+![21.1. MARD-järjestelmä voi nopeuttaa varavarjon avautumista. (kuva: UPT)](/kuvat/MARD.jpg)
 
 ## Muut varusteet  
 
