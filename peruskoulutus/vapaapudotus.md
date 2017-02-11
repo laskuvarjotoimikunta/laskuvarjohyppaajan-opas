@@ -13,7 +13,7 @@ Liikesarjoissa uusi liike aloitetaan vasta, kun edellinen on pysäytetty. Liikke
 * Jalat levitettyinä, polvet hartioiden tasalla
 * Sääret ojennettuina siten, että ilmavirta osuu niihin
 
-![Vapaapudotuksen perusasento](/kuvat/Asento-perus.png)
+![10.1. Vapaapudotuksen perusasento](/kuvat/Asento-perus.png)
 
 ## Käännös
 
@@ -24,7 +24,7 @@ Käännöksen puoleinen käsi ja hartia painetaan alas. Käännöstä voidaan no
 3. Otetaan perusasento ennen kiintopistettä.
 4. Vähän ennen kiintopistettä tehdään pieni vastaliike, jotta käännös pysähtyy täsmällisesti.
 
-![Kääntyminen](/kuvat/Asento-kaannos.png)
+![10.2. Kääntyminen](/kuvat/Asento-kaannos.png)
 
 ## Selkälento
 
@@ -37,7 +37,7 @@ Selkälennon aikana rintahihnassa oleva korkeusmittari ei näytä välttämätt�
 
 Palautusta voidaan auttaa ottamalla ensin delta-asento ja vasta kääntymisen jälkeen perusasento.
 
-![Selkälento](/kuvat/Selkastabiili.png)
+![10.3. Selkälento](/kuvat/Selkastabiili.png)
 
 ## Takavoltti
 
@@ -49,7 +49,7 @@ Takavoltti tehdään seuraavasti:
 2. Painetaan käsillä alaspäin ilmavirtaa vasten.
 3. Pään ollessa alaspäin palautetaan perusasento.
 
-TODO:Takavoltin suoritus, kuva pdf muodossa, joten ei toimi tässä
+![10.4. Takavoltin suoritus](/kuvat/Takavolttikuvasarja.png)
 
 ## Tynnyri
 
@@ -85,10 +85,10 @@ purun jälkeen! Liuku tehdään seuraavasti:
 8. Ensin taivutus = delta-asento
 9. Palautetaan kädet ja jalat perusasentoon.
 
-![Delta-asento](/kuvat/Asento-deltaliuku.png)
+![10.5. Delta-asento](/kuvat/Asento-deltaliuku.png)
 
 
-![Liukuasento](/kuvat/Asento-liuku.png)
+![10.6. Liukuasento](/kuvat/Asento-liuku.png)
 
 ## Vaaratilanteet
 
