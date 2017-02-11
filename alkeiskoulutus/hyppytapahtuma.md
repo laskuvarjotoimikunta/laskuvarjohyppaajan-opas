@@ -141,21 +141,21 @@ kovalla äänellä:
 
 **TARKISTUS SISÄÄN**
 
-- Tällä varmistat sisällä olevan hyppymestarin valmiuden. Ollessaan valmis hän nyökkää ja voit jatkaa eteenpäin. Pidä katseesi
+Tällä varmistat sisällä olevan hyppymestarin valmiuden. Ollessaan valmis hän nyökkää ja voit jatkaa eteenpäin. Pidä katseesi
 hyppymestarissa niin kauan, kunnes hän antaa merkin ravistamalla tai
 nyökkäämällä.
 
-- Tämän jälkeen tarkista ulkona olevan hyppymestarin valmius. Siirrä
+Tämän jälkeen tarkista ulkona olevan hyppymestarin valmius. Siirrä
 katseesi olkapääsi yli ulos hyppymestariin ja sano kovalla äänellä:
 
 **TARKISTUS ULOS**
 
-- Tällä varmistat ulkona olevan hyppymestarin valmiuden. Ollessaan
+Tällä varmistat ulkona olevan hyppymestarin valmiuden. Ollessaan
 valmis jän nyökkää ja voit jatkaa eteenpäin. Pidä katseesi
 hyppymestarissa niin kauan, kunnes hän antaa merkin ravistamalla tai
 nyökkäämällä.
 
-- Kun olet varmistanut hyppymestareiden valmiuden, voit aloittaa rytmikkään
+Kun olet varmistanut hyppymestareiden valmiuden, voit aloittaa rytmikkään
 uloshyppylaskennan ääneen. Laskenta voi vaihdella käytetyn konetyypin
 mukaan.
 
@@ -183,10 +183,9 @@ sekunteja. Ilmassa muutama sekunti voi tuntua hyvinkin pitkältä ajalta.
 
 ## Vapaapudotuksen perusteet  
 
-Jos olet pakkolaukaisukurssilla, voit siirtyä kohtaan: *Varjon
- avautuminen, tarkastaminen ja tarvittaessa selvittäminen* ja palata tähän lukuun kun olet siirtymässä itseaukaisuhyppyihin.
-
-![3.5. Hyppääjän keskimääräinen nopeus ja pudottu matka ajan suhteen.](/kuvat/Vapaapudotus-taulukko.png)
+*Jos olet pakkolaukaisukurssilla, voit siirtyä kohtaan Varjon
+avautuminen, tarkastaminen ja tarvittaessa selvittäminen, (3.7 s.XX) 
+ja palata tähän lukuun kun olet siirtymässä itseaukaisuhyppyihin.*
 
 Maan vetovoimasta johtuen nopeus vapaapudotuksessa kiihtyy.
 Ilmanvastuksen vaikutuksesta putoamisnopeudeksi vakiintuu 10–12 sekunnin
@@ -195,6 +194,8 @@ kuluttua 180–190 km/h (50–53 m/s).
 Seuraavaan taulukkoon on koottuna hyppääjän keskimääräinen nopeus (maata
 kohti) ja pudottu matka hypyn alusta lähtien. Putoamisnopeus riippuu mm. 
 hyppääjän massasta, asennosta, vaatetuksesta ja hyppykorkeudesta.
+
+![3.5. Hyppääjän keskimääräinen nopeus ja pudottu matka ajan suhteen.](/kuvat/Vapaapudotus-taulukko.png)
 
 Oppilaskoulutushypyillä varjon avaustoimenpiteet aloitetaan viimeistään 1300 
 metrin korkeudessa. Mikäli avaus tapahtuu matalammalla, siitä on ilmoitettava kouluttajalle.
