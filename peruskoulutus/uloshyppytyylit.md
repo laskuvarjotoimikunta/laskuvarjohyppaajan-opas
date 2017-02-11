@@ -79,7 +79,7 @@ Uloshypyn toteutus riippuu hyppääjien määrästä ja hyppykoneesta, mutta onn
 
 Streevalla tai pyörällä istuminen on ehdottomasti **kielletty**.
 
-!9.3. [FS-uloshyppy](/kuvat/UH-FS.jpeg)
+![9.3. FS-uloshyppy](/kuvat/UH-FS.jpeg)
 
 ## Muut uloshypyt
 
