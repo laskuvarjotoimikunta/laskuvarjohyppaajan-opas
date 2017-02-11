@@ -67,7 +67,7 @@ Lentosääsanomia saadaan mm. seuraavasti:
 METAR-sanoma on ilmaliikenteen käyttöön tarkoitettu sääsanoma, joka laaditaan lentopaikan sääasemalla. Metar kertoo lentoasemalla vallitsevan säätilan. Metareita laaditaan pääsääntöisesti kaikilla
 lentopaikoilla, joille on säännöllistä liikennettä. Suomessa Metar luodaan näiltä lentoasemilta 30 minuutin välein, 20 minuuttia ja 50 minuuttia yli jokaisen tunnin.
 
-![**X.X:** Nämä pyöristetyt muunnoksen tulee osata hyppytoiminnassa. 1 jalka = 0,3048 m.](/kuvat/Metrit-jaloiksi-taulukko.png)
+![X.X. Nämä pyöristetyt muunnoksen tulee osata hyppytoiminnassa. 1 jalka = 0,3048 m.](/kuvat/Metrit-jaloiksi-taulukko.png)
 
 ```
 EFOU 051250Z 27006KT 9999 SCT055 FEW080 08/04 Q1015
@@ -80,7 +80,7 @@ Tämä viesti voidaan jakaa osioihin ja tulkita sen perusteella. Metar-viestin p
 * 27006KT Tuulen suunta asteina ja nopeus solmuina, 270 astetta, 3 m/s
 * 9999 Näkyvyys metreinä, yli 10 km
 * SCT055 Pilvien määrä sekä korkeus
-* FEW080 Pilvien äärä sekä korkeus
+* FEW080 Pilvien määrä sekä korkeus
 * 08/04 Lämpötila ja kastepiste celsiusasteina
 * Q1015 Ilmanpaine millibareina / hehtopascaleina
 * Lisätiedot ja mahdolliset muut huomioitavat asiat kerrotaan Metarin lopussa
@@ -166,15 +166,15 @@ Tuulitietojen alkaminen ilmaistaan sanomassa tunnuksella WINDS (tuulet). Mikäli
 * 5000 jalan (1500 metrin) korkeudella.
 
 Eri kerroksien tuulitiedot on toisinaan jaettu alueisiin, kuten tässä maatuuliosa. Maatuuliennusteen (SFC) ensimmäinen osa koskee tässä tapauksessa alueita 30/32 eli alueita 30, 31 ja 32. Aluemäärityksen
-jälkeen ilmoitetaan tuulen suunnan vaihteluväli asteina. 270-310 tarkoittaa siis, että tuulen suunta vaihtelee välillä 270 ja 310 astetta. Kautta-viivan jälkeen annetaan tuulen nopeus tai nopeuden
-vaihteluväli solmuina (KT, knots). 05–10 KT tarkoittaa siis, että tuulen keskimääräinen voimakkuus on 5 – 10 solmua (2,5 – 5 metriä sekunnissa). Nämä lukemat eivät kerro maatuulen huippuarvoista, jotka saadaan selville kerhon tuulimittarilla tai sääasemalta.
+jälkeen ilmoitetaan tuulen suunnan vaihteluväli asteina. 270–310 tarkoittaa siis, että tuulen suunta vaihtelee välillä 270 ja 310 astetta. Kautta-viivan jälkeen annetaan tuulen nopeus tai nopeuden
+vaihteluväli solmuina (KT, knots). 05–10 KT tarkoittaa siis, että tuulen keskimääräinen voimakkuus on 5–10 solmua (2,5–5 metriä sekunnissa). Nämä lukemat eivät kerro maatuulen huippuarvoista, jotka saadaan selville kerhon tuulimittarilla tai sääasemalta.
 
-Maatuulikoodin toinen osa 33/39 010–030 / 03-06 KT kertoo vastaavat tiedot alueille 33–39.
+Maatuulikoodin toinen osa 33/39 010–030 / 03–06 KT kertoo vastaavat tiedot alueille 33–39.
 
 2000 FT:n (600 metriä) tuulitiedoissa ei ole tällä kertaa erillistä alueisiin jakoa, jolloin ne koskevat koko Itä-Suomen aluetta. 2000 FT 300–320 / 15–20 KT tarkoittaa siis, että 600 metrin korkeudessa tuulen
-suunta vaihtelee välillä 300-320 astetta, ja voimakkuus välillä 15–20 solmua (7,5 – 10 metriä sekunnissa).
+suunta vaihtelee välillä 300–320 astetta, ja voimakkuus välillä 15–20 solmua (7,5–10 metriä sekunnissa).
 
-5000 FT 330 / 25 KT tarkoittaa, että 1500 metrin korkeudessa tuulee suunnasta 330 astetta 25 solmun voimakkuudella (12,5 metriä sekunnissa).
+5000 FT 330 / 25 KT tarkoittaa, että 1500 metrin korkeudessa tuulee suunnasta 330 astetta 25 solmun voimakkuudella (12,8 metriä sekunnissa).
 
 SFC-, 2000 ft- ja 5000 ft-tuulitiedoilla voi yleensä riittävällä tarkkuudella määritellä jopa 4000 m:n UH-paikan. Erityisesti 5000 ft:n tuulitietoja voidaan käyttää ajautuman laskemiseen korkeusvälillä noin
 1000–4000 m, sillä noilla korkeuksilla ei juurikaan ole tuuliolosuhteisiin vaikuttavia häiriötekijöitä.
