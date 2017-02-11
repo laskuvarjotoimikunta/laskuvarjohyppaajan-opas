@@ -76,7 +76,7 @@ Lähestyttäessä suunniteltua hyppypaikkaa koneen ovi aukaistaan.
 101
 
 
-   Otetaan X-asento ja taivutus tai delta ja taivutus (jalat lähes
+-   Otetaan X-asento ja taivutus tai delta ja taivutus (jalat lähes
    suorina).
 
 <!-- -->
@@ -84,15 +84,15 @@ Lähestyttäessä suunniteltua hyppypaikkaa koneen ovi aukaistaan.
 102..105
 
 
-   Pidetään taivutus ja asento.
-   Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.
+-   Pidetään taivutus ja asento.
+-   Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.
 
 <!-- -->
 
 105
 
 
-   Vilkaistaan olkapään yli tarvittaessa.
+-   Vilkaistaan olkapään yli tarvittaessa.
 
 Varjon avauduttua tehdään päätös LENTÄÄ / LENTÄÄ - SELVITÄ / EI LENNÄ ja
 aloitetaan laskeutumisen suunnittelu.
@@ -187,39 +187,39 @@ lentäjä, mutta sinun päällikkösi on hyppymestari.
 TAIVUTA (101)
 
 
-   Otetaan X-asento ja taivutus tai delta ja taivutus (jalat lähes
+-   Otetaan X-asento ja taivutus tai delta ja taivutus (jalat lähes
    suorina).
 
 TARTU (102)
 
 
-   Vasen käsi kypärän päälle eteen vartalon normaaliksi jatkeeksi ja
+-   Vasen käsi kypärän päälle eteen vartalon normaaliksi jatkeeksi ja
    oikea käsi kahvalle, tiukka ote.
 
 VEDÄ (103)
 
 
-   Veto kahvasta putken tai taskun suuntaan.
-   Asennon palautus X:ään tai deltaan.
+-   Veto kahvasta putken tai taskun suuntaan.
+-   Asennon palautus X:ään tai deltaan.
 
 101
 
 
-   Aloitetaan laskeminen alusta vedon jälkeen.
+-   Aloitetaan laskeminen alusta vedon jälkeen.
 
 <!-- -->
 
 102…104
 
 
-   Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.
+-   Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.
 
 <!-- -->
 
 105
 
 
-   Vilkaistaan olkapään yli tarvittaessa.
+-   Vilkaistaan olkapään yli tarvittaessa.
 
 LENTÄÄ-päätöksen jälkeen laitetaan harjoitusvetokahva pois kädestä
 (haalarin alle tai rintahihnaan). EI LENNÄ -päätöksen jälkeen pudotetaan
@@ -284,35 +284,35 @@ Toiminta kuten aiemmin, muista suojata päävarjon avauskahvaa.
 TAIVUTA (101)
 
 
-   Otetaan X-asento ja taivutus tai delta ja taivutus (jalat lähes
+-   Otetaan X-asento ja taivutus tai delta ja taivutus (jalat lähes
    suorina).
 
 TARTU (102)
 
 
-   Vasen käsi kypärän päälle eteen vartalon normaaliksi jatkeeksi ja
+-   Vasen käsi kypärän päälle eteen vartalon normaaliksi jatkeeksi ja
    oikea käsi kahvalle, tiukka ote.
 
 VEDÄ (103)
 
 
-   Veto kahvasta putken tai taskun suuntaan.
+-   Veto kahvasta putken tai taskun suuntaan.
    Asennon palautus X:ään tai deltaan.
 
 101 
 
 
-   Aloitetaan laskeminen alusta vedon jälkeen.
+-   Aloitetaan laskeminen alusta vedon jälkeen.
 
 102..104 
 
 
-   Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.
+-   Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.
 
 105 
 
 
-   Vilkaistaan olkapään yli tarvittaessa (turbulenssin poisto).
+-   Vilkaistaan olkapään yli tarvittaessa (turbulenssin poisto).
 
 LENTÄÄ-päätöksen jälkeen laitetaan avauskahva pois kädestä (haalarin
 alle tai rintahihnaan). EI LENNÄ -päätöksen jälkeen pudotetaan
@@ -347,51 +347,51 @@ säilyttävä paremmin.
 TAIVUTA
 
 
-   Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi
+-   Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi
    hyvä taivutus.
 
 101
 
 
-   Säilytä ajantajusi laskemalla.
+-   Säilytä ajantajusi laskemalla.
 
 102 
 
 
-   Varmistetaan taivutus ja asento.
+-   Varmistetaan taivutus ja asento.
 
 TAIVUTA (103)
 
 
-   Otetaan X-asento ja taivutus tai delta ja taivutus (jalat lähes
+-   Otetaan X-asento ja taivutus tai delta ja taivutus (jalat lähes
    suorina).
 
 TARTU (104)
 
 
-   Vasen käsi kypärän päälle eteen vartalon normaaliksi jatkeeksi ja
+-   Vasen käsi kypärän päälle eteen vartalon normaaliksi jatkeeksi ja
    oikea käsi kahvalle, tiukka ote.
 
 VEDÄ (105)
 
 
-   Veto kahvasta putken tai taskun suuntaan.
-   Asennon palautus X:ään tai deltaan.
+-   Veto kahvasta putken tai taskun suuntaan.
+-   Asennon palautus X:ään tai deltaan.
 
 101 
 
 
-   Aloitetaan laskeminen alusta vedon jälkeen.
+-   Aloitetaan laskeminen alusta vedon jälkeen.
 
 102..104 
 
 
-   Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.
+-   Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.
 
 105 
 
 
-   Vilkaistaan olkapään yli tarvittaessa (turbulenssin poisto).
+-   Vilkaistaan olkapään yli tarvittaessa (turbulenssin poisto).
 
 LENTÄÄ-päätöksen jälkeen laitetaan avauskahva pois kädestä (haalarin
 alle tai rintahihnaan). EI LENNÄ -päätöksen jälkeen pudotetaan
@@ -428,55 +428,55 @@ Laskemisella säilytetään ajantaju.
 TAIVUTA
 
 
-   Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi
+-   Tee uloshyppy koneesta ottaen välittömästi ilmavirtaan päästyäsi
    hyvä taivutus.
 
 101..106
 
 
-   Säilytä ajantajusi laskemalla.
-   Tarkkaile korkeutta.
+-   Säilytä ajantajusi laskemalla.
+-   Tarkkaile korkeutta.
 
 107
 
 
-   Vapaapudotusvauhti on maksimissa, rentouta asentoa.
+-   Vapaapudotusvauhti on maksimissa, rentouta asentoa.
 
 1300 metriä
 
 
-   Aloita avaustoimenpiteet.
+-   Aloita avaustoimenpiteet.
 TAIVUTA 
 
 
-   Varmistetaan taivutus ja asento.
+ -  Varmistetaan taivutus ja asento.
 
 TARTU
 
 
-   Vasen käsi kypärän päälle eteen vartalon normaaliksi jatkeeksi ja
+-   Vasen käsi kypärän päälle eteen vartalon normaaliksi jatkeeksi ja
    oikea käsi kahvalle, tiukka ote.
     
 VEDÄ
 
 
-   Veto kahvasta putken tai taskun suuntaan.
-   Palauta perusasento.
+-   Veto kahvasta putken tai taskun suuntaan.
+-   Palauta perusasento.
 
 101 
 
 
-   Aloitetaan laskeminen alusta vedon jälkeen.
+-   Aloitetaan laskeminen alusta vedon jälkeen.
 
 102..104 
 
 
-   Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.
+-   Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.
 
 105 
 
 
-   Vilkaistaan olkapään yli tarvittaessa (turbulenssin poisto).
+-   Vilkaistaan olkapään yli tarvittaessa (turbulenssin poisto).
 
 LENTÄÄ-päätöksen jälkeen laitetaan avauskahva pois kädestä (haalarin
 alle tai rintahihnaan). EI LENNÄ -päätöksen jälkeen pudotetaan
