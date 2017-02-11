@@ -32,13 +32,13 @@ IPC:n julkaisemasta Dive poolista.
 - 1999 Suomen naisten ennätys 30-way
 
 ###  2000-luku  
-- 2002 ranskalainen Maubeuge teki maailman ennätyksen 42 pistettä
+- 2002 ranskalainen Maubeuge teki maailmanennätyksen 42 pistettä
     kilpailuhypyllä
 - 2003 suomalainen naisjoukkue Zooey sijoittui 8. sijalle naisten
     sarjassa MM-kisoissa Ranskassa
-- 2004 maailman ennätys 357-way, Thaimaa
+- 2004 maailmanennätys 357-way, Thaimaa
 - 2005 Suomen ennätys 58-way, Kolomna Venäjä 
-- 2006 maailman ennätys 400-way, Thaimaa
-- 2009 Suomen ennätys 63-way, Empuria Brava Espanja
-- 2010 Pro-Team teki Suomen ennätyksen 42 pistettä kilpailuhypyllä
+- 2006 maailmanennätys 400-way, Thaimaa
+- 2009 Suomen ennätys 63-way, Empuriabrava Espanja
+- 2010 Pro-Team teki Suomen ennätyksen 42 pistettä kilpailuhypyllä, Menzelinsk Venäjä
 - 2013 Suomen naisten ennätys 42-way
