@@ -9,11 +9,11 @@ varjoa: pää- ja varavarjo. Molemmat näistä ovat liitovarjoja, jotka ovat
 muodoltaan siiven kaltaisia. Niiden liitosuhde on noin 3:1, eli
 liitäessään kolme metriä eteenpäin varjo vajoaa metrin.
 
-![Wings-reppuvaljasyhdistelmä hyppääjän päällä](/kuvat/Reppu-valjas-etu_16.png)
+![2.1. Wings-reppuvaljasyhdistelmä hyppääjän päällä](/kuvat/Reppu-valjas-etu_16.png)
 
 ###  Päävarjo  
 
-![Päävarjon osat: 1. Kupu 2. Tunnelipari 3. Kuvun takahelma 4. Stabilisaattori 5. Kantopunokset 6. Ohjauspunokset 7. Slider 8. Kantohihnat 9. Apuvarjo](/kuvat/Paavarjon-osat.jpg)
+![2.2. Päävarjon osat: 1. Kupu 2. Tunnelipari 3. Kuvun takahelma 4. Stabilisaattori 5. Kantopunokset 6. Ohjauspunokset 7. Slider 8. Kantohihnat 9. Apuvarjo](/kuvat/Paavarjon-osat.jpg)
 
 Päävarjo, joka koostuu kuvusta, punoksista ja sliderista, on
 kantohihnojen välityksellä kiinni valjaissa kolmirengaslukkojen avulla.
@@ -31,11 +31,11 @@ tarvittaessa on tehtävä maahantulokierähdys.
 
 ### Reppu-valjasyhdistelmä  
 
-![1. Varjon pystyhihnojen säätösoljet 2. Päävarjon irtipäästöpampula 3. Varavarjon avauskahva 4. Rintahihna 5. Varavarjon pakkolaukaisuhihna 6. Koukkupuukko (sijainti voi vaihdella) 7. Kolmirengasolkalukot 8. Automaattilaukaisimen käyttöyksikkö](/kuvat/Osat_wings_2016.png)
+![2.3. 1. Varjon pystyhihnojen säätösoljet 2. Päävarjon irtipäästöpampula 3. Varavarjon avauskahva 4. Rintahihna 5. Varavarjon pakkolaukaisuhihna 6. Koukkupuukko (sijainti voi vaihdella) 7. Kolmirengasolkalukot 8. Automaattilaukaisimen käyttöyksikkö](/kuvat/Osat_wings_2016.png)
 
-![10. Päävarjon avauskahva 11. Päävarjon reppu 12. Varavarjon reppu 13. Päävarjon läppä 14. Päävarjon avauskahva hyppymestarille (NOVA-kahva)](/kuvat/Novarepputakaa_2016.png)
+![2.4. 10. Päävarjon avauskahva 11. Päävarjon reppu 12. Varavarjon reppu 13. Päävarjon läppä 14. Päävarjon avauskahva hyppymestarille (NOVA-kahva)](/kuvat/Novarepputakaa_2016.png)
 
-![10. PL-hihna 11. Päävarjon reppu 12. Varavarjon reppu 13. Päävarjon läppä](/kuvat/PLrepputakaa_2016.png)
+![2.5. 10. PL-hihna 11. Päävarjon reppu 12. Varavarjon reppu 13. Päävarjon läppä](/kuvat/PLrepputakaa_2016.png)
 
 ## Lisälaitteet  
 
@@ -57,9 +57,9 @@ pakkolaukaisuhihnasta ja avaa varavarjon. Varavarjon pakkolaukaisuhihna
 on kuitenkin vain apuväline. Se ei avaa varavarjoa, jos päävarjoa ei ole
 avattu. Hyppääjän on aina avattava varavarjo vetämällä varavarjon kahvasta!
 
-![Kolmirengaslukko](/kuvat/Kolmirengaslukko.jpg)
+![2.6. Kolmirengaslukko](/kuvat/Kolmirengaslukko.jpg)
 
-![Kolmirengaslukko on aukaistu. Päävarjon kantohihna vetää irrotessaan varavarjon pakkolaukaisuhihnasta.](/kuvat/Kolmirengaslukko-auki.jpeg)
+![2.7. Kolmirengaslukko on aukaistu. Päävarjon kantohihna vetää irrotessaan varavarjon pakkolaukaisuhihnasta.](/kuvat/Kolmirengaslukko-auki.jpeg)
 
 Toinen lisälaite varavarjon aukaisuun on automaattilaukaisin (Automatic
 Activation Device, AAD). Käytössä on kahta eri tyyppiä: elektroninen
@@ -75,7 +75,7 @@ FXC:n JUMP/OFF-nuppi käännetään OFF-asentoon:
 -   Koneella alas tultaessa hyppymestarin käskystä
 -   Laskeuduttaessa veteen (\[vaaratilanteet-laskeutuminen-veteen\] s.)
 
-![Cypres-automaattilaukaisimen käyttöyksikkö](/kuvat/AAD-Cypres.jpg)
+![2.8. Cypres-automaattilaukaisimen käyttöyksikkö](/kuvat/AAD-Cypres.jpg)
 
 ## Muut hyppytoiminnassa käytettävät varusteet  
 
