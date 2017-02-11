@@ -24,7 +24,7 @@ uloshyppypaikkaa määriteltäessä. Tavoitteena on hallita kaikki uloshyppytyyl
 
 ## Suora uloshyppy
 
-![Suora uloshyppy](/kuvat/UH-suora.png)
+![9.1. Suora uloshyppy](/kuvat/UH-suora.png)
 
 ### Streevakone
 
@@ -52,7 +52,7 @@ uloshyppypaikkaa määriteltäessä. Tavoitteena on hallita kaikki uloshyppytyyl
 
 ## Sukellusuloshyppy
 
-![Sukellusuloshyppy](/kuvat/UH-sukellus.png)
+![9.2. Sukellusuloshyppy](/kuvat/UH-sukellus.png)
 
 ### Streevakone
 
@@ -79,7 +79,7 @@ Uloshypyn toteutus riippuu hyppääjien määrästä ja hyppykoneesta, mutta onn
 
 Streevalla tai pyörällä istuminen on ehdottomasti **kielletty**.
 
-![FS-uloshyppy](/kuvat/UH-FS.jpeg)
+!9.3. [FS-uloshyppy](/kuvat/UH-FS.jpeg)
 
 ## Muut uloshypyt
 
