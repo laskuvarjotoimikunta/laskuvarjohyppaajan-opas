@@ -173,11 +173,11 @@ oppimistavoitteisiin tarkasti HM:n kanssa.
 
   |2700–4000 m|   Rento taivutettu UH|
  | -- | -- | -- |
- |--                |Tarkkailukehä|
- |--                |3 harjoitusvetoa|
- |--                |Tarkkailukehä|
- |--                |MAA - MITTARI|
- |            1600 m|Avaustoimenpiteet ja avaus|
+ |               |Tarkkailukehä|
+ |                |3 harjoitusvetoa|
+ |                |Tarkkailukehä|
+ |                |MAA - MITTARI|
+ |            **1600 m**|Avaustoimenpiteet ja avaus|
 
 
 
@@ -228,18 +228,18 @@ päästäkseen seuraavalle tasolle.
 
 ###  Hypyn kulku  
 
-  **2700–4000 m**   Rento, taivutettu uloshyppy
-  ----------------- ----------------------------------------
-                    Tarkkailukehä
-                    Harjoitusvetoja kunnes OK
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-                    Liike eteenpäin
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-                    90° vasen
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-                    90° oikea
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1600 m**        Avaustoimenpiteet ja avaus.
+  |2700–4000 m|   Rento, taivutettu uloshyppy|
+  | -- | -- |
+   |                 |Tarkkailukehä|
+       |             |Harjoitusvetoja kunnes OK|
+    |                |MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+    |               | Liike eteenpäin|
+    |               | MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+  |                 | 90° vasen|
+    |                |MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+     |               |90° oikea|
+    |                |MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+  |**1600 m** |       Avaustoimenpiteet ja avaus.|
 
 
 
@@ -317,13 +317,13 @@ varavarjotoimenpiteet.
 
 ###  Hypyn kulku  
 
-  **2700–4000 m**   Rento taivutettu UH
-  ----------------- ----------------------------------------
-                    Tarkkailukehä
-                    Harjoitusvetoja kunnes OK
-                    Stabiili itsenäinen vapaapudotus
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1600 m**        Avaustoimenpiteet ja avaus.
+  |2700–4000 m|   Rento taivutettu UH|
+  | -- | -- |
+   |                 |Tarkkailukehä|
+   |                | Harjoitusvetoja kunnes OK|
+    |               | Stabiili itsenäinen vapaapudotus|
+  |                 | MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+  |**1600 m**   |     Avaustoimenpiteet ja avaus.|
 
 
 
@@ -377,17 +377,17 @@ päästäkseen seuraavalle tasolle.
 
 ###  Hypyn kulku  
 
-  **2700–4000 m**   Rento taivutettu UH
-  ----------------- -------------------------------------------------------------------
-                    Tarkkailukehä (HM siirtyy oppilaan eteen)
-                    Lupa käännökseen (oppilas nyökkää HM:lle, HM vastaa nyökkäämällä)
-                    90° vasen
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-                    90° oikea
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **2000 m**        Ei käännöksiä
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1500 m**        Avaustoimenpiteet ja avaus
+  |2700–4000 m|   Rento taivutettu UH|
+   | -- | -- |
+    |                ||Tarkkailukehä (HM siirtyy oppilaan eteen)|
+  |               |   Lupa käännökseen (oppilas nyökkää HM:lle, HM vastaa nyökkäämällä)|
+  |                 | 90° vasen|
+  |                 | MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+   |              |   90° oikea|
+ |               |    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+ | **2000 m** |       Ei käännöksiä|
+ |                   MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+  |**1500 m**  |      Avaustoimenpiteet ja avaus|
 
 
 
@@ -438,17 +438,17 @@ päästäkseen seuraavalle tasolle.
 
 ###  Hypyn kulku  
 
-  **2700–4000 m**   Rento taivutettu UH
-  ----------------- -------------------------------------------------------------------
-                    Tarkkailukehä (HM siirtyy oppilaan eteen)
-                    Lupa käännökseen (oppilas nyökkää HM:lle, HM vastaa nyökkäämällä)
-                    360° vasen
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-                    360° oikea
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **2000 m**        Ei käännöksiä
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1500 m**        Avaustoimenpiteet ja avaus.
+  |2700–4000 m|   Rento taivutettu UH|
+   | -- | -- |
+  |                | Tarkkailukehä (HM siirtyy oppilaan eteen)|
+   |               |  Lupa käännökseen (oppilas nyökkää HM:lle, HM vastaa nyökkäämällä)|
+  |                |  360° vasen|
+ |                 |  MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+  |                 | 360° oikea|
+   |              |   MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+ | **2000 m**   |     Ei käännöksiä|
+  |            |      MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+  |**1500 m**  |      Avaustoimenpiteet ja avaus.|
 
 
 
@@ -496,16 +496,16 @@ päästäkseen seuraavalle tasolle.
 
 ###  Hypyn kulku  
 
-  **2700–4000 m**   Suora uloshyppy
-  ----------------- ----------------------------------------
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-                    Tynnyri
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-                    Takavoltti
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **2000 m**        Lentokentän paikallistaminen ja keskittyminen avaustoimenpiteisiin
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1400 m**        Avaustoimenpiteet ja avaus.
+  |2700–4000 m|  Suora uloshyppy|
+  | -- | -- |
+  |               |   MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+  |               |   Tynnyri|
+  |              |   MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+   |             |    Takavoltti|
+  |             |     MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+  |**2000 m**   |     Lentokentän paikallistaminen ja keskittyminen avaustoimenpiteisiin|
+ |            |       MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+ | **1400 m**  |      Avaustoimenpiteet ja avaus.|
 
 
 
@@ -552,17 +552,17 @@ avaus, sekä ohjaaminen.
 
 ###  Hypyn kulku  
 
-  **2700–4000 m**   Sukellusuloshyppy
-  ----------------- ----------------------------------------
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-                    Etuvoltti
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-                    Takavoltti
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-                    360° Vasen / Oikea
-  **2000 m**        Lentokentän paikallistaminen ja keskittyminen avaustoimenpiteisiin
-                    MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA
-  **1400 m**        Avaustoimenpiteet ja avaus.
+  |2700–4000 m|   Sukellusuloshyppy|
+   | -- | -- |
+  |            |      MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+ |             |      Etuvoltti|
+ |             |      MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+  |           |       Takavoltti|
+  |           |       MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+ |            |       360° Vasen / Oikea|
+ | **2000 m**     |   Lentokentän paikallistaminen ja keskittyminen avaustoimenpiteisiin|
+ |             |      MAA, MITTARI, TAIVUTA, JALAT, RENTOUTA|
+|  **1400 m** |       Avaustoimenpiteet ja avaus.|
 
 
 
@@ -605,7 +605,8 @@ stabiili avaus.
 
 ###  Hypyn kulku  
 
-  **1800–2500 m**   Suora uloshyppy
-  ----------------- ----------------------
-                    Mittari
-  **1400 m**        Avausmerkki ja avaus.
+  |1800–2500 m|   Suora uloshyppy|
+   | -- | -- |
+  |               |  Mittari|
+  |**1400 m**      |  Avausmerkki ja avaus.|
+   | -- | |
