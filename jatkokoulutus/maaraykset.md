@@ -13,24 +13,24 @@ varten.
 Asiakirjat on luettava ja ne tentitään kelpoisuushyppytoimintaa
 koskevilta osin ennen A-lisenssin hakemista. Ainakin seuraavat ajan
 tasalla olevat asiakirjat on oltava luettavissa kerholla koko
-koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä.
+koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä. Myös linkit sähköisiin versioihin ovat riittävät.
 
 ## Lait ja asetukset  
 
-- Ilmailulaki 864/2014
+- Ilmailulaki 864/2014.
 
 <http://www.finlex.fi/fi/laki/alkup/2014/20140864>
 
 ## Ilmailumääräykset ja -tiedotukset  
 
-- OPS M6-1, 9.7.2010, Laskuvarjohyppytoiminta
+- OPS M6-1, Laskuvarjohyppytoiminta.
 
 <http://www.trafi.fi/ilmailu/saadokset/ilmailumaarayskokoelma>
 
 ## SIL ry:n ohjeet  
 
-- Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset
-- Laskuvarjokaluston huolto-ohje
+- Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset.
+- Laskuvarjokaluston huolto-ohje.
 
 <http://laskuvarjotoimikunta.fi/materiaalipankki/koulutus-ja-turvallisuus/lisenssihyppaajan-dokumentteja>
 
