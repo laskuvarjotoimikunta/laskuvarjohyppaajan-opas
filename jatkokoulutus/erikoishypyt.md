@@ -20,7 +20,7 @@ kelpoisuusvaatimukset* mukaan yöhypyt sallittuja seuraavin ehdoin:
 - hyppääjä on varustettu kiinteällä, ympäristöön näkyvällä
     valolaitteella
 - hyppääjällä on suunnattava valolaite laskuvarjon tarkastamiseksi
-- maalialue on valaistu
+- maalialue on valaistu.
 
 Yö määritellään eurooppalaisten lentosääntöjen mukaan (SERA artikla 2, 
 kohta 97) seuraavasti: ”Aika iltahämärän päättymisestä aamuhämärän 
@@ -126,7 +126,7 @@ on huollettava ja palautettava omille paikoilleen.
 ## Näytöshypyt  
 
 
-Näytöshypyt ovat julkisille paikoille hypättyjä hyppyjä - yleensä suuren
+Näytöshypyt ovat julkisille paikoille hypättyjä hyppyjä – yleensä suuren
 tai pienen yleisön eteen. Näytöshypyt voivat olla tilattuja (esimerkiksi
 perhetapahtumat, yleisötapahtumat jne.) tai hyppyorganisaation esittelyä
 muulle yleisölle.
