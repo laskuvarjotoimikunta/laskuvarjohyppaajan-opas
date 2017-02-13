@@ -29,9 +29,9 @@ keskipilviin (2500–5000 m) ja yläpilviin (yli 5000 m). Pilvet voivat olla esi
 
 Jos joudut avaamaan varjon pilvessä:
 
-* Lennä puolijarruilla
-* Tee loivaa oikeaa kaarrosta
-* Tarkkaile koko ajan etu- ja sivusektoreita
+* Lennä puolijarruilla.
+* Tee loivaa oikeaa kaarrosta.
+* Tarkkaile koko ajan etu- ja sivusektoreita.
 * Huuda ja kuuntele, jos epäilet, ettet ole ainoa pilvessä varjon avannut.
 
 ### Termiikki
@@ -58,9 +58,9 @@ laskevia ja ilmanpaine sekä kosteus ovat ihanteelliset. Säätiedot on aina var
 
 Lentosääsanomia saadaan mm. seuraavasti:
 
-* Internet (mm. <http://www.ilmailusaa.fi/> )
-* Lentosääaseman automaattitiedotus radiolla ja puhelimella
-* Sääsanomat YLE Teksti-TV s. 428 ja 429 (myös <http://www.yle.fi/tekstitv/html/P428_01.html> )
+* Internet (mm. <http://www.ilmailusaa.fi>).
+* Lentosääaseman automaattitiedotus radiolla ja puhelimella.
+* Sääsanomat YLE Teksti-TV s. 428 ja 429 (myös <http://www.yle.fi/tekstitv/html/P428_01.html>).
 
 ### METAR-sanomat
 
@@ -75,15 +75,15 @@ EFOU 051250Z 27006KT 9999 SCT055 FEW080 08/04 Q1015
 
 Tämä viesti voidaan jakaa osioihin ja tulkita sen perusteella. Metar-viestin pääosiot ovat:
 
-* EFOU Sääasema lentopaikan ICAO-koodilla; Eurooppa, Finland, Oulu
-* 051250Z Aika (UTC) Päivä kuluvaa kuukautta sekä kellonaika UTC-ajassa ilmaistuna
-* 27006KT Tuulen suunta asteina ja nopeus solmuina, 270 astetta, 3 m/s
-* 9999 Näkyvyys metreinä, yli 10 km
-* SCT055 Pilvien määrä sekä korkeus
-* FEW080 Pilvien määrä sekä korkeus
-* 08/04 Lämpötila ja kastepiste celsiusasteina
-* Q1015 Ilmanpaine millibareina / hehtopascaleina
-* Lisätiedot ja mahdolliset muut huomioitavat asiat kerrotaan Metarin lopussa
+* EFOU Sääasema lentopaikan ICAO-koodilla; Eurooppa, Finland, Oulu.
+* 051250Z Aika (UTC) Päivä kuluvaa kuukautta sekä kellonaika UTC-ajassa ilmaistuna.
+* 27006KT Tuulen suunta asteina ja nopeus solmuina, 270 astetta, 3 m/s.
+* 9999 Näkyvyys metreinä, yli 10 km.
+* SCT055 Pilvien määrä sekä korkeus.
+* FEW080 Pilvien määrä sekä korkeus.
+* 08/04 Lämpötila ja kastepiste celsiusasteina.
+* Q1015 Ilmanpaine millibareina / hehtopascaleina.
+* Lisätiedot ja mahdolliset muut huomioitavat asiat kerrotaan Metarin lopussa.
 
 Metar-sanomassa tuulen suunta ilmoitetaan kolmella numerolla, lähimpään 10 asteeseen pyöristettynä. Tuulen nopeuden yksikkönä käytetään solmua (KT). Tuulen ollessa tyyni, ilmoitetaan se metar-sanomassa 00000KT.
 
@@ -96,29 +96,29 @@ Metar-sanomassa ilmoitetaan sääilmiöt kuten sumu, sade, lumisade, ukkonen ja 
 
 Esimerkkejä vallitsevan sään ilmoittamisesta:
 
-* TS: ukkosta ilman sadetta
-* TSRA: ukkosta ja vesisadetta
-* +VCSH: kentän lähistöllä voimakkaita sadekuuroja
-* -RA BR: heikkoa vesisadetta ja utua
-* FG: sumua
-* MIFG: matalaa sumua
-* -DZ BR: heikkoa tihkusadetta ja utua
+* TS: ukkosta ilman sadetta.
+* TSRA: ukkosta ja vesisadetta.
+* +VCSH: kentän lähistöllä voimakkaita sadekuuroja.
+* -RA BR: heikkoa vesisadetta ja utua.
+* FG: sumua.
+* MIFG: matalaa sumua.
+* -DZ BR: heikkoa tihkusadetta ja utua.
 
 Metar-sanomassa pilven alaraja ilmoitetaan lyhennetysti jättämällä korkeuden kaksi viimeistä nollaa pois. Esimerkiksi pilven alaraja 300 ft kirjoitetaan METARissa 003, 3000 ft kirjoitetaan 030 ja 30000 ft
 kirjoitetaan 300. Korkeus ilmoitetaan maanpinnasta.
 
 Näkyvä taivas jaetaan pilvisyyttä ilmoitettaessa kahdeksaan osaan. Pilvisyys ilmoitetaan kolmen kirjaimen tunnuksella, joka kertoo kuinka monta kahdeksasosaa taivaasta on pilven peitossa kyseisessä korkeudessa:
 
-* 0/8 SKC = sky clear (pilvetöntä)
-* 1/8-2/8 FEW = few (muutamia pilviä)
-* 3/8-4/8 SCT = scattered (hajanaisia pilviä)
-* 5/8-7/8 BKN = broken (melkein pilvistä)
-* 8/8 OVC = overcast (täysin pilvistä)
+* 0/8 SKC = sky clear (pilvetöntä).
+* 1/8-2/8 FEW = few (muutamia pilviä).
+* 3/8-4/8 SCT = scattered (hajanaisia pilviä).
+* 5/8-7/8 BKN = broken (melkein pilvistä).
+* 8/8 OVC = overcast (täysin pilvistä).
 
 Pilvestä voidaan ilmoittaa myös lisämääreet CB ja TCU:
 
-* CB - Cumulonimbus, ukkospilvi
-* TCU - Towering Cumulus, nouseva cumuluspilvi
+* CB - Cumulonimbus, ukkospilvi.
+* TCU - Towering Cumulus, nouseva cumuluspilvi.
 
 Esimerkkejä pilvien ilmoittamisesta:
 
@@ -161,8 +161,8 @@ WX (Weather eXplanation, sään kuvaus)- tunnuksesta eteenpäin kuvataan parilla
 
 Tuulitietojen alkaminen ilmaistaan sanomassa tunnuksella WINDS (tuulet). Mikäli kerrostuulien yhteydessä ei ole erillistä alueisiin jakoa, lukee WINDS-tunnuksen perässä monesti 30/39, jolloin kaikki tiedot koskevat koko Pohjois-Suomen aluetta. Tuulitiedot on aina jaettu kolmeen osaan, eli on ilmoitettu tuulet:
 
-* Maanpinnan läheisyydessä (SFC, surface)
-* 2000 jalan (600 metrin) korkeudella
+* Maanpinnan läheisyydessä (SFC, surface).
+* 2000 jalan (600 metrin) korkeudella.
 * 5000 jalan (1500 metrin) korkeudella.
 
 Eri kerroksien tuulitiedot on toisinaan jaettu alueisiin, kuten tässä maatuuliosa. Maatuuliennusteen (SFC) ensimmäinen osa koskee tässä tapauksessa alueita 30/32 eli alueita 30, 31 ja 32. Aluemäärityksen
