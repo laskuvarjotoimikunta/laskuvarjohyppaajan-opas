@@ -52,7 +52,7 @@ uloshyppypaikkaa määriteltäessä. Tavoitteena on hallita kaikki uloshyppytyyl
 
 ## Sukellusuloshyppy
 
-![9.2. Sukellusuloshyppy](/kuvat/UH-sukellus.png)
+![9.2. Sukellusuloshyppy](/kuvat/sukellusUH - iso kone.png)
 
 ### Streevakone
 
