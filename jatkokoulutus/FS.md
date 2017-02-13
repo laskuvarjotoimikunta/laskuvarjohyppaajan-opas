@@ -63,7 +63,7 @@ Kaikki liikkeet aloitetaan perusasennosta, *boxista*.
 
 Liikkuminen eteenpäin tapahtuu ojentamalla jalkoja suoremmiksi.
 
-![18.1. Liikkuminen eteen](/kuvat/Asento-liikeeteen.png)
+![18.1. Liikkuminen eteen](/kuvat/liikkuminen eteenpäin.png)
 
 Liikkuminen taaksepäin tapahtuu työntämällä käsiä eteenpäin ja
 koukistamalla samanaikaisesti polvia.
