@@ -182,7 +182,7 @@ lentäjä, mutta sinun päällikkösi on hyppymestari.
 
 ###  Hypyn kulku  
 
-![7.1. Symmetrinen avausliike](/kuvat/Harjoitusveto.png)
+![7.1. Symmetrinen avausliike](/kuvat/HV ja Avaaminen_uusi_.png)
 
 TAIVUTA (101)
 
