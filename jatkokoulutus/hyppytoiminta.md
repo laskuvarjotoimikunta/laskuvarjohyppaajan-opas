@@ -142,8 +142,8 @@ takaisin säilytyspaikoilleen.
 
 4.  Suoritetaan vaadittavat toimenpiteet hyppytoiminnan päättyessä.
 
-5.  Tutustutaan kerhon omiin ohjeisiin (esimerkiksi Ohje
-    hyppytoiminnasta ja Pokanvanhimman ohje).
+5.  Tutustutaan kerhon omiin ohjeisiin (esimerkiksi Hyppytoiminnan ohje
+    ja Pokanvanhimman ohje).
 
 6.  Kirjataan omalla kerholla käytössä olevat
     tärkeimmät erityistoimenpiteet.
