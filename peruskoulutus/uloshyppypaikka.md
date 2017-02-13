@@ -114,7 +114,7 @@ Lisäksi hyppääjä voi tehdä seuraavia virheitä:
 
 #### Ennen uloshyppyä ja uloshyppy 
 Ennen uloshyppypäätöstä hyppääjän on varmistuttava myös ilmatilan vapaudesta. Alla olevia koneita ja hyppääjiä on väistettävä, ja risteävät lentolinjat on myös huomioitava. On huomioitava myös
-ryhmäuloshypyn vaatima aika, ja varmistettava, että hyppyovi pysyy auki koko uloshypyn ajan ja että ovella ei ole mitään takertumisen mahdollistavia esteitä, esimerkiksi turvavöitä.
+ryhmäuloshypyn vaatima aika ja varmistettava, että hyppyovi pysyy auki koko uloshypyn ajan ja että ovella ei ole mitään takertumisen mahdollistavia esteitä, esimerkiksi turvavöitä.
 
 Hyppääjien/ryhmien välillä on oltava riittävät tauot. Vaakaetäisyyttä tulisi yksittäisien hyppääjien välillä olla vähintään 300 metriä, pienillä ryhmillä 500 metriä ja isommilla ryhmillä vielä enemmän. 8–10 sekuntia uloshyppyjen välillä on yleensä hyvä arvio. Tämä riippuu koneen maanopeudesta, joka muuttuu vallitsevien tuuliolosuhteiden mukaan.
 
@@ -124,7 +124,7 @@ Varusteet on aina tarkastettava ennen uloshyppyä.
 
 ## Uloshyppyjärjestys
 
-Ennen koneeseen nousemista tulee pokalle määrittää uloshyppyjärjestys ja koneeseen noustaan yleensä käänteisessä järjestyksessä. Ylätuulet vaikuttavat pidempään hitaammin putoaviin hyppääjiin sekä ryhmiin ja näin nämä ajautuvat vapaapudotuksessa enemmän kuin nopeammin putoavat hyppääjät sekä ryhmät. Uloshyppyjärjestykseen vaikuttaa myös ryhmän koko. Hitaammin putoavat hyppääjät ja ryhmät
+Ennen koneeseen nousemista tulee pokalle määrittää uloshyppyjärjestys ja koneeseen noustaan yleensä käänteisessä järjestyksessä. Ylätuulet vaikuttavat pidempään hitaammin putoaviin hyppääjiin sekä ryhmiin ja näin nämä ajautuvat vapaapudotuksessa enemmän kuin nopeammin putoavat hyppääjät sekä ryhmät. Uloshyppyjärjestykseen vaikuttaa myös ryhmän koko. Ison ryhmän uloshyppy tapahtuu hitaammin kuin pienten ryhmien. Hitaammin putoavat hyppääjät ja ryhmät
 hyppäävät ennen nopeammin putoavia hyppääjiä ja ryhmiä. Oikealla uloshyppyjärjestyksellä saadaan lisää etäisyyttä hyppääjien ja ryhmien välille ennen purkukorkeutta ja avauksia.
 
 Uloshyppyjärjestys on yleensä seuraava:
