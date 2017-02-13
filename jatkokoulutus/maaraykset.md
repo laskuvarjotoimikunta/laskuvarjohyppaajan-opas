@@ -13,7 +13,7 @@ varten.
 Asiakirjat on luettava ja ne tentitään kelpoisuushyppytoimintaa
 koskevilta osin ennen A-lisenssin hakemista. Ainakin seuraavat ajan
 tasalla olevat asiakirjat on oltava luettavissa kerholla koko
-koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä. Myös linkit sähköisiin versioihin ovat riittävät.
+koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä. Myös linkit sähköisiin versioihin riittävät.
 
 ## Lait ja asetukset  
 
@@ -32,7 +32,7 @@ koulutusajan, ja niihin tulee tutustua myös päivitysten yhteydessä. Myös lin
 - Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset.
 - Laskuvarjokaluston huolto-ohje.
 
-<http://laskuvarjotoimikunta.fi/materiaalipankki/koulutus-ja-turvallisuus/lisenssihyppaajan-dokumentteja>
+<http://laskuvarjotoimikunta.fi/materiaalipankki/kalusto/lomakkeita-ja-dokumentteja>
 
 ## Muut  
 
