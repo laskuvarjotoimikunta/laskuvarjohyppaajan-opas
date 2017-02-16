@@ -233,11 +233,11 @@ harjoitusvetokahva pois ja tehdään varavarjotoimenpiteet.
 
 ###  Vaaratilanteet  
 
-1.  Epästabiili asento: kädet/käsi tai jalat/jalka sisällä –&gt; kaatuu
-    kyljelleen/selälleen –&gt; mahdollista sotkeutua avautuvaan varjoon.
+1.  Epästabiili asento: kädet/käsi tai jalat/jalka sisällä ⇒ kaatuu
+    kyljelleen/selälleen ⇒ mahdollista sotkeutua avautuvaan varjoon.
 
 2.  Veto väärästä kahvasta: päävarjo irtoaa ja varavarjo aukeaa tai
-    varavarjo aukeaa –&gt; varjot voivat sotkeutua toisiinsa.
+    varavarjo aukeaa ⇒ varjot voivat sotkeutua toisiinsa.
 
 ###  Harjoitus  
 
