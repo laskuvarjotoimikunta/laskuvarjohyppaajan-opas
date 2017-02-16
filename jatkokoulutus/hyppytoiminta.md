@@ -40,9 +40,15 @@ Lennonjohdolle/aluelennonjohdolle tehdään ilmoitus/varaus
 hyppytoiminnasta. Ilmoitus tehdään tietyn kaavan mukaan ja tarvittaessa
 siihen löytyy kerhoista ohjeet. Joissakin kerhoissa tämän hoitavat
 automaattisesti lentäjät. Jos mahdollista, hyppytoiminnan aloittamisen
-suunnittelussa kannattaa käyttää apuna METAR TAF- ja GAFOR-sanomia,
+suunnittelussa kannattaa käyttää apuna METAR-, TAF- ja GAFOR-sanomia,
 joita verrataan sääminimeihin.
 
+Vallitseva sää ja olosuhteet on selvitettävä. On tehtävä päätös siitä,
+soveltuuko keli aiottuun laskuvarjohyppytoimintaan. Sää tuuli- yms.
+tiedot merkitään niille kerholla varattuihin paikkoihin.
+
+On muistettava myös määrittää uloshyppypaikka ja antaa ohjeet
+hyppääjille ja lentäjälle (jolle myös mielellään kirjallisena).
 Hyppykoneen lentäjällä täytyy olla vähintään 100 tunnin lentokokemus,
 joista vähintään 75 tuntia kyseisellä ilma-alustyypillä (esimerkiksi
 lentokone tai helikopteri). Lisäksi hänen on oltava yhteisöön kuuluva ja
@@ -51,6 +57,20 @@ laskuvarjohyppytoiminnan kannalta. Kerhon vakituiset lentäjät ovat
 luonnollisesti em. ehdot täyttäviä kerhon hyväksymiä lentäjiä. Jos
 ollaan lähdössä ennestään tuntemattoman lentäjän kyytiin, on asiat syytä
 tarkastaa oman turvallisuuden vuoksi.
+
+Maalialueen pitää olla hyppytoimintaan soveltuvassa kunnossa. Lisäksi
+tuulen suuntaa ja voimakkuutta osoittavan välineistön toiminta ja kunto
+tarkastetaan. Samalla kannattaa huomioida tuulen suunta ja voimakkuus.
+
+Jos toiminta vaatii maahenkilön paikallaolon, pitää hänen pätevyytensä
+ja tehtävänsä selvittää ja selventää. Lisäksi on syytä tarkistaa
+maahenkilön tarvitsemat varusteet (ensiaputarvikkeet, pelastusvälineet,
+vene, radiot, hakuauto). Jos osa tarvittavista varusteista sijaitsee
+maastossa, on myös ne käytävä tarkastamassa.
+
+Lisäksi on huolehdittava, että kaikilla hyppytoimintaan osallistuvilla
+on asianmukaiset kelpoisuudet ja paperit kunnossa. Tämä koskee
+erityisesti kerholla hyppääviä vierailijoita.
 
 Lentokoneen tarkastuksen koneen käsikirjan ohjeiden mukaisesti tekee
 lentäjä, joka koneen päällikkönä on vastuussa koneesta ja matkustajien
@@ -65,28 +85,29 @@ ilma-aluksen lentokäsikirjassa tai sen liitteessä on oltava
 Lisäksi koneessa on oltava puukko tai vastaava teräase lentäjän ja
 hyppääjien saatavilla. Jos koneessa on yli 10 hyppääjää, kaikkien on
 käytettävä istuinvöitä. Yhdessä lentäjän kanssa on myös syytä tarkastaa,
-ettei poka ylitä koneen painorajoja. PAINOPISTEASIA TÄHÄN.
+ettei poka ylitä koneen painorajoja.
 
-Maalialueen pitää olla hyppytoimintaan soveltuvassa kunnossa. Lisäksi
-tuulen suuntaa ja voimakkuutta osoittavan välineistön toiminta ja kunto
-tarkastetaan. Samalla kannattaa huomioida tuulen suunta ja voimakkuus.
+## Yleisesti lentokoneiden kantokyvystä ja painopisteen sijainnista
+Lentokone on oikein kuormattuna ja käsiteltynä yksi turvallisuushakuisimpia laitteita mitä on olemassa. Se esimerkiksi pyrkii itse korjaamaan aiheutuneet virheliikkeet eikä sen ohjaaminen saa määräysten mukaan vaatia normaalista poikkeavia ominaisuuksia ohjaajalta. Tämä siis niin kauan, kun annettuja arvoja ja rajoituksia ei ylitetä.
 
-Jos toiminta vaatii maahenkilön paikallaolon, pitää hänen pätevyytensä
-ja tehtävänsä selvittää ja selventää. Lisäksi on syytä tarkistaa
-maahenkilön tarvitsemat varusteet (ensiaputarvikkeet, pelastusvälineet,
-vene, radiot, hakuauto). Jos osa tarvittavista varusteista sijaitsee
-maastossa, on myös ne käytävä tarkastamassa.
+Koneen lennettävyyteen ja turvallisuuteen vaikuttaa hyppääjien toiminnan osalta kaksi tekijää: suurin sallittu kuorma ja painopiste, eli kuorman sijainti erityisesti pituussuunnassa.
 
-Vallitseva sää ja olosuhteet on selvitettävä. On tehtävä päätös siitä,
-soveltuuko keli aiottuun laskuvarjohyppytoimintaan. Sää tuuli- yms.
-tiedot merkitään niille kerholla varattuihin paikkoihin.
+Koneen suurinta sallittua kuormaa laskettaessa lähdetään liikkeelle sen suurimmasta lentoonlähtöpainosta (maximum takeoff weight, MTOW). Sen ilmoittaa koneen valmistaja. Se on lentokoneen oma ”tyhjäpaino” lisättynä polttoaineella, lentäjällä ja hyötykuormalla (hyppääjät). Suurimmasta lentoonlähtöpainosta vähentämällä senhetkinen polttoaineen ja lentäjän paino saadaan jäljelle suurin hyötykuorma, meillä siis hyppääjien yhteispaino. 
 
-Lisäksi on huolehdittava, että kaikilla hyppytoimintaan osallistuvilla
-on asianmukaiset kelpoisuudet ja paperit kunnossa. Tämä koskee
-erityisesti kerholla hyppääviä vierailijoita.
+Painopiste (käytetään myös termiä massakeskiö) on koko koneen ja kaiken sen kuljettaman aineen painon keskipisteen sijainti suhteessa tiettyyn mittauslinjaan (esimerkiksi siiven etureuna tai ohjaamon etuseinä). Painopiste on aina tämän linjan takana. Varsinainen painopiste muodostuu koneen oman painopisteen ja koneen kuljettaman kuorman painopisteen keskiarvona. Kuorman painopiste muodostuu keskiarvona erillisten komponenttien (esim. yksittäinen hyppääjä) painosta ja sijainnista.
 
-On muistettava myös määrittää uloshyppypaikka ja antaa ohjeet
-hyppääjille ja lentäjälle (jolle myös mielellään kirjallisena).
+Painopisteen sijainnin tulisi pysyä koneen valmistajan ilmoittamalla alueella, joka on tietty etäisyysväli edellä mainitusta mittauslinjasta. Tällöin kone lentää siten kuin se on suunniteltu. Mikäli painopiste on tämän alueen ulkopuolella, kone muuttuu epävakaammaksi ja arvaamattomammaksi lennettäväksi. Se saattaa esimerkiksi tavallisen ohjausliikkeen jälkeen normaalin palautumisen sijasta pyrkiä jatkamaan ja voimistamaan tuota liikettä. Pahimmillaan seurauksena voi olla koneen hallinnan menetys, jos ohjauspintojen tuottamat voimat eivät enää riitä korjaamaan virheellisen kuormauksen aiheuttamaa momenttia. Hyppytoiminnassa vaarana on erityisesti ”takapainoisuus”, eli painopisteen siirtyminen suurinta sallittua etäisyyttä kauemmaksi mittauslinjasta. Erityisesti riski korostuu suurissa uloshyppymuodostelmissa, ja varsinkin, jos hyppyovi on koneen takaosassa.
+
+Painopiste ei tule olla sallitun alueen ulkopuolella missään lennon vaiheessa. Tämän vuoksi koneeseen sijoittaudutaan (koneen kuormaus) ja siellä liikutaan (maassa ja ilmassa) vain ennakkoon suunnitellulla ja sovitulla tavalla. Koneeseen mahdollisesti merkittyjä rajoja hyppääjien sijoittumiselle tai liikkumiselle lennon eri vaiheissa käydään läpi koulutuksessa sekä ne on merkitty tarvittaessa myös itse koneeseen.
+
+Lentoonlähdön aikana hyppääjien painopiste pyritään lentosuuntaan nojaamalla saamaan mahdollisimman eteen. Tällöinkään painopiste ei koskaan ole pienintä sallittua etäisyyttä lähempänä koneen mittauslinjaa (esimerkiksi siiven etureuna tai ohjaamon etuseinä). Tässä toiminnassa kyse ei ole koneen kyvystä nousta ilmaan tai lentää normaalisti, vaan kyseessä on varotoimenpide moottoritehon häviämisen varalta. Tällaisessa tilanteessa mahdollisimman edessä oleva painopiste helpottaa koneen hallintaa ja onnistunutta pakkolaskua. Lentoonlähdön jälkeen painopisteen siirtäminen jonkun verran taaemmaksi, kuitenkin sallitulla alueella, puolestaan mahdollisesti parantaa koneen nousukykyä sekä hyppääjät pystyvät istumaan mukavammin. Muista, että koneen päällikkö on lentäjä ja sinun päällikkösi on kouluttaja, joka ohjeistaa sinua.
+
+Hyppylento voidaan joutua keskeyttämään niin, että kaikki hyppääjät tai vain muutama hyppääjä tulee koneen mukana laskuun. Jos kukaan ei hyppää, kaikkien on oltava samoilla paikoilla, kun nousun aikanakin ja mahdolliset istuinvyöt on kiinnitettävä niin pian kuin mahdollista. Jos koneeseen jää vain muutama hyppääjä, on heidän asettauduttava kerhon ohjeistamalla tavalla, jotta massakeskiö pysyy sallitulla alueella. Paikat on säilytettävä myös laskun jälkeen ja rullauksen aikana. Koneesta voi poistua vasta, kun lentäjä – moottorin sammutettuaan – antaa siihen kouluttajallesi luvan.
+
+## Lentokoneen sakkauksesta 
+On huomattava, että siipi sakkaa aina samalla kohtauskulmalla nopeudesta riippumatta. Monella on se virheellinen käsitys, että sakkaaminen riippuu koneen nopeudesta. Jos kone saatetaan hyppääjien toimesta liian takapainoiseksi, ei ohjaimilla voida enää kompensoida peräpään painumista, vaikka kone lentäisi suurellakin nopeudella. Tällöin seurauksena on koneen hallinnan menetys.
+
+
 
 ## Toiminnan aikana  
 
