@@ -57,8 +57,14 @@ jotta hyppysuoritus voidaan hyväksyä.
 ###  Hyppylennolla  
 
 Kone kuormataan yleensä käänteisessä järjestyksessä eli se, joka menee
-koneeseen ensimmäisenä hyppää viimeisenä (poikkeuksena hyppymestari).
-Varo varusteiden tarttumista koneessa oleviin ulokkeisiin aina koneessa LISÄÄ PAINOPISTEASIA!!!
+koneeseen ensimmäisenä hyppää viimeisenä (poikkeuksena hyppymestari). 
+Kuormaamisesta on jokaisessa kerhossa omat ohjeensa, jotka sinulle kerrotaan,
+opetetaan ja harjoitellaan. Noudata aina hyppymestarisi ohjeita koneen 
+kuormaamisesta. Koneen painopisteen pysyminen säädetyllä alueella on tärkeää 
+lentoturvallisuuden vuoksi. Jos painopiste poikkeaa ohjeista, kone voi sakata 
+ja lakata lentämästä.
+
+Varo varusteiden tarttumista koneessa oleviin ulokkeisiin aina koneessa
 liikkuessasi. Suojaa erityisesti varjojen aukaisukahvoja. Jos takerrut
 kiinni johonkin, älä revi väkisin vaan ilmoita hyppymestarille. Vältä
 turhaa liikkumista. Pidä mahdolliset istuinvyöt kiinni, kunnes
