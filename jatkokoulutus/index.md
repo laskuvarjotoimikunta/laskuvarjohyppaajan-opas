@@ -40,4 +40,4 @@ Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
 
 Jos jatkokoulutuksen aikana oppilaalle tulee 30 vrk tai sitä pidempi
 hyppytauko, hänen on hypättävä totutteluhyppynä 15” ennen seuraavaa
-ohjelman mukaista hyppyä. Hyppymestari voi määrätä muunkin suorituksen.
+ohjelman mukaista hyppyä. Kouluttaja voi määrätä muun tai muitakin suorituksia.
