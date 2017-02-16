@@ -107,11 +107,10 @@ tai et näe ongelman aiheuttajaa, tee varavarjotoimenpiteet heti.
 -------------------
 
 Yleisimmät syyt oppilailla kahden varjon varaan joutumisessa ovat matala
-avaus (itseaukaisuhypyillä), automaattilaukaisimen toimintahäiriö tai
-liian raju varjon käsittely (mm. poraaminen tai sakkaaminen). Kahden
-varjon tilanteissa ei lennetä laskeutumiskuviota. Mikäli toisen varjon
-puolijarrut ovat auki, pidä varjojen nopeus samana sopivilla
-jarruasetuksilla.
+avaus (itseaukaisuhypyillä) tai liian raju varjon käsittely (mm. poraaminen
+tai sakkaaminen). Kahden varjon tilanteissa ei lennetä laskeutumiskuviota. 
+Mikäli toisen varjon puolijarrut ovat auki, pidä varjojen nopeus samana 
+sopivilla jarruasetuksilla.
 
 ###  Varjot peräkkäin (biplane)  
 
