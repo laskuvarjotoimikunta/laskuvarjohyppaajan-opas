@@ -39,6 +39,20 @@ Palautusta voidaan auttaa ottamalla ensin delta-asento ja vasta kääntymisen j�
 
 ![10.3. Selkälento](/kuvat/Selkastabiili.png)
 
+## Etuvoltti
+
+Kädet perusasennosta vartalon alle sisään, negatiivinen taivutus jalat suorina. 
+Selälleen kääntymisen loppuvaiheessa kädet siirtyvät taakse sivuille ja jalat 
+koukistuvat vatsan alle. Pysäytys tapahtuu palauttamalla perusasento ja hyvä 
+taivutus. Estetään asennon kallistuminen sivulle. Tarkista korkeus. 
+
+Etuvoltti tehdään seuraavasti: 
+
+1. Kädet vartalon alle sisään. 
+2. Negatiivinen taivutus jalat suorina. 
+3. Pään ollessa alaspäin jalat koukkuun kädet sivuille taakse ja palautetaan perusasento.
+
+
 ## Takavoltti
 
 Kädet pidetään perusasennossa suorina, hieman sivuille käännettyinä. Jalat laitetaan yhteen ja koukkuun vartalon alle. Painetaan käsillä alaspäin ilmavirtaa vasten. Pysäytys tapahtuu palauttamalla  perusasento. Jalkojen nopea ja yhtaikainen tuonti vartalon alle takaa voltin onnistumisen. Käsillä autetaan ympäri menoa ja estetään asennon kallistuminen sivulle. 
