@@ -32,4 +32,5 @@ Alkeisoppilaan kelpoisuus on voimassa vuoden myöntämispäivämäärästä. Jos
 * Jos alkeiskoulutuksen aikana oppilaalle tulee 30 vrk tai sitä pidempi hyppytauko, hänen on hypättävä totuttelusuoritus ennen seuraavaa hyppyä riippuen edellisestä suorituksesta:
     * PL tai HV ⇒ PL
     * 3”, 5” tai 10” ⇒ HV
+    * PL-hyppymestari voi määrätä muun tai muitakin suorituksia.
 * Ensimmäinen itseaukaisuhyppy on hypättävä viimeistään seuraavan vuorokauden aikana viimeisestä hyväksytystä harjoitusvetosuorituksesta.
