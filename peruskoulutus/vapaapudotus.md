@@ -8,10 +8,10 @@ Vapaapudotuksessa tehtävien liikkeiden edellytyksenä on stabiilin asennon hall
 Liikkeiden harjoittelu aloitetaan vasta noin 8 sekuntia uloshypyn jälkeen, kun hyppääjä on saavuttanut lähes täyden vapaapudotusnopeuden. Kaikki liikkeet alkavat perusasennosta ja korkeuden tarkastuksesta.
 Liikesarjoissa uusi liike aloitetaan vasta, kun edellinen on pysäytetty. Liikkeiden harjoittelu lopetetaan viimeistään 1400 metrin korkeudessa ja keskitytään avaukseen. Siirtyminen perusasentoon tapahtuu 3-5 sekunnin kuluttua uloshypystä. Perusasento on seuraava:
 
-* Lantiossa taivutus ja pää ylös
-* Käsivarret 90° kyynärpäästä ja vartalosta
-* Jalat levitettyinä, polvet hartioiden tasalla
-* Sääret ojennettuina siten, että ilmavirta osuu niihin
+* Lantiossa taivutus ja pää ylös.
+* Käsivarret 90° kyynärpäästä ja vartalosta.
+* Jalat levitettyinä, polvet hartioiden tasalla.
+* Sääret ojennettuina siten, että ilmavirta osuu niihin.
 
 ![10.1. Vapaapudotuksen perusasento](/kuvat/Asento-perus.png)
 
@@ -97,9 +97,9 @@ purun jälkeen! Liuku tehdään seuraavasti:
 
 Lattakierre:
 
-* On holtitonta pyörimistä vaakatasossa
-* Aiheutuu epäsymmetrisestä ja jäykästä asennosta tai hallitsemattomasta käännöksestä
-* Aiheuttaa asento- ja ajantajun menettämisen
+* On holtitonta pyörimistä vaakatasossa.
+* Aiheutuu epäsymmetrisestä ja jäykästä asennosta tai hallitsemattomasta käännöksestä.
+* Aiheuttaa asento- ja ajantajun menettämisen.
 * Pysäytetään rentouttamalla asentoa ja hartialinjan vastaliikkeellä. Jos vastaliike ei auta ja liike ei ole hallinnassa, ota perusasento, taivuta ja avaa varjo heti.
 
 Harjoitukset
