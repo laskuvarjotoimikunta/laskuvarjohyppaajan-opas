@@ -25,7 +25,7 @@ Laskuvarjohyppykouluttaja vastaa koulutuspäällikön ohjeiden mukaisesti siitä
 Apukouluttajana (maa, radio) voi toimia henkilö, jolla on B-lisenssi, 100 itseaukaisuhyppyä ja koulutuspäällikön hyväksyntä.
 
 
-## Hyppytoiminnan ja -turvallisuuden valvominen
+# Hyppytoiminnan ja -turvallisuuden valvominen
 
 Oppilaiden hyppytoiminnan on tapahduttava koulutusorganisaation valvonnassa. Koulutuksessa on käytettävä SIL:n hyväksymää koulutusohjetta ja -ohjelmaa. Alkoholin tai muun huumaavan aineen vaikutuksen alaisena tai väsymystilassa ei saa harjoittaa laskuvarjotoimintaa eikä siihen liittyvää koulutusta (Ilmailulaki 864/2014, 170§). Koulutusorganisaatio voi tarpeen vaatiessa vaatia milloin tahansa hyppääjältä lääkärintodistuksen osoituksena tämän terveydentilasta. Hyppääjän varusteet on yksityiskohtaisesti tarkastettava ennen ilma-alukseen nousemista. Oppilaan varusteet tarkastaa hyppymestari tai vapaapudotuskouluttaja koulutusmuotoon liittyvien oikeuksiensa mukaisesti.
 
