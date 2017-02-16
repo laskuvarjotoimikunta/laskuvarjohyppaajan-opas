@@ -290,21 +290,25 @@ Muistetaan aina sokin vaara ja annetaan sokin oireenmukainen ensiapu:
 ## Turvallisuusilmoitus  
 
 
-Jos laskuvarjohyppytoiminnan yhteydessä sattuu sellainen vaaratilanne, jossa hyppääjän tai ilmaliikenteen turvallisuus on ollut uhattuna, on tapahtuneesta viipymättä tehtävä kirjallinen selonteko (Turvallisuusilmoitus) SIL:lle (sähköinen lomake: vtr.laskuvarjotoimikunta.fi). Tapauksia, joista ilmoitus on aina tehtävä, ovat mm. seuraavat:
-- Kaikki tapaukset, jotka ovat turvallisuutta vaarantavia tai joista olisi voinut kehittyä vaaratilanne (= poikkeama).
+Jos laskuvarjohyppytoiminnan yhteydessä sattuu sellainen vaaratilanne, jossa hyppääjän tai ilmaliikenteen turvallisuus on vaarantunut tai olisi saattanut vaarantua, on tapahtuneesta viipymättä tehtävä kirjallinen selonteko (Turvallisuusilmoitus) SIL:lle (sähköinen lomake: turvallisuusilmoitus.laskuvarjotoimikunta.fi). Tapauksia, joista ilmoitus on aina tehtävä, ovat mm. seuraavat:
+- Kaikki tapaukset, jotka ovat turvallisuutta vaarantavia tai joista olisi voinut kehittyä vaaratilanne.
+- Kaikki tapaukset, joissa varjon toiminta on ollut epänormaali (vajaatoiminta).
 - Kaikki hypyt, joissa on käytetty varavarjoa.
 - Kaikki tapaukset, joissa on sattunut loukkaantumisia.
-- Kaikki tapaukset, joissa varjon toiminta on ollut epänormaali (vajaatoiminta).
+
 
 Ilmoitus on laadittava mahdollisimman pian tapahtuman jälkeen. Tämä ilmoitus ei kuitenkaan vapauta tekemästä ilmoitusta ilmailun onnettomuuksista, vakavista vaaratilanteista ja poikkeamista ilmailuohjeen GEN T1-4 mukaisesti.
 
-Ilmoitus tehdään sähköisellä SIL:n lomakkeella Turvallisuusilmoitus laskuvarjohyppytoiminnassa. Oppilaskoulutushypyillä sattuneista vaaratilanteista ilmoituksen tekee kouluttajasi tai kerhosi koulutuspäällikkö yhdessä sinun kanssasi. Muilla hypyillä sattuneista vaaratilanteista tekee ilmoituksen ensisijaisesti asianomainen hyppääjä itse. Sen voi tehdä myös organisaation turvallisuuspäällikkö. Tarpeen vaatiessa ilmoituksen voivat tehdä myös muut kuin edellä mainitut henkilöt. Ilmoituksen tekemisestä lähtee sähköposti-ilmoitus organisaation määrittämille henkilöille, joita ovat ainakin turvallisuuspäällikkö.
+Ilmoitus tehdään sähköisellä SIL:n lomakkeella Turvallisuusilmoitus laskuvarjohyppytoiminnassa. Sähköinen lomake jakautuu kahteen pääluokkaan: laskuvarjohyppytoiminnassa tai hyppylentotoiminnassa sattuneet tapaukset. Laskuvarjohyppytoiminnassa sattuneet tapaukset alkavat kevyemmällä, nopeasti täytettävällä osuudella, jota voidaan kutsua ”poikkeamailmoitukseksi hyppytoiminnassa”. Esimerkiksi jos laskeudut maalialueen ulkopuolelle. Myös jos vaikkapa sinulla on ollut avauksen jälkeen runsaasti kierrettä päävarjosi punoksissa, mutta saat ne avattua ennen 600 m. Eli tietyllä tavalla pääsit ”säikähdyksellä” (eli et loukannut itseäsi tai varavarjoa ei tarvinnut käyttää). Eli periaatteessa luettelon kahden ensimmäisen kohdan tapaukset ovat näitä ”hyppytoiminnan poikkeamia”. Myös esimerkiksi kovahko alastulo ilman lääkärin hoitoa vaativaa loukkaantumista olisi tällainen tapaus. Sitten jos on käytetty varavarjoa tai on loukkaannuttu lääkäri- tai sairaalahoitoa vaativasti, niin lomake kyselee tietoja monipuolisemmin (perinteinen vaaratilanneilmoitus). Poikkeamahavaintoilmoituksen hyppylentotoiminnassa voivat tehdä myös hyppääjät, mutta se puoli on pääsääntöisesti suunniteltu hyppylentäjille. Uudet, tässä kuvatut sähköiset lomakkeet otetaan käyttöön erillisillä ilmoituksilla kauden 2017 aikana.
+
+
+Oppilaskoulutushypyillä sattuneista vaaratilanteista ilmoituksen tekee kouluttajasi tai kerhosi koulutuspäällikkö yhdessä sinun kanssasi. Muilla hypyillä sattuneista vaaratilanteista tekee ilmoituksen ensisijaisesti asianomainen hyppääjä itse. Sen voi tehdä myös organisaation turvallisuuspäällikkö. Tarpeen vaatiessa ilmoituksen voivat tehdä myös muut kuin edellä mainitut henkilöt. Ilmoituksen tekemisestä lähtee sähköposti-ilmoitus organisaation määrittämille henkilöille, joita ovat ainakin turvallisuuspäällikkö.
 
 Ilmoituksen tarkoituksena on saattaa SIL:n, organisaation ja alan harrastajien tietoon turvallisuutta vaarantaneet tapaukset. Tietojen saanti turvallisuutta vaarantaneista tapauksista auttaa osaltaan parannusten aikaansaamista varusteissa, menetelmissä ja koulutuksessa.
 
 Ennakoivan riskienhallinnan tärkein tavoite on tunnistaa ja poistaa turvallisuusuhat ennen niiden toteutumista. Vaaratekijöitä voi hallita vain, jos niistä tiedetään. Turvallisuusilmoitusjärjestelmän kautta voidaan tunnistaa piilevät tilanteet tai olosuhteet, jotka voivat vaarantaa hyppy- tai lentoturvallisuutta. Tämän takia on tärkeää ilmoittaa vähäpätöisiltäkin tuntuvat tapaukset (= poikkeamat), sillä niiden summa voi pelastaa sinun itsesi tai jonkun toisen hengen.
 
-![Onnettomuus on usein useiden tekijöiden summa ja vain jäävuoren huippu. Lähde: Herbert William Heinrich (1931), Liikenteen turvallisuusvirasto TraFi (2012).](/kuvat/Riskikuva.png)
+![Onnettomuus on usein useiden tekijöiden summa ja vain jäävuoren huippu. Lähde: Liikenteen turvallisuusvirasto TraFi (2012).](/kuvat/Riskikuva.png)
 
 Toiminnasta onnettomuustilanteessa on kerrottu ilmailuohjeessa GEN T1-4 ja SIL:n ohjeessa Kriisiviestintäohje ja toiminta onnettomuustilanteessa.
 
@@ -314,7 +318,7 @@ Toiminnasta onnettomuustilanteessa on kerrottu ilmailuohjeessa GEN T1-4 ja SIL:n
 
 1.  Tutustutaan Turvallisuusilmoitukseen ja sen täyttöön. Lomake
     löytyy Laskuvarjotoimikunnan nettisivuilta.
-    [vtr.laskuvarjotoimikunta.fi](http://vtr.laskuvarjotoimikunta.fi)
+    [turvallisuusilmoitus.laskuvarjotoimikunta.fi](http://turvallisuusilmoitus.laskuvarjotoimikunta.fi)
 
 2.  Selvitetään, missä kerholla säilytetään turvallisuuspäällikön
     kokoamaa hyppyturvallisuuteen liittyvää materiaalia.
