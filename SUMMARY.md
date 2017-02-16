@@ -25,6 +25,7 @@
    * [Kaluston tarkastus ja huolto](jatkokoulutus/kaluston-tarkastus.md)
    * [Pakkaustarkastus](jatkokoulutus/pakkaustarkastus.md)
    * [Määräykset, lait ja ohjeet](jatkokoulutus/maaraykset.md)
+   * [Koulutusorganisaatio ja turvallisuuden valvonta](jatkokoulutus/koulutusorganisaatio.md)
    * [Hyppytoiminnan järjestäminen](jatkokoulutus/hyppytoiminta.md)
    * [Erikoishypyt](jatkokoulutus/erikoishypyt.md)
    * [Fysiologia](jatkokoulutus/fysiologia.md)
