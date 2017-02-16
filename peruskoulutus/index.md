@@ -27,4 +27,4 @@
 
 ## Suoritusten aikarajat
 
-Jos peruskoulutuksen aikana oppilaalle tulee 30 vrk tai sitä pidempi hyppytauko, hänen on hypättävä totutteluhyppynä 15” (tai lyhyempi vapaa, jos kouluttaja näkee tarpeelliseksi) ennen seuraavaa ohjelman mukaista hyppyä. Hyppymestari voi määrätä muitakin suorituksia.
+Jos peruskoulutuksen aikana oppilaalle tulee 30 vrk tai sitä pidempi hyppytauko, hänen on hypättävä totutteluhyppynä 15” ennen seuraavaa ohjelman mukaista hyppyä. Kouluttaja voi määrätä muun tai muitakin suorituksia.
