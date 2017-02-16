@@ -11,7 +11,7 @@ osallistuminen, tietty pistekeskiarvo, hauskaa hyppäämistä yhdessä tai
 monen vuoden määrätietoinen harjoittelu.
 
 Yleisten joukkueen tavoitteiden lisäksi jokaisella jäsenellä voi olla
-omia tavoitteita, esim. lentoasennon parantaminen.
+omia tavoitteita, esimerkiksi lentoasennon parantaminen.
 
 Hyvä joukkue ei välttämättä synny lahjakkaista yksilöistä, vaan se
 vaatii jokaiselta jäseneltä yhtä suurta sitoutumista ja sopeutumista,
@@ -42,47 +42,47 @@ samalla tavoin riippumatta siitä, kummalla puolella lentokonetta ovi on.
 
 Sisämies 
 
-:   \
-    Kontrollikeskus, suurin osa puruista, eniten otteita.\
+
+-    Kontrollikeskus, suurin osa puruista, eniten otteita.
 
 <!-- -->
 
-Ulkomies, ripustin 
+Ripustin 
 
-:   \
-    Osa puruista, pidempiä liikkeitä ja käännöksiä kuin sisämiehellä.\
+
+-    Osa puruista, pidempiä liikkeitä ja käännöksiä kuin sisämiehellä.
 
 <!-- -->
 
 Etuflutteri 
 
-:   \
-    Ei näe kaikkea, joutuu työskentelemään enemmän tuntumalla kuin
-    katseella.\
+
+-    Ei näe kaikkea, joutuu työskentelemään enemmän tuntumalla kuin
+    katseella.
 
 <!-- -->
 
 Takaflutteri 
 
-:   \
-    Näkee paljon, pitkiä liikkeitä, vaatii joustavuutta.\
+
+-    Näkee paljon, pitkiä liikkeitä, vaatii joustavuutta.
 
 <!-- -->
 
 Videokuvaaja 
 
-:   \
-    Kuvaa joukkueen suorituksen, joko harjoittelua varten tai
-    kilpailuissa tuomarointia varten.\
+
+-    Kuvaa joukkueen suorituksen, joko harjoittelua varten tai
+    kilpailuissa tuomarointia varten.
 
 <!-- -->
 
 Varamies 
 
-:   \
-    Paikkaa tarvittaessa. Monitaituri.\
 
-Etuflutteri ja ulkomies muodostavat *etupuljan* ja takaflutteri ja
+-    Paikkaa tarvittaessa. Monitaituri.
+
+Etuflutteri ja ripustin muodostavat *etupuljan* ja takaflutteri ja
 sisämies *takapuljan.* Suurin osa blokkien siirtymistä vaatii
 työskentelyä puljittain. Muutamissa blokeissa välisuorituksen tekevät
 yksittäinen hyppääjä ja kolmen pulja.
