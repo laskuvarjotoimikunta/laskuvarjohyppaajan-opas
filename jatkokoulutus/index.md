@@ -11,7 +11,7 @@ kuvunkäsittelyyn ja tarkkuuslaskeutumisiin.
 
 
 Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
-- 5 ryhmähyppyä
+- 5 ryhmähyppyä.
 - 3 kuvunkäsittelyhyppyä (29.1 s.119). 
     Jos oppilas ottaa käyttöön omat varusteet tai käyttää varjoa, jota ei
     ole tarkoitettu alkeis- tai peruskoulutukseen, tehdään
@@ -24,7 +24,7 @@ Hyppysuoritukset voidaan hypätä kouluttajan valitsemassa järjestyksessä.
     -   NOVA 2 kpl
 
     -   PL 5 kpl
-- Koehyppy 
+- Koehyppy. 
 
  ## Muut suoritukset  
 
