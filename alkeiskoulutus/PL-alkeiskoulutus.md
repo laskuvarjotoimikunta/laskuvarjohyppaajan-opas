@@ -60,9 +60,9 @@ Kone kuormataan yleensä käänteisessä järjestyksessä eli se, joka menee
 koneeseen ensimmäisenä hyppää viimeisenä (poikkeuksena hyppymestari). 
 Kuormaamisesta on jokaisessa kerhossa omat ohjeensa, jotka sinulle kerrotaan,
 opetetaan ja harjoitellaan. Noudata aina hyppymestarisi ohjeita koneen 
-kuormaamisesta. Koneen painopisteen pysyminen säädetyllä alueella on tärkeää 
-lentoturvallisuuden vuoksi. Jos painopiste poikkeaa ohjeista, kone voi sakata 
-ja lakata lentämästä.
+kuormaamisesta ja siellä liikkumisesta. Koneen painopisteen pysyminen 
+säädetyllä alueella on tärkeää lentoturvallisuuden vuoksi. Jos painopiste 
+poikkeaa ohjeista, kone voi sakata ja lakata lentämästä.
 
 Varo varusteiden tarttumista koneessa oleviin ulokkeisiin aina koneessa
 liikkuessasi. Suojaa erityisesti varjojen aukaisukahvoja. Jos takerrut
@@ -215,7 +215,7 @@ VEDÄ (103)
 
 <!-- -->
 
-102…104
+102..104
 
 
 -   Varjo avautuu, se tarkastetaan ja tarvittaessa selvitetään.
