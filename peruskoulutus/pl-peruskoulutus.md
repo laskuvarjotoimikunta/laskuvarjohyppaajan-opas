@@ -76,14 +76,14 @@ Tavoitteena on oppia uloshyppy suorana, eli suoraan koneen sisältä ilmavirtaan
 
 ### Oppimistavoitteet
 
-1. Stabiili asento 5 sekunnin kuluessa
+1. Stabiili asento 5 sekunnin kuluessa.
 2. Suunnan hallinta, ei tahatonta yli 360° käännöstä.
 
 ### Hyppylennolla
 
-* Kertaa suoritus mielessäsi
-* Keskity suoritukseesi
-* 3 x 3 -tarkastus ennen hyppyä TODO:CROSSREFERENCE(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
+* Kertaa suoritus mielessäsi.
+* Keskity suoritukseesi.
+* 3 x 3 -tarkastus ennen hyppyä. TODO:CROSSREFERENCE(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ### Hypyn kulku
 
@@ -117,14 +117,14 @@ Koneesta sukelletaan ulos ja pidetään suunta.
 
 ### Oppimistavoitteet
 
-1. Stabiili asento 5 sekunnin kuluessa
+1. Stabiili asento 5 sekunnin kuluessa.
 2. Suunnan hallinta, ei tahatonta yli 360° käännöstä.
 
 ### Hyppylennolla
 
-* Kertaa suoritus mielessäsi
-* Keskity suoritukseesi
-* 3 x 3 -tarkastus ennen hyppyä TODO:CROSSREFERENCE(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
+* Kertaa suoritus mielessäsi.
+* Keskity suoritukseesi.
+* 3 x 3 -tarkastus ennen hyppyä. TODO:CROSSREFERENCE(\[laskuvarjokalusto-ja-hyppyvarusteet-3x3-tarkastus\] s.)
 
 ### Hypyn kulku
 
