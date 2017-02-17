@@ -40,6 +40,8 @@ Tarkemmat tehtävät määräytyvät uloshyppypaikkojen mukaan:
 Kuvassa lentokoneen lentosuunta on merkitty nuolella. Uloshyppy toimii
 samalla tavoin riippumatta siitä, kummalla puolella lentokonetta ovi on.
 
+![36.3: 4-way -joukkueen uloshyppy. Kuva: Petri Mastola.](/kuvat/FS4exit.jpg)
+
 Sisämies 
 
 
