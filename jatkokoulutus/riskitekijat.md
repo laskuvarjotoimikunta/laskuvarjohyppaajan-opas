@@ -17,7 +17,7 @@ joissa käsitellään turvallisuuteen liittyviä asioita.
 Hyvin yleistä onnettomuuksissa on, että tapahtumalle ei ole olemassa
 yhtä syytä, vaan useita osasyitä, jotka yhdessä ovat aiheuttaneet
 onnettomuuden. Riskitekijöitä ja onnettomuuteen johtavia tekijöitä
-laskuvarjourheilussa ovat esimerkiksi
+laskuvarjourheilussa ovat esimerkiksi:
 - väsymys, krapula, huumaavat aineet, lääkkeet ja niiden vaikutuksen
     alaisena hyppääminen
 - ongelmat ja ristiriidat töissä, kotona tai kerholla
@@ -81,10 +81,10 @@ Onnettomuuden tapahduttua keskeytetään hyppytoiminta välittömästi ja
 toimitaan SIL ry:n ohjeen Kriisiviestintä ja toiminta onnettomuustilanteessa mukaan.
 Kuolemantapauksissa ja vakavissa loukkaantumisissa onnettomuutta
 tutkimaan voidaan asettaa tutkintalautakunta, joka saavuttuaan paikalle
-ottaa johdon. Jos tutkintalautakuntaa ei aseteta, hoitaa poliisi
-tutkinnan. Lievissä loukkaantumisissa, varavarjotilanteissa ja hyppääjän
-ajautuessa ulos kenttäalueelta, toiminnan aloittaa maahenkilö ja
-toimintaa johtaa kokenein paikalla oleva hyppääjä.
+ottaa johdon. Jos tutkintalautakuntaa ei aseteta, suorittaa poliisi
+tutkinnan. Viimeisimmät kuolemaanjohtaneet laskuvarjohyppyonnettomuudet on tutkinut poliisi.Lievissä 
+loukkaantumisissa, varavarjotilanteissa ja hyppääjän ajautuessa ulos kenttäalueelta,
+toiminnan aloittaa maahenkilö ja toimintaa johtaa kokenein paikalla oleva hyppääjä.
 
 Onnettomuustilanteiden toimintamalli on vakio, mutta lievissä
 tapauksissa pelastustyöt vaikuttavat vain hetkellisesti muuhun
@@ -101,35 +101,35 @@ onnettomuustilanteessa) on seuraava:
 - Hyppytoiminta keskeytetään.
 - Ilmoitukset:
 
-    -   Hätäkeskus 112
+    -   Hätäkeskus 112.
 
-    -   Suomen Ilmailuliitto
+    -   Suomen Ilmailuliitto.
 
-    -   Lähin lennonjohto (paikallinen / alue)
+    -   Lähin lennonjohto (paikallinen / alue).
 
-    -   Omaiset (kuolintapauksessa **AINA** viranomaisen kautta)
+    -   Omaiset (kuolintapauksessa **AINA** viranomaisen kautta).
 
-        -   Mihin sairaalaan loukkaantunut on viety
+        -   Mihin sairaalaan loukkaantunut on viety.
 
     -   Kerholaisten (ennen kaikkea paikalla olleiden) keskinäinen
-        kriisihuolenpito on tärkeää
+        kriisihuolenpito on tärkeää.
 
     -   Yhdistyksen puheenjohtaja, koulutuspäällikkö ja yleisestä
-        viestinnästä vastaava henkilö
+        viestinnästä vastaava henkilö.
 
-    -   Silminnäkijöiden nimet, osoitteet ja puhelinnumerot
+    -   Silminnäkijöiden nimet, osoitteet ja puhelinnumerot.
 
     -   Paikalla olleiden kerholaisten briefaus. Ei puhuta toisten
         kanssa tapahtuneesta, jotta todistajainlausunnot
         eivät yhdenmukaistuisi. **Tärkeintä, että medialle ei puhu kuin
         kriisitiedotuksesta vastaava henkilö!!**
 
-    -   Ilmoittaudutaan kotiin, jos joku on kuollut (sana leviää nopeasti)
+    -   Ilmoittaudutaan kotiin, jos joku on kuollut (sana leviää nopeasti).
 
     -   Kerhon puhelimet (numerot julkisesti saatavilla)
-        otetaan haltuun. Vain se vastaa, joka tietää, mitä saa kertoa
+        otetaan haltuun. Vain se vastaa, joka tietää, mitä saa kertoa.
 
-    -   Otetaan talteen uhrin omaisuus
+    -   Otetaan talteen uhrin omaisuus.
 
 ### Onnettomuuspaikalla 
 
