@@ -116,11 +116,19 @@ pitkältä ajalta.
 
 Onnistuneen uloshypyn päätekijät ovat:
 
--   Asettautuminen hyvään ja symmetriseen uloshyppyasentoon (X-asento,
+-   Laske jalat ilmavirtaan vuoron perään, älä hyppää.  
+-   Ota käsillä hartialevyinen ote streevasta ja pidä symmetrinen uloshyppyasento (X-asento,
     taivutus ja katse ylös koneeseen).
--   Käsien yhtäaikainen irrottaminen ja rintamasuunta lentosuuntaan.
--   Hyvä ja symmetrinen X-asento sekä voimakas taivutus ja katse ylös
+-   Irrota käsien ote yhtäaikaisesti ja pidä rintamasuunta lentosuuntaan.
+-   Pidä symmetrinen X-asento sekä voimakas taivutus ja katse ylös
     koneeseen.
+    
+Ongelmia:
+
+- Koukussa olevat jalat aiheuttavat takavoltin.
+- Negatiivinen taivutus kaataa asennon selälleen.
+- Astinlaudalta ilmavirtaan hyppäämisestä voi seurata otteen lipeäminen ja putoaminen.
+- Käsillä streevasta ponnistaminen kaataa asennon selälleen.
 
 ### Uloshyppy NOVA  
 
