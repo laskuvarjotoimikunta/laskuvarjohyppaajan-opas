@@ -1,16 +1,1 @@
-a.plugin-anchor {
-    color: blue !important;
-    display: none;
-    margin-left: 10px;
-    padding-left: 10px;
-    cursor: pointer;
-    position: relative;
-    top: 0;
-    left: 0;
-    bottom: 0;
-}
 
-a.plugin-anchor span {
-    margin-left: -20px;
-    font-size: 6px;
-}
